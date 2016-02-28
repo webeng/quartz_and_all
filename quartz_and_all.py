@@ -141,7 +141,7 @@ class QuartzAndAll(object):
 		# Add some other stuff to make it look nice & shiny
 		plt.xlabel("Hazard Name, each dot represent a product's hazard")
 		plt.ylabel('Hazard level (%)')
-		plt.title('Health & Safety Hazards in Project Before')
+		plt.title('Health & Safety Hazards in Project After')
 		plt.xticks(range(len(hazards_names)), hazards_names, rotation='vertical')
 		plt.legend(handles=[purple, red, orange, surprise])
 		ax1.set_ylim(ymin=-3)
@@ -217,9 +217,9 @@ if __name__ == '__main__':
 	'CP129-a00', 'CP152-a00', 'CP150-a00', 'CP173-a00', 'CP150-a00', 'CP042-a01',
 	'CP072-a01', 'CP071-a00', 'CP126-a00']
 	qA = QuartzAndAll()
-	qA.plotHazardsCounter(target_product_ids,)
+	#qA.plotHazardsCounter(target_product_ids,)
 	# qA.plotHazardsCounter(target_product_ids_optimised, '_optimised')
 	df = qA.plotHazardsHist(target_product_ids)
-	# df = qA.plotHazardsHist(target_product_ids_optimised, '_optimised')
+	df = qA.plotHazardsHist(target_product_ids_optimised, '_optimised')
 	qA.createRankedListToMitigate()
 	#qA.quarts2ProductsAndManufacturers()
