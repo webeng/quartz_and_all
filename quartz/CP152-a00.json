@@ -1,0 +1,3031 @@
+{
+    "CPID": "CP152",
+    "timestamp": 1452102150937,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 9370,
+            "name": "Primary Backing",
+            "CASRN": "",
+            "massPct": 0.0579,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": 1,
+                        "contributors": [
+                            {
+                                "recId": 6257,
+                                "massPct": 1,
+                                "childrenIds": [
+                                    6257
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 6257,
+                    "name": "Polypropylene",
+                    "CASRN": "9003-07-0",
+                    "massPct": 1,
+                    "function": "primary backing,tufting substrate",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "BEES Generic Nylon Carpet",
+                            "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Nylon%20Carpet.pdf",
+                            "id": 9468
+                        },
+                        {
+                            "name": "High Performance PC EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1207/15/Bentley_110.1_EPD_HPPCBroadloomPieceDyedNylon66_26March2014.pdf",
+                            "id": 9447
+                        },
+                        {
+                            "name": "NexStep Declare",
+                            "url": "http://declareproducts.com/content/nexstep-cushion-carpet-tile",
+                            "id": 9446
+                        },
+                        {
+                            "name": "NexStep EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1207/15/Bentley_113.1_EPD_%20NexStep%20-%20Solution%20Dyed%20N66%20-%202013-02-25.pdf",
+                            "id": 9444
+                        },
+                        {
+                            "name": "Standard Broadloom HPD",
+                            "url": "http://www.bolyu.com/wp-content/uploads/hpd-broadloom-with-nylon-6.pdf",
+                            "id": 9443
+                        },
+                        {
+                            "name": "Standard Broadloom EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1205/15/102.1_EPD_Bolyu_Broadloom.pdf",
+                            "id": 9442
+                        },
+                        {
+                            "name": "Ecoworx Broadloom HPD",
+                            "url": "http://www.shawcontractgroup.com/Content/LiteraturePDFs/SCG_pdf/EcoWorx_Broadloom_SCG_HPD.pdf",
+                            "id": 9432
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0579
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.0579
+        },
+        {
+            "recId": 9365,
+            "name": "Yarn Face",
+            "CASRN": "",
+            "massPct": 0.5359,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.00032445,
+                        "contributors": [
+                            {
+                                "recId": 9367,
+                                "massPct": 0.00032445,
+                                "childrenIds": [
+                                    9367,
+                                    9368
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.0187,
+                        "contributors": [
+                            {
+                                "recId": 2766,
+                                "massPct": 0.0187,
+                                "childrenIds": [
+                                    2766
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "unknown": [
+                    {
+                        "hazardId": "unknown-11424",
+                        "type": "unknown",
+                        "name": "Unknown",
+                        "massPct": 0.05117555,
+                        "contributors": [
+                            {
+                                "recId": 9367,
+                                "massPct": 0.05117555,
+                                "childrenIds": [
+                                    9367,
+                                    9369
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": 0.0187,
+                        "contributors": [
+                            {
+                                "recId": 2766,
+                                "massPct": 0.0187,
+                                "childrenIds": [
+                                    2766
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 9367,
+                    "name": "Topical Stain Resistant Treatment",
+                    "CASRN": "",
+                    "massPct": 0.0515,
+                    "function": "stain resistance",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": 0.0063,
+                                "contributors": [
+                                    {
+                                        "recId": 9368,
+                                        "massPct": 0.0063,
+                                        "childrenIds": [
+                                            9368
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "unknown": [
+                            {
+                                "hazardId": "unknown-11424",
+                                "type": "unknown",
+                                "name": "Unknown",
+                                "massPct": 0.9937,
+                                "contributors": [
+                                    {
+                                        "recId": 9369,
+                                        "massPct": 0.9937,
+                                        "childrenIds": [
+                                            9369
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "components": [
+                        {
+                            "recId": 9368,
+                            "name": "Perfluorohexanoic Acid",
+                            "CASRN": "307-24-4",
+                            "massPct": 0.0063,
+                            "function": "stain resistance",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-570",
+                                        "type": "orange",
+                                        "name": "Endocrine",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Invista Anti-Soil Technology",
+                                    "url": "https://pharosproject.net/uploads/files/sources/1828/Invista-antisoil-techdocs.pdf",
+                                    "id": 9471
+                                },
+                                {
+                                    "name": "Sentry Plus TDS",
+                                    "url": "http://www.mohawkgroup.com/sitefiles/PDFs/SentryPlus_TDS.pdf",
+                                    "id": 9458
+                                },
+                                {
+                                    "name": "Beaulieu Scotchguard Protector",
+                                    "url": "http://usa.beaulieugroup.com/scotchgard-protector/",
+                                    "id": 9457
+                                },
+                                {
+                                    "name": "Ehrlich 2011",
+                                    "url": "http://www2.buildinggreen.com/article/chemicals-our-carpets-and-textiles",
+                                    "id": 9462
+                                },
+                                {
+                                    "name": "Unibond Plus HPD",
+                                    "url": "http://www.mohawkgroup.com/sitefiles/pdfs/hpd/MG_HPD_UnibondPlus.pdf",
+                                    "id": 9440
+                                },
+                                {
+                                    "name": "Weldlok HPD",
+                                    "url": "http://www.mohawkgroup.com/sitefiles/pdfs/hpd/MG_TuftedBroadloomCarpetOnWeldlok.pdf",
+                                    "id": 9437
+                                },
+                                {
+                                    "name": "Ethos Declare",
+                                    "url": "http://declareproducts.com/content/tandus-centiva-ethos%C2%AE-modular",
+                                    "id": 9435
+                                },
+                                {
+                                    "name": "Ecoworx Declare",
+                                    "url": "http://declareproducts.com/content/ecoworx-carpet-tile-1",
+                                    "id": 9431
+                                }
+                            ],
+                            "notes": "C6 PFC",
+                            "lca": "yes",
+                            "massPctOfTotal": 0.000173872755
+                        },
+                        {
+                            "recId": 9369,
+                            "name": "Stain Blocker Polymer",
+                            "CASRN": "unknown",
+                            "massPct": 0.9937,
+                            "function": "stain resistance",
+                            "hazards": {
+                                "unknown": [
+                                    {
+                                        "hazardId": "unknown-11424",
+                                        "type": "unknown",
+                                        "name": "Unknown",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Salamone 1996",
+                                    "url": "https://books.google.com/books?id=m7pQjS1QKdgC&pg=PA2334&lpg=PA2334&dq=phenol+sulfonic+acid+condensate+methacrylic+acid&source=bl&ots=SwGVYXTky3&sig=jQlejXZVeFgq_pPw2n-o8YrqIVM&hl=en&sa=X&ved=0CCwQ6AEwAmoVChMIyJHLmpC4xwIVBnI-Ch10-wsv#v=onepage&q=phenol%20sulfonic%20acid%20condensate%20methacrylic%20acid&f=false",
+                                    "id": 9472
+                                },
+                                {
+                                    "name": "Moody et al 2004",
+                                    "url": "https://books.google.com/books?id=uQFO8QsgSIIC&pg=PA182&lpg=PA182&dq=Sulfonated+aromatic+condensate+and+carpet&source=bl&ots=pY0hnVPG5S&sig=tQm-yUSlmBm6YaK2IWHxsOiT-20&hl=en&sa=X&ved=0CDEQ6AEwBGoVChMI7N31l4O4xwIVERWSCh18Pwui#v=onepage&q=Sulfonated%20aromatic%20condensate%20and%20carpet&f=false",
+                                    "id": 9467
+                                },
+                                {
+                                    "name": "Life Science Patent 2000",
+                                    "url": "https://pharosproject.net/uploads/files/sources/1828/life-science-United%20States%20Patent_%207314748.pdf",
+                                    "id": 9464
+                                },
+                                {
+                                    "name": "Peach State labs Patent 1994",
+                                    "url": "https://data.epo.org/publication-server/pdf-document?pn=0428639&ki=B1&cc=EP",
+                                    "id": 9470
+                                },
+                                {
+                                    "name": "Realff et al 2005",
+                                    "url": "https://carpetrecovery.org/wp-content/uploads/2014/04/Life_Cycle_Carpet.pdf",
+                                    "id": 9469
+                                },
+                                {
+                                    "name": "Shaw Patent 2006",
+                                    "url": "https://www.google.com/patents/WO2006079065A1",
+                                    "id": 9466
+                                }
+                            ],
+                            "notes": "Estimated based upon application range given in Shaw patent: 1-10% stain blocker polymer solids by weight of dry fiber.",
+                            "lca": "yes",
+                            "massPctOfTotal": 0.027424977245000003
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "name": "Ehrlich 2011",
+                            "url": "http://www2.buildinggreen.com/article/chemicals-our-carpets-and-textiles",
+                            "id": 9462
+                        },
+                        {
+                            "name": "Beaulieu Scotchguard Protector",
+                            "url": "http://usa.beaulieugroup.com/scotchgard-protector/",
+                            "id": 9457
+                        },
+                        {
+                            "name": "Prestige Plus RC EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1207/15/Bentley_122.1_EPD_PPRC%20-%20Piece%20Dyed%20N66%20-%202013-02-25.pdf",
+                            "id": 9449
+                        },
+                        {
+                            "name": "Ethos Declare",
+                            "url": "http://declareproducts.com/content/tandus-centiva-ethos%C2%AE-modular",
+                            "id": 9435
+                        },
+                        {
+                            "name": "Shaw Patent 2006",
+                            "url": "https://www.google.com/patents/WO2006079065A1",
+                            "id": 9466
+                        },
+                        {
+                            "name": "BEES Generic Nylon Carpet",
+                            "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Nylon%20Carpet.pdf",
+                            "id": 9468
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.02759885
+                },
+                {
+                    "recId": 2766,
+                    "name": "Titanium Dioxide",
+                    "CASRN": "13463-67-7",
+                    "massPct": 0.0187,
+                    "function": "pigment,dye",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-7911",
+                                "type": "red",
+                                "name": "Cancer (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Ceramics",
+                            "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                            "id": 8638
+                        },
+                        {
+                            "name": "ASM",
+                            "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                            "id": 8639
+                        }
+                    ],
+                    "notes": "This median was not adjusted, due the adjustment exceeding the maxiumum reported content.",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.010021330000000002
+                },
+                {
+                    "recId": 9366,
+                    "name": "Nylon 6",
+                    "CASRN": "25038-54-4",
+                    "massPct": 0.9299,
+                    "function": "fiber",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Standard Broadloom HPD",
+                            "url": "http://www.bolyu.com/wp-content/uploads/hpd-broadloom-with-nylon-6.pdf",
+                            "id": 9443
+                        },
+                        {
+                            "name": "Standard Broadloom EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1205/15/102.1_EPD_Bolyu_Broadloom.pdf",
+                            "id": 9442
+                        },
+                        {
+                            "name": "Unibond Plus Declare",
+                            "url": "http://declareproducts.com/content/commercial-broadloom-carpet-unibond%C2%AE-plus",
+                            "id": 9441
+                        },
+                        {
+                            "name": "Unibond Plus HPD",
+                            "url": "http://www.mohawkgroup.com/sitefiles/pdfs/hpd/MG_HPD_UnibondPlus.pdf",
+                            "id": 9440
+                        },
+                        {
+                            "name": "Unibond Plus EPD",
+                            "url": "http://www.mohawkgroup.com/sitefiles/pdfs/epd/MG_EPD_UnibondPlus.pdf",
+                            "id": 9439
+                        },
+                        {
+                            "name": "Weldlok Declare",
+                            "url": "http://declareproducts.com/content/commercial-broadloom-carpet-weldlok%C2%AE",
+                            "id": 9438
+                        },
+                        {
+                            "name": "Weldlok HPD",
+                            "url": "http://www.mohawkgroup.com/sitefiles/pdfs/hpd/MG_TuftedBroadloomCarpetOnWeldlok.pdf",
+                            "id": 9437
+                        },
+                        {
+                            "name": "Weldlok EPD",
+                            "url": "http://www.mohawkgroup.com/sitefiles/pdfs/epd/TMG_EPD_TuftedNylonBroadloomWeldlok.pdf",
+                            "id": 9436
+                        },
+                        {
+                            "name": "Ethos Declare",
+                            "url": "http://declareproducts.com/content/tandus-centiva-ethos%C2%AE-modular",
+                            "id": 9435
+                        },
+                        {
+                            "name": "Ethos EPD",
+                            "url": "https://tandus-production.s3.amazonaws.com/content/file/136/ethos_Modular_EPD.pdf",
+                            "id": 9434
+                        },
+                        {
+                            "name": "Ultraloc HPD",
+                            "url": "http://www.shawcontractgroup.com/Content/LiteraturePDFs/SCG_pdf/UltralocMPC_HPD_NYLON_scg.pdf",
+                            "id": 9433
+                        },
+                        {
+                            "name": "Ecoworx Broadloom HPD",
+                            "url": "http://www.shawcontractgroup.com/Content/LiteraturePDFs/SCG_pdf/EcoWorx_Broadloom_SCG_HPD.pdf",
+                            "id": 9432
+                        },
+                        {
+                            "name": "Ecoworx HPD",
+                            "url": "http://www.shawcontractgroup.com/Content/LiteraturePDFs/SCG_pdf/EcoWorx_HPD_SCG.pdf",
+                            "id": 9430
+                        },
+                        {
+                            "name": "Ecoworx Declare",
+                            "url": "http://declareproducts.com/content/ecoworx-carpet-tile-1",
+                            "id": 9431
+                        },
+                        {
+                            "name": "Ecoworx EPD",
+                            "url": "http://www.shawcontractgroup.com/Content/LiteraturePDFs/Environmental_pdf/SHAW_101.2_EPD_EcoWorxCommercialCarpetTile_29November2012.pdf",
+                            "id": 9429
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.49833341000000003
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.5359
+        },
+        {
+            "recId": 9376,
+            "name": "Scrim (Carpet)",
+            "CASRN": "",
+            "massPct": 0.0235,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation",
+                        "massPct": 0.21610000000000001,
+                        "contributors": [
+                            {
+                                "recId": 1313,
+                                "massPct": 0.0045,
+                                "childrenIds": [
+                                    1313,
+                                    9378
+                                ]
+                            },
+                            {
+                                "recId": 1313,
+                                "massPct": 0.2116,
+                                "childrenIds": [
+                                    1313,
+                                    2795
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.3435,
+                        "contributors": [
+                            {
+                                "recId": 1313,
+                                "massPct": 0.0045,
+                                "childrenIds": [
+                                    1313,
+                                    9378
+                                ]
+                            },
+                            {
+                                "recId": 1313,
+                                "massPct": 0.2116,
+                                "childrenIds": [
+                                    1313,
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 1313,
+                                "massPct": 0.003,
+                                "childrenIds": [
+                                    1313,
+                                    3334
+                                ]
+                            },
+                            {
+                                "recId": 1313,
+                                "massPct": 0.0035,
+                                "childrenIds": [
+                                    1313,
+                                    2766
+                                ]
+                            },
+                            {
+                                "recId": 1313,
+                                "massPct": 0.1209,
+                                "childrenIds": [
+                                    1313,
+                                    2794
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": 0.0045,
+                        "contributors": [
+                            {
+                                "recId": 1313,
+                                "massPct": 0.0045,
+                                "childrenIds": [
+                                    1313,
+                                    9378
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": 0.2146,
+                        "contributors": [
+                            {
+                                "recId": 1313,
+                                "massPct": 0.2116,
+                                "childrenIds": [
+                                    1313,
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 1313,
+                                "massPct": 0.003,
+                                "childrenIds": [
+                                    1313,
+                                    3334
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.2519,
+                        "contributors": [
+                            {
+                                "recId": 1313,
+                                "massPct": 0.2116,
+                                "childrenIds": [
+                                    1313,
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 1313,
+                                "massPct": 0.0403,
+                                "childrenIds": [
+                                    1313,
+                                    2796
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": 0.003,
+                        "contributors": [
+                            {
+                                "recId": 1313,
+                                "massPct": 0.003,
+                                "childrenIds": [
+                                    1313,
+                                    3334
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.1209,
+                        "contributors": [
+                            {
+                                "recId": 1313,
+                                "massPct": 0.1209,
+                                "childrenIds": [
+                                    1313,
+                                    2794
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": 0.0554,
+                        "contributors": [
+                            {
+                                "recId": 1313,
+                                "massPct": 0.0554,
+                                "childrenIds": [
+                                    1313,
+                                    9377
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental",
+                        "massPct": 0.0554,
+                        "contributors": [
+                            {
+                                "recId": 1313,
+                                "massPct": 0.0554,
+                                "childrenIds": [
+                                    1313,
+                                    9377
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": 0.5597,
+                        "contributors": [
+                            {
+                                "recId": 1313,
+                                "massPct": 0.5562,
+                                "childrenIds": [
+                                    1313,
+                                    3606
+                                ]
+                            },
+                            {
+                                "recId": 1313,
+                                "massPct": 0.0035,
+                                "childrenIds": [
+                                    1313,
+                                    2766
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 1313,
+                    "name": "Fiberglass (E-Glass)",
+                    "CASRN": "65997-17-3",
+                    "massPct": 1,
+                    "function": "stabilization",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-576",
+                                "type": "orange",
+                                "name": "Skin Irritation",
+                                "massPct": 0.21610000000000001,
+                                "contributors": [
+                                    {
+                                        "recId": 9378,
+                                        "massPct": 0.0045,
+                                        "childrenIds": [
+                                            9378
+                                        ]
+                                    },
+                                    {
+                                        "recId": 2795,
+                                        "massPct": 0.2116,
+                                        "childrenIds": [
+                                            2795
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": 0.3435,
+                                "contributors": [
+                                    {
+                                        "recId": 9378,
+                                        "massPct": 0.0045,
+                                        "childrenIds": [
+                                            9378
+                                        ]
+                                    },
+                                    {
+                                        "recId": 2795,
+                                        "massPct": 0.2116,
+                                        "childrenIds": [
+                                            2795
+                                        ]
+                                    },
+                                    {
+                                        "recId": 3334,
+                                        "massPct": 0.003,
+                                        "childrenIds": [
+                                            3334
+                                        ]
+                                    },
+                                    {
+                                        "recId": 2766,
+                                        "massPct": 0.0035,
+                                        "childrenIds": [
+                                            2766
+                                        ]
+                                    },
+                                    {
+                                        "recId": 2794,
+                                        "massPct": 0.1209,
+                                        "childrenIds": [
+                                            2794
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": 0.0045,
+                                "contributors": [
+                                    {
+                                        "recId": 9378,
+                                        "massPct": 0.0045,
+                                        "childrenIds": [
+                                            9378
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-575",
+                                "type": "orange",
+                                "name": "Eye Irritation",
+                                "massPct": 0.2146,
+                                "contributors": [
+                                    {
+                                        "recId": 2795,
+                                        "massPct": 0.2116,
+                                        "childrenIds": [
+                                            2795
+                                        ]
+                                    },
+                                    {
+                                        "recId": 3334,
+                                        "massPct": 0.003,
+                                        "childrenIds": [
+                                            3334
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": 0.2519,
+                                "contributors": [
+                                    {
+                                        "recId": 2795,
+                                        "massPct": 0.2116,
+                                        "childrenIds": [
+                                            2795
+                                        ]
+                                    },
+                                    {
+                                        "recId": 2796,
+                                        "massPct": 0.0403,
+                                        "childrenIds": [
+                                            2796
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-567",
+                                "type": "orange",
+                                "name": "Cancer",
+                                "massPct": 0.003,
+                                "contributors": [
+                                    {
+                                        "recId": 3334,
+                                        "massPct": 0.003,
+                                        "childrenIds": [
+                                            3334
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": 0.1209,
+                                "contributors": [
+                                    {
+                                        "recId": 2794,
+                                        "massPct": 0.1209,
+                                        "childrenIds": [
+                                            2794
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": 0.0554,
+                                "contributors": [
+                                    {
+                                        "recId": 9377,
+                                        "massPct": 0.0554,
+                                        "childrenIds": [
+                                            9377
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "red-568",
+                                "type": "red",
+                                "name": "Developmental",
+                                "massPct": 0.0554,
+                                "contributors": [
+                                    {
+                                        "recId": 9377,
+                                        "massPct": 0.0554,
+                                        "childrenIds": [
+                                            9377
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "red-7911",
+                                "type": "red",
+                                "name": "Cancer (occupational only)",
+                                "massPct": 0.5597,
+                                "contributors": [
+                                    {
+                                        "recId": 3606,
+                                        "massPct": 0.5562,
+                                        "childrenIds": [
+                                            3606
+                                        ]
+                                    },
+                                    {
+                                        "recId": 2766,
+                                        "massPct": 0.0035,
+                                        "childrenIds": [
+                                            2766
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "components": [
+                        {
+                            "recId": 9378,
+                            "name": "Fluorine",
+                            "CASRN": "7782-41-4",
+                            "massPct": 0.0045,
+                            "function": "fiber glass component",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-576",
+                                        "type": "orange",
+                                        "name": "Skin Irritation",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-569",
+                                        "type": "orange",
+                                        "name": "Reproductive",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Ceramics",
+                                    "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                                    "id": 8638
+                                },
+                                {
+                                    "name": "ASM",
+                                    "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                                    "id": 8639
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.00010575
+                        },
+                        {
+                            "recId": 9377,
+                            "name": "Boric Oxide",
+                            "CASRN": "1303-86-2",
+                            "massPct": 0.0554,
+                            "function": "fiber glass component",
+                            "hazards": {
+                                "red": [
+                                    {
+                                        "hazardId": "red-569",
+                                        "type": "red",
+                                        "name": "Reproductive",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "red-568",
+                                        "type": "red",
+                                        "name": "Developmental",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Ceramics",
+                                    "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                                    "id": 8638
+                                },
+                                {
+                                    "name": "ASM",
+                                    "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                                    "id": 8639
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.0013019
+                        },
+                        {
+                            "recId": 3606,
+                            "name": "Silica, amorphous",
+                            "CASRN": "7631-86-9",
+                            "massPct": 0.5562,
+                            "function": "fiber glass component",
+                            "hazards": {
+                                "red": [
+                                    {
+                                        "hazardId": "red-7911",
+                                        "type": "red",
+                                        "name": "Cancer (occupational only)",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Mortensen",
+                                    "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+                                    "id": 8640
+                                },
+                                {
+                                    "name": "Ceramics",
+                                    "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                                    "id": 8638
+                                },
+                                {
+                                    "name": "ASM",
+                                    "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                                    "id": 8639
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.013070700000000001
+                        },
+                        {
+                            "recId": 2795,
+                            "name": "Calcium Oxide",
+                            "CASRN": "1305-78-8",
+                            "massPct": 0.2116,
+                            "function": "fiber glass component",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-576",
+                                        "type": "orange",
+                                        "name": "Skin Irritation",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-575",
+                                        "type": "orange",
+                                        "name": "Eye Irritation",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-568",
+                                        "type": "orange",
+                                        "name": "Developmental",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Mortensen",
+                                    "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+                                    "id": 8640
+                                },
+                                {
+                                    "name": "Ceramics",
+                                    "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                                    "id": 8638
+                                },
+                                {
+                                    "name": "ASM",
+                                    "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                                    "id": 8639
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.004972600000000001
+                        },
+                        {
+                            "recId": 3749,
+                            "name": "Sodium Oxide",
+                            "CASRN": "1313-59-3",
+                            "massPct": 0.003,
+                            "function": "fiber glass component",
+                            "hazards": {},
+                            "sources": [
+                                {
+                                    "name": "Mortensen",
+                                    "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+                                    "id": 8640
+                                },
+                                {
+                                    "name": "Ceramics",
+                                    "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                                    "id": 8638
+                                },
+                                {
+                                    "name": "ASM",
+                                    "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                                    "id": 8639
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.0000705
+                        },
+                        {
+                            "recId": 3334,
+                            "name": "Ferric Oxide",
+                            "CASRN": "1309-37-1",
+                            "massPct": 0.003,
+                            "function": "fiber glass component",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-575",
+                                        "type": "orange",
+                                        "name": "Eye Irritation",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-567",
+                                        "type": "orange",
+                                        "name": "Cancer",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Ceramics",
+                                    "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                                    "id": 8638
+                                },
+                                {
+                                    "name": "ASM",
+                                    "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                                    "id": 8639
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.0000705
+                        },
+                        {
+                            "recId": 2766,
+                            "name": "Titanium Dioxide",
+                            "CASRN": "13463-67-7",
+                            "massPct": 0.0035,
+                            "function": "fiber glass component",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ],
+                                "red": [
+                                    {
+                                        "hazardId": "red-7911",
+                                        "type": "red",
+                                        "name": "Cancer (occupational only)",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Ceramics",
+                                    "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                                    "id": 8638
+                                },
+                                {
+                                    "name": "ASM",
+                                    "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                                    "id": 8639
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.00008225000000000001
+                        },
+                        {
+                            "recId": 2796,
+                            "name": "Magnesium Oxide",
+                            "CASRN": "1309-48-4",
+                            "massPct": 0.0403,
+                            "function": "fiber glass component",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-568",
+                                        "type": "orange",
+                                        "name": "Developmental",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Mortensen",
+                                    "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+                                    "id": 8640
+                                },
+                                {
+                                    "name": "Ceramics",
+                                    "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                                    "id": 8638
+                                },
+                                {
+                                    "name": "ASM",
+                                    "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                                    "id": 8639
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.0009470500000000001
+                        },
+                        {
+                            "recId": 2794,
+                            "name": "Aluminum Oxide",
+                            "CASRN": "1344-28-1",
+                            "massPct": 0.1209,
+                            "function": "fiber glass component",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-572",
+                                        "type": "orange",
+                                        "name": "Respiratory",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Mortensen",
+                                    "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+                                    "id": 8640
+                                },
+                                {
+                                    "name": "Ceramics",
+                                    "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                                    "id": 8638
+                                },
+                                {
+                                    "name": "ASM",
+                                    "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                                    "id": 8639
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.0028411499999999998
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "name": "NexStep Declare",
+                            "url": "http://declareproducts.com/content/nexstep-cushion-carpet-tile",
+                            "id": 9446
+                        },
+                        {
+                            "name": "NexStep HPD",
+                            "url": "http://www.bentleymills.com/wp-content/uploads/2015/04/NexStep-Cushion-Tile-HPD.pdf",
+                            "id": 9445
+                        },
+                        {
+                            "name": "NexStep EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1207/15/Bentley_113.1_EPD_%20NexStep%20-%20Solution%20Dyed%20N66%20-%202013-02-25.pdf",
+                            "id": 9444
+                        },
+                        {
+                            "name": "Ethos Declare",
+                            "url": "http://declareproducts.com/content/tandus-centiva-ethos%C2%AE-modular",
+                            "id": 9435
+                        },
+                        {
+                            "name": "Ecoworx HPD",
+                            "url": "http://www.shawcontractgroup.com/Content/LiteraturePDFs/SCG_pdf/EcoWorx_HPD_SCG.pdf",
+                            "id": 9430
+                        },
+                        {
+                            "name": "Ecoworx EPD",
+                            "url": "http://www.shawcontractgroup.com/Content/LiteraturePDFs/Environmental_pdf/SHAW_101.2_EPD_EcoWorxCommercialCarpetTile_29November2012.pdf",
+                            "id": 9429
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0235
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.0235
+        },
+        {
+            "recId": 9372,
+            "name": "Precoat",
+            "CASRN": "",
+            "massPct": 0.3305,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization",
+                        "massPct": 0.0018,
+                        "contributors": [
+                            {
+                                "recId": 9375,
+                                "massPct": 0.0018,
+                                "childrenIds": [
+                                    9375
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": 0.1771,
+                        "contributors": [
+                            {
+                                "recId": 9375,
+                                "massPct": 0.0018,
+                                "childrenIds": [
+                                    9375
+                                ]
+                            },
+                            {
+                                "recId": 6615,
+                                "massPct": 0.1753,
+                                "childrenIds": [
+                                    6615
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": 0.0018,
+                        "contributors": [
+                            {
+                                "recId": 9375,
+                                "massPct": 0.0018,
+                                "childrenIds": [
+                                    9375
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.0018,
+                        "contributors": [
+                            {
+                                "recId": 9375,
+                                "massPct": 0.0018,
+                                "childrenIds": [
+                                    9375
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": 0.0018,
+                        "contributors": [
+                            {
+                                "recId": 9375,
+                                "massPct": 0.0018,
+                                "childrenIds": [
+                                    9375
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 9374,
+                    "name": "Sodium Polyacrylate",
+                    "CASRN": "9003-04-7",
+                    "massPct": 0.0898,
+                    "function": "thickener,dispersant",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "NexStep HPD",
+                            "url": "http://www.bentleymills.com/wp-content/uploads/2015/04/NexStep-Cushion-Tile-HPD.pdf",
+                            "id": 9445
+                        },
+                        {
+                            "name": "Unibond Plus Declare",
+                            "url": "http://declareproducts.com/content/commercial-broadloom-carpet-unibond%C2%AE-plus",
+                            "id": 9441
+                        },
+                        {
+                            "name": "Weldlok Declare",
+                            "url": "http://declareproducts.com/content/commercial-broadloom-carpet-weldlok%C2%AE",
+                            "id": 9438
+                        },
+                        {
+                            "name": "Weldlok HPD",
+                            "url": "http://www.mohawkgroup.com/sitefiles/pdfs/hpd/MG_TuftedBroadloomCarpetOnWeldlok.pdf",
+                            "id": 9437
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.029678900000000005
+                },
+                {
+                    "recId": 9375,
+                    "name": "Zinc Pyrithione",
+                    "CASRN": "13463-41-7",
+                    "massPct": 0.0018,
+                    "function": "antimicrobial",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-577",
+                                "type": "orange",
+                                "name": "Skin Sensitization",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-575",
+                                "type": "orange",
+                                "name": "Eye Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Beaulieu Patent 2010",
+                            "url": "http://www.google.com/patents/US20100173121",
+                            "id": 9463
+                        },
+                        {
+                            "name": "Ehrlich 2011",
+                            "url": "http://www2.buildinggreen.com/article/chemicals-our-carpets-and-textiles",
+                            "id": 9462
+                        },
+                        {
+                            "name": "Wilbanks et al 2009",
+                            "url": "https://books.google.com/books?id=vJ3NAwAAQBAJ&pg=PA411&lpg=PA411&dq=%22prosept%22+zinc+omadine&source=bl&ots=oD3Ytm0wHj&sig=qqL-Cxb-3KHUc_mmezsFLdOVrUE&hl=en&sa=X&ved=0CCEQ6AEwAGoVChMIzNafgMm1xwIVx_M-Ch2JfQCl#v=onepage&q=%22prosept%22%20zinc%20omadine&f=false",
+                            "id": 9460
+                        },
+                        {
+                            "name": "PANNA Zinc omadine powder",
+                            "url": "http://www.pesticideinfo.org/Detail_Product.jsp?REG_NR=00125800840&DIST_NR=001258",
+                            "id": 9459
+                        },
+                        {
+                            "name": "Rogers et al 2006",
+                            "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1005UB2.PDF?Dockey=P1005UB2.PDF",
+                            "id": 9450
+                        },
+                        {
+                            "name": "Ecoworx Spec",
+                            "url": "http://www.shawcontractgroup.com/Content/LiteraturePDFs/Backings_pdf/ecoworx_spec.pdf",
+                            "id": 9428
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0005949
+                },
+                {
+                    "recId": 3759,
+                    "name": "Limestone",
+                    "CASRN": "1317-65-3",
+                    "massPct": 0.452,
+                    "function": "filler",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "BEES Generic Nylon Carpet",
+                            "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Nylon%20Carpet.pdf",
+                            "id": 9468
+                        },
+                        {
+                            "name": "Prestige Plus RC EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1207/15/Bentley_122.1_EPD_PPRC%20-%20Piece%20Dyed%20N66%20-%202013-02-25.pdf",
+                            "id": 9449
+                        },
+                        {
+                            "name": "High Performance PC HPD",
+                            "url": "http://www.bentleymills.com/wp-content/uploads/2015/04/High-PerformancePC-HPD.pdf",
+                            "id": 9448
+                        },
+                        {
+                            "name": "High Performance PC EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1207/15/Bentley_110.1_EPD_HPPCBroadloomPieceDyedNylon66_26March2014.pdf",
+                            "id": 9447
+                        },
+                        {
+                            "name": "NexStep Declare",
+                            "url": "http://declareproducts.com/content/nexstep-cushion-carpet-tile",
+                            "id": 9446
+                        },
+                        {
+                            "name": "NexStep HPD",
+                            "url": "http://www.bentleymills.com/wp-content/uploads/2015/04/NexStep-Cushion-Tile-HPD.pdf",
+                            "id": 9445
+                        },
+                        {
+                            "name": "Standard Broadloom HPD",
+                            "url": "http://www.bolyu.com/wp-content/uploads/hpd-broadloom-with-nylon-6.pdf",
+                            "id": 9443
+                        },
+                        {
+                            "name": "Unibond Plus Declare",
+                            "url": "http://declareproducts.com/content/commercial-broadloom-carpet-unibond%C2%AE-plus",
+                            "id": 9441
+                        },
+                        {
+                            "name": "Unibond Plus HPD",
+                            "url": "http://www.mohawkgroup.com/sitefiles/pdfs/hpd/MG_HPD_UnibondPlus.pdf",
+                            "id": 9440
+                        },
+                        {
+                            "name": "Unibond Plus EPD",
+                            "url": "http://www.mohawkgroup.com/sitefiles/pdfs/epd/MG_EPD_UnibondPlus.pdf",
+                            "id": 9439
+                        },
+                        {
+                            "name": "Weldlok Declare",
+                            "url": "http://declareproducts.com/content/commercial-broadloom-carpet-weldlok%C2%AE",
+                            "id": 9438
+                        },
+                        {
+                            "name": "Weldlok HPD",
+                            "url": "http://www.mohawkgroup.com/sitefiles/pdfs/hpd/MG_TuftedBroadloomCarpetOnWeldlok.pdf",
+                            "id": 9437
+                        },
+                        {
+                            "name": "Weldlok EPD",
+                            "url": "http://www.mohawkgroup.com/sitefiles/pdfs/epd/TMG_EPD_TuftedNylonBroadloomWeldlok.pdf",
+                            "id": 9436
+                        },
+                        {
+                            "name": "Ethos Declare",
+                            "url": "http://declareproducts.com/content/tandus-centiva-ethos%C2%AE-modular",
+                            "id": 9435
+                        },
+                        {
+                            "name": "Ethos EPD",
+                            "url": "https://tandus-production.s3.amazonaws.com/content/file/136/ethos_Modular_EPD.pdf",
+                            "id": 9434
+                        },
+                        {
+                            "name": "Ultraloc HPD",
+                            "url": "http://www.shawcontractgroup.com/Content/LiteraturePDFs/SCG_pdf/UltralocMPC_HPD_NYLON_scg.pdf",
+                            "id": 9433
+                        },
+                        {
+                            "name": "Ecoworx Broadloom HPD",
+                            "url": "http://www.shawcontractgroup.com/Content/LiteraturePDFs/SCG_pdf/EcoWorx_Broadloom_SCG_HPD.pdf",
+                            "id": 9432
+                        },
+                        {
+                            "name": "Ecoworx HPD",
+                            "url": "http://www.shawcontractgroup.com/Content/LiteraturePDFs/SCG_pdf/EcoWorx_HPD_SCG.pdf",
+                            "id": 9430
+                        },
+                        {
+                            "name": "Ecoworx Declare",
+                            "url": "http://declareproducts.com/content/ecoworx-carpet-tile-1",
+                            "id": 9431
+                        },
+                        {
+                            "name": "Ecoworx EPD",
+                            "url": "http://www.shawcontractgroup.com/Content/LiteraturePDFs/Environmental_pdf/SHAW_101.2_EPD_EcoWorxCommercialCarpetTile_29November2012.pdf",
+                            "id": 9429
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.14938600000000002
+                },
+                {
+                    "recId": 6615,
+                    "name": "Alumina Trihydrate",
+                    "CASRN": "21645-51-2",
+                    "massPct": 0.1753,
+                    "function": "flame retardant",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Prestige Plus RC EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1207/15/Bentley_122.1_EPD_PPRC%20-%20Piece%20Dyed%20N66%20-%202013-02-25.pdf",
+                            "id": 9449
+                        },
+                        {
+                            "name": "High Performance PC HPD",
+                            "url": "http://www.bentleymills.com/wp-content/uploads/2015/04/High-PerformancePC-HPD.pdf",
+                            "id": 9448
+                        },
+                        {
+                            "name": "High Performance PC EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1207/15/Bentley_110.1_EPD_HPPCBroadloomPieceDyedNylon66_26March2014.pdf",
+                            "id": 9447
+                        },
+                        {
+                            "name": "NexStep Declare",
+                            "url": "http://declareproducts.com/content/nexstep-cushion-carpet-tile",
+                            "id": 9446
+                        },
+                        {
+                            "name": "NexStep HPD",
+                            "url": "http://www.bentleymills.com/wp-content/uploads/2015/04/NexStep-Cushion-Tile-HPD.pdf",
+                            "id": 9445
+                        },
+                        {
+                            "name": "Ethos Declare",
+                            "url": "http://declareproducts.com/content/tandus-centiva-ethos%C2%AE-modular",
+                            "id": 9435
+                        },
+                        {
+                            "name": "Ethos EPD",
+                            "url": "https://tandus-production.s3.amazonaws.com/content/file/136/ethos_Modular_EPD.pdf",
+                            "id": 9434
+                        },
+                        {
+                            "name": "Ecoworx Broadloom HPD",
+                            "url": "http://www.shawcontractgroup.com/Content/LiteraturePDFs/SCG_pdf/EcoWorx_Broadloom_SCG_HPD.pdf",
+                            "id": 9432
+                        },
+                        {
+                            "name": "Ecoworx HPD",
+                            "url": "http://www.shawcontractgroup.com/Content/LiteraturePDFs/SCG_pdf/EcoWorx_HPD_SCG.pdf",
+                            "id": 9430
+                        },
+                        {
+                            "name": "Ecoworx Declare",
+                            "url": "http://declareproducts.com/content/ecoworx-carpet-tile-1",
+                            "id": 9431
+                        },
+                        {
+                            "name": "Ecoworx EPD",
+                            "url": "http://www.shawcontractgroup.com/Content/LiteraturePDFs/Environmental_pdf/SHAW_101.2_EPD_EcoWorxCommercialCarpetTile_29November2012.pdf",
+                            "id": 9429
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.057936650000000006
+                },
+                {
+                    "recId": 9373,
+                    "name": "Ammonium Lauryl Sulfate",
+                    "CASRN": "68081-96-9",
+                    "massPct": 0.0046,
+                    "function": "wetting agent,dispersant,surfactant",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "High Performance PC HPD",
+                            "url": "http://www.bentleymills.com/wp-content/uploads/2015/04/High-PerformancePC-HPD.pdf",
+                            "id": 9448
+                        },
+                        {
+                            "name": "NexStep HPD",
+                            "url": "http://www.bentleymills.com/wp-content/uploads/2015/04/NexStep-Cushion-Tile-HPD.pdf",
+                            "id": 9445
+                        },
+                        {
+                            "name": "Unibond Plus Declare",
+                            "url": "http://declareproducts.com/content/commercial-broadloom-carpet-unibond%C2%AE-plus",
+                            "id": 9441
+                        },
+                        {
+                            "name": "Unibond Plus HPD",
+                            "url": "http://www.mohawkgroup.com/sitefiles/pdfs/hpd/MG_HPD_UnibondPlus.pdf",
+                            "id": 9440
+                        },
+                        {
+                            "name": "Weldlok Declare",
+                            "url": "http://declareproducts.com/content/commercial-broadloom-carpet-weldlok%C2%AE",
+                            "id": 9438
+                        },
+                        {
+                            "name": "Weldlok HPD",
+                            "url": "http://www.mohawkgroup.com/sitefiles/pdfs/hpd/MG_TuftedBroadloomCarpetOnWeldlok.pdf",
+                            "id": 9437
+                        },
+                        {
+                            "name": "Ecoworx Declare",
+                            "url": "http://declareproducts.com/content/ecoworx-carpet-tile-1",
+                            "id": 9431
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0015203
+                },
+                {
+                    "recId": 6980,
+                    "name": "Styrene Butadiene Copolymer",
+                    "CASRN": "9003-55-8",
+                    "massPct": 0.2766,
+                    "function": "polymer",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "BEES Generic Nylon Carpet",
+                            "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Nylon%20Carpet.pdf",
+                            "id": 9468
+                        },
+                        {
+                            "name": "Standard Broadloom HPD",
+                            "url": "http://www.bolyu.com/wp-content/uploads/hpd-broadloom-with-nylon-6.pdf",
+                            "id": 9443
+                        },
+                        {
+                            "name": "Standard Broadloom EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1205/15/102.1_EPD_Bolyu_Broadloom.pdf",
+                            "id": 9442
+                        },
+                        {
+                            "name": "Prestige Plus RC EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1207/15/Bentley_122.1_EPD_PPRC%20-%20Piece%20Dyed%20N66%20-%202013-02-25.pdf",
+                            "id": 9449
+                        },
+                        {
+                            "name": "High Performance PC HPD",
+                            "url": "http://www.bentleymills.com/wp-content/uploads/2015/04/High-PerformancePC-HPD.pdf",
+                            "id": 9448
+                        },
+                        {
+                            "name": "High Performance PC EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1207/15/Bentley_110.1_EPD_HPPCBroadloomPieceDyedNylon66_26March2014.pdf",
+                            "id": 9447
+                        },
+                        {
+                            "name": "Unibond Plus EPD",
+                            "url": "http://www.mohawkgroup.com/sitefiles/pdfs/epd/MG_EPD_UnibondPlus.pdf",
+                            "id": 9439
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0914163
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.3305
+        },
+        {
+            "recId": 9379,
+            "name": "Secondary Backing",
+            "CASRN": "",
+            "massPct": 0.0521,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": 1,
+                        "contributors": [
+                            {
+                                "recId": 6257,
+                                "massPct": 1,
+                                "childrenIds": [
+                                    6257
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 6257,
+                    "name": "Polypropylene",
+                    "CASRN": "9003-07-0",
+                    "massPct": 1,
+                    "function": "secondary backing",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "BEES Generic Nylon Carpet",
+                            "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Nylon%20Carpet.pdf",
+                            "id": 9468
+                        },
+                        {
+                            "name": "High Performance PC EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1207/15/Bentley_110.1_EPD_HPPCBroadloomPieceDyedNylon66_26March2014.pdf",
+                            "id": 9447
+                        },
+                        {
+                            "name": "NexStep Declare",
+                            "url": "http://declareproducts.com/content/nexstep-cushion-carpet-tile",
+                            "id": 9446
+                        },
+                        {
+                            "name": "NexStep EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1207/15/Bentley_113.1_EPD_%20NexStep%20-%20Solution%20Dyed%20N66%20-%202013-02-25.pdf",
+                            "id": 9444
+                        },
+                        {
+                            "name": "Standard Broadloom HPD",
+                            "url": "http://www.bolyu.com/wp-content/uploads/hpd-broadloom-with-nylon-6.pdf",
+                            "id": 9443
+                        },
+                        {
+                            "name": "Standard Broadloom EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1205/15/102.1_EPD_Bolyu_Broadloom.pdf",
+                            "id": 9442
+                        },
+                        {
+                            "name": "Ecoworx Broadloom HPD",
+                            "url": "http://www.shawcontractgroup.com/Content/LiteraturePDFs/SCG_pdf/EcoWorx_Broadloom_SCG_HPD.pdf",
+                            "id": 9432
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0521
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.0521
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Quartz",
+            "CASRN": "14808-60-7",
+            "massPct": null,
+            "function": "limestone residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Acrylic Acid",
+            "CASRN": "79-10-7",
+            "massPct": null,
+            "function": "sodium polyacrylate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Caprolactam",
+            "CASRN": "105-60-2",
+            "massPct": null,
+            "function": "nylon 6 residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "1,3-Butadiene",
+            "CASRN": "106-99-0",
+            "massPct": null,
+            "function": "styrene butadiene rubber residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Styrene",
+            "CASRN": "100-42-5",
+            "massPct": null,
+            "function": "styrene butadiene rubber residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.16853155,
+                    "contributors": [
+                        {
+                            "recId": 9370,
+                            "massPct": 0.0579,
+                            "childrenIds": [
+                                9370,
+                                6257
+                            ]
+                        },
+                        {
+                            "recId": 9372,
+                            "massPct": 0.0005949,
+                            "childrenIds": [
+                                9372,
+                                9375
+                            ]
+                        },
+                        {
+                            "recId": 9372,
+                            "massPct": 0.057936650000000006,
+                            "childrenIds": [
+                                9372,
+                                6615
+                            ]
+                        },
+                        {
+                            "recId": 9379,
+                            "massPct": 0.0521,
+                            "childrenIds": [
+                                9379,
+                                6257
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.000173872755,
+                    "contributors": [
+                        {
+                            "recId": 9365,
+                            "massPct": 0.000173872755,
+                            "childrenIds": [
+                                9365,
+                                9367,
+                                9368
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.01868848,
+                    "contributors": [
+                        {
+                            "recId": 9365,
+                            "massPct": 0.010021330000000002,
+                            "childrenIds": [
+                                9365,
+                                2766
+                            ]
+                        },
+                        {
+                            "recId": 9376,
+                            "massPct": 0.00010575,
+                            "childrenIds": [
+                                9376,
+                                1313,
+                                9378
+                            ]
+                        },
+                        {
+                            "recId": 9376,
+                            "massPct": 0.004972600000000001,
+                            "childrenIds": [
+                                9376,
+                                1313,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 9376,
+                            "massPct": 0.0000705,
+                            "childrenIds": [
+                                9376,
+                                1313,
+                                3334
+                            ]
+                        },
+                        {
+                            "recId": 9376,
+                            "massPct": 0.00008225000000000001,
+                            "childrenIds": [
+                                9376,
+                                1313,
+                                2766
+                            ]
+                        },
+                        {
+                            "recId": 9376,
+                            "massPct": 0.0028411499999999998,
+                            "childrenIds": [
+                                9376,
+                                1313,
+                                2794
+                            ]
+                        },
+                        {
+                            "recId": 9372,
+                            "massPct": 0.0005949,
+                            "childrenIds": [
+                                9372,
+                                9375
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-576",
+                    "type": "orange",
+                    "name": "Skin Irritation",
+                    "massPct": 0.005078350000000001,
+                    "contributors": [
+                        {
+                            "recId": 9376,
+                            "massPct": 0.00010575,
+                            "childrenIds": [
+                                9376,
+                                1313,
+                                9378
+                            ]
+                        },
+                        {
+                            "recId": 9376,
+                            "massPct": 0.004972600000000001,
+                            "childrenIds": [
+                                9376,
+                                1313,
+                                2795
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-569",
+                    "type": "orange",
+                    "name": "Reproductive",
+                    "massPct": 0.0007006499999999999,
+                    "contributors": [
+                        {
+                            "recId": 9376,
+                            "massPct": 0.00010575,
+                            "childrenIds": [
+                                9376,
+                                1313,
+                                9378
+                            ]
+                        },
+                        {
+                            "recId": 9372,
+                            "massPct": 0.0005949,
+                            "childrenIds": [
+                                9372,
+                                9375
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-575",
+                    "type": "orange",
+                    "name": "Eye Irritation",
+                    "massPct": 0.005638000000000001,
+                    "contributors": [
+                        {
+                            "recId": 9376,
+                            "massPct": 0.004972600000000001,
+                            "childrenIds": [
+                                9376,
+                                1313,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 9376,
+                            "massPct": 0.0000705,
+                            "childrenIds": [
+                                9376,
+                                1313,
+                                3334
+                            ]
+                        },
+                        {
+                            "recId": 9372,
+                            "massPct": 0.0005949,
+                            "childrenIds": [
+                                9372,
+                                9375
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.00591965,
+                    "contributors": [
+                        {
+                            "recId": 9376,
+                            "massPct": 0.004972600000000001,
+                            "childrenIds": [
+                                9376,
+                                1313,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 9376,
+                            "massPct": 0.0009470500000000001,
+                            "childrenIds": [
+                                9376,
+                                1313,
+                                2796
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-567",
+                    "type": "orange",
+                    "name": "Cancer",
+                    "massPct": 0.0000705,
+                    "contributors": [
+                        {
+                            "recId": 9376,
+                            "massPct": 0.0000705,
+                            "childrenIds": [
+                                9376,
+                                1313,
+                                3334
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.0028411499999999998,
+                    "contributors": [
+                        {
+                            "recId": 9376,
+                            "massPct": 0.0028411499999999998,
+                            "childrenIds": [
+                                9376,
+                                1313,
+                                2794
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-577",
+                    "type": "orange",
+                    "name": "Skin Sensitization",
+                    "massPct": 0.0005949,
+                    "contributors": [
+                        {
+                            "recId": 9372,
+                            "massPct": 0.0005949,
+                            "childrenIds": [
+                                9372,
+                                9375
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "unknown": [
+                {
+                    "hazardId": "unknown-11424",
+                    "type": "unknown",
+                    "name": "Unknown",
+                    "massPct": 0.027424977245000003,
+                    "contributors": [
+                        {
+                            "recId": 9365,
+                            "massPct": 0.027424977245000003,
+                            "childrenIds": [
+                                9365,
+                                9367,
+                                9369
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.023174280000000002,
+                    "contributors": [
+                        {
+                            "recId": 9365,
+                            "massPct": 0.010021330000000002,
+                            "childrenIds": [
+                                9365,
+                                2766
+                            ]
+                        },
+                        {
+                            "recId": 9376,
+                            "massPct": 0.013070700000000001,
+                            "childrenIds": [
+                                9376,
+                                1313,
+                                3606
+                            ]
+                        },
+                        {
+                            "recId": 9376,
+                            "massPct": 0.00008225000000000001,
+                            "childrenIds": [
+                                9376,
+                                1313,
+                                2766
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.0013019,
+                    "contributors": [
+                        {
+                            "recId": 9376,
+                            "massPct": 0.0013019,
+                            "childrenIds": [
+                                9376,
+                                1313,
+                                9377
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-568",
+                    "type": "red",
+                    "name": "Developmental",
+                    "massPct": 0.0013019,
+                    "contributors": [
+                        {
+                            "recId": 9376,
+                            "massPct": 0.0013019,
+                            "childrenIds": [
+                                9376,
+                                1313,
+                                9377
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "Includes upstream material production, manufacturing, and inbound transportation. Packaging is excluded. Manufacturing includes tufting of nylon, nonwoven process for fiberglass, weaving of polypropylene backing, and coating application. ",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "US: Tap water from groundwater"
+            },
+            {
+                "name": "DE: Aluminium hydroxide"
+            },
+            {
+                "name": "US: Process steam from natural gas 90% (eGrid)"
+            },
+            {
+                "name": "GLO: Non-woven fabric (1 sqm)"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "GLO: Fabric (weaved) (estimation)"
+            },
+            {
+                "name": "US: Polymethyl Methacrylate Granulate (PMMA) (estimation)"
+            },
+            {
+                "name": "EU-27: Phenol formaldehyde-resin (Novolac)"
+            },
+            {
+                "name": "US: C-6 fluorinated acrylic copolymer"
+            },
+            {
+                "name": "GLO: Zinc oxide"
+            },
+            {
+                "name": "DE: Polyacrylic acid (PAA)"
+            },
+            {
+                "name": "US: Ammonium sulphate, by product acrylonitrile, hydrocyanic acid"
+            },
+            {
+                "name": "US: Limestone flour (5mm)"
+            },
+            {
+                "name": "US: Styrene-butadiene rubber (SBR)"
+            },
+            {
+                "name": "US: Glass fibres"
+            },
+            {
+                "name": "US: Titanium dioxide pigment"
+            },
+            {
+                "name": "EU-27: Polypropylene (PP) incineration"
+            },
+            {
+                "name": "US: Polypropylene Fibres (PP)"
+            },
+            {
+                "name": "US: Municipal waste water treatment (mix)"
+            },
+            {
+                "name": "US: Thermal energy from natural gas (eGrid)"
+            },
+            {
+                "name": "GLO: Steam conversion (lp)"
+            },
+            {
+                "name": "US: Nylon (PA 6) fabric (estimation)"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "92.4% to landfill (plastic); 2.2% to incineration/waste-to-energy/cement kilns; 5.4% to recovery/reuse",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "2.21E-02"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.75E-03"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "8.78E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.03E-09"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "3.32E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "1.59E+02"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "6.99E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "2.45E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "1.06E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.22E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "6.81E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.66E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP152",
+    "name": "Carpet",
+    "altNames": [
+        "Carpet w/ Nylon 6 fiber",
+        "Polyolefin backing",
+        "and Limestone Filler"
+    ],
+    "uniformats": [
+        {
+            "id": "C2040",
+            "name": "Stair Finishes"
+        },
+        {
+            "id": "C2030",
+            "name": "Flooring"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "09-68-00",
+            "name": "Carpeting"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Carpet products are commonly available as tile (aka. modular) and broadloom carpeting. Carpet products start as a yarn face, tufted into a primary backing. A precoat layer of latex, filler, alumina tryihydrate flame retardant and other additives is applied to the primary backing to bind a scrim stabilizing layer and a secondary backing layer. Despite their similar construction, carpet products are made with a variety of polymer, filler, and additive content. Yarns are commonly made with Nylon 6 or Nylon 6,6, but may also be made with polyester, typically polyester terephalate (PET). Primary backings are typically a woven polyolefin such as polyester or propylene, but secondary backings widely vary including woven polyolefin, polyurethane and vinyl foams, polyvinyl chloride (PVC), rubber and asphalt. Filler content within the precoat and some secondary backings also vary, including virgin and/or recycled limestone, fly ash (aka. calcium aluminosilicate glass), recycled glass, asphalt, and/or recycled carpet. Fly ash is the most commonly used filler in carpet backings, often bringing heavy metal content such as mercury into the carpet backing. However, the use of fly ash was excluded in this CP for those that specify no fly ash carpeting. Antimicrobial treatments are commonly used as components of the latex precoat, although their efficacy is controversial. Stain treatments are also commonly used across the market, though they are generally proprietary and technologies may be specific to the type of fiber used. Carpets may be installed by direct glue or with factory or site applied peel and stick adhesives. This CP represents a carpet tile made with stain repellant treated nylon 6 fiber, polyolefin backings, and limestone filler.",
+    "sources": [
+        {
+            "name": "Ecoworx Spec",
+            "url": "http://www.shawcontractgroup.com/Content/LiteraturePDFs/Backings_pdf/ecoworx_spec.pdf",
+            "id": 9428
+        },
+        {
+            "name": "Ecoworx EPD",
+            "url": "http://www.shawcontractgroup.com/Content/LiteraturePDFs/Environmental_pdf/SHAW_101.2_EPD_EcoWorxCommercialCarpetTile_29November2012.pdf",
+            "id": 9429
+        },
+        {
+            "name": "Ecoworx HPD",
+            "url": "http://www.shawcontractgroup.com/Content/LiteraturePDFs/SCG_pdf/EcoWorx_HPD_SCG.pdf",
+            "id": 9430
+        },
+        {
+            "name": "Ecoworx Declare",
+            "url": "http://declareproducts.com/content/ecoworx-carpet-tile-1",
+            "id": 9431
+        },
+        {
+            "name": "Ecoworx Broadloom HPD",
+            "url": "http://www.shawcontractgroup.com/Content/LiteraturePDFs/SCG_pdf/EcoWorx_Broadloom_SCG_HPD.pdf",
+            "id": 9432
+        },
+        {
+            "name": "Ultraloc HPD",
+            "url": "http://www.shawcontractgroup.com/Content/LiteraturePDFs/SCG_pdf/UltralocMPC_HPD_NYLON_scg.pdf",
+            "id": 9433
+        },
+        {
+            "name": "Ethos EPD",
+            "url": "https://tandus-production.s3.amazonaws.com/content/file/136/ethos_Modular_EPD.pdf",
+            "id": 9434
+        },
+        {
+            "name": "Ethos Declare",
+            "url": "http://declareproducts.com/content/tandus-centiva-ethos%C2%AE-modular",
+            "id": 9435
+        },
+        {
+            "name": "Weldlok EPD",
+            "url": "http://www.mohawkgroup.com/sitefiles/pdfs/epd/TMG_EPD_TuftedNylonBroadloomWeldlok.pdf",
+            "id": 9436
+        },
+        {
+            "name": "Weldlok HPD",
+            "url": "http://www.mohawkgroup.com/sitefiles/pdfs/hpd/MG_TuftedBroadloomCarpetOnWeldlok.pdf",
+            "id": 9437
+        },
+        {
+            "name": "Weldlok Declare",
+            "url": "http://declareproducts.com/content/commercial-broadloom-carpet-weldlok%C2%AE",
+            "id": 9438
+        },
+        {
+            "name": "Unibond Plus EPD",
+            "url": "http://www.mohawkgroup.com/sitefiles/pdfs/epd/MG_EPD_UnibondPlus.pdf",
+            "id": 9439
+        },
+        {
+            "name": "Unibond Plus HPD",
+            "url": "http://www.mohawkgroup.com/sitefiles/pdfs/hpd/MG_HPD_UnibondPlus.pdf",
+            "id": 9440
+        },
+        {
+            "name": "Unibond Plus Declare",
+            "url": "http://declareproducts.com/content/commercial-broadloom-carpet-unibond%C2%AE-plus",
+            "id": 9441
+        },
+        {
+            "name": "Standard Broadloom EPD",
+            "url": "http://productguide.ulenvironment.com/productDocuments/1205/15/102.1_EPD_Bolyu_Broadloom.pdf",
+            "id": 9442
+        },
+        {
+            "name": "Standard Broadloom HPD",
+            "url": "http://www.bolyu.com/wp-content/uploads/hpd-broadloom-with-nylon-6.pdf",
+            "id": 9443
+        },
+        {
+            "name": "NexStep EPD",
+            "url": "http://productguide.ulenvironment.com/productDocuments/1207/15/Bentley_113.1_EPD_%20NexStep%20-%20Solution%20Dyed%20N66%20-%202013-02-25.pdf",
+            "id": 9444
+        },
+        {
+            "name": "NexStep HPD",
+            "url": "http://www.bentleymills.com/wp-content/uploads/2015/04/NexStep-Cushion-Tile-HPD.pdf",
+            "id": 9445
+        },
+        {
+            "name": "NexStep Declare",
+            "url": "http://declareproducts.com/content/nexstep-cushion-carpet-tile",
+            "id": 9446
+        },
+        {
+            "name": "High Performance PC EPD",
+            "url": "http://productguide.ulenvironment.com/productDocuments/1207/15/Bentley_110.1_EPD_HPPCBroadloomPieceDyedNylon66_26March2014.pdf",
+            "id": 9447
+        },
+        {
+            "name": "High Performance PC HPD",
+            "url": "http://www.bentleymills.com/wp-content/uploads/2015/04/High-PerformancePC-HPD.pdf",
+            "id": 9448
+        },
+        {
+            "name": "Prestige Plus RC EPD",
+            "url": "http://productguide.ulenvironment.com/productDocuments/1207/15/Bentley_122.1_EPD_PPRC%20-%20Piece%20Dyed%20N66%20-%202013-02-25.pdf",
+            "id": 9449
+        },
+        {
+            "name": "Rogers et al 2006",
+            "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1005UB2.PDF?Dockey=P1005UB2.PDF",
+            "id": 9450
+        },
+        {
+            "name": "PANNA Intersept",
+            "url": "http://www.pesticideinfo.org/Detail_Product.jsp?REG_NR=04367000001&DIST_NR=043670",
+            "id": 9451
+        },
+        {
+            "name": "Intersept MSDS",
+            "url": "http://www.kellysolutions.com/erenewals/documentsubmit/KellyData%5CGA%5Cpesticide%5CMSDS%5C43670%5C43670-1%5C43670-1_INTERSEPT_10_20_2010_8_53_37_AM.pdf",
+            "id": 9452
+        },
+        {
+            "name": "Interface Intersept",
+            "url": "http://www.interface.com/US/en-US/about/modular-carpet-tile/Preservative-Protection",
+            "id": 9453
+        },
+        {
+            "name": "PANNA AlphaSan",
+            "url": "http://www.pesticideinfo.org/Detail_Product.jsp?REG_NR=01163100002&DIST_NR=011631",
+            "id": 9454
+        },
+        {
+            "name": "NICNAS 2004",
+            "url": "https://pharosproject.net/uploads/files/sources/1185/alphasan-std1081fr.pdf",
+            "id": 9455
+        },
+        {
+            "name": "Beaulieu Silver Release",
+            "url": "http://usa.beaulieugroup.com/silver-release-carpet/",
+            "id": 9456
+        },
+        {
+            "name": "Beaulieu Scotchguard Protector",
+            "url": "http://usa.beaulieugroup.com/scotchgard-protector/",
+            "id": 9457
+        },
+        {
+            "name": "Sentry Plus TDS",
+            "url": "http://www.mohawkgroup.com/sitefiles/PDFs/SentryPlus_TDS.pdf",
+            "id": 9458
+        },
+        {
+            "name": "PANNA Zinc omadine powder",
+            "url": "http://www.pesticideinfo.org/Detail_Product.jsp?REG_NR=00125800840&DIST_NR=001258",
+            "id": 9459
+        },
+        {
+            "name": "Wilbanks et al 2009",
+            "url": "https://books.google.com/books?id=vJ3NAwAAQBAJ&pg=PA411&lpg=PA411&dq=%22prosept%22+zinc+omadine&source=bl&ots=oD3Ytm0wHj&sig=qqL-Cxb-3KHUc_mmezsFLdOVrUE&hl=en&sa=X&ved=0CCEQ6AEwAGoVChMIzNafgMm1xwIVx_M-Ch2JfQCl#v=onepage&q=%22prosept%22%20zinc%20omadine&f=false",
+            "id": 9460
+        },
+        {
+            "name": "Iannaco 2011",
+            "url": "http://www.fcnews.net/2011/05/more-mills-offering-odor-eaters-bacteria-killers/",
+            "id": 9461
+        },
+        {
+            "name": "Ehrlich 2011",
+            "url": "http://www2.buildinggreen.com/article/chemicals-our-carpets-and-textiles",
+            "id": 9462
+        },
+        {
+            "name": "Beaulieu Patent 2010",
+            "url": "http://www.google.com/patents/US20100173121",
+            "id": 9463
+        },
+        {
+            "name": "Life Science Patent 2000",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/life-science-United%20States%20Patent_%207314748.pdf",
+            "id": 9464
+        },
+        {
+            "name": "Interface Patent 2003",
+            "url": "https://www.pharosproject.net/uploads/files/sources/1365/Interface-United%20States%20Patent_%205428117.pdf",
+            "id": 9465
+        },
+        {
+            "name": "Shaw Patent 2006",
+            "url": "https://www.google.com/patents/WO2006079065A1",
+            "id": 9466
+        },
+        {
+            "name": "Moody et al 2004",
+            "url": "https://books.google.com/books?id=uQFO8QsgSIIC&pg=PA182&lpg=PA182&dq=Sulfonated+aromatic+condensate+and+carpet&source=bl&ots=pY0hnVPG5S&sig=tQm-yUSlmBm6YaK2IWHxsOiT-20&hl=en&sa=X&ved=0CDEQ6AEwBGoVChMI7N31l4O4xwIVERWSCh18Pwui#v=onepage&q=Sulfonated%20aromatic%20condensate%20and%20carpet&f=false",
+            "id": 9467
+        },
+        {
+            "name": "BEES Generic Nylon Carpet",
+            "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Nylon%20Carpet.pdf",
+            "id": 9468
+        },
+        {
+            "name": "Realff et al 2005",
+            "url": "https://carpetrecovery.org/wp-content/uploads/2014/04/Life_Cycle_Carpet.pdf",
+            "id": 9469
+        },
+        {
+            "name": "Peach State labs Patent 1994",
+            "url": "https://data.epo.org/publication-server/pdf-document?pn=0428639&ki=B1&cc=EP",
+            "id": 9470
+        },
+        {
+            "name": "Invista Anti-Soil Technology",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/Invista-antisoil-techdocs.pdf",
+            "id": 9471
+        },
+        {
+            "name": "Salamone 1996",
+            "url": "https://books.google.com/books?id=m7pQjS1QKdgC&pg=PA2334&lpg=PA2334&dq=phenol+sulfonic+acid+condensate+methacrylic+acid&source=bl&ots=SwGVYXTky3&sig=jQlejXZVeFgq_pPw2n-o8YrqIVM&hl=en&sa=X&ved=0CCwQ6AEwAmoVChMIyJHLmpC4xwIVBnI-Ch10-wsv#v=onepage&q=phenol%20sulfonic%20acid%20condensate%20methacrylic%20acid&f=false",
+            "id": 9472
+        },
+        {
+            "name": "Ceramics",
+            "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+            "id": 8638
+        },
+        {
+            "name": "ASM",
+            "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+            "id": 8639
+        },
+        {
+            "name": "Mortensen",
+            "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+            "id": 8640
+        },
+        {
+            "name": "CARE 2013",
+            "url": "https://carpetrecovery.org/wp-content/uploads/2014/04/CARE-2013-Annual-Report.pdf",
+            "id": 9473
+        }
+    ]
+}

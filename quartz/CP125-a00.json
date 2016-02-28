@@ -1,0 +1,3165 @@
+{
+    "CPID": "CP125",
+    "timestamp": 1452102139079,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 10412,
+            "name": "Scrim",
+            "CASRN": "",
+            "massPct": 0.083214,
+            "function": "",
+            "hazards": {},
+            "components": [
+                {
+                    "recId": 6706,
+                    "name": "Polyethylene Terephthalate",
+                    "CASRN": "25038-59-9",
+                    "massPct": 1,
+                    "function": "scrim",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "CFFA SPPR PVC membrane EPD",
+                            "url": "http://www.vinylroofs.org/documents/Environmental-Product-Declaration.pdf",
+                            "id": 6854
+                        },
+                        {
+                            "name": "Cooley Group 2014",
+                            "url": "https://www.google.com/patents/US8669196",
+                            "id": 6806
+                        },
+                        {
+                            "name": "Whelan 2004",
+                            "url": "https://pharosproject.net/uploads/files/sources/1828/1329141722.pdf",
+                            "id": 6824
+                        },
+                        {
+                            "name": "Versiflex-E KEE HP Membrane TDB",
+                            "url": "https://www.versico.com/view.aspx?mode=media&contentID=667",
+                            "id": 6786
+                        },
+                        {
+                            "name": "Versiflex PVC Membrane TDB",
+                            "url": "https://www.versico.com/view.aspx?mode=media&contentID=666",
+                            "id": 6785
+                        },
+                        {
+                            "name": "Versifleece KEE HP Membrane TDB",
+                            "url": "https://www.versico.com/view.aspx?mode=media&contentID=1322",
+                            "id": 6783
+                        },
+                        {
+                            "name": "CoolGuard HRL36 TDS",
+                            "url": "http://cooleygroup.com/wp-content/uploads/2012/03/01-Coolguard.pdf",
+                            "id": 6773
+                        },
+                        {
+                            "name": "Sikaplan Fastened EnergySmart PDS",
+                            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/Sikaplan%20Fastened%20PDS%20v3.pdf",
+                            "id": 6772
+                        },
+                        {
+                            "name": "Sarnafil S327 PDS",
+                            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/Sarnafil%20S327%20PDS%20v1.pdf",
+                            "id": 6770
+                        },
+                        {
+                            "name": "Sarnafil S327 EnergySmart PDS",
+                            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/Sarnafil%20S327%20EnergySmart%20PDS%20v1.pdf",
+                            "id": 6769
+                        },
+                        {
+                            "name": "Sure-Flex PVC membrane",
+                            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1279",
+                            "id": 6764
+                        },
+                        {
+                            "name": "Sure-Flex Kee HP PVC membrane",
+                            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1278",
+                            "id": 6763
+                        },
+                        {
+                            "name": "JM PVC FB MSDS",
+                            "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000000181_REG_NA_EN.pdf",
+                            "id": 6751
+                        },
+                        {
+                            "name": "JM/CG 24 year PVC formulation",
+                            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Technical%20Articles%20and%20White%20Papers/RS-8958_JMPVC_SellSheet%20(9).pdf",
+                            "id": 6746
+                        },
+                        {
+                            "name": "FiberTite 36 mil PDS",
+                            "url": "http://www.fibertite.com/downloads/products/8530_FiberTite.pdf",
+                            "id": 6740
+                        },
+                        {
+                            "name": "EverGuard PVC XK Fleeceback 60 mil TDS",
+                            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_PVC/EverGuard_PVC_60_Fleece_Back_Membrane/EverGuard_PVC_XK_60_Mil_Fleeceback_Membrane_Product_Data_Sheet.pdf",
+                            "id": 6736
+                        },
+                        {
+                            "name": "EverGuard PVC XK 50 mil TDS",
+                            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_PVC/EverGuard_PVC_50_Membrane/EverGuard_PVC_XK_50_Mil_Membrane_Product_Data_Sheet.pdf",
+                            "id": 6732
+                        },
+                        {
+                            "name": "EverGuard PVC 50 mil TDS",
+                            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_PVC/EverGuard_PVC_50_Membrane/EverGuard_PVC_50_mil_Membrane_10ft_wide_Product_Data_Sheet.pdf",
+                            "id": 6731
+                        }
+                    ],
+                    "notes": "PET",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.083214
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.083214
+        },
+        {
+            "recId": 6855,
+            "name": "Polyvinyl Chloride Sheet Membrane",
+            "CASRN": "",
+            "massPct": 0.932377,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": 0.5124881578940328,
+                        "contributors": [
+                            {
+                                "recId": 2920,
+                                "massPct": 0.509848,
+                                "childrenIds": [
+                                    2920
+                                ]
+                            },
+                            {
+                                "recId": 6865,
+                                "massPct": 0.0026401578940328,
+                                "childrenIds": [
+                                    6865,
+                                    1531
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.64444,
+                        "contributors": [
+                            {
+                                "recId": 2920,
+                                "massPct": 0.509848,
+                                "childrenIds": [
+                                    2920
+                                ]
+                            },
+                            {
+                                "recId": 6858,
+                                "massPct": 0.125667,
+                                "childrenIds": [
+                                    6858
+                                ]
+                            },
+                            {
+                                "recId": 6862,
+                                "massPct": 0.006155,
+                                "childrenIds": [
+                                    6862
+                                ]
+                            },
+                            {
+                                "recId": 6861,
+                                "massPct": 0.00277,
+                                "childrenIds": [
+                                    6861
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": 0.0397976315794754,
+                        "contributors": [
+                            {
+                                "recId": 6865,
+                                "massPct": 0.010560631579475399,
+                                "childrenIds": [
+                                    6865,
+                                    6868
+                                ]
+                            },
+                            {
+                                "recId": 6859,
+                                "massPct": 0.023082,
+                                "childrenIds": [
+                                    6859
+                                ]
+                            },
+                            {
+                                "recId": 6862,
+                                "massPct": 0.006155,
+                                "childrenIds": [
+                                    6862
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.125667,
+                        "contributors": [
+                            {
+                                "recId": 6858,
+                                "massPct": 0.125667,
+                                "childrenIds": [
+                                    6858
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.057448,
+                        "contributors": [
+                            {
+                                "recId": 2766,
+                                "massPct": 0.051293,
+                                "childrenIds": [
+                                    2766
+                                ]
+                            },
+                            {
+                                "recId": 6862,
+                                "massPct": 0.006155,
+                                "childrenIds": [
+                                    6862
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-10360",
+                        "type": "orange",
+                        "name": "Neurotoxicity",
+                        "massPct": 0.006155,
+                        "contributors": [
+                            {
+                                "recId": 6862,
+                                "massPct": 0.006155,
+                                "childrenIds": [
+                                    6862
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental",
+                        "massPct": 0.53293,
+                        "contributors": [
+                            {
+                                "recId": 2920,
+                                "massPct": 0.509848,
+                                "childrenIds": [
+                                    2920
+                                ]
+                            },
+                            {
+                                "recId": 6859,
+                                "massPct": 0.023082,
+                                "childrenIds": [
+                                    6859
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-572",
+                        "type": "red",
+                        "name": "Respiratory",
+                        "massPct": 0.509848,
+                        "contributors": [
+                            {
+                                "recId": 2920,
+                                "massPct": 0.509848,
+                                "childrenIds": [
+                                    2920
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": 0.023082,
+                        "contributors": [
+                            {
+                                "recId": 6859,
+                                "massPct": 0.023082,
+                                "childrenIds": [
+                                    6859
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": 0.154904,
+                        "contributors": [
+                            {
+                                "recId": 6859,
+                                "massPct": 0.023082,
+                                "childrenIds": [
+                                    6859
+                                ]
+                            },
+                            {
+                                "recId": 6858,
+                                "massPct": 0.125667,
+                                "childrenIds": [
+                                    6858
+                                ]
+                            },
+                            {
+                                "recId": 6862,
+                                "massPct": 0.006155,
+                                "childrenIds": [
+                                    6862
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": 0.051293,
+                        "contributors": [
+                            {
+                                "recId": 2766,
+                                "massPct": 0.051293,
+                                "childrenIds": [
+                                    2766
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT",
+                        "massPct": 0.006155,
+                        "contributors": [
+                            {
+                                "recId": 6862,
+                                "massPct": 0.006155,
+                                "childrenIds": [
+                                    6862
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 6857,
+                    "name": "Ethylene-vinyl acetate-carbon monoxide terpolymer",
+                    "CASRN": "26337-35-9",
+                    "massPct": 0.169163,
+                    "function": "plasticizer",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "CFFA SPPR PVC membrane EPD",
+                            "url": "http://www.vinylroofs.org/documents/Environmental-Product-Declaration.pdf",
+                            "id": 6854
+                        },
+                        {
+                            "name": "Grossman 2008",
+                            "url": "https://books.google.com/books?id=1eBbIoL0bgAC&pg=PA108&lpg=PA108&dq=what+compounds+compose+barium+zinc+stabilizer&source=bl&ots=pA8wSnPMGE&sig=wY1MylXyyoXnPQF_WoEzp8pBUrU&hl=en&sa=X&ei=yP-LVbavK8epogTWm76YDQ&ved=0CDkQ6AEwBA#v=onepage&q=what%20compounds%20compose%20barium%20zinc%20stabilizer&f=false",
+                            "id": 6840
+                        },
+                        {
+                            "name": "Elvaloy KEE brochure",
+                            "url": "http://www2.dupont.com/Elvaloy_KEE/en_US/assets/downloads/elvaloy-kee-roofing.pdf",
+                            "id": 6808
+                        },
+                        {
+                            "name": "Firestone 1993",
+                            "url": "https://www.google.com/patents/CA2099104A1",
+                            "id": 6807
+                        },
+                        {
+                            "name": "Elvaloy 4924 TDS",
+                            "url": "http://www.dupont.com/content/dam/dupont/products-and-services/packaging-materials-and-solutions/packaging-materials-and-solutions-landing/documents/elvaloy_4924.pdf",
+                            "id": 6802
+                        },
+                        {
+                            "name": "Elvaloy 741 TDS",
+                            "url": "http://www.dupont.com/content/dam/dupont/products-and-services/packaging-materials-and-solutions/packaging-materials-and-solutions-landing/documents/elvaloy_741.pdf",
+                            "id": 6798
+                        },
+                        {
+                            "name": "Elvaloy 742 TDS",
+                            "url": "http://www.dupont.com/content/dam/dupont/products-and-services/packaging-materials-and-solutions/packaging-materials-and-solutions-landing/documents/elvaloy_742.pdf",
+                            "id": 6800
+                        },
+                        {
+                            "name": "Elvaloy 742 MSDS 2011",
+                            "url": "https://pharosproject.net/uploads/files/sources/1828/1360594784.pdf",
+                            "id": 6803
+                        },
+                        {
+                            "name": "Waterproofing Magazine 04-2013",
+                            "url": "http://www.waterproofmag.com/back_issues/201304/PVC.php",
+                            "id": 6826
+                        },
+                        {
+                            "name": "Cooley Group 2014",
+                            "url": "https://www.google.com/patents/US8669196",
+                            "id": 6806
+                        },
+                        {
+                            "name": "Versiflex-E KEE HP Membrane MSDS",
+                            "url": "https://www.versico.com/view.aspx?mode=media&contentID=158",
+                            "id": 6788
+                        },
+                        {
+                            "name": "CoolGuard HRL36 TDS",
+                            "url": "http://cooleygroup.com/wp-content/uploads/2012/03/01-Coolguard.pdf",
+                            "id": 6773
+                        },
+                        {
+                            "name": "GlobalPly E PDS",
+                            "url": "http://www.globalshield.us/datasheets/products/65-GlobalPly-E.pdf",
+                            "id": 6755
+                        },
+                        {
+                            "name": "JM PVC 50 mil TDS",
+                            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Data%20sheets/JM%20PVC%20Data%20Sheets/RS-8920_JMPVC50mil.pdf",
+                            "id": 6745
+                        },
+                        {
+                            "name": "JM/CG 24 year PVC formulation",
+                            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Technical%20Articles%20and%20White%20Papers/RS-8958_JMPVC_SellSheet%20(9).pdf",
+                            "id": 6746
+                        },
+                        {
+                            "name": "FiberTite FB 36 mil PDS",
+                            "url": "http://www.fibertite.com/downloads/products/8530_FiberTite-FB.pdf",
+                            "id": 6741
+                        },
+                        {
+                            "name": "FiberTite 36 mil PDS",
+                            "url": "http://www.fibertite.com/downloads/products/8530_FiberTite.pdf",
+                            "id": 6740
+                        },
+                        {
+                            "name": "FiberTite vs PVC",
+                            "url": "http://www.fibertite.com/comparison-pages/ft-membrane-roofing-vs-PVC-roofs.html",
+                            "id": 6739
+                        },
+                        {
+                            "name": "EverGuard PVC XK Fleeceback 60 mil TDS",
+                            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_PVC/EverGuard_PVC_60_Fleece_Back_Membrane/EverGuard_PVC_XK_60_Mil_Fleeceback_Membrane_Product_Data_Sheet.pdf",
+                            "id": 6736
+                        },
+                        {
+                            "name": "EverGuard PVC XK 50 mil TDS",
+                            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_PVC/EverGuard_PVC_50_Membrane/EverGuard_PVC_XK_50_Mil_Membrane_Product_Data_Sheet.pdf",
+                            "id": 6732
+                        },
+                        {
+                            "name": "EverGuard PVC Brochure",
+                            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_PVC/EverGuard_PVC_Roofing_Systems_Brochure.pdf",
+                            "id": 6728
+                        },
+                        {
+                            "name": "Sure-Flex Reinforced KEE HP Membrane MSDS",
+                            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=5085",
+                            "id": 6757
+                        }
+                    ],
+                    "notes": "Ketone ethyl ester (KEE) additives have been used in PVC membranes for over 30 years as a high molecular weight plasticizer. This additive partially replaces phthalate plasticizers, which commonly leach out and lead to poor performance in the long term.",
+                    "lca": "",
+                    "massPctOfTotal": 0.15772369045100001
+                },
+                {
+                    "recId": 6860,
+                    "name": "Butanedioic acid, dimethyl ester, polymer with 4-hydroxy-2,2,6,6-tetramethyl-1-piperidine ethanol",
+                    "CASRN": "65447-77-0",
+                    "massPct": 0.001128,
+                    "function": "hindered amine light stabilizer (HALS)",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Alvinox 176 TDS",
+                            "url": "http://www.dbbecker.com/images/stories/DBB_Technical_Files/D.B.%20Becker%20Supplier%20Literature/3V-USA/3V%20TDS/Alvinox_176.pdf",
+                            "id": 6694
+                        },
+                        {
+                            "name": "BNX 1076 TDS",
+                            "url": "http://www.mayzo.com/pdf/BNX1076TF.pdf",
+                            "id": 6676
+                        },
+                        {
+                            "name": "Irganox 1076 MSDS",
+                            "url": "http://formosa.msdssoftware.com/imagedir/i011f322.pdf ",
+                            "id": 6811
+                        },
+                        {
+                            "name": "BASF Additives for Specialty Polymers",
+                            "url": "http://www.plastic-additives.basf.com/ev/internet/plastic-additives/en_GB/function/conversions:/publish/content/plastic-additives/Download_center/Downloads/Additives-for-specialty-polymers.pdf ",
+                            "id": 6809
+                        },
+                        {
+                            "name": "Cooley Group 2014",
+                            "url": "https://www.google.com/patents/US8669196",
+                            "id": 6806
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.001051721256
+                },
+                {
+                    "recId": 2920,
+                    "name": "Polyvinyl Chloride",
+                    "CASRN": "9002-86-2",
+                    "massPct": 0.509848,
+                    "function": "polymer",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-568",
+                                "type": "red",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "red-572",
+                                "type": "red",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Firestone 1993",
+                            "url": "https://www.google.com/patents/CA2099104A1",
+                            "id": 6807
+                        },
+                        {
+                            "name": "CFFA SPPR PVC membrane EPD",
+                            "url": "http://www.vinylroofs.org/documents/Environmental-Product-Declaration.pdf",
+                            "id": 6854
+                        },
+                        {
+                            "name": "Grossman 2008",
+                            "url": "https://books.google.com/books?id=1eBbIoL0bgAC&pg=PA108&lpg=PA108&dq=what+compounds+compose+barium+zinc+stabilizer&source=bl&ots=pA8wSnPMGE&sig=wY1MylXyyoXnPQF_WoEzp8pBUrU&hl=en&sa=X&ei=yP-LVbavK8epogTWm76YDQ&ved=0CDkQ6AEwBA#v=onepage&q=what%20compounds%20compose%20barium%20zinc%20stabilizer&f=false",
+                            "id": 6840
+                        },
+                        {
+                            "name": "Foley et al",
+                            "url": "http://www.jdkoontz.com/articles/aging.pdf",
+                            "id": 6825
+                        },
+                        {
+                            "name": "Whelan 2004",
+                            "url": "https://pharosproject.net/uploads/files/sources/1828/1329141722.pdf",
+                            "id": 6824
+                        },
+                        {
+                            "name": "Cooley Group 2014",
+                            "url": "https://www.google.com/patents/US8669196",
+                            "id": 6806
+                        },
+                        {
+                            "name": "IB PVC Membranes MSDS",
+                            "url": "http://ibroof.com/sites/default/files/IB%20PVC%20MEMBRANES%20MSDS%20-%2003.04.14_10.pdf",
+                            "id": 6789
+                        },
+                        {
+                            "name": "Versiflex PVC Membrane MSDS",
+                            "url": "https://www.versico.com/view.aspx?mode=media&contentID=157",
+                            "id": 6787
+                        },
+                        {
+                            "name": "Versiflex-E KEE HP Membrane MSDS",
+                            "url": "https://www.versico.com/view.aspx?mode=media&contentID=158",
+                            "id": 6788
+                        },
+                        {
+                            "name": "Duro-Last Membrane MSDS",
+                            "url": "http://duro-last.com/pdf/msds/duro_last_membrane.pdf",
+                            "id": 6778
+                        },
+                        {
+                            "name": "Sure-Flex Reinforced PVC Membrane MSDS",
+                            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1405",
+                            "id": 6759
+                        },
+                        {
+                            "name": "Sure-Flex Reinforced KEE HP Membrane MSDS",
+                            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=5085",
+                            "id": 6757
+                        },
+                        {
+                            "name": "EverGuard PVC #1094 MSDS",
+                            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_PVC/EverGuard_PVC_50_Membrane/EverGuard_PVC_1_MSDS_1094.pdf",
+                            "id": 6734
+                        }
+                    ],
+                    "notes": "PVC",
+                    "lca": "",
+                    "massPctOfTotal": 0.475370548696
+                },
+                {
+                    "recId": 6865,
+                    "name": "Barium Zinc Mixed Metal",
+                    "CASRN": "",
+                    "massPct": 0.016721,
+                    "function": "stabilizer",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": 0.6315789474,
+                                "contributors": [
+                                    {
+                                        "recId": 6868,
+                                        "massPct": 0.6315789474,
+                                        "childrenIds": [
+                                            6868
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": 0.1578947368,
+                                "contributors": [
+                                    {
+                                        "recId": 1531,
+                                        "massPct": 0.1578947368,
+                                        "childrenIds": [
+                                            1531
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "components": [
+                        {
+                            "recId": 6868,
+                            "name": "Triphenyl Phosphite",
+                            "CASRN": "101-02-0",
+                            "massPct": 0.6315789474,
+                            "function": "phosphite antioxidant",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-578",
+                                        "type": "orange",
+                                        "name": "Organ Toxicant",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Cruz et al 2009",
+                                    "url": "http://www.plasticsindustry.org/files/about/vpd/b_cruz_halstab.pdf",
+                                    "id": 6841
+                                },
+                                {
+                                    "name": "Jakupca 2010",
+                                    "url": "http://www.doverchem.com/Portals/0/Polymer%20Stabilizers%20-%20Current%20Challenges%20and%20Future%20Trends.pdf",
+                                    "id": 6852
+                                },
+                                {
+                                    "name": "Therm-Check 120 LOHF",
+                                    "url": "http://www.harwickstandard.com/msds_sheets/02904351.pdf",
+                                    "id": 6851
+                                }
+                            ],
+                            "notes": "Representative CAS",
+                            "lca": "",
+                            "massPctOfTotal": 0.009846489990176534
+                        },
+                        {
+                            "recId": 1531,
+                            "name": "Zinc Stearate",
+                            "CASRN": "557-05-1",
+                            "massPct": 0.1578947368,
+                            "function": "stabilizer zinc compound",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-7912",
+                                        "type": "orange",
+                                        "name": "Respiratory (occupational only)",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Jakupca 2010",
+                                    "url": "http://www.doverchem.com/Portals/0/Polymer%20Stabilizers%20-%20Current%20Challenges%20and%20Future%20Trends.pdf",
+                                    "id": 6852
+                                },
+                                {
+                                    "name": "Cruz et al 2009",
+                                    "url": "http://www.plasticsindustry.org/files/about/vpd/b_cruz_halstab.pdf",
+                                    "id": 6841
+                                },
+                                {
+                                    "name": "Therm-Check 120 LOHF",
+                                    "url": "http://www.harwickstandard.com/msds_sheets/02904351.pdf",
+                                    "id": 6851
+                                },
+                                {
+                                    "name": "Therm-Check 130 MSDS",
+                                    "url": "http://www.harwickstandard.com/msds_sheets/0290403.pdf",
+                                    "id": 6850
+                                },
+                                {
+                                    "name": "AKCROSTAB BZ-4929DC MSDS",
+                                    "url": "http://www.catalogocharlotte.com/fams/pdf/estabilizadores/MSDS%20AKCROSTAB%20BZ-4929DC%20%20ING.pdf",
+                                    "id": 6849
+                                },
+                                {
+                                    "name": "Grossman 2008",
+                                    "url": "https://books.google.com/books?id=1eBbIoL0bgAC&pg=PA108&lpg=PA108&dq=what+compounds+compose+barium+zinc+stabilizer&source=bl&ots=pA8wSnPMGE&sig=wY1MylXyyoXnPQF_WoEzp8pBUrU&hl=en&sa=X&ei=yP-LVbavK8epogTWm76YDQ&ved=0CDkQ6AEwBA#v=onepage&q=what%20compounds%20compose%20barium%20zinc%20stabilizer&f=false",
+                                    "id": 6840
+                                }
+                            ],
+                            "notes": "Representative CAS",
+                            "lca": "",
+                            "massPctOfTotal": 0.0024616224967646196
+                        },
+                        {
+                            "recId": 6866,
+                            "name": "Hexanoic acid, 2-ethyl-, barium salt",
+                            "CASRN": "2457-01-4",
+                            "massPct": 0.2105263158,
+                            "function": "stabilizer barium compound",
+                            "hazards": {},
+                            "sources": [
+                                {
+                                    "name": "Sikaplan MSDS 2007",
+                                    "url": "https://pharosproject.net/uploads/files/sources/1828/1329141760.pdf",
+                                    "id": 6823
+                                },
+                                {
+                                    "name": "Sarnafil MSDS 2011",
+                                    "url": "https://pharosproject.net/uploads/files/sources/1828/G%20Series%20MSDS-2.pdf",
+                                    "id": 6822
+                                }
+                            ],
+                            "notes": "Representative CAS.",
+                            "lca": "",
+                            "massPctOfTotal": 0.003282163330058845
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "name": "Stabilizer Fact Tables",
+                            "url": "www.pvc.org/en/p/stabilizer-fact-tables",
+                            "id": 6830
+                        },
+                        {
+                            "name": "Grossman 2008",
+                            "url": "https://books.google.com/books?id=1eBbIoL0bgAC&pg=PA108&lpg=PA108&dq=what+compounds+compose+barium+zinc+stabilizer&source=bl&ots=pA8wSnPMGE&sig=wY1MylXyyoXnPQF_WoEzp8pBUrU&hl=en&sa=X&ei=yP-LVbavK8epogTWm76YDQ&ved=0CDkQ6AEwBA#v=onepage&q=what%20compounds%20compose%20barium%20zinc%20stabilizer&f=false",
+                            "id": 6840
+                        },
+                        {
+                            "name": "Foley et al",
+                            "url": "http://www.jdkoontz.com/articles/aging.pdf",
+                            "id": 6825
+                        },
+                        {
+                            "name": "Sikaplan Fastened EnergySmart PDS",
+                            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/Sikaplan%20Fastened%20PDS%20v3.pdf",
+                            "id": 6772
+                        },
+                        {
+                            "name": "Sikaplan Adhered EnergySmart PDS",
+                            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/Sikaplan%20Adhered%20v2.pdf",
+                            "id": 6771
+                        },
+                        {
+                            "name": "Sarnafil S327 PDS",
+                            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/Sarnafil%20S327%20PDS%20v1.pdf",
+                            "id": 6770
+                        },
+                        {
+                            "name": "Sarnafil S327 EnergySmart PDS",
+                            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/Sarnafil%20S327%20EnergySmart%20PDS%20v1.pdf",
+                            "id": 6769
+                        },
+                        {
+                            "name": "Sarnafil G410 PDS",
+                            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/Sarnafil%20G410%20PDS%20v1.pdf",
+                            "id": 6768
+                        },
+                        {
+                            "name": "Sarnafil G410 EnergySmart PDS",
+                            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/Sarnafil%20G410%20EnergySmart%20PDS%20v1.pdf",
+                            "id": 6767
+                        },
+                        {
+                            "name": "Cooley Group 2014",
+                            "url": "https://www.google.com/patents/US8669196",
+                            "id": 6806
+                        },
+                        {
+                            "name": "DiMaio 2010",
+                            "url": "https://pharosproject.net/uploads/files/sources/1828/Tony%20DiMaio%20Presentation%202010.pdf",
+                            "id": 6819
+                        },
+                        {
+                            "name": "IB PVC Membranes MSDS",
+                            "url": "http://ibroof.com/sites/default/files/IB%20PVC%20MEMBRANES%20MSDS%20-%2003.04.14_10.pdf",
+                            "id": 6789
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.015590275817
+                },
+                {
+                    "recId": 6859,
+                    "name": "Antimony Trioxide",
+                    "CASRN": "1309-64-4",
+                    "massPct": 0.023082,
+                    "function": "fire retardant",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "red-568",
+                                "type": "red",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "red-567",
+                                "type": "red",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Sure-Flex Reinforced PVC Membrane MSDS",
+                            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1405",
+                            "id": 6759
+                        },
+                        {
+                            "name": "Versiflex PVC Membrane MSDS",
+                            "url": "https://www.versico.com/view.aspx?mode=media&contentID=157",
+                            "id": 6787
+                        },
+                        {
+                            "name": "CFFA SPPR PVC membrane EPD",
+                            "url": "http://www.vinylroofs.org/documents/Environmental-Product-Declaration.pdf",
+                            "id": 6854
+                        },
+                        {
+                            "name": "EverGuard PVC #2199 MSDS",
+                            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_PVC/EverGuard_PVC_50_Membrane/EverGuard_PVC_MSDS_2199.pdf",
+                            "id": 6733
+                        },
+                        {
+                            "name": "Cooley Group 2014",
+                            "url": "https://www.google.com/patents/US8669196",
+                            "id": 6806
+                        },
+                        {
+                            "name": "IB PVC Membranes MSDS",
+                            "url": "http://ibroof.com/sites/default/files/IB%20PVC%20MEMBRANES%20MSDS%20-%2003.04.14_10.pdf",
+                            "id": 6789
+                        },
+                        {
+                            "name": "Versiflex-E KEE HP Membrane MSDS",
+                            "url": "https://www.versico.com/view.aspx?mode=media&contentID=158",
+                            "id": 6788
+                        },
+                        {
+                            "name": "Duro-Last Membrane MSDS",
+                            "url": "http://duro-last.com/pdf/msds/duro_last_membrane.pdf",
+                            "id": 6778
+                        },
+                        {
+                            "name": "Sikaplan MSDS",
+                            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/sikaplan_membrane_msds.pdf",
+                            "id": 6766
+                        },
+                        {
+                            "name": "Roofing/Waterproofing Membrane MSDS",
+                            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/sarnafil_roofing_waterproofing_membrane_msds.pdf",
+                            "id": 6765
+                        },
+                        {
+                            "name": "Sure-Flex Reinforced KEE HP Membrane MSDS",
+                            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=5085",
+                            "id": 6757
+                        }
+                    ],
+                    "notes": "Antimony compounds are commonly used fire retardants for PVC roofing membrane. Antimony hydroxide was the most common, but percentages for all Antimony fire retardants were used to calculate the median.",
+                    "lca": "",
+                    "massPctOfTotal": 0.021521125914
+                },
+                {
+                    "recId": 2925,
+                    "name": "Synthetic Calcium Carbonate",
+                    "CASRN": "471-34-1",
+                    "massPct": 0.053344,
+                    "function": "filler",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Firestone 1993",
+                            "url": "https://www.google.com/patents/CA2099104A1",
+                            "id": 6807
+                        },
+                        {
+                            "name": "CFFA SPPR PVC membrane EPD",
+                            "url": "http://www.vinylroofs.org/documents/Environmental-Product-Declaration.pdf",
+                            "id": 6854
+                        },
+                        {
+                            "name": "Whelan 2004",
+                            "url": "https://pharosproject.net/uploads/files/sources/1828/1329141722.pdf",
+                            "id": 6824
+                        },
+                        {
+                            "name": "Foley et al",
+                            "url": "http://www.jdkoontz.com/articles/aging.pdf",
+                            "id": 6825
+                        },
+                        {
+                            "name": "Cooley Group 2014",
+                            "url": "https://www.google.com/patents/US8669196",
+                            "id": 6806
+                        },
+                        {
+                            "name": "IB PVC Membranes MSDS",
+                            "url": "http://ibroof.com/sites/default/files/IB%20PVC%20MEMBRANES%20MSDS%20-%2003.04.14_10.pdf",
+                            "id": 6789
+                        },
+                        {
+                            "name": "EverGuard PVC #1094 MSDS",
+                            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_PVC/EverGuard_PVC_50_Membrane/EverGuard_PVC_1_MSDS_1094.pdf",
+                            "id": 6734
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.049736718688
+                },
+                {
+                    "recId": 6858,
+                    "name": "Diisononyl Phthalate",
+                    "CASRN": "68515-48-0",
+                    "massPct": 0.125667,
+                    "function": "plasticizer",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-567",
+                                "type": "red",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "CFFA SPPR PVC membrane EPD",
+                            "url": "http://www.vinylroofs.org/documents/Environmental-Product-Declaration.pdf",
+                            "id": 6854
+                        },
+                        {
+                            "name": "Grossman 2008",
+                            "url": "https://books.google.com/books?id=1eBbIoL0bgAC&pg=PA108&lpg=PA108&dq=what+compounds+compose+barium+zinc+stabilizer&source=bl&ots=pA8wSnPMGE&sig=wY1MylXyyoXnPQF_WoEzp8pBUrU&hl=en&sa=X&ei=yP-LVbavK8epogTWm76YDQ&ved=0CDkQ6AEwBA#v=onepage&q=what%20compounds%20compose%20barium%20zinc%20stabilizer&f=false",
+                            "id": 6840
+                        },
+                        {
+                            "name": "Jayflex L9P TDS",
+                            "url": "https://www.exxonmobilchemical.com/Chem-English/Files/Resources/OXO_Jayflex_L9P_NA_en-FPS.pdf",
+                            "id": 6842
+                        },
+                        {
+                            "name": "Palatinol 711P MSDS",
+                            "url": "http://formosa.msdssoftware.com/imagedir/13818321.pdf",
+                            "id": 6828
+                        },
+                        {
+                            "name": "Versiflex PVC Membrane MSDS",
+                            "url": "https://www.versico.com/view.aspx?mode=media&contentID=157",
+                            "id": 6787
+                        },
+                        {
+                            "name": "Versiflex-E KEE HP Membrane MSDS",
+                            "url": "https://www.versico.com/view.aspx?mode=media&contentID=158",
+                            "id": 6788
+                        },
+                        {
+                            "name": "Sure-Flex Reinforced PVC Membrane MSDS",
+                            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1405",
+                            "id": 6759
+                        },
+                        {
+                            "name": "Sure-Flex Reinforced KEE HP Membrane MSDS",
+                            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=5085",
+                            "id": 6757
+                        },
+                        {
+                            "name": "Firestone 1993",
+                            "url": "https://www.google.com/patents/CA2099104A1",
+                            "id": 6807
+                        },
+                        {
+                            "name": "Cooley Group 2014",
+                            "url": "https://www.google.com/patents/US8669196",
+                            "id": 6806
+                        },
+                        {
+                            "name": "IB PVC Membranes MSDS",
+                            "url": "http://ibroof.com/sites/default/files/IB%20PVC%20MEMBRANES%20MSDS%20-%2003.04.14_10.pdf",
+                            "id": 6789
+                        },
+                        {
+                            "name": "EverGuard PVC #1094 MSDS",
+                            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_PVC/EverGuard_PVC_50_Membrane/EverGuard_PVC_1_MSDS_1094.pdf",
+                            "id": 6734
+                        }
+                    ],
+                    "notes": "DINP, Phthlate esters are still commonly used in PVC roofing membranes, but partially displaced by the addition of KEE. Most manufacturers do not disclose the particular phthalate(s) they use, linear phthalates were found in representative formulations, but other evidence also shows that DEHP (EU DEHP Risk Assessment and ACC letter to CPSC 2009) or DINP (CPSC 2010 and SUD DINP 2015) could be used in roofing membranes, which are known carcinogens and reproductive toxicants, while the representative linear phthalates have not been included on such hazard lists. DINP is listed here as the representative phthalate in order to capture these potential hazards. Percentages for all phthalates were used to calculate the median.",
+                    "lca": "",
+                    "massPctOfTotal": 0.117169020459
+                },
+                {
+                    "recId": 2766,
+                    "name": "Titanium Dioxide",
+                    "CASRN": "13463-67-7",
+                    "massPct": 0.051293,
+                    "function": "pigment/UV absorber",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-7911",
+                                "type": "red",
+                                "name": "Cancer (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "JM PVC FB 50 mil TDS",
+                            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Data%20sheets/JM%20PVC%20Data%20Sheets/RS-8924_JMPVCFB50mil.pdf",
+                            "id": 6750
+                        },
+                        {
+                            "name": "JM PVC FB 72 mil TDS",
+                            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Data%20sheets/JM%20PVC%20Data%20Sheets/RS-8926_JMPVCFB72milMIN.pdf",
+                            "id": 6753
+                        },
+                        {
+                            "name": "CFFA SPPR PVC membrane EPD",
+                            "url": "http://www.vinylroofs.org/documents/Environmental-Product-Declaration.pdf",
+                            "id": 6854
+                        },
+                        {
+                            "name": "IB 80 mil FB TDS",
+                            "url": "http://ibroof.com/sites/default/files/tds_80_fleece_back.pdf",
+                            "id": 6794
+                        },
+                        {
+                            "name": "IB 80 mil TDS",
+                            "url": "http://ibroof.com/sites/default/files/tds_80_single_ply.pdf",
+                            "id": 6793
+                        },
+                        {
+                            "name": "IB 60 mil TDS",
+                            "url": "http://ibroof.com/sites/default/files/tds_60_single_ply.pdf",
+                            "id": 6792
+                        },
+                        {
+                            "name": "IB 50 mil FB TDS",
+                            "url": "http://ibroof.com/sites/default/files/tds_50_fleece_back.pdf",
+                            "id": 6791
+                        },
+                        {
+                            "name": "IB 50 mil TDS",
+                            "url": "http://ibroof.com/sites/default/files/tds_50_single_ply.pdf",
+                            "id": 6790
+                        },
+                        {
+                            "name": "Versiflex-E KEE HP Membrane TDB",
+                            "url": "https://www.versico.com/view.aspx?mode=media&contentID=667",
+                            "id": 6786
+                        },
+                        {
+                            "name": "Versiflex PVC Membrane TDB",
+                            "url": "https://www.versico.com/view.aspx?mode=media&contentID=666",
+                            "id": 6785
+                        },
+                        {
+                            "name": "Versifleece FRS PVC Membrane TDB",
+                            "url": "https://www.versico.com/view.aspx?mode=media&contentID=1205",
+                            "id": 6784
+                        },
+                        {
+                            "name": "Versifleece KEE HP Membrane TDB",
+                            "url": "https://www.versico.com/view.aspx?mode=media&contentID=1322",
+                            "id": 6783
+                        },
+                        {
+                            "name": "Versiflex FRS PVC TDB",
+                            "url": "https://www.versico.com/view.aspx?mode=media&contentID=665",
+                            "id": 6782
+                        },
+                        {
+                            "name": "Duro-Last EV 60 mil PDS",
+                            "url": "http://duro-last.com/pdf/engineering/specs/EV60_Membrane.pdf",
+                            "id": 6780
+                        },
+                        {
+                            "name": "Duro-Last 60 mil Membrane PDS",
+                            "url": "http://duro-last.com/pdf/engineering/specs/DL60_Membrane.pdf",
+                            "id": 6779
+                        },
+                        {
+                            "name": "Flex MF/R 60 PVC Roof Membrane PDS",
+                            "url": "http://www.flexroofingsystems.com/documents/product_info/pvc/Membranes/MFR%2060%20mil%20PVC%20Product%20Sheet%20r2%20(02%202015).pdf",
+                            "id": 6777
+                        },
+                        {
+                            "name": "Flex FB 60 PVC Roof Membrane PDS",
+                            "url": "http://www.flexroofingsystems.com/documents/product_info/pvc/Membranes/Fleece%20Back%2060%20mil%20PVC%20Product%20Sheet%20r1%20(02%202015).pdf",
+                            "id": 6776
+                        },
+                        {
+                            "name": "Flex FB 45 Elvaloy KEE Roof Membrane PDS",
+                            "url": "http://www.flexroofingsystems.com/documents/product_info/elvaloy/Membranes/Fleece%20Back%2045%20Elvaloy%20KEE%20Product%20Sheet%20r2%20(02%202015).pdf",
+                            "id": 6775
+                        },
+                        {
+                            "name": "Flex MF/R 45 Elvaloy KEE Roof Membrane PDS",
+                            "url": "http://www.flexroofingsystems.com/documents/product_info/elvaloy/Membranes/MFR%2045%20mil%20Elvaloy%20KEE%20Product%20Sheet%20r2%20(02%202015).pdf",
+                            "id": 6774
+                        },
+                        {
+                            "name": "Sikaplan Fastened EnergySmart PDS",
+                            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/Sikaplan%20Fastened%20PDS%20v3.pdf",
+                            "id": 6772
+                        },
+                        {
+                            "name": "Sikaplan Adhered EnergySmart PDS",
+                            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/Sikaplan%20Adhered%20v2.pdf",
+                            "id": 6771
+                        },
+                        {
+                            "name": "Sarnafil S327 PDS",
+                            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/Sarnafil%20S327%20PDS%20v1.pdf",
+                            "id": 6770
+                        },
+                        {
+                            "name": "Sarnafil S327 EnergySmart PDS",
+                            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/Sarnafil%20S327%20EnergySmart%20PDS%20v1.pdf",
+                            "id": 6769
+                        },
+                        {
+                            "name": "Sarnafil G410 PDS",
+                            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/Sarnafil%20G410%20PDS%20v1.pdf",
+                            "id": 6768
+                        },
+                        {
+                            "name": "Sarnafil G410 EnergySmart PDS",
+                            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/Sarnafil%20G410%20EnergySmart%20PDS%20v1.pdf",
+                            "id": 6767
+                        },
+                        {
+                            "name": "GlobalPly E PDS",
+                            "url": "http://www.globalshield.us/datasheets/products/65-GlobalPly-E.pdf",
+                            "id": 6755
+                        },
+                        {
+                            "name": "JM PVC FB 80 mil TDS",
+                            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Data%20sheets/JM%20PVC%20Data%20Sheets/RS-8927__JMPVCFB80mil.pdf",
+                            "id": 6754
+                        },
+                        {
+                            "name": "JM PVC FB 60 mil TDS",
+                            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Data%20sheets/JM%20PVC%20Data%20Sheets/RS-8925_JMPVCFB60mil60milMIN.pdf",
+                            "id": 6752
+                        },
+                        {
+                            "name": "JM PVC 80 mil TDS",
+                            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Data%20sheets/JM%20PVC%20Data%20Sheets/RS-8923_JMPVC80%20mil.pdf",
+                            "id": 6749
+                        },
+                        {
+                            "name": "JM PVC 60 mil TDS",
+                            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Data%20sheets/JM%20PVC%20Data%20Sheets/RS-8921_JMPVC60mil.pdf",
+                            "id": 6748
+                        },
+                        {
+                            "name": "JM PVC 50 mil TDS",
+                            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Data%20sheets/JM%20PVC%20Data%20Sheets/RS-8920_JMPVC50mil.pdf",
+                            "id": 6745
+                        },
+                        {
+                            "name": "EverGuard TPO/PVC Manual",
+                            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_PVC/EverGuard_TPO_PVC_Application_Specification_Manual_with_CAD_Details.pdf",
+                            "id": 6730
+                        },
+                        {
+                            "name": "EverGuard PVC Brochure",
+                            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_PVC/EverGuard_PVC_Roofing_Systems_Brochure.pdf",
+                            "id": 6728
+                        },
+                        {
+                            "name": "Grossman 2008",
+                            "url": "https://books.google.com/books?id=1eBbIoL0bgAC&pg=PA108&lpg=PA108&dq=what+compounds+compose+barium+zinc+stabilizer&source=bl&ots=pA8wSnPMGE&sig=wY1MylXyyoXnPQF_WoEzp8pBUrU&hl=en&sa=X&ei=yP-LVbavK8epogTWm76YDQ&ved=0CDkQ6AEwBA#v=onepage&q=what%20compounds%20compose%20barium%20zinc%20stabilizer&f=false",
+                            "id": 6840
+                        },
+                        {
+                            "name": "Firestone 1993",
+                            "url": "https://www.google.com/patents/CA2099104A1",
+                            "id": 6807
+                        },
+                        {
+                            "name": "Cooley Group 2014",
+                            "url": "https://www.google.com/patents/US8669196",
+                            "id": 6806
+                        },
+                        {
+                            "name": "Versiflex PVC Membrane MSDS",
+                            "url": "https://www.versico.com/view.aspx?mode=media&contentID=157",
+                            "id": 6787
+                        },
+                        {
+                            "name": "Versiflex-E KEE HP Membrane MSDS",
+                            "url": "https://www.versico.com/view.aspx?mode=media&contentID=158",
+                            "id": 6788
+                        },
+                        {
+                            "name": "Sure-Flex Reinforced PVC Membrane MSDS",
+                            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1405",
+                            "id": 6759
+                        },
+                        {
+                            "name": "Sure-Flex Reinforced KEE HP Membrane MSDS",
+                            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=5085",
+                            "id": 6757
+                        }
+                    ],
+                    "notes": "PVC roofing membranes may be white, tan, or grey, but are most commonly specified as white due to it's ability to reflect heat away from the rooftops onto which it's installed. Titanium dioxide (white) pigments can also act as a UV stabilizer by absorbing UV light.",
+                    "lca": "",
+                    "massPctOfTotal": 0.047824413461
+                },
+                {
+                    "recId": 6862,
+                    "name": "10,10-Oxybisphenoxarsine",
+                    "CASRN": "58-36-6",
+                    "massPct": 0.006155,
+                    "function": "biocide",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-10360",
+                                "type": "orange",
+                                "name": "Neurotoxicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-567",
+                                "type": "red",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "purple": [
+                            {
+                                "hazardId": "purple-955",
+                                "type": "purple",
+                                "name": "PBT",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "PIER 2006",
+                            "url": "https://pharosproject.net/uploads/files/sources/1828/CEC-500-2006-067-AT10.PDF ",
+                            "id": 6796
+                        },
+                        {
+                            "name": "CFFA SPPR PVC membrane EPD",
+                            "url": "http://www.vinylroofs.org/documents/Environmental-Product-Declaration.pdf",
+                            "id": 6854
+                        },
+                        {
+                            "name": "Grossman 2008",
+                            "url": "https://books.google.com/books?id=1eBbIoL0bgAC&pg=PA108&lpg=PA108&dq=what+compounds+compose+barium+zinc+stabilizer&source=bl&ots=pA8wSnPMGE&sig=wY1MylXyyoXnPQF_WoEzp8pBUrU&hl=en&sa=X&ei=yP-LVbavK8epogTWm76YDQ&ved=0CDkQ6AEwBA#v=onepage&q=what%20compounds%20compose%20barium%20zinc%20stabilizer&f=false",
+                            "id": 6840
+                        },
+                        {
+                            "name": "Firestone 1993",
+                            "url": "https://www.google.com/patents/CA2099104A1",
+                            "id": 6807
+                        },
+                        {
+                            "name": "Foley et al",
+                            "url": "http://www.jdkoontz.com/articles/aging.pdf",
+                            "id": 6825
+                        },
+                        {
+                            "name": "EverGuard PVC #2000 MSDS",
+                            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_PVC/EverGuard_PVC_50_Membrane/EverGuard_PVC_2_MSDS_2000.pdf",
+                            "id": 6735
+                        },
+                        {
+                            "name": "Cooley Group 2014",
+                            "url": "https://www.google.com/patents/US8669196",
+                            "id": 6806
+                        },
+                        {
+                            "name": "JM PVC FB MSDS",
+                            "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000000181_REG_NA_EN.pdf",
+                            "id": 6751
+                        },
+                        {
+                            "name": "Duro-Last Membrane MSDS",
+                            "url": "http://duro-last.com/pdf/msds/duro_last_membrane.pdf",
+                            "id": 6778
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.005738780435
+                },
+                {
+                    "recId": 6863,
+                    "name": "Oxidized Polyethylene",
+                    "CASRN": "68441-17-8",
+                    "massPct": 0.005129,
+                    "function": "lubricant",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "CFFA SPPR PVC membrane EPD",
+                            "url": "http://www.vinylroofs.org/documents/Environmental-Product-Declaration.pdf",
+                            "id": 6854
+                        },
+                        {
+                            "name": "Foley et al",
+                            "url": "http://www.jdkoontz.com/articles/aging.pdf",
+                            "id": 6825
+                        },
+                        {
+                            "name": "Grossman 2008",
+                            "url": "https://books.google.com/books?id=1eBbIoL0bgAC&pg=PA108&lpg=PA108&dq=what+compounds+compose+barium+zinc+stabilizer&source=bl&ots=pA8wSnPMGE&sig=wY1MylXyyoXnPQF_WoEzp8pBUrU&hl=en&sa=X&ei=yP-LVbavK8epogTWm76YDQ&ved=0CDkQ6AEwBA#v=onepage&q=what%20compounds%20compose%20barium%20zinc%20stabilizer&f=false",
+                            "id": 6840
+                        },
+                        {
+                            "name": "A-C 307 MSDS",
+                            "url": "http://msds-resource.honeywell.com/ehswww/hon/result/result_single.jsp?P_LANGU=E&P_SYS=1&C001=MSDS&C997=C100%3BE%2BC101%3BSDS_US%2BC102%3BUS%2B1000&C100=*&C101=*&C102=*&C005=000000011488&C008=&C006=HON&C013=+",
+                            "id": 6848
+                        },
+                        {
+                            "name": "Oxidized Polyethylene PSS",
+                            "url": "http://www51.honeywell.com/sm/common/documents/GPS0044_-Public_Risk_Summary_-_Oxidized_Polyethylene.pdf",
+                            "id": 6847
+                        },
+                        {
+                            "name": "Lubricants Brochure",
+                            "url": "http://www.chemson.com/uploads/media/Lubricants.pdf",
+                            "id": 6846
+                        },
+                        {
+                            "name": "Cooley Group 2014",
+                            "url": "https://www.google.com/patents/US8669196",
+                            "id": 6806
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.004782161633
+                },
+                {
+                    "recId": 6861,
+                    "name": "Octadecyl-3-(3,5-di-tert-butyl-4-hydroxyphenyl)-propionate",
+                    "CASRN": "2082-79-3",
+                    "massPct": 0.00277,
+                    "function": "primary antioxidant",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Irganox 1076 MSDS",
+                            "url": "http://formosa.msdssoftware.com/imagedir/i011f322.pdf ",
+                            "id": 6811
+                        },
+                        {
+                            "name": "BASF Additives for Specialty Polymers",
+                            "url": "http://www.plastic-additives.basf.com/ev/internet/plastic-additives/en_GB/function/conversions:/publish/content/plastic-additives/Download_center/Downloads/Additives-for-specialty-polymers.pdf ",
+                            "id": 6809
+                        },
+                        {
+                            "name": "Cooley Group 2014",
+                            "url": "https://www.google.com/patents/US8669196",
+                            "id": 6806
+                        }
+                    ],
+                    "notes": "Representative CAS.",
+                    "lca": "",
+                    "massPctOfTotal": 0.0025826842899999997
+                },
+                {
+                    "recId": 6864,
+                    "name": "Epoxidized Soybean Oil",
+                    "CASRN": "8013-07-8",
+                    "massPct": 0.018978,
+                    "function": "co-stabilizer",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "CFFA SPPR PVC membrane EPD",
+                            "url": "http://www.vinylroofs.org/documents/Environmental-Product-Declaration.pdf",
+                            "id": 6854
+                        },
+                        {
+                            "name": "DiMaio 2010",
+                            "url": "https://pharosproject.net/uploads/files/sources/1828/Tony%20DiMaio%20Presentation%202010.pdf",
+                            "id": 6819
+                        },
+                        {
+                            "name": "Grossman 2008",
+                            "url": "https://books.google.com/books?id=1eBbIoL0bgAC&pg=PA108&lpg=PA108&dq=what+compounds+compose+barium+zinc+stabilizer&source=bl&ots=pA8wSnPMGE&sig=wY1MylXyyoXnPQF_WoEzp8pBUrU&hl=en&sa=X&ei=yP-LVbavK8epogTWm76YDQ&ved=0CDkQ6AEwBA#v=onepage&q=what%20compounds%20compose%20barium%20zinc%20stabilizer&f=false",
+                            "id": 6840
+                        },
+                        {
+                            "name": "Firestone 1993",
+                            "url": "https://www.google.com/patents/CA2099104A1",
+                            "id": 6807
+                        },
+                        {
+                            "name": "Cooley Group 2014",
+                            "url": "https://www.google.com/patents/US8669196",
+                            "id": 6806
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.017694650705999997
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.932377
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Carbon Monoxide",
+            "CASRN": "630-08-0",
+            "massPct": null,
+            "function": "ethylene-vinyl acetate-carbon monoxide terpolymer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Phenol",
+            "CASRN": "108-95-2",
+            "massPct": null,
+            "function": "degradation product of triphenyl phosphite",
+            "sources": [
+                {
+                    "name": "Jakupca 2010",
+                    "url": "http://www.doverchem.com/Portals/0/Polymer%20Stabilizers%20-%20Current%20Challenges%20and%20Future%20Trends.pdf",
+                    "id": 6852
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Vinyl Acetate",
+            "CASRN": "108-05-4",
+            "massPct": 0.0001577235772,
+            "function": "ethylene-vinyl acetate-carbon monoxide terpolymer residual",
+            "sources": [
+                {
+                    "name": "Elvaloy 741 MSDS 2012",
+                    "url": "https://pharosproject.net/uploads/files/sources/1828/1360692629.pdf",
+                    "id": 6804
+                },
+                {
+                    "name": "Elvaloy 742 MSDS 2011",
+                    "url": "https://pharosproject.net/uploads/files/sources/1828/1360594784.pdf",
+                    "id": 6803
+                },
+                {
+                    "name": "Elvaloy 4924 MSDS 2015",
+                    "url": "https://www.3eonline.com/ImageServer/ImageViewer.aspx?id=3Q%2ffAR8ne%2fvPh6syVnSymkS%2bBDo8OjmbVocxRCMEgeFvvpkmLKgXO0rqDm%2fs7PnEydkptXQ5lrKe77fEPh7f0Q%3d%3d",
+                    "id": 6801
+                },
+                {
+                    "name": "Elvaloy 742 MSDS 2015",
+                    "url": "https://www.3eonline.com/ImageServer/ImageViewer.aspx?id=3Q%2ffAR8ne%2fvPh6syVnSymkS%2bBDo8OjmbVocxRCMEgeGJ%2b7mgqKBvLO0GMbSBBPCRydkptXQ5lrKe77fEPh7f0Q%3d%3d",
+                    "id": 6799
+                },
+                {
+                    "name": "Elvaloy 741 MSDS 2015",
+                    "url": "https://www.3eonline.com/ImageServer/ImageViewer.aspx?id=3Q%2ffAR8ne%2fvPh6syVnSymkS%2bBDo8OjmbVocxRCMEgeF98cIrBFcBK8dTxIbE482mydkptXQ5lrKe77fEPh7f0Q%3d%3d",
+                    "id": 6797
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Silica, amorphous",
+            "CASRN": "7631-86-9",
+            "massPct": null,
+            "function": "titanium dioxide residual",
+            "sources": [],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "2-Ethylhexanoic Acid",
+            "CASRN": "149-57-5",
+            "massPct": null,
+            "function": "barium zinc mixed metal residual",
+            "sources": [
+                {
+                    "name": "Therm-Check 120 LOHF",
+                    "url": "http://www.harwickstandard.com/msds_sheets/02904351.pdf",
+                    "id": 6851
+                },
+                {
+                    "name": "Therm-Check 130 MSDS",
+                    "url": "http://www.harwickstandard.com/msds_sheets/0290403.pdf",
+                    "id": 6850
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Stoddard Solvent",
+            "CASRN": "8052-41-3",
+            "massPct": null,
+            "function": "solvent residual",
+            "sources": [
+                {
+                    "name": "Jakupca 2010",
+                    "url": "http://www.doverchem.com/Portals/0/Polymer%20Stabilizers%20-%20Current%20Challenges%20and%20Future%20Trends.pdf",
+                    "id": 6852
+                },
+                {
+                    "name": "AKCROSTAB BZ-4929DC MSDS",
+                    "url": "http://www.catalogocharlotte.com/fams/pdf/estabilizadores/MSDS%20AKCROSTAB%20BZ-4929DC%20%20ING.pdf",
+                    "id": 6849
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Antimony Trioxide",
+            "CASRN": "1309-64-4",
+            "massPct": null,
+            "function": "polyethylene terephthalate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Antimony",
+            "CASRN": "7440-36-0",
+            "massPct": null,
+            "function": "antimony trioxide residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Vinyl Chloride Monomer",
+            "CASRN": "75-01-4",
+            "massPct": null,
+            "function": "polyvinyl chloride residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ammonium Hydroxide",
+            "CASRN": "1336-21-6",
+            "massPct": null,
+            "function": "octadecyl-3-(3,5-di-tert-butyl-4-hydroxyphenyl)-propionate or benzenepropanoic acid, 3,5-bis(1,1-dimethylethyl)-4-hydroxy-, octadecyl ester residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Zinc Oxide",
+            "CASRN": "1314-13-2",
+            "massPct": null,
+            "function": "polyethylene terephthalate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Aluminum Oxide",
+            "CASRN": "1344-28-1",
+            "massPct": null,
+            "function": "titanium dioxide residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ethylene",
+            "CASRN": "74-85-1",
+            "massPct": null,
+            "function": "ethylene-vinyl acetate-carbon monoxide terpolymer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.4778321711927646,
+                    "contributors": [
+                        {
+                            "recId": 6855,
+                            "massPct": 0.475370548696,
+                            "childrenIds": [
+                                6855,
+                                2920
+                            ]
+                        },
+                        {
+                            "recId": 6855,
+                            "massPct": 0.00246162249676462,
+                            "childrenIds": [
+                                6855,
+                                6865,
+                                1531
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.6008610338799999,
+                    "contributors": [
+                        {
+                            "recId": 6855,
+                            "massPct": 0.475370548696,
+                            "childrenIds": [
+                                6855,
+                                2920
+                            ]
+                        },
+                        {
+                            "recId": 6855,
+                            "massPct": 0.117169020459,
+                            "childrenIds": [
+                                6855,
+                                6858
+                            ]
+                        },
+                        {
+                            "recId": 6855,
+                            "massPct": 0.005738780435,
+                            "childrenIds": [
+                                6855,
+                                6862
+                            ]
+                        },
+                        {
+                            "recId": 6855,
+                            "massPct": 0.0025826842899999997,
+                            "childrenIds": [
+                                6855,
+                                6861
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.037106396339176534,
+                    "contributors": [
+                        {
+                            "recId": 6855,
+                            "massPct": 0.009846489990176534,
+                            "childrenIds": [
+                                6855,
+                                6865,
+                                6868
+                            ]
+                        },
+                        {
+                            "recId": 6855,
+                            "massPct": 0.021521125914,
+                            "childrenIds": [
+                                6855,
+                                6859
+                            ]
+                        },
+                        {
+                            "recId": 6855,
+                            "massPct": 0.005738780435,
+                            "childrenIds": [
+                                6855,
+                                6862
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.117169020459,
+                    "contributors": [
+                        {
+                            "recId": 6855,
+                            "massPct": 0.117169020459,
+                            "childrenIds": [
+                                6855,
+                                6858
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.053563193896,
+                    "contributors": [
+                        {
+                            "recId": 6855,
+                            "massPct": 0.047824413461,
+                            "childrenIds": [
+                                6855,
+                                2766
+                            ]
+                        },
+                        {
+                            "recId": 6855,
+                            "massPct": 0.005738780435,
+                            "childrenIds": [
+                                6855,
+                                6862
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-10360",
+                    "type": "orange",
+                    "name": "Neurotoxicity",
+                    "massPct": 0.005738780435,
+                    "contributors": [
+                        {
+                            "recId": 6855,
+                            "massPct": 0.005738780435,
+                            "childrenIds": [
+                                6855,
+                                6862
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-568",
+                    "type": "red",
+                    "name": "Developmental",
+                    "massPct": 0.49689167461,
+                    "contributors": [
+                        {
+                            "recId": 6855,
+                            "massPct": 0.475370548696,
+                            "childrenIds": [
+                                6855,
+                                2920
+                            ]
+                        },
+                        {
+                            "recId": 6855,
+                            "massPct": 0.021521125914,
+                            "childrenIds": [
+                                6855,
+                                6859
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-572",
+                    "type": "red",
+                    "name": "Respiratory",
+                    "massPct": 0.475370548696,
+                    "contributors": [
+                        {
+                            "recId": 6855,
+                            "massPct": 0.475370548696,
+                            "childrenIds": [
+                                6855,
+                                2920
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.021521125914,
+                    "contributors": [
+                        {
+                            "recId": 6855,
+                            "massPct": 0.021521125914,
+                            "childrenIds": [
+                                6855,
+                                6859
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-567",
+                    "type": "red",
+                    "name": "Cancer",
+                    "massPct": 0.144428926808,
+                    "contributors": [
+                        {
+                            "recId": 6855,
+                            "massPct": 0.021521125914,
+                            "childrenIds": [
+                                6855,
+                                6859
+                            ]
+                        },
+                        {
+                            "recId": 6855,
+                            "massPct": 0.117169020459,
+                            "childrenIds": [
+                                6855,
+                                6858
+                            ]
+                        },
+                        {
+                            "recId": 6855,
+                            "massPct": 0.005738780435,
+                            "childrenIds": [
+                                6855,
+                                6862
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.047824413461,
+                    "contributors": [
+                        {
+                            "recId": 6855,
+                            "massPct": 0.047824413461,
+                            "childrenIds": [
+                                6855,
+                                2766
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "purple": [
+                {
+                    "hazardId": "purple-955",
+                    "type": "purple",
+                    "name": "PBT",
+                    "massPct": 0.005738780435,
+                    "contributors": [
+                        {
+                            "recId": 6855,
+                            "massPct": 0.005738780435,
+                            "childrenIds": [
+                                6855,
+                                6862
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system is defined as cradle-to-gate and ends with the finished product at the factory gate. Includes all upstream raw material production, energy extraction, and transportation. PVC is produced by polymerisation of vinyl chloride monomer to polyvinyl chloride PVC. It can be produced by bulk, emulsion and suspension polymerisation. In this balance the presently dominating suspension polymerisation is considered. In general the polymerisation reaction is initiated by free radicals and runs under temperatures of 40 to 70 °C. Today the suspension polymerisation is preferred, which takes place in an aqueous solution. After polymerising monomers are expelled as far as economically possible, the PVC is further manufactured by centrifugation and dried in an air flow of 80°C. Packaging is excluded. ",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "US: Non-woven fabric (1 sqm) (copy)"
+            },
+            {
+                "name": "US: Polyethylene Terephthalate Fibres (PET)"
+            },
+            {
+                "name": "US: PVC homogeneous EN 649 as basis PVC roof sheets 1m2 (estimation)"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% to landfill ",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "2.42E-02"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "9.13E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.03E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "6.70E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.90E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.85E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "6.45E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "2.26E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "5.05E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.14E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "6.27E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.31E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP125",
+    "name": "Polyvinyl chloride membrane roofing",
+    "altNames": [
+        "PVC membrane roofing"
+    ],
+    "uniformats": [
+        {
+            "id": "B3010",
+            "name": "Roofing"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "07-54-19",
+            "name": "Polyvinyl-Chloride Roofing"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Polyvinyl chloride (PVC) membrane roofing is made up of two layers of flexible PVC surrounding a woven polyester (PET) reinforcing layer, or scrim. Flexible PVC is made up of a variety of additives including plasticizers, pigments, flame retardants, biocides, fillers and thermal and ultraviolet stabilizers. PVC Roofing membranes are typically sold in thickness of 45, 50, 60, and 80 mil sheets. PVC roofing membranes may include up to 10% recycled content, depending upon the manufacturer, from post industrial scrap. Roofing membranes are sold in rolls which are applied via mechanical fasteners, site or factory applied adhesives, or loose laid with gravel. Membrane seams are heat welded. This CP does not include installation products such as fasteners or adhesives, but characterizes the roofing membrane alone.",
+    "sources": [
+        {
+            "name": "Tinuvin 622 TDS",
+            "url": "http://shanghaiguanan.com/pic/2014916155153871.pdf",
+            "id": 6237
+        },
+        {
+            "name": "Alvinox 176 TDS",
+            "url": "http://www.dbbecker.com/images/stories/DBB_Technical_Files/D.B.%20Becker%20Supplier%20Literature/3V-USA/3V%20TDS/Alvinox_176.pdf",
+            "id": 6694
+        },
+        {
+            "name": "BNX 1076 TDS",
+            "url": "http://www.mayzo.com/pdf/BNX1076TF.pdf",
+            "id": 6676
+        },
+        {
+            "name": "CFFA SPPR PVC membrane EPD",
+            "url": "http://www.vinylroofs.org/documents/Environmental-Product-Declaration.pdf",
+            "id": 6854
+        },
+        {
+            "name": "SUD DINP 2015",
+            "url": "http://oehha.ca.gov/prop65/CRNR_notices/safe_use/SUDDINPhearing.html",
+            "id": 6853
+        },
+        {
+            "name": "Jakupca 2010",
+            "url": "http://www.doverchem.com/Portals/0/Polymer%20Stabilizers%20-%20Current%20Challenges%20and%20Future%20Trends.pdf",
+            "id": 6852
+        },
+        {
+            "name": "Therm-Check 120 LOHF",
+            "url": "http://www.harwickstandard.com/msds_sheets/02904351.pdf",
+            "id": 6851
+        },
+        {
+            "name": "Therm-Check 130 MSDS",
+            "url": "http://www.harwickstandard.com/msds_sheets/0290403.pdf",
+            "id": 6850
+        },
+        {
+            "name": "AKCROSTAB BZ-4929DC MSDS",
+            "url": "http://www.catalogocharlotte.com/fams/pdf/estabilizadores/MSDS%20AKCROSTAB%20BZ-4929DC%20%20ING.pdf",
+            "id": 6849
+        },
+        {
+            "name": "A-C 307 MSDS",
+            "url": "http://msds-resource.honeywell.com/ehswww/hon/result/result_single.jsp?P_LANGU=E&P_SYS=1&C001=MSDS&C997=C100%3BE%2BC101%3BSDS_US%2BC102%3BUS%2B1000&C100=*&C101=*&C102=*&C005=000000011488&C008=&C006=HON&C013=+",
+            "id": 6848
+        },
+        {
+            "name": "Oxidized Polyethylene PSS",
+            "url": "http://www51.honeywell.com/sm/common/documents/GPS0044_-Public_Risk_Summary_-_Oxidized_Polyethylene.pdf",
+            "id": 6847
+        },
+        {
+            "name": "Lubricants Brochure",
+            "url": "http://www.chemson.com/uploads/media/Lubricants.pdf",
+            "id": 6846
+        },
+        {
+            "name": "Advawax 280 MSDS",
+            "url": "https://www.spectrumchemical.com/MSDS/ZQ214.pdf",
+            "id": 6845
+        },
+        {
+            "name": "Kemamide E MSDS",
+            "url": "http://www.lpi-intl.com/tds/pmc-amides-kemamide%20e%20ultra%20bead-msds.pdf",
+            "id": 6844
+        },
+        {
+            "name": "Palatinol 911P TDS",
+            "url": "http://www2.basf.us/plasticizers/pdfs/products/TDS_911P.pdf",
+            "id": 6843
+        },
+        {
+            "name": "Jayflex L9P TDS",
+            "url": "https://www.exxonmobilchemical.com/Chem-English/Files/Resources/OXO_Jayflex_L9P_NA_en-FPS.pdf",
+            "id": 6842
+        },
+        {
+            "name": "Cruz et al 2009",
+            "url": "http://www.plasticsindustry.org/files/about/vpd/b_cruz_halstab.pdf",
+            "id": 6841
+        },
+        {
+            "name": "Grossman 2008",
+            "url": "https://books.google.com/books?id=1eBbIoL0bgAC&pg=PA108&lpg=PA108&dq=what+compounds+compose+barium+zinc+stabilizer&source=bl&ots=pA8wSnPMGE&sig=wY1MylXyyoXnPQF_WoEzp8pBUrU&hl=en&sa=X&ei=yP-LVbavK8epogTWm76YDQ&ved=0CDkQ6AEwBA#v=onepage&q=what%20compounds%20compose%20barium%20zinc%20stabilizer&f=false",
+            "id": 6840
+        },
+        {
+            "name": "Galata Chemical Mixed Metal Stabilizers Guide",
+            "url": "http://www.galatachemicals.com/products/Galata%20Mixed%20Metal%20Product%20Guide,%20Oct-2010.pdf",
+            "id": 6839
+        },
+        {
+            "name": "Tinuvin 571 TDS",
+            "url": "http://polymer-additives.specialchem.com/product/a-basf-tinuvin-571",
+            "id": 6838
+        },
+        {
+            "name": "Tinuvin 326 TDS",
+            "url": "http://shanghaiguanan.com/pic/2014916154624916.pdf",
+            "id": 6837
+        },
+        {
+            "name": "Tinuvin 326 MSDS",
+            "url": "http://formosa.msdssoftware.com/imagedir/61ED2E667F084DDB8F4F8DCAE2B92E16.pdf",
+            "id": 6836
+        },
+        {
+            "name": "Tinuvin 234 TDS",
+            "url": "http://shanghaiguanan.com/pic/2014916113139997.pdf",
+            "id": 6835
+        },
+        {
+            "name": "Ciba Tinuvin 213 TDS",
+            "url": "http://www.telko.com/files/images/telko/ru/basf/svetostabilizator/tinuvin_213_tds.pdf",
+            "id": 6834
+        },
+        {
+            "name": "Tinuvin XT 833 Brochure",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/BASFTinuvinX833.pdf",
+            "id": 6833
+        },
+        {
+            "name": "Uvinul Light Stabilizers",
+            "url": "www2.basf.us/additives/pdfs/uvinul_grades_4605e.pdf",
+            "id": 6832
+        },
+        {
+            "name": "Barium Zinc and Related Stabilizers",
+            "url": "www.pvc.org/en/p/barium-zinc-stabilisers-and-related-stabilisers",
+            "id": 6831
+        },
+        {
+            "name": "Stabilizer Fact Tables",
+            "url": "www.pvc.org/en/p/stabilizer-fact-tables",
+            "id": 6830
+        },
+        {
+            "name": "Ruberto 2010",
+            "url": "http://www.bioprocessintl.com/wp-content/uploads/bpi-content/BPI_A_100804SUPAR06__90849a.pdf",
+            "id": 6829
+        },
+        {
+            "name": "Palatinol 711P MSDS",
+            "url": "http://formosa.msdssoftware.com/imagedir/13818321.pdf",
+            "id": 6828
+        },
+        {
+            "name": "Waterproofing Magazine 04-2013",
+            "url": "http://www.waterproofmag.com/back_issues/201304/PVC.php",
+            "id": 6826
+        },
+        {
+            "name": "Foley et al",
+            "url": "http://www.jdkoontz.com/articles/aging.pdf",
+            "id": 6825
+        },
+        {
+            "name": "Whelan 2004",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/1329141722.pdf",
+            "id": 6824
+        },
+        {
+            "name": "Sikaplan MSDS 2007",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/1329141760.pdf",
+            "id": 6823
+        },
+        {
+            "name": "Sarnafil MSDS 2011",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/G%20Series%20MSDS-2.pdf",
+            "id": 6822
+        },
+        {
+            "name": "CPSC 2010",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/toxicityDINP.pdf",
+            "id": 6821
+        },
+        {
+            "name": "EU DEHP Risk Assessment",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/DEHP%20RA%20report%20full.pdf",
+            "id": 6820
+        },
+        {
+            "name": "DiMaio 2010",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/Tony%20DiMaio%20Presentation%202010.pdf",
+            "id": 6819
+        },
+        {
+            "name": "ACC letter to CPSC 2009",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/acc-phthalates.pdf",
+            "id": 6818
+        },
+        {
+            "name": "Galata Chemicals PVC additives",
+            "url": "http://www.galatachemicals.com/pdf/US%20Galata%20Corp%20Brochure_Final_vFeb11.pdf",
+            "id": 6817
+        },
+        {
+            "name": "Chimassorb 81 MSDS",
+            "url": "http://worldaccount.basf.com/wa/msds/showpdf/36574200_16235506_-40",
+            "id": 6816
+        },
+        {
+            "name": "Chimassorb 944 TDS",
+            "url": "http://shanghaiguanan.com/pic/2014916112955321.pdf ",
+            "id": 6815
+        },
+        {
+            "name": "Chimassorb 2020 TDS",
+            "url": "http://www.telko.com/files/images/telko/ru/basf/svetostabilizator/chimassorb_2020_tds.pdf ",
+            "id": 6814
+        },
+        {
+            "name": "Irganox 1076 MSDS",
+            "url": "http://formosa.msdssoftware.com/imagedir/i011f322.pdf ",
+            "id": 6811
+        },
+        {
+            "name": "Irganox 1010 TDS",
+            "url": "http://www.telko.com/files/images/telko/ru/basf/termostabilizator/irganox_1010_tds.pdf ",
+            "id": 6810
+        },
+        {
+            "name": "BASF Additives for Specialty Polymers",
+            "url": "http://www.plastic-additives.basf.com/ev/internet/plastic-additives/en_GB/function/conversions:/publish/content/plastic-additives/Download_center/Downloads/Additives-for-specialty-polymers.pdf ",
+            "id": 6809
+        },
+        {
+            "name": "Elvaloy KEE brochure",
+            "url": "http://www2.dupont.com/Elvaloy_KEE/en_US/assets/downloads/elvaloy-kee-roofing.pdf",
+            "id": 6808
+        },
+        {
+            "name": "Firestone 1993",
+            "url": "https://www.google.com/patents/CA2099104A1",
+            "id": 6807
+        },
+        {
+            "name": "Cooley Group 2014",
+            "url": "https://www.google.com/patents/US8669196",
+            "id": 6806
+        },
+        {
+            "name": "Seaman 2014",
+            "url": "https://www.google.com/patents/US20140215963",
+            "id": 6805
+        },
+        {
+            "name": "Elvaloy 741 MSDS 2012",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/1360692629.pdf",
+            "id": 6804
+        },
+        {
+            "name": "Elvaloy 742 MSDS 2011",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/1360594784.pdf",
+            "id": 6803
+        },
+        {
+            "name": "Elvaloy 4924 TDS",
+            "url": "http://www.dupont.com/content/dam/dupont/products-and-services/packaging-materials-and-solutions/packaging-materials-and-solutions-landing/documents/elvaloy_4924.pdf",
+            "id": 6802
+        },
+        {
+            "name": "Elvaloy 4924 MSDS 2015",
+            "url": "https://www.3eonline.com/ImageServer/ImageViewer.aspx?id=3Q%2ffAR8ne%2fvPh6syVnSymkS%2bBDo8OjmbVocxRCMEgeFvvpkmLKgXO0rqDm%2fs7PnEydkptXQ5lrKe77fEPh7f0Q%3d%3d",
+            "id": 6801
+        },
+        {
+            "name": "Elvaloy 742 TDS",
+            "url": "http://www.dupont.com/content/dam/dupont/products-and-services/packaging-materials-and-solutions/packaging-materials-and-solutions-landing/documents/elvaloy_742.pdf",
+            "id": 6800
+        },
+        {
+            "name": "Elvaloy 742 MSDS 2015",
+            "url": "https://www.3eonline.com/ImageServer/ImageViewer.aspx?id=3Q%2ffAR8ne%2fvPh6syVnSymkS%2bBDo8OjmbVocxRCMEgeGJ%2b7mgqKBvLO0GMbSBBPCRydkptXQ5lrKe77fEPh7f0Q%3d%3d",
+            "id": 6799
+        },
+        {
+            "name": "Elvaloy 741 TDS",
+            "url": "http://www.dupont.com/content/dam/dupont/products-and-services/packaging-materials-and-solutions/packaging-materials-and-solutions-landing/documents/elvaloy_741.pdf",
+            "id": 6798
+        },
+        {
+            "name": "Elvaloy 741 MSDS 2015",
+            "url": "https://www.3eonline.com/ImageServer/ImageViewer.aspx?id=3Q%2ffAR8ne%2fvPh6syVnSymkS%2bBDo8OjmbVocxRCMEgeF98cIrBFcBK8dTxIbE482mydkptXQ5lrKe77fEPh7f0Q%3d%3d",
+            "id": 6797
+        },
+        {
+            "name": "PIER 2006",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/CEC-500-2006-067-AT10.PDF ",
+            "id": 6796
+        },
+        {
+            "name": "Sentinel PVC P150 SDS",
+            "url": "http://www.soprema.us/documents/sds/",
+            "id": 6795
+        },
+        {
+            "name": "IB 80 mil FB TDS",
+            "url": "http://ibroof.com/sites/default/files/tds_80_fleece_back.pdf",
+            "id": 6794
+        },
+        {
+            "name": "IB 80 mil TDS",
+            "url": "http://ibroof.com/sites/default/files/tds_80_single_ply.pdf",
+            "id": 6793
+        },
+        {
+            "name": "IB 60 mil TDS",
+            "url": "http://ibroof.com/sites/default/files/tds_60_single_ply.pdf",
+            "id": 6792
+        },
+        {
+            "name": "IB 50 mil FB TDS",
+            "url": "http://ibroof.com/sites/default/files/tds_50_fleece_back.pdf",
+            "id": 6791
+        },
+        {
+            "name": "IB 50 mil TDS",
+            "url": "http://ibroof.com/sites/default/files/tds_50_single_ply.pdf",
+            "id": 6790
+        },
+        {
+            "name": "IB PVC Membranes MSDS",
+            "url": "http://ibroof.com/sites/default/files/IB%20PVC%20MEMBRANES%20MSDS%20-%2003.04.14_10.pdf",
+            "id": 6789
+        },
+        {
+            "name": "Versiflex-E KEE HP Membrane MSDS",
+            "url": "https://www.versico.com/view.aspx?mode=media&contentID=158",
+            "id": 6788
+        },
+        {
+            "name": "Versiflex PVC Membrane MSDS",
+            "url": "https://www.versico.com/view.aspx?mode=media&contentID=157",
+            "id": 6787
+        },
+        {
+            "name": "Versiflex-E KEE HP Membrane TDB",
+            "url": "https://www.versico.com/view.aspx?mode=media&contentID=667",
+            "id": 6786
+        },
+        {
+            "name": "Versiflex PVC Membrane TDB",
+            "url": "https://www.versico.com/view.aspx?mode=media&contentID=666",
+            "id": 6785
+        },
+        {
+            "name": "Versifleece FRS PVC Membrane TDB",
+            "url": "https://www.versico.com/view.aspx?mode=media&contentID=1205",
+            "id": 6784
+        },
+        {
+            "name": "Versifleece KEE HP Membrane TDB",
+            "url": "https://www.versico.com/view.aspx?mode=media&contentID=1322",
+            "id": 6783
+        },
+        {
+            "name": "Versiflex FRS PVC TDB",
+            "url": "https://www.versico.com/view.aspx?mode=media&contentID=665",
+            "id": 6782
+        },
+        {
+            "name": "Versiflex PVC Brochure",
+            "url": "https://www.versico.com/view.aspx?mode=media&contentID=418",
+            "id": 6781
+        },
+        {
+            "name": "Duro-Last EV 60 mil PDS",
+            "url": "http://duro-last.com/pdf/engineering/specs/EV60_Membrane.pdf",
+            "id": 6780
+        },
+        {
+            "name": "Duro-Last 60 mil Membrane PDS",
+            "url": "http://duro-last.com/pdf/engineering/specs/DL60_Membrane.pdf",
+            "id": 6779
+        },
+        {
+            "name": "Duro-Last Membrane MSDS",
+            "url": "http://duro-last.com/pdf/msds/duro_last_membrane.pdf",
+            "id": 6778
+        },
+        {
+            "name": "Flex MF/R 60 PVC Roof Membrane PDS",
+            "url": "http://www.flexroofingsystems.com/documents/product_info/pvc/Membranes/MFR%2060%20mil%20PVC%20Product%20Sheet%20r2%20(02%202015).pdf",
+            "id": 6777
+        },
+        {
+            "name": "EverGuard PVC Brochure",
+            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_PVC/EverGuard_PVC_Roofing_Systems_Brochure.pdf",
+            "id": 6728
+        },
+        {
+            "name": "Everguard PVC MSDS",
+            "url": "http://www.gaf.com/Warranties_Technical_Documents/SDS_Documents/EverGuard_PVC_MSDS_2199.pdf",
+            "id": 6729
+        },
+        {
+            "name": "EverGuard TPO/PVC Manual",
+            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_PVC/EverGuard_TPO_PVC_Application_Specification_Manual_with_CAD_Details.pdf",
+            "id": 6730
+        },
+        {
+            "name": "EverGuard PVC 50 mil TDS",
+            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_PVC/EverGuard_PVC_50_Membrane/EverGuard_PVC_50_mil_Membrane_10ft_wide_Product_Data_Sheet.pdf",
+            "id": 6731
+        },
+        {
+            "name": "EverGuard PVC XK 50 mil TDS",
+            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_PVC/EverGuard_PVC_50_Membrane/EverGuard_PVC_XK_50_Mil_Membrane_Product_Data_Sheet.pdf",
+            "id": 6732
+        },
+        {
+            "name": "EverGuard PVC #2199 MSDS",
+            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_PVC/EverGuard_PVC_50_Membrane/EverGuard_PVC_MSDS_2199.pdf",
+            "id": 6733
+        },
+        {
+            "name": "EverGuard PVC #1094 MSDS",
+            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_PVC/EverGuard_PVC_50_Membrane/EverGuard_PVC_1_MSDS_1094.pdf",
+            "id": 6734
+        },
+        {
+            "name": "EverGuard PVC #2000 MSDS",
+            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_PVC/EverGuard_PVC_50_Membrane/EverGuard_PVC_2_MSDS_2000.pdf",
+            "id": 6735
+        },
+        {
+            "name": "EverGuard PVC XK Fleeceback 60 mil TDS",
+            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_PVC/EverGuard_PVC_60_Fleece_Back_Membrane/EverGuard_PVC_XK_60_Mil_Fleeceback_Membrane_Product_Data_Sheet.pdf",
+            "id": 6736
+        },
+        {
+            "name": "EverGuard PVC Smooth EcoScorecard",
+            "url": "http://gaf.ecoscorecard.com/catalogs/show/4922.pdf",
+            "id": 6737
+        },
+        {
+            "name": "EverGuard PVC Fleece-back EcoScorecard",
+            "url": "http://gaf.ecoscorecard.com/catalogs/show/4923.pdf",
+            "id": 6738
+        },
+        {
+            "name": "FiberTite vs PVC",
+            "url": "http://www.fibertite.com/comparison-pages/ft-membrane-roofing-vs-PVC-roofs.html",
+            "id": 6739
+        },
+        {
+            "name": "FiberTite 36 mil PDS",
+            "url": "http://www.fibertite.com/downloads/products/8530_FiberTite.pdf",
+            "id": 6740
+        },
+        {
+            "name": "FiberTite FB 36 mil PDS",
+            "url": "http://www.fibertite.com/downloads/products/8530_FiberTite-FB.pdf",
+            "id": 6741
+        },
+        {
+            "name": "Interface Sept 2003",
+            "url": "http://www.fibertite.com/downloads/techtalks/kee_standard_article.pdf",
+            "id": 6742
+        },
+        {
+            "name": "Duro Last What is KEE",
+            "url": "http://duro-last.com/pdf/marketing/landing/what_is_kee.pdf",
+            "id": 6743
+        },
+        {
+            "name": "Fibertite MSDS",
+            "url": "http://www.fibertite.com/downloads/msds/MSDS-fibertite-membrane.pdf",
+            "id": 6744
+        },
+        {
+            "name": "JM PVC 50 mil TDS",
+            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Data%20sheets/JM%20PVC%20Data%20Sheets/RS-8920_JMPVC50mil.pdf",
+            "id": 6745
+        },
+        {
+            "name": "JM/CG 24 year PVC formulation",
+            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Technical%20Articles%20and%20White%20Papers/RS-8958_JMPVC_SellSheet%20(9).pdf",
+            "id": 6746
+        },
+        {
+            "name": "JM PVC MSDS",
+            "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000000179_US_EN.pdf",
+            "id": 6747
+        },
+        {
+            "name": "JM PVC 60 mil TDS",
+            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Data%20sheets/JM%20PVC%20Data%20Sheets/RS-8921_JMPVC60mil.pdf",
+            "id": 6748
+        },
+        {
+            "name": "JM PVC 80 mil TDS",
+            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Data%20sheets/JM%20PVC%20Data%20Sheets/RS-8923_JMPVC80%20mil.pdf",
+            "id": 6749
+        },
+        {
+            "name": "JM PVC FB 50 mil TDS",
+            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Data%20sheets/JM%20PVC%20Data%20Sheets/RS-8924_JMPVCFB50mil.pdf",
+            "id": 6750
+        },
+        {
+            "name": "JM PVC FB MSDS",
+            "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000000181_REG_NA_EN.pdf",
+            "id": 6751
+        },
+        {
+            "name": "JM PVC FB 60 mil TDS",
+            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Data%20sheets/JM%20PVC%20Data%20Sheets/RS-8925_JMPVCFB60mil60milMIN.pdf",
+            "id": 6752
+        },
+        {
+            "name": "JM PVC FB 72 mil TDS",
+            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Data%20sheets/JM%20PVC%20Data%20Sheets/RS-8926_JMPVCFB72milMIN.pdf",
+            "id": 6753
+        },
+        {
+            "name": "JM PVC FB 80 mil TDS",
+            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Data%20sheets/JM%20PVC%20Data%20Sheets/RS-8927__JMPVCFB80mil.pdf",
+            "id": 6754
+        },
+        {
+            "name": "GlobalPly E PDS",
+            "url": "http://www.globalshield.us/datasheets/products/65-GlobalPly-E.pdf",
+            "id": 6755
+        },
+        {
+            "name": "GlobalPly E MSDS",
+            "url": "http://www.globalshield.us/datasheets/msds/GlobalPlyE-MSDS.pdf",
+            "id": 6756
+        },
+        {
+            "name": "Sure-Flex Reinforced KEE HP Membrane MSDS",
+            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=5085",
+            "id": 6757
+        },
+        {
+            "name": "Sure-Flex PVC Non-Reinforced Flashing MSDS",
+            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1378",
+            "id": 6758
+        },
+        {
+            "name": "Sure-Flex Reinforced PVC Membrane MSDS",
+            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1405",
+            "id": 6759
+        },
+        {
+            "name": "FleeceBACK PVC KEE HP FRS Membrane PDS",
+            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1244",
+            "id": 6760
+        },
+        {
+            "name": "FleeceBACK PVC FRS Membrane PDS",
+            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=5200",
+            "id": 6761
+        },
+        {
+            "name": "Sure-Flex PVC FRS PDS",
+            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1287",
+            "id": 6762
+        },
+        {
+            "name": "Sure-Flex Kee HP PVC membrane",
+            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1278",
+            "id": 6763
+        },
+        {
+            "name": "Sure-Flex PVC membrane",
+            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1279",
+            "id": 6764
+        },
+        {
+            "name": "Roofing/Waterproofing Membrane MSDS",
+            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/sarnafil_roofing_waterproofing_membrane_msds.pdf",
+            "id": 6765
+        },
+        {
+            "name": "Sikaplan MSDS",
+            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/sikaplan_membrane_msds.pdf",
+            "id": 6766
+        },
+        {
+            "name": "Sarnafil G410 EnergySmart PDS",
+            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/Sarnafil%20G410%20EnergySmart%20PDS%20v1.pdf",
+            "id": 6767
+        },
+        {
+            "name": "Sarnafil G410 PDS",
+            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/Sarnafil%20G410%20PDS%20v1.pdf",
+            "id": 6768
+        },
+        {
+            "name": "Sarnafil S327 EnergySmart PDS",
+            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/Sarnafil%20S327%20EnergySmart%20PDS%20v1.pdf",
+            "id": 6769
+        },
+        {
+            "name": "Sarnafil S327 PDS",
+            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/Sarnafil%20S327%20PDS%20v1.pdf",
+            "id": 6770
+        },
+        {
+            "name": "Sikaplan Adhered EnergySmart PDS",
+            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/Sikaplan%20Adhered%20v2.pdf",
+            "id": 6771
+        },
+        {
+            "name": "Sikaplan Fastened EnergySmart PDS",
+            "url": "http://usa.sarnafil.sika.com/downloads/repository/submittal/productdata/Sikaplan%20Fastened%20PDS%20v3.pdf",
+            "id": 6772
+        },
+        {
+            "name": "CoolGuard HRL36 TDS",
+            "url": "http://cooleygroup.com/wp-content/uploads/2012/03/01-Coolguard.pdf",
+            "id": 6773
+        },
+        {
+            "name": "Flex MF/R 45 Elvaloy KEE Roof Membrane PDS",
+            "url": "http://www.flexroofingsystems.com/documents/product_info/elvaloy/Membranes/MFR%2045%20mil%20Elvaloy%20KEE%20Product%20Sheet%20r2%20(02%202015).pdf",
+            "id": 6774
+        },
+        {
+            "name": "Flex FB 45 Elvaloy KEE Roof Membrane PDS",
+            "url": "http://www.flexroofingsystems.com/documents/product_info/elvaloy/Membranes/Fleece%20Back%2045%20Elvaloy%20KEE%20Product%20Sheet%20r2%20(02%202015).pdf",
+            "id": 6775
+        },
+        {
+            "name": "Flex FB 60 PVC Roof Membrane PDS",
+            "url": "http://www.flexroofingsystems.com/documents/product_info/pvc/Membranes/Fleece%20Back%2060%20mil%20PVC%20Product%20Sheet%20r1%20(02%202015).pdf",
+            "id": 6776
+        }
+    ]
+}

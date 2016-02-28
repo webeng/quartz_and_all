@@ -1,0 +1,979 @@
+{
+    "CPID": "CP146",
+    "timestamp": 1452102146618,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 10078,
+            "name": "Sodium Lauryl Sulfate",
+            "CASRN": "151-21-3",
+            "massPct": 0.0045,
+            "function": "surfactant",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Kawabata",
+                    "url": "http://www.google.com/patents/US5620796",
+                    "id": 8535
+                },
+                {
+                    "name": "Wood",
+                    "url": "https://www.google.com/patents/US5455293?dq=universal+acrylic+flooring+adhesive&hl=en&sa=X&ved=0CB0Q6AEwAGoVChMI1Nnpg-_uxgIVj_2ACh1WUgxD",
+                    "id": 8530
+                },
+                {
+                    "name": "PCI",
+                    "url": "http://www.pcimag.com/articles/98225-reactive-emulsifiers-for-emulsion-polymerization",
+                    "id": 8537
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.0045
+        },
+        {
+            "recId": 8554,
+            "name": "Gum Rosin",
+            "CASRN": "8050-09-7",
+            "massPct": 0.1184,
+            "function": "tackifier",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "EPA",
+                    "url": "http://www.epa.gov/opprd001/inerts/rosin.pdf",
+                    "id": 8546
+                },
+                {
+                    "name": "Arizona",
+                    "url": "http://www.arizonachemical.com/Global/MSDS/US_MSDS/SYLVALITE(TM)%20RE%2080HP%20SDS%20US%20Default%20v1%20200000000282.pdf",
+                    "id": 8542
+                },
+                {
+                    "name": "Wood",
+                    "url": "https://www.google.com/patents/US5455293?dq=universal+acrylic+flooring+adhesive&hl=en&sa=X&ved=0CB0Q6AEwAGoVChMI1Nnpg-_uxgIVj_2ACh1WUgxD",
+                    "id": 8530
+                },
+                {
+                    "name": "Eastman",
+                    "url": "http://www.eastman.com/Literature_Center/W/WA87.pdf",
+                    "id": 8529
+                },
+                {
+                    "name": "Akzo",
+                    "url": "https://www.google.com/patents/EP2246403A1?cl=en&dq=acrylic+wet+set+flooring+adhesive&hl=en&sa=X&ved=0CFUQ6AEwCGoVChMIg4Hp2evixgIVAxmSCh1pxA0M",
+                    "id": 8527
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.1184
+        },
+        {
+            "recId": 3806,
+            "name": "Sodium Hydroxide",
+            "CASRN": "1310-73-2",
+            "massPct": 0.0112,
+            "function": "ph modifier",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Akzo",
+                    "url": "https://www.google.com/patents/EP2246403A1?cl=en&dq=acrylic+wet+set+flooring+adhesive&hl=en&sa=X&ved=0CFUQ6AEwCGoVChMIg4Hp2evixgIVAxmSCh1pxA0M",
+                    "id": 8527
+                },
+                {
+                    "name": "MP 900 MSDS",
+                    "url": "http://www.kieferusa.com/media/4648/MSDS_MP%20900%20(R120709).pdf",
+                    "id": 8518
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.0112
+        },
+        {
+            "recId": 1106,
+            "name": "Water",
+            "CASRN": "7732-18-5",
+            "massPct": 0.1564,
+            "function": "solvent",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Ultra MSDS",
+                    "url": "http://www.mannington.com/commercial/assets/pdfs/Literature/MSDS%20ULTRA%20Adhesive.pdf",
+                    "id": 8509
+                },
+                {
+                    "name": "Advanced",
+                    "url": "https://www.google.com/patents/WO1997040113A1?cl=en&dq=universal+acrylic+flooring+adhesive&hl=en&sa=X&ved=0CDkQ6AEwBGoVChMI1Nnpg-_uxgIVj_2ACh1WUgxD",
+                    "id": 8531
+                },
+                {
+                    "name": "Wood",
+                    "url": "https://www.google.com/patents/US5455293?dq=universal+acrylic+flooring+adhesive&hl=en&sa=X&ved=0CB0Q6AEwAGoVChMI1Nnpg-_uxgIVj_2ACh1WUgxD",
+                    "id": 8530
+                },
+                {
+                    "name": "Akzo",
+                    "url": "https://www.google.com/patents/EP2246403A1?cl=en&dq=acrylic+wet+set+flooring+adhesive&hl=en&sa=X&ved=0CFUQ6AEwCGoVChMIg4Hp2evixgIVAxmSCh1pxA0M",
+                    "id": 8527
+                },
+                {
+                    "name": "Nora 485",
+                    "url": "http://www.nora.com/fileadmin/user_upload/_temp_/pdf/US/products/nora-485-acrylic-adhesive.pdf",
+                    "id": 8516
+                },
+                {
+                    "name": "Integra MSDS",
+                    "url": "http://www.mannington.com/commercial/assets/pdfs/Literature/Mannington%20GHS%20SDS%20(MSDS)%20Integra%202%20_6-16-2015.pdf",
+                    "id": 8507
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.1564
+        },
+        {
+            "recId": 8553,
+            "name": "1,6-Hexamethylene diisocyanate",
+            "CASRN": "822-06-0",
+            "massPct": 0.0138,
+            "function": "crosslinker",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "CDC",
+                    "url": "http://www.cdc.gov/niosh/ipcsneng/neng0278.html",
+                    "id": 8541
+                },
+                {
+                    "name": "Desmodur",
+                    "url": "http://webcache.googleusercontent.com/search?q=cache:qhrHNBGzAugJ:www.bayermaterialsciencenafta.com/resources/d/document.cfm%3Ff%3D102477A0-C0BA-9829-32F19B199E6A00FB%26d%3D0FCD5BEC-BC04-01C4-33958483D265DAA1+&cd=1&hl=en&ct=clnk&gl=us",
+                    "id": 8540
+                },
+                {
+                    "name": "Wood",
+                    "url": "https://www.google.com/patents/US5455293?dq=universal+acrylic+flooring+adhesive&hl=en&sa=X&ved=0CB0Q6AEwAGoVChMI1Nnpg-_uxgIVj_2ACh1WUgxD",
+                    "id": 8530
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.0138
+        },
+        {
+            "recId": 8552,
+            "name": "Vinyl Acrylic Copolymer",
+            "CASRN": "68083-71-6",
+            "massPct": 0.4116,
+            "function": "resin",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "APAC MSDS",
+                    "url": "http://www.apacadhesives.com/PDF_2011/MSDS_2011/610msds.pdf",
+                    "id": 8524
+                },
+                {
+                    "name": "Kawabata",
+                    "url": "http://www.google.com/patents/US5620796",
+                    "id": 8535
+                },
+                {
+                    "name": "USPS",
+                    "url": "http://www.pstc.org/files/public/Severtson09.pdf",
+                    "id": 8534
+                },
+                {
+                    "name": "Nora 485",
+                    "url": "http://www.nora.com/fileadmin/user_upload/_temp_/pdf/US/products/nora-485-acrylic-adhesive.pdf",
+                    "id": 8516
+                },
+                {
+                    "name": "Integra MSDS",
+                    "url": "http://www.mannington.com/commercial/assets/pdfs/Literature/Mannington%20GHS%20SDS%20(MSDS)%20Integra%202%20_6-16-2015.pdf",
+                    "id": 8507
+                }
+            ],
+            "notes": "This CASRN is for a representative acrylic polymer. There will be variation of the exact acrylic polymer used between manufacturers.",
+            "lca": "yes",
+            "massPctOfTotal": 0.4116
+        },
+        {
+            "recId": 3759,
+            "name": "Limestone",
+            "CASRN": "1317-65-3",
+            "massPct": 0.2769,
+            "function": "filler",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Wood",
+                    "url": "https://www.google.com/patents/US5455293?dq=universal+acrylic+flooring+adhesive&hl=en&sa=X&ved=0CB0Q6AEwAGoVChMI1Nnpg-_uxgIVj_2ACh1WUgxD",
+                    "id": 8530
+                },
+                {
+                    "name": "Akzo",
+                    "url": "https://www.google.com/patents/EP2246403A1?cl=en&dq=acrylic+wet+set+flooring+adhesive&hl=en&sa=X&ved=0CFUQ6AEwCGoVChMIg4Hp2evixgIVAxmSCh1pxA0M",
+                    "id": 8527
+                },
+                {
+                    "name": "Capitol MSDS",
+                    "url": "http://www.capitoladhesives.com/files/support/MSDS_VA550_1_1.pdf",
+                    "id": 8526
+                },
+                {
+                    "name": "Nora 485",
+                    "url": "http://www.nora.com/fileadmin/user_upload/_temp_/pdf/US/products/nora-485-acrylic-adhesive.pdf",
+                    "id": 8516
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.2769
+        },
+        {
+            "recId": 7446,
+            "name": "Polyacrylic Acid",
+            "CASRN": "9003-01-4",
+            "massPct": 0.007,
+            "function": "thickener",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Catalog",
+                    "url": "http://sc.akzonobel.com/en/fa/Documents/AkzoNobel_tb_AlcogumLatexApps.pdf",
+                    "id": 8549
+                },
+                {
+                    "name": "AlcoGum",
+                    "url": "http://sc.akzonobel.com/en/fa/Pages/product-detail.aspx?prodID=9971",
+                    "id": 8548
+                },
+                {
+                    "name": "T Gum",
+                    "url": "http://nebula.wsimg.com/a50825e19477ba0aa0ffb09d1032b6e3?AccessKeyId=247365A0503E8FFCFEDB&disposition=0&alloworigin=1",
+                    "id": 8547
+                },
+                {
+                    "name": "Kawabata",
+                    "url": "http://www.google.com/patents/US5620796",
+                    "id": 8535
+                },
+                {
+                    "name": "Wood",
+                    "url": "https://www.google.com/patents/US5455293?dq=universal+acrylic+flooring+adhesive&hl=en&sa=X&ved=0CB0Q6AEwAGoVChMI1Nnpg-_uxgIVj_2ACh1WUgxD",
+                    "id": 8530
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.007
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Acrylic Acid",
+            "CASRN": "79-10-7",
+            "massPct": null,
+            "function": "",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Vinyl Acetate",
+            "CASRN": "108-05-4",
+            "massPct": null,
+            "function": "",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Butyl Acrylate",
+            "CASRN": "141-32-2",
+            "massPct": null,
+            "function": "",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-577",
+                    "type": "orange",
+                    "name": "Skin Sensitization",
+                    "massPct": 0.1184,
+                    "contributors": [
+                        {
+                            "recId": 8554,
+                            "massPct": 0.1184,
+                            "childrenIds": [
+                                8554
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.1322,
+                    "contributors": [
+                        {
+                            "recId": 8554,
+                            "massPct": 0.1184,
+                            "childrenIds": [
+                                8554
+                            ]
+                        },
+                        {
+                            "recId": 8553,
+                            "massPct": 0.0138,
+                            "childrenIds": [
+                                8553
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-576",
+                    "type": "orange",
+                    "name": "Skin Irritation",
+                    "massPct": 0.0112,
+                    "contributors": [
+                        {
+                            "recId": 3806,
+                            "massPct": 0.0112,
+                            "childrenIds": [
+                                3806
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.0112,
+                    "contributors": [
+                        {
+                            "recId": 3806,
+                            "massPct": 0.0112,
+                            "childrenIds": [
+                                3806
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-575",
+                    "type": "orange",
+                    "name": "Eye Irritation",
+                    "massPct": 0.0112,
+                    "contributors": [
+                        {
+                            "recId": 3806,
+                            "massPct": 0.0112,
+                            "childrenIds": [
+                                3806
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.007,
+                    "contributors": [
+                        {
+                            "recId": 7446,
+                            "massPct": 0.007,
+                            "childrenIds": [
+                                7446
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-567",
+                    "type": "orange",
+                    "name": "Cancer",
+                    "massPct": 0.007,
+                    "contributors": [
+                        {
+                            "recId": 7446,
+                            "massPct": 0.007,
+                            "childrenIds": [
+                                7446
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "Includes all cradle-to-gate data, including raw materials extraction, energy production, inbound transportation, and energy for the production of epoxy resin adhesive. Packaging is excluded.",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Electricity grid mix"
+            },
+            {
+                "name": "US: Sodium hydroxide (caustic soda) mix (100%)"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "DE: Polyacrylic acid (PAA)"
+            },
+            {
+                "name": "US: Tensides (alcohol ethoxy sulfate (AES))"
+            },
+            {
+                "name": "US: Limestone flour (1µm)"
+            },
+            {
+                "name": "US: Gum rosin (CN import from pine tree plantation)"
+            },
+            {
+                "name": "DE: Hexamethylene diisocyanate (HMDI) by-product HCl"
+            },
+            {
+                "name": "US: Ethylene Vinylacetate Copolymer (E/VA) (72% Ethylene, 28% Vinylacetate)"
+            },
+            {
+                "name": "US: Water deionized"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% to landfill (plastic)",
+        "inUseNotes": "0.08% released as NMVOC (unspecified); 15.6% released as water vapor",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "3.85E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "2.22E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "1.56E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "2.12E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "6.79E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "4.18E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "2.22E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "0.00E+00"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "6.11E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "2.26E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.26E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "9.53E-13"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "5.56E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "6.99E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP146",
+    "name": "Acrylic Flooring Adhesive",
+    "altNames": [
+        ""
+    ],
+    "uniformats": [
+        {
+            "id": "C2030",
+            "name": "Flooring"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "09-60-00",
+            "name": "Flooring"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Acrylic adhesives are common in attaching many types of flooring to a substrate.  Carpet backings, resilient flooring, and engineered wood flooring may all specify use of an acrylic flooring adhesives for installation. This CP describes a one-part “universal” acrylic flooring adhesive, designed to be used to install many types of flooring.  While left out of the CP for being more of a specialty additive, note that some acrylic flooring adhesives may contain flame retardants or additives to make them more resistant to freezing and thawing cycles.  Many acrylic flooring adhesives contain biocides to prevent microbes from growing where moisture may find its way between the underside for the flooring and the flooring substrate.  These biocides are most commonly held as proprietary by manufacturers.",
+    "sources": [
+        {
+            "name": "MGard Ultra MSDS",
+            "url": "http://www.mannington.com/commercial/assets/pdfs/Literature/msds%20m-guardultra.pdf",
+            "id": 8505
+        },
+        {
+            "name": "MGard Ultra Spec",
+            "url": "http://www.mannington.com/commercial/assets/pdfs/Literature/m-guard%20ultra%20adhesive%20spec.pdf",
+            "id": 8506
+        },
+        {
+            "name": "Integra MSDS",
+            "url": "http://www.mannington.com/commercial/assets/pdfs/Literature/Mannington%20GHS%20SDS%20(MSDS)%20Integra%202%20_6-16-2015.pdf",
+            "id": 8507
+        },
+        {
+            "name": "Integra Spec",
+            "url": "http://www.mannington.com/commercial/assets/pdfs/Literature/INTEGRA-2%20Adhesive%20Spec%202012.pdf",
+            "id": 8508
+        },
+        {
+            "name": "Ultra MSDS",
+            "url": "http://www.mannington.com/commercial/assets/pdfs/Literature/MSDS%20ULTRA%20Adhesive.pdf",
+            "id": 8509
+        },
+        {
+            "name": "Ultra Spec",
+            "url": "http://www.mannington.com/commercial/assets/pdfs/Literature/ULTRA%20Adhesive%20Spec.pdf",
+            "id": 8510
+        },
+        {
+            "name": "Eco-290 TDS",
+            "url": "http://www.mapei.com/public/US/products/UltrabondEco290_TDS_EA.pdf",
+            "id": 8511
+        },
+        {
+            "name": "Eco-290 MSDS",
+            "url": "http://www.mapei.com/public/US/products/ULTRABOND%20ECO%20290%20MSDS%20(English)_sah00091%2003-08-2012.pdf",
+            "id": 8512
+        },
+        {
+            "name": "Eco-560 TDS",
+            "url": "http://www.mapei.com/public/US/products/UltrabondECO560_TDS_EA.pdf",
+            "id": 8513
+        },
+        {
+            "name": "Eco-560 MSDS",
+            "url": "http://www.mapei.com/public/US/products/ULTRABOND_ECO_560_SDS_EN.pdf",
+            "id": 8514
+        },
+        {
+            "name": "Titebond MSDS",
+            "url": "http://www.franklininternational.com/msds/3916.01co0gro0020.pdf",
+            "id": 8515
+        },
+        {
+            "name": "Nora 485",
+            "url": "http://www.nora.com/fileadmin/user_upload/_temp_/pdf/US/products/nora-485-acrylic-adhesive.pdf",
+            "id": 8516
+        },
+        {
+            "name": "MP 900 TDS",
+            "url": "http://www.kieferusa.com/media/4645/Data%20Sheet_MP%20900%20Acrylic%20Adhesive%20(R051211).pdf",
+            "id": 8517
+        },
+        {
+            "name": "MP 900 MSDS",
+            "url": "http://www.kieferusa.com/media/4648/MSDS_MP%20900%20(R120709).pdf",
+            "id": 8518
+        },
+        {
+            "name": "Roberts 2350",
+            "url": "http://www.robertsconsolidated.com/files/support/PDS_2350_2_1.pdf",
+            "id": 8519
+        },
+        {
+            "name": "Roberts MSDS 2",
+            "url": "http://www.robertsconsolidated.com/files/support/MSDS_2350_2_1.pdf",
+            "id": 8520
+        },
+        {
+            "name": "Eco350",
+            "url": "http://www.mapei.com/public/COM/products/UltrabondEco350_TDS_EA.pdf",
+            "id": 8521
+        },
+        {
+            "name": "Eco350 MSDS",
+            "url": "http://www.mapei.com/public/US/products/ULTRABOND_ECO_350_SDS_EN.pdf",
+            "id": 8522
+        },
+        {
+            "name": "APAC",
+            "url": "http://www.apacadhesives.com/PDF_2011/A610D_L10Evp.pdf",
+            "id": 8523
+        },
+        {
+            "name": "APAC MSDS",
+            "url": "http://www.apacadhesives.com/PDF_2011/MSDS_2011/610msds.pdf",
+            "id": 8524
+        },
+        {
+            "name": "Capitol TDS",
+            "url": "http://www.capitoladhesives.com/files/support/PDS_VA550_1_1.pdf",
+            "id": 8525
+        },
+        {
+            "name": "Capitol MSDS",
+            "url": "http://www.capitoladhesives.com/files/support/MSDS_VA550_1_1.pdf",
+            "id": 8526
+        },
+        {
+            "name": "Akzo",
+            "url": "https://www.google.com/patents/EP2246403A1?cl=en&dq=acrylic+wet+set+flooring+adhesive&hl=en&sa=X&ved=0CFUQ6AEwCGoVChMIg4Hp2evixgIVAxmSCh1pxA0M",
+            "id": 8527
+        },
+        {
+            "name": "Mesamoll",
+            "url": "http://lanxess.in/en/industries-products-india/industries-india/construction-india/mesamoll-india/",
+            "id": 8528
+        },
+        {
+            "name": "Eastman",
+            "url": "http://www.eastman.com/Literature_Center/W/WA87.pdf",
+            "id": 8529
+        },
+        {
+            "name": "Wood",
+            "url": "https://www.google.com/patents/US5455293?dq=universal+acrylic+flooring+adhesive&hl=en&sa=X&ved=0CB0Q6AEwAGoVChMI1Nnpg-_uxgIVj_2ACh1WUgxD",
+            "id": 8530
+        },
+        {
+            "name": "Advanced",
+            "url": "https://www.google.com/patents/WO1997040113A1?cl=en&dq=universal+acrylic+flooring+adhesive&hl=en&sa=X&ved=0CDkQ6AEwBGoVChMI1Nnpg-_uxgIVj_2ACh1WUgxD",
+            "id": 8531
+        },
+        {
+            "name": "Acronyl",
+            "url": "http://worldaccount.basf.com/wa/NAFTA~en_US/Catalog/FunctionalPolymers/doc4/BASF/PRD/30040075/.pdf?urn=urn:documentum:ProductBase_EU:09007af8802b0664.pdf",
+            "id": 8532
+        },
+        {
+            "name": "Acronyl 2",
+            "url": "http://worldaccount.basf.com/wa/NAFTA~en_US/Catalog/FunctionalPolymers/doc4/BASF/PRD/30192980/.pdf?urn=urn:documentum:ProductBase_EU:09007af8803ca760.pdf",
+            "id": 8533
+        },
+        {
+            "name": "USPS",
+            "url": "http://www.pstc.org/files/public/Severtson09.pdf",
+            "id": 8534
+        },
+        {
+            "name": "Kawabata",
+            "url": "http://www.google.com/patents/US5620796",
+            "id": 8535
+        },
+        {
+            "name": "Calfax",
+            "url": "http://www.independentchemical.com/ProductDetails.asp?PID=619",
+            "id": 8536
+        },
+        {
+            "name": "PCI",
+            "url": "http://www.pcimag.com/articles/98225-reactive-emulsifiers-for-emulsion-polymerization",
+            "id": 8537
+        },
+        {
+            "name": "Parchem",
+            "url": "http://www.parchem.com/chemical-supplier-distributor/Adipic-Acid-Dihydrazide-002896.aspx",
+            "id": 8538
+        },
+        {
+            "name": "AC",
+            "url": "http://www.accatalysts.com/DOCS/TECHNICURE/Technicure_IDH_Data_Sheet.pdf",
+            "id": 8539
+        },
+        {
+            "name": "Desmodur",
+            "url": "http://webcache.googleusercontent.com/search?q=cache:qhrHNBGzAugJ:www.bayermaterialsciencenafta.com/resources/d/document.cfm%3Ff%3D102477A0-C0BA-9829-32F19B199E6A00FB%26d%3D0FCD5BEC-BC04-01C4-33958483D265DAA1+&cd=1&hl=en&ct=clnk&gl=us",
+            "id": 8540
+        },
+        {
+            "name": "CDC",
+            "url": "http://www.cdc.gov/niosh/ipcsneng/neng0278.html",
+            "id": 8541
+        },
+        {
+            "name": "Arizona",
+            "url": "http://www.arizonachemical.com/Global/MSDS/US_MSDS/SYLVALITE(TM)%20RE%2080HP%20SDS%20US%20Default%20v1%20200000000282.pdf",
+            "id": 8542
+        },
+        {
+            "name": "Amical",
+            "url": "http://www.dow.com/en-us/markets-and-solutions/products/amical/amicalflowable/",
+            "id": 8543
+        },
+        {
+            "name": "Acticide",
+            "url": "http://www.kellysolutions.com/erenewals/documentsubmit/KellyData%5COK%5Cpesticide%5CProduct%20Label%5C67071%5C67071-29%5C67071-29_Acticide_MBS_11_15_2011_9_55_57_AM.pdf",
+            "id": 8544
+        },
+        {
+            "name": "Mergal",
+            "url": "http://www.kellysolutions.com/erenewals/documentsubmit/KellyData%5CWI%5Cpesticide%5CProduct%20Label%5C5383%5C5383-141%5C5383-141_Mergal_Mc_14_5_4_2015_12_45_16_PM.pdf",
+            "id": 8545
+        },
+        {
+            "name": "EPA",
+            "url": "http://www.epa.gov/opprd001/inerts/rosin.pdf",
+            "id": 8546
+        },
+        {
+            "name": "T Gum",
+            "url": "http://nebula.wsimg.com/a50825e19477ba0aa0ffb09d1032b6e3?AccessKeyId=247365A0503E8FFCFEDB&disposition=0&alloworigin=1",
+            "id": 8547
+        },
+        {
+            "name": "AlcoGum",
+            "url": "http://sc.akzonobel.com/en/fa/Pages/product-detail.aspx?prodID=9971",
+            "id": 8548
+        },
+        {
+            "name": "Catalog",
+            "url": "http://sc.akzonobel.com/en/fa/Documents/AkzoNobel_tb_AlcogumLatexApps.pdf",
+            "id": 8549
+        }
+    ]
+}

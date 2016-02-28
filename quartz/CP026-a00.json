@@ -1,0 +1,1709 @@
+{
+    "CPID": "CP026",
+    "timestamp": 1452102100418,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 1944,
+            "name": "Galvanized Coating (G60)",
+            "CASRN": "",
+            "massPct": 0.0138,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": 1,
+                        "contributors": [
+                            {
+                                "recId": 782,
+                                "massPct": 1,
+                                "childrenIds": [
+                                    782
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 782,
+                    "name": "Zinc",
+                    "CASRN": "7440-66-6",
+                    "massPct": 1,
+                    "function": "coating element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Vulcraft SDS",
+                            "url": "http://www.vulcraft.com/pdf/MSDS_SDS-Deck-12-2013.pdf",
+                            "id": 1941
+                        },
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0138
+                }
+            ],
+            "sources": [
+                {
+                    "name": "Steel Decking Spec",
+                    "url": "http://www.srpnet.com/electric/business/facilityspecs/pdfx/DIV05r/053100SHT.pdf",
+                    "id": 1938
+                },
+                {
+                    "name": "Vulcraft Catalog",
+                    "url": "http://www.vulcraft.com/products/catalogs/steelroof/document.pdf",
+                    "id": 1940
+                },
+                {
+                    "name": "ASC Steel Deck Spec",
+                    "url": "http://www.ascsd.com/files/Floor%20Deck%20Guide%20Specs.doc",
+                    "id": 1926
+                },
+                {
+                    "name": "CFM VA GOV Spec",
+                    "url": "http://www.cfm.va.gov/TIL/spec/053600.doc",
+                    "id": 1931
+                },
+                {
+                    "name": "Vercodeck Finishes",
+                    "url": "http://www.vercodeck.com/index.php/product-options/finishes",
+                    "id": 1939
+                },
+                {
+                    "name": "Master Spec",
+                    "url": "http://www.productmasterspec.com/documents/65792/053100_FL.STEEL_DECKING.CSI_Metal_Dek.doc",
+                    "id": 1933
+                },
+                {
+                    "name": "SDI Manual",
+                    "url": "http://www.sdi.org/wp-content/uploads/2013/03/moc2.pdf",
+                    "id": 1935
+                },
+                {
+                    "name": "Millenium Catalog",
+                    "url": "http://www.newmill.com/pdfs/comp-decking.pdf",
+                    "id": 1934
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.0138
+        },
+        {
+            "recId": 1943,
+            "name": "Base Steel (33 Grade)",
+            "CASRN": "",
+            "massPct": 0.9862,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": 0.00218,
+                        "contributors": [
+                            {
+                                "recId": 778,
+                                "massPct": 0.00008,
+                                "childrenIds": [
+                                    778
+                                ]
+                            },
+                            {
+                                "recId": 772,
+                                "massPct": 0.0006,
+                                "childrenIds": [
+                                    772
+                                ]
+                            },
+                            {
+                                "recId": 770,
+                                "massPct": 0.0015,
+                                "childrenIds": [
+                                    770
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity",
+                        "massPct": 0.00166,
+                        "contributors": [
+                            {
+                                "recId": 778,
+                                "massPct": 0.00008,
+                                "childrenIds": [
+                                    778
+                                ]
+                            },
+                            {
+                                "recId": 776,
+                                "massPct": 0.00008,
+                                "childrenIds": [
+                                    776
+                                ]
+                            },
+                            {
+                                "recId": 770,
+                                "massPct": 0.0015,
+                                "childrenIds": [
+                                    770
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.00966,
+                        "contributors": [
+                            {
+                                "recId": 778,
+                                "massPct": 0.00008,
+                                "childrenIds": [
+                                    778
+                                ]
+                            },
+                            {
+                                "recId": 776,
+                                "massPct": 0.00008,
+                                "childrenIds": [
+                                    776
+                                ]
+                            },
+                            {
+                                "recId": 760,
+                                "massPct": 0.006,
+                                "childrenIds": [
+                                    760
+                                ]
+                            },
+                            {
+                                "recId": 768,
+                                "massPct": 0.002,
+                                "childrenIds": [
+                                    768
+                                ]
+                            },
+                            {
+                                "recId": 770,
+                                "massPct": 0.0015,
+                                "childrenIds": [
+                                    770
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization",
+                        "massPct": 0.0035800000000000003,
+                        "contributors": [
+                            {
+                                "recId": 778,
+                                "massPct": 0.00008,
+                                "childrenIds": [
+                                    778
+                                ]
+                            },
+                            {
+                                "recId": 768,
+                                "massPct": 0.002,
+                                "childrenIds": [
+                                    768
+                                ]
+                            },
+                            {
+                                "recId": 770,
+                                "massPct": 0.0015,
+                                "childrenIds": [
+                                    770
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.01238,
+                        "contributors": [
+                            {
+                                "recId": 778,
+                                "massPct": 0.00008,
+                                "childrenIds": [
+                                    778
+                                ]
+                            },
+                            {
+                                "recId": 766,
+                                "massPct": 0.0025,
+                                "childrenIds": [
+                                    766
+                                ]
+                            },
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0003,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            },
+                            {
+                                "recId": 760,
+                                "massPct": 0.006,
+                                "childrenIds": [
+                                    760
+                                ]
+                            },
+                            {
+                                "recId": 768,
+                                "massPct": 0.002,
+                                "childrenIds": [
+                                    768
+                                ]
+                            },
+                            {
+                                "recId": 770,
+                                "massPct": 0.0015,
+                                "childrenIds": [
+                                    770
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.0088,
+                        "contributors": [
+                            {
+                                "recId": 766,
+                                "massPct": 0.0025,
+                                "childrenIds": [
+                                    766
+                                ]
+                            },
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0003,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            },
+                            {
+                                "recId": 760,
+                                "massPct": 0.006,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": 0.0023,
+                        "contributors": [
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0003,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            },
+                            {
+                                "recId": 768,
+                                "massPct": 0.002,
+                                "childrenIds": [
+                                    768
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.006,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.006,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity",
+                        "massPct": 0.0025,
+                        "contributors": [
+                            {
+                                "recId": 766,
+                                "massPct": 0.0025,
+                                "childrenIds": [
+                                    766
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": 0.0020800000000000003,
+                        "contributors": [
+                            {
+                                "recId": 776,
+                                "massPct": 0.00008,
+                                "childrenIds": [
+                                    776
+                                ]
+                            },
+                            {
+                                "recId": 768,
+                                "massPct": 0.002,
+                                "childrenIds": [
+                                    768
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": 0.006,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.006,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 774,
+                    "name": "Sulfur",
+                    "CASRN": "7704-34-9",
+                    "massPct": 0.00035,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Vulcraft SDS",
+                            "url": "http://www.vulcraft.com/pdf/MSDS_SDS-Deck-12-2013.pdf",
+                            "id": 1941
+                        },
+                        {
+                            "name": "Steel 101",
+                            "url": "https://www.steelmarketupdate.com/elements/uploads/temp/STEEL_101_DAY_24.pdf",
+                            "id": 1863
+                        },
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00034517
+                },
+                {
+                    "recId": 778,
+                    "name": "Niobium",
+                    "CASRN": "7440-03-1",
+                    "massPct": 0.00008,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-571",
+                                "type": "orange",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-577",
+                                "type": "orange",
+                                "name": "Skin Sensitization",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Vulcraft SDS",
+                            "url": "http://www.vulcraft.com/pdf/MSDS_SDS-Deck-12-2013.pdf",
+                            "id": 1941
+                        },
+                        {
+                            "name": "Steel 101",
+                            "url": "https://www.steelmarketupdate.com/elements/uploads/temp/STEEL_101_DAY_24.pdf",
+                            "id": 1863
+                        },
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.000078896
+                },
+                {
+                    "recId": 766,
+                    "name": "Copper",
+                    "CASRN": "7440-50-8",
+                    "massPct": 0.0025,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-571",
+                                "type": "red",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Vulcraft SDS",
+                            "url": "http://www.vulcraft.com/pdf/MSDS_SDS-Deck-12-2013.pdf",
+                            "id": 1941
+                        },
+                        {
+                            "name": "Steel 101",
+                            "url": "https://www.steelmarketupdate.com/elements/uploads/temp/STEEL_101_DAY_24.pdf",
+                            "id": 1863
+                        },
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0024655
+                },
+                {
+                    "recId": 776,
+                    "name": "Vanadium",
+                    "CASRN": "7440-62-2",
+                    "massPct": 0.00008,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-571",
+                                "type": "orange",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-567",
+                                "type": "red",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Vulcraft SDS",
+                            "url": "http://www.vulcraft.com/pdf/MSDS_SDS-Deck-12-2013.pdf",
+                            "id": 1941
+                        },
+                        {
+                            "name": "Galvanized Deck SDS",
+                            "url": "http://www.newmill.com/pdfs/galvanized-deck-SDS.pdf",
+                            "id": 1932
+                        },
+                        {
+                            "name": "Steel 101",
+                            "url": "https://www.steelmarketupdate.com/elements/uploads/temp/STEEL_101_DAY_24.pdf",
+                            "id": 1863
+                        },
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.000078896
+                },
+                {
+                    "recId": 762,
+                    "name": "Carbon",
+                    "CASRN": "7440-44-0",
+                    "massPct": 0.0015,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Vulcraft SDS",
+                            "url": "http://www.vulcraft.com/pdf/MSDS_SDS-Deck-12-2013.pdf",
+                            "id": 1941
+                        },
+                        {
+                            "name": "Steel 101",
+                            "url": "https://www.steelmarketupdate.com/elements/uploads/temp/STEEL_101_DAY_24.pdf",
+                            "id": 1863
+                        },
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0014793
+                },
+                {
+                    "recId": 9900,
+                    "name": "Phosphorus",
+                    "CASRN": "7723-14-0",
+                    "massPct": 0.0003,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Vulcraft SDS",
+                            "url": "http://www.vulcraft.com/pdf/MSDS_SDS-Deck-12-2013.pdf",
+                            "id": 1941
+                        },
+                        {
+                            "name": "Steel 101",
+                            "url": "https://www.steelmarketupdate.com/elements/uploads/temp/STEEL_101_DAY_24.pdf",
+                            "id": 1863
+                        },
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00029585999999999995
+                },
+                {
+                    "recId": 780,
+                    "name": "Titanium",
+                    "CASRN": "7440-32-6",
+                    "massPct": 0.00025,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Vulcraft SDS",
+                            "url": "http://www.vulcraft.com/pdf/MSDS_SDS-Deck-12-2013.pdf",
+                            "id": 1941
+                        },
+                        {
+                            "name": "Steel 101",
+                            "url": "https://www.steelmarketupdate.com/elements/uploads/temp/STEEL_101_DAY_24.pdf",
+                            "id": 1863
+                        },
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00024655
+                },
+                {
+                    "recId": 760,
+                    "name": "Manganese",
+                    "CASRN": "7439-96-5",
+                    "massPct": 0.006,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Galvanized Deck SDS",
+                            "url": "http://www.newmill.com/pdfs/galvanized-deck-SDS.pdf",
+                            "id": 1932
+                        },
+                        {
+                            "name": "Vulcraft SDS",
+                            "url": "http://www.vulcraft.com/pdf/MSDS_SDS-Deck-12-2013.pdf",
+                            "id": 1941
+                        },
+                        {
+                            "name": "Steel 101",
+                            "url": "https://www.steelmarketupdate.com/elements/uploads/temp/STEEL_101_DAY_24.pdf",
+                            "id": 1863
+                        },
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0059172
+                },
+                {
+                    "recId": 768,
+                    "name": "Nickel",
+                    "CASRN": "7440-02-0",
+                    "massPct": 0.002,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-577",
+                                "type": "orange",
+                                "name": "Skin Sensitization",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-567",
+                                "type": "red",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Vulcraft SDS",
+                            "url": "http://www.vulcraft.com/pdf/MSDS_SDS-Deck-12-2013.pdf",
+                            "id": 1941
+                        },
+                        {
+                            "name": "Galvanized Deck SDS",
+                            "url": "http://www.newmill.com/pdfs/galvanized-deck-SDS.pdf",
+                            "id": 1932
+                        },
+                        {
+                            "name": "Steel 101",
+                            "url": "https://www.steelmarketupdate.com/elements/uploads/temp/STEEL_101_DAY_24.pdf",
+                            "id": 1863
+                        },
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0019724
+                },
+                {
+                    "recId": 758,
+                    "name": "Iron",
+                    "CASRN": "7439-89-6",
+                    "massPct": 0.98509,
+                    "function": "base metal",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Vulcraft SDS",
+                            "url": "http://www.vulcraft.com/pdf/MSDS_SDS-Deck-12-2013.pdf",
+                            "id": 1941
+                        },
+                        {
+                            "name": "Galvanized Deck SDS",
+                            "url": "http://www.newmill.com/pdfs/galvanized-deck-SDS.pdf",
+                            "id": 1932
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.971495758
+                },
+                {
+                    "recId": 772,
+                    "name": "Molybdenum",
+                    "CASRN": "7439-98-7",
+                    "massPct": 0.0006,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Vulcraft SDS",
+                            "url": "http://www.vulcraft.com/pdf/MSDS_SDS-Deck-12-2013.pdf",
+                            "id": 1941
+                        },
+                        {
+                            "name": "Steel 101",
+                            "url": "https://www.steelmarketupdate.com/elements/uploads/temp/STEEL_101_DAY_24.pdf",
+                            "id": 1863
+                        },
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0005917199999999999
+                },
+                {
+                    "recId": 770,
+                    "name": "Chromium",
+                    "CASRN": "7440-47-3",
+                    "massPct": 0.0015,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-577",
+                                "type": "orange",
+                                "name": "Skin Sensitization",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-571",
+                                "type": "orange",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Vulcraft SDS",
+                            "url": "http://www.vulcraft.com/pdf/MSDS_SDS-Deck-12-2013.pdf",
+                            "id": 1941
+                        },
+                        {
+                            "name": "Galvanized Deck SDS",
+                            "url": "http://www.newmill.com/pdfs/galvanized-deck-SDS.pdf",
+                            "id": 1932
+                        },
+                        {
+                            "name": "Steel 101",
+                            "url": "https://www.steelmarketupdate.com/elements/uploads/temp/STEEL_101_DAY_24.pdf",
+                            "id": 1863
+                        },
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0014793
+                }
+            ],
+            "sources": [
+                {
+                    "name": "Steel Decking Spec",
+                    "url": "http://www.srpnet.com/electric/business/facilityspecs/pdfx/DIV05r/053100SHT.pdf",
+                    "id": 1938
+                },
+                {
+                    "name": "Vulcraft Catalog",
+                    "url": "http://www.vulcraft.com/products/catalogs/steelroof/document.pdf",
+                    "id": 1940
+                },
+                {
+                    "name": "Master Spec",
+                    "url": "http://www.productmasterspec.com/documents/65792/053100_FL.STEEL_DECKING.CSI_Metal_Dek.doc",
+                    "id": 1933
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.9862
+        }
+    ],
+    "impurities": [
+        {
+            "name": null,
+            "CASRN": null,
+            "massPct": 0,
+            "function": null,
+            "sources": [],
+            "hazards": {}
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.0138,
+                    "contributors": [
+                        {
+                            "recId": 1944,
+                            "massPct": 0.0138,
+                            "childrenIds": [
+                                1944,
+                                782
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-569",
+                    "type": "orange",
+                    "name": "Reproductive",
+                    "massPct": 0.002149916,
+                    "contributors": [
+                        {
+                            "recId": 1943,
+                            "massPct": 0.000078896,
+                            "childrenIds": [
+                                1943,
+                                778
+                            ]
+                        },
+                        {
+                            "recId": 1943,
+                            "massPct": 0.0005917199999999999,
+                            "childrenIds": [
+                                1943,
+                                772
+                            ]
+                        },
+                        {
+                            "recId": 1943,
+                            "massPct": 0.0014793,
+                            "childrenIds": [
+                                1943,
+                                770
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-571",
+                    "type": "orange",
+                    "name": "Mutagenicity",
+                    "massPct": 0.001637092,
+                    "contributors": [
+                        {
+                            "recId": 1943,
+                            "massPct": 0.000078896,
+                            "childrenIds": [
+                                1943,
+                                778
+                            ]
+                        },
+                        {
+                            "recId": 1943,
+                            "massPct": 0.000078896,
+                            "childrenIds": [
+                                1943,
+                                776
+                            ]
+                        },
+                        {
+                            "recId": 1943,
+                            "massPct": 0.0014793,
+                            "childrenIds": [
+                                1943,
+                                770
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.009526692,
+                    "contributors": [
+                        {
+                            "recId": 1943,
+                            "massPct": 0.000078896,
+                            "childrenIds": [
+                                1943,
+                                778
+                            ]
+                        },
+                        {
+                            "recId": 1943,
+                            "massPct": 0.000078896,
+                            "childrenIds": [
+                                1943,
+                                776
+                            ]
+                        },
+                        {
+                            "recId": 1943,
+                            "massPct": 0.0059172,
+                            "childrenIds": [
+                                1943,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 1943,
+                            "massPct": 0.0019724,
+                            "childrenIds": [
+                                1943,
+                                768
+                            ]
+                        },
+                        {
+                            "recId": 1943,
+                            "massPct": 0.0014793,
+                            "childrenIds": [
+                                1943,
+                                770
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-577",
+                    "type": "orange",
+                    "name": "Skin Sensitization",
+                    "massPct": 0.0035305960000000004,
+                    "contributors": [
+                        {
+                            "recId": 1943,
+                            "massPct": 0.000078896,
+                            "childrenIds": [
+                                1943,
+                                778
+                            ]
+                        },
+                        {
+                            "recId": 1943,
+                            "massPct": 0.0019724,
+                            "childrenIds": [
+                                1943,
+                                768
+                            ]
+                        },
+                        {
+                            "recId": 1943,
+                            "massPct": 0.0014793,
+                            "childrenIds": [
+                                1943,
+                                770
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.012209155999999999,
+                    "contributors": [
+                        {
+                            "recId": 1943,
+                            "massPct": 0.000078896,
+                            "childrenIds": [
+                                1943,
+                                778
+                            ]
+                        },
+                        {
+                            "recId": 1943,
+                            "massPct": 0.0024655,
+                            "childrenIds": [
+                                1943,
+                                766
+                            ]
+                        },
+                        {
+                            "recId": 1943,
+                            "massPct": 0.00029585999999999995,
+                            "childrenIds": [
+                                1943,
+                                9900
+                            ]
+                        },
+                        {
+                            "recId": 1943,
+                            "massPct": 0.0059172,
+                            "childrenIds": [
+                                1943,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 1943,
+                            "massPct": 0.0019724,
+                            "childrenIds": [
+                                1943,
+                                768
+                            ]
+                        },
+                        {
+                            "recId": 1943,
+                            "massPct": 0.0014793,
+                            "childrenIds": [
+                                1943,
+                                770
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.00867856,
+                    "contributors": [
+                        {
+                            "recId": 1943,
+                            "massPct": 0.0024655,
+                            "childrenIds": [
+                                1943,
+                                766
+                            ]
+                        },
+                        {
+                            "recId": 1943,
+                            "massPct": 0.00029585999999999995,
+                            "childrenIds": [
+                                1943,
+                                9900
+                            ]
+                        },
+                        {
+                            "recId": 1943,
+                            "massPct": 0.0059172,
+                            "childrenIds": [
+                                1943,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.00226826,
+                    "contributors": [
+                        {
+                            "recId": 1943,
+                            "massPct": 0.00029585999999999995,
+                            "childrenIds": [
+                                1943,
+                                9900
+                            ]
+                        },
+                        {
+                            "recId": 1943,
+                            "massPct": 0.0019724,
+                            "childrenIds": [
+                                1943,
+                                768
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.0059172,
+                    "contributors": [
+                        {
+                            "recId": 1943,
+                            "massPct": 0.0059172,
+                            "childrenIds": [
+                                1943,
+                                760
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-571",
+                    "type": "red",
+                    "name": "Mutagenicity",
+                    "massPct": 0.0024655,
+                    "contributors": [
+                        {
+                            "recId": 1943,
+                            "massPct": 0.0024655,
+                            "childrenIds": [
+                                1943,
+                                766
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-567",
+                    "type": "red",
+                    "name": "Cancer",
+                    "massPct": 0.002051296,
+                    "contributors": [
+                        {
+                            "recId": 1943,
+                            "massPct": 0.000078896,
+                            "childrenIds": [
+                                1943,
+                                776
+                            ]
+                        },
+                        {
+                            "recId": 1943,
+                            "massPct": 0.0019724,
+                            "childrenIds": [
+                                1943,
+                                768
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.0059172,
+                    "contributors": [
+                        {
+                            "recId": 1943,
+                            "massPct": 0.0059172,
+                            "childrenIds": [
+                                1943,
+                                760
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundaries comprise the cradle-to-gate process for manufacturing composite metal decking. The final manufacturing step -- the roll forming and welding process -- takes place in a roll forming facility and includes the following processing steps to create the final product: Coil slitting-->Decoiling-->Embossing-->Pre-heating-->Roll forming-->Cutting-->Welding-->Packaging and loading. Upstream data includes steel manufacturing, energy production, and zinc production, as well as transportation to the roll forming facility.",
+        "gabiDatasets": [
+            {
+                "name": "US: Electricity grid mix"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "US: Thermal energy from natural gas (eGrid)"
+            },
+            {
+                "name": "GLO: Steel wire rod worldsteel"
+            },
+            {
+                "name": "GLO: Welding seam 1m (including welding wire)"
+            },
+            {
+                "name": "US: Metal roll forming MCA"
+            },
+            {
+                "name": "NA: Steel hot dip galvanized worldsteel"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "48.30%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "97.5% recycled (product has 48.3% steel scrap input; the remainder of steel scrap is processed and credited as avoided burden; no credit is given for the recycling of zinc coating); 2.5% to landfill (ferro metal).",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "1.38E-02"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "6.10E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "2.66E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "5.57E-08"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "2.05E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "3.54E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "-1.70E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "-8.05E-06"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "-7.20E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "2.52E-08"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "-1.55E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "-6.23E+00"
+                }
+            ]
+        }
+    },
+    "id": "CP026",
+    "name": "Composite Metal Decking",
+    "altNames": [
+        "Metal decking"
+    ],
+    "uniformats": [
+        {
+            "id": "B3010",
+            "name": "Roofing"
+        },
+        {
+            "id": "B1020",
+            "name": "Roof Construction"
+        },
+        {
+            "id": "B1010",
+            "name": "Floor Construction"
+        },
+        {
+            "id": "A4010",
+            "name": "Standard Slabs-on-Grade"
+        },
+        {
+            "id": "A1010",
+            "name": "Standard Foundations"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "05-36-00",
+            "name": "Composite Metal Decking"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Composite metal decks are used in construction as concrete reinforcement and form. These decks are made from structural grade steel conforming to ASTM A1008 for primer coated or uncoated and ASTM A653 for galvanized coated steel. These coatings provide corrosion and rust resistance during construction. The standard galvanized coating is G60, but G90 may be used for high humidity and corrosive conditions and G30 or G40 may be used for greater economy. The base steel must meet have a yield strength of at least 33 ksi (SS grade 33), but may be available up to 80 ksi (SS grade 80). Steel decks are most commonly available in steel gauges of 16, 18, 20, or 22. This CP describes an 18 gauge composite metal decking made with 33 grade structural steel with a G60 galvanized coating.",
+    "sources": [
+        {
+            "name": "Vulcraft SDS",
+            "url": "http://www.vulcraft.com/pdf/MSDS_SDS-Deck-12-2013.pdf",
+            "id": 1941
+        },
+        {
+            "name": "Vulcraft Catalog",
+            "url": "http://www.vulcraft.com/products/catalogs/steelroof/document.pdf",
+            "id": 1940
+        },
+        {
+            "name": "Vercodeck Finishes",
+            "url": "http://www.vercodeck.com/index.php/product-options/finishes",
+            "id": 1939
+        },
+        {
+            "name": "Steel Decking Spec",
+            "url": "http://www.srpnet.com/electric/business/facilityspecs/pdfx/DIV05r/053100SHT.pdf",
+            "id": 1938
+        },
+        {
+            "name": "Steel Deck SDS",
+            "url": "http://www.newmill.com/pdfs/steel-deck-SDS.pdf",
+            "id": 1937
+        },
+        {
+            "name": "SDI Manual",
+            "url": "http://www.sdi.org/wp-content/uploads/2013/03/moc2.pdf",
+            "id": 1935
+        },
+        {
+            "name": "Millenium Catalog",
+            "url": "http://www.newmill.com/pdfs/comp-decking.pdf",
+            "id": 1934
+        },
+        {
+            "name": "Master Spec",
+            "url": "http://www.productmasterspec.com/documents/65792/053100_FL.STEEL_DECKING.CSI_Metal_Dek.doc",
+            "id": 1933
+        },
+        {
+            "name": "Galvanized Deck SDS",
+            "url": "http://www.newmill.com/pdfs/galvanized-deck-SDS.pdf",
+            "id": 1932
+        },
+        {
+            "name": "CFM VA GOV Spec",
+            "url": "http://www.cfm.va.gov/TIL/spec/053600.doc",
+            "id": 1931
+        },
+        {
+            "name": "ASTM A53-06",
+            "url": "http://www.hysteelpipe.com/wp-content/uploads/2014/10/ASTM-A53-STANDARD.pdf",
+            "id": 1929
+        },
+        {
+            "name": "ASTM A1008",
+            "url": "See hard copy",
+            "id": 1928
+        },
+        {
+            "name": "ASC Steel Deck TOC",
+            "url": "http://www.ascsd.com/files/floordeck.pdf",
+            "id": 1927
+        },
+        {
+            "name": "ASC Steel Deck Spec",
+            "url": "http://www.ascsd.com/files/Floor%20Deck%20Guide%20Specs.doc",
+            "id": 1926
+        },
+        {
+            "name": "ANSI/SDI",
+            "url": "ftp://soporte.uson.mx/PUBLICO/04_INGENIERIA%20CIVIL/ACERO%202/Especificaciones%20para%20Decks/Composite%20Deck%20Std%202006.pdf",
+            "id": 1925
+        },
+        {
+            "name": "ASTM A653,",
+            "url": "http://www.astm.org/Standards/A653.htm",
+            "id": 344
+        },
+        {
+            "name": "Steel 101",
+            "url": "https://www.steelmarketupdate.com/elements/uploads/temp/STEEL_101_DAY_24.pdf",
+            "id": 1863
+        }
+    ]
+}

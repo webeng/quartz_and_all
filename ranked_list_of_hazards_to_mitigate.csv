@@ -1,0 +1,130 @@
+,color,color_id,hazard_id,hazard_name,product_name,s,values
+36,purple,0,5,PBT,Exterior Door w/ IGU,5000,0.01515928706
+56,red,1,1,Developmental,Membrane roofing adhesives,400,64.091
+127,red,1,0,Cancer (occupational only),Fiberglass Board Insulation,400,55.5986071533
+57,red,1,3,Reproductive,Membrane roofing adhesives,400,41.541
+112,red,1,4,Cancer,"Ready Mix Concrete (Fly Ash) (3,000 - 4,000 psi)",400,31.145133
+21,red,1,0,Cancer (occupational only),EPDM membrane roofing,400,23.02259304
+40,red,1,0,Cancer (occupational only),Exterior Door w/ IGU,400,15.7959889978
+86,red,1,1,Developmental,Vinyl Composition Tile,400,5.63
+87,red,1,2,Respiratory,Vinyl Composition Tile,400,5.63
+113,red,1,0,Cancer (occupational only),"Ready Mix Concrete (Fly Ash) (3,000 - 4,000 psi)",400,2.49545345
+70,red,1,1,Developmental,Acoustical Ceiling Panels (FGD Gypsum),400,2.32536047034
+100,red,1,0,Cancer (occupational only),Carpet,400,2.317428
+125,red,1,3,Reproductive,Fiberglass Board Insulation,400,1.7500205549
+126,red,1,1,Developmental,Fiberglass Board Insulation,400,1.7500205549
+72,red,1,4,Cancer,Acoustical Ceiling Panels (FGD Gypsum),400,1.365
+81,red,1,0,Cancer (occupational only),Acoustical Ceiling Panels (mineral fiber),400,1.060038
+73,red,1,2,Respiratory,Acoustical Ceiling Panels (FGD Gypsum),400,0.909909
+88,red,1,0,Cancer (occupational only),Vinyl Composition Tile,400,0.67
+68,red,1,0,Cancer (occupational only),Acoustical Ceiling Panels (FGD Gypsum),400,0.509705558692
+71,red,1,5,PBT,Acoustical Ceiling Panels (FGD Gypsum),400,0.45533818
+39,red,1,3,Reproductive,Exterior Door w/ IGU,400,0.384688443383
+128,red,1,4,Cancer,Fiberglass Board Insulation,400,0.314399059035
+38,red,1,12,Mutagenicity,Exterior Door w/ IGU,400,0.156643990513
+37,red,1,4,Cancer,Exterior Door w/ IGU,400,0.151226678359
+101,red,1,3,Reproductive,Carpet,400,0.13019
+102,red,1,1,Developmental,Carpet,400,0.13019
+69,red,1,3,Reproductive,Acoustical Ceiling Panels (FGD Gypsum),400,0.050451470344
+41,red,1,1,Developmental,Exterior Door w/ IGU,400,0.0341416047111
+43,red,1,5,PBT,Exterior Door w/ IGU,400,0.0233800309132
+4,red,1,3,Reproductive,Drywall (Natural Gypsum),400,0.0130788101787
+5,red,1,1,Developmental,Drywall (Natural Gypsum),400,0.0130788101787
+48,red,1,3,Reproductive,Drywall (Mixed Gypsum),400,0.0130782316116
+49,red,1,1,Developmental,Drywall (Mixed Gypsum),400,0.0130782316116
+42,red,1,2,Respiratory,Exterior Door w/ IGU,400,0.0107220869154
+0,orange,2,1,Developmental,Drywall (Natural Gypsum),100,89.9599478966
+55,orange,2,6,Endocrine,Membrane roofing adhesives,100,41.541
+44,orange,2,1,Developmental,Drywall (Mixed Gypsum),100,37.6593548802
+104,orange,2,10,Mammalian,"Ready Mix Concrete (Fly Ash) (3,000 - 4,000 psi)",100,34.2460165725
+103,orange,2,11,Organ Toxicant,"Ready Mix Concrete (Fly Ash) (3,000 - 4,000 psi)",100,31.145133
+52,orange,2,3,Reproductive,Membrane roofing adhesives,100,24.037
+16,orange,2,10,Mammalian,EPDM membrane roofing,100,23.7908388787
+17,orange,2,13,Respiratory (occupational only),EPDM membrane roofing,100,18.29746809
+89,orange,2,13,Respiratory (occupational only),Carpet,100,16.853155
+20,orange,2,4,Cancer,EPDM membrane roofing,100,16.59576226
+15,orange,2,1,Developmental,EPDM membrane roofing,100,15.31535253
+114,orange,2,10,Mammalian,Fiberglass Board Insulation,100,14.5515759929
+117,orange,2,1,Developmental,Fiberglass Board Insulation,100,12.0645228729
+106,orange,2,4,Cancer,"Ready Mix Concrete (Fly Ash) (3,000 - 4,000 psi)",100,11.0055743625
+6,orange,2,4,Cancer,Concrete Masonry Unit,100,10.8433935
+115,orange,2,15,Eye Irritation,Fiberglass Board Insulation,100,10.0889276646
+118,orange,2,8,Skin Irritation,Fiberglass Board Insulation,100,9.91975661692
+62,orange,2,1,Developmental,Acoustical Ceiling Panels (FGD Gypsum),100,8.64107057508
+82,orange,2,13,Respiratory (occupational only),Vinyl Composition Tile,100,5.7515
+83,orange,2,1,Developmental,Vinyl Composition Tile,100,5.63
+22,orange,2,10,Mammalian,Exterior Door w/ IGU,100,5.28846530411
+80,orange,2,4,Cancer,Acoustical Ceiling Panels (mineral fiber),100,4.000734
+26,orange,2,1,Developmental,Exterior Door w/ IGU,100,3.88980979236
+123,orange,2,13,Respiratory (occupational only),Fiberglass Board Insulation,100,3.77275139457
+119,orange,2,2,Respiratory,Fiberglass Board Insulation,100,3.46894086679
+23,orange,2,2,Respiratory,Exterior Door w/ IGU,100,2.84156838064
+24,orange,2,6,Endocrine,Exterior Door w/ IGU,100,2.53989267272
+33,orange,2,15,Eye Irritation,Exterior Door w/ IGU,100,1.94947351809
+34,orange,2,8,Skin Irritation,Exterior Door w/ IGU,100,1.94095588393
+91,orange,2,10,Mammalian,Carpet,100,1.868848
+105,orange,2,2,Respiratory,"Ready Mix Concrete (Fly Ash) (3,000 - 4,000 psi)",100,1.8685663625
+64,orange,2,4,Cancer,Acoustical Ceiling Panels (FGD Gypsum),100,1.82408474908
+109,orange,2,1,Developmental,"Ready Mix Concrete (Fly Ash) (3,000 - 4,000 psi)",100,1.5962933225
+107,orange,2,8,Skin Irritation,"Ready Mix Concrete (Fly Ash) (3,000 - 4,000 psi)",100,1.23231721
+108,orange,2,15,Eye Irritation,"Ready Mix Concrete (Fly Ash) (3,000 - 4,000 psi)",100,1.23231721
+54,orange,2,15,Eye Irritation,Membrane roofing adhesives,100,1.187
+77,orange,2,10,Mammalian,Acoustical Ceiling Panels (mineral fiber),100,1.126533
+8,orange,2,10,Mammalian,Concrete Masonry Unit,100,1.0061583
+50,orange,2,1,Developmental,Membrane roofing adhesives,100,0.973
+63,orange,2,3,Reproductive,Acoustical Ceiling Panels (FGD Gypsum),100,0.91400704362
+65,orange,2,13,Respiratory (occupational only),Acoustical Ceiling Panels (FGD Gypsum),100,0.909909
+9,orange,2,2,Respiratory,Concrete Masonry Unit,100,0.8258935
+7,orange,2,6,Endocrine,Concrete Masonry Unit,100,0.8233935
+110,orange,2,6,Endocrine,"Ready Mix Concrete (Fly Ash) (3,000 - 4,000 psi)",100,0.8177645125
+18,orange,2,2,Respiratory,EPDM membrane roofing,100,0.7682458387
+19,orange,2,3,Reproductive,EPDM membrane roofing,100,0.7682458387
+59,orange,2,10,Mammalian,Acoustical Ceiling Panels (FGD Gypsum),100,0.76790832966
+84,orange,2,10,Mammalian,Vinyl Composition Tile,100,0.67
+120,orange,2,3,Reproductive,Fiberglass Board Insulation,100,0.662566028548
+95,orange,2,1,Developmental,Carpet,100,0.591965
+94,orange,2,15,Eye Irritation,Carpet,100,0.5638
+12,orange,2,1,Developmental,Concrete Masonry Unit,100,0.5517463
+92,orange,2,8,Skin Irritation,Carpet,100,0.507835
+66,orange,2,6,Endocrine,Acoustical Ceiling Panels (FGD Gypsum),100,0.455091
+122,orange,2,11,Organ Toxicant,Fiberglass Board Insulation,100,0.33011565374
+51,orange,2,2,Respiratory,Membrane roofing adhesives,100,0.3
+53,orange,2,10,Mammalian,Membrane roofing adhesives,100,0.3
+97,orange,2,2,Respiratory,Carpet,100,0.284115
+27,orange,2,14,Skin Sensitization,Exterior Door w/ IGU,100,0.221713567397
+78,orange,2,15,Eye Irritation,Acoustical Ceiling Panels (mineral fiber),100,0.205272
+60,orange,2,8,Skin Irritation,Acoustical Ceiling Panels (FGD Gypsum),100,0.196797161396
+61,orange,2,15,Eye Irritation,Acoustical Ceiling Panels (FGD Gypsum),100,0.195431146856
+11,orange,2,15,Eye Irritation,Concrete Masonry Unit,100,0.1852648
+10,orange,2,8,Skin Irritation,Concrete Masonry Unit,100,0.1827648
+116,orange,2,4,Cancer,Fiberglass Board Insulation,100,0.159700718332
+28,orange,2,11,Organ Toxicant,Exterior Door w/ IGU,100,0.156614147941
+29,orange,2,3,Reproductive,Exterior Door w/ IGU,100,0.146828611103
+58,orange,2,2,Respiratory,Acoustical Ceiling Panels (FGD Gypsum),100,0.110100771924
+25,orange,2,12,Mutagenicity,Exterior Door w/ IGU,100,0.102220308053
+93,orange,2,3,Reproductive,Carpet,100,0.070065
+74,orange,2,14,Skin Sensitization,Acoustical Ceiling Panels (mineral fiber),100,0.066495
+75,orange,2,13,Respiratory (occupational only),Acoustical Ceiling Panels (mineral fiber),100,0.066495
+76,orange,2,3,Reproductive,Acoustical Ceiling Panels (mineral fiber),100,0.066495
+79,orange,2,2,Respiratory,Acoustical Ceiling Panels (mineral fiber),100,0.063483
+98,orange,2,14,Skin Sensitization,Carpet,100,0.05949
+121,orange,2,14,Skin Sensitization,Fiberglass Board Insulation,100,0.049030017815
+30,orange,2,9,Neurotoxicity,Exterior Door w/ IGU,100,0.0310294930898
+90,orange,2,6,Endocrine,Carpet,100,0.0173872755
+1,orange,2,10,Mammalian,Drywall (Natural Gypsum),100,0.0130788101787
+2,orange,2,6,Endocrine,Drywall (Natural Gypsum),100,0.0130788101787
+45,orange,2,10,Mammalian,Drywall (Mixed Gypsum),100,0.0130782316116
+46,orange,2,6,Endocrine,Drywall (Mixed Gypsum),100,0.0130782316116
+31,orange,2,13,Respiratory (occupational only),Exterior Door w/ IGU,100,0.0128802816711
+32,orange,2,4,Cancer,Exterior Door w/ IGU,100,0.0100973972599
+96,orange,2,4,Cancer,Carpet,100,0.00705
+13,orange,2,14,Skin Sensitization,Concrete Masonry Unit,100,0.0025
+67,lightgrey,3,7,Unknown,Acoustical Ceiling Panels (FGD Gypsum),50,79.99993398
+47,lightgrey,3,7,Unknown,Drywall (Mixed Gypsum),50,52.3024161265
+35,lightgrey,3,7,Unknown,Exterior Door w/ IGU,50,10.8325986634
+124,lightgrey,3,7,Unknown,Fiberglass Board Insulation,50,2.98676494113
+99,lightgrey,3,7,Unknown,Carpet,50,2.7424977245
+85,lightgrey,3,7,Unknown,Vinyl Composition Tile,50,1.5
+14,lightgrey,3,7,Unknown,Concrete Masonry Unit,50,0.501
+111,lightgrey,3,7,Unknown,"Ready Mix Concrete (Fly Ash) (3,000 - 4,000 psi)",50,0.497575
+3,lightgrey,3,7,Unknown,Drywall (Natural Gypsum),50,0.00137903093485

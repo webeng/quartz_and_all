@@ -1,0 +1,1007 @@
+{
+    "CPID": "CP043",
+    "timestamp": 1452102109215,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 4451,
+            "name": "Ethylbenzene",
+            "CASRN": "100-41-4",
+            "massPct": 0.01248439451,
+            "function": "solvent",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Super-Spec MSDS",
+                    "url": "http://www.benjaminmoore.com/en-us/for-architects-and-designers/paint-products/super-spec-hp-primers#piSheen=P07&advs=0&tab=3",
+                    "id": 4614
+                },
+                {
+                    "name": "Rustoleum MSDS",
+                    "url": "http://www.rustoleum.com/MSDS/ENGLISH/254170.PDF",
+                    "id": 4615
+                },
+                {
+                    "name": "Columbia MSDS",
+                    "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=CPC&prodno=07-450-PP&doctype=MSDS&lang=2",
+                    "id": 4608
+                },
+                {
+                    "name": "Speedhide MSDS",
+                    "url": "https://buyat.ppg.com/ehsdocumentmanagerpublic/documentsearchinnerframe.aspx?CodeValue=6-204&CodeCondition=IsEqualTo&Language=en-US&SuppressSearchControls=True",
+                    "id": 4603
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.01248439451
+        },
+        {
+            "recId": 926,
+            "name": "Quartz",
+            "CASRN": "14808-60-7",
+            "massPct": 0.007490636704,
+            "function": "thickener",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Super-Spec MSDS",
+                    "url": "http://www.benjaminmoore.com/en-us/for-architects-and-designers/paint-products/super-spec-hp-primers#piSheen=P07&advs=0&tab=3",
+                    "id": 4614
+                },
+                {
+                    "name": "Columbia MSDS",
+                    "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=CPC&prodno=07-450-PP&doctype=MSDS&lang=2",
+                    "id": 4608
+                },
+                {
+                    "name": "Speedhide MSDS",
+                    "url": "https://buyat.ppg.com/ehsdocumentmanagerpublic/documentsearchinnerframe.aspx?CodeValue=6-204&CodeCondition=IsEqualTo&Language=en-US&SuppressSearchControls=True",
+                    "id": 4603
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.007490636704
+        },
+        {
+            "recId": 3759,
+            "name": "Limestone",
+            "CASRN": "1317-65-3",
+            "massPct": 0.1560549313,
+            "function": "extender pigment",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Super-Spec MSDS",
+                    "url": "http://www.benjaminmoore.com/en-us/for-architects-and-designers/paint-products/super-spec-hp-primers#piSheen=P07&advs=0&tab=3",
+                    "id": 4614
+                },
+                {
+                    "name": "Rustoleum MSDS",
+                    "url": "http://www.rustoleum.com/MSDS/ENGLISH/254170.PDF",
+                    "id": 4615
+                },
+                {
+                    "name": "Pettus",
+                    "url": "https://www.google.com/patents/US6413588",
+                    "id": 4611
+                },
+                {
+                    "name": "Speedhide MSDS",
+                    "url": "https://buyat.ppg.com/ehsdocumentmanagerpublic/documentsearchinnerframe.aspx?CodeValue=6-204&CodeCondition=IsEqualTo&Language=en-US&SuppressSearchControls=True",
+                    "id": 4603
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.1560549313
+        },
+        {
+            "recId": 1535,
+            "name": "Talc",
+            "CASRN": "14807-96-6",
+            "massPct": 0.1248439451,
+            "function": "filler",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Super-Spec MSDS",
+                    "url": "http://www.benjaminmoore.com/en-us/for-architects-and-designers/paint-products/super-spec-hp-primers#piSheen=P07&advs=0&tab=3",
+                    "id": 4614
+                },
+                {
+                    "name": "Intrepid",
+                    "url": "http://www.intrepidcoatings.com/pdf/msds/200A79.pdf",
+                    "id": 4621
+                },
+                {
+                    "name": "Rustoleum MSDS",
+                    "url": "http://www.rustoleum.com/MSDS/ENGLISH/254170.PDF",
+                    "id": 4615
+                },
+                {
+                    "name": "Columbia MSDS",
+                    "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=CPC&prodno=07-450-PP&doctype=MSDS&lang=2",
+                    "id": 4608
+                },
+                {
+                    "name": "Speedhide MSDS",
+                    "url": "https://buyat.ppg.com/ehsdocumentmanagerpublic/documentsearchinnerframe.aspx?CodeValue=6-204&CodeCondition=IsEqualTo&Language=en-US&SuppressSearchControls=True",
+                    "id": 4603
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.1248439451
+        },
+        {
+            "recId": 4625,
+            "name": "Phenol-Modified Alkyd Resin",
+            "CASRN": "unknown",
+            "massPct": 0.2559300874,
+            "function": "polymer",
+            "hazards": {
+                "unknown": [
+                    {
+                        "hazardId": "unknown-11424",
+                        "type": "unknown",
+                        "name": "Unknown",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Pettus",
+                    "url": "https://www.google.com/patents/US6413588",
+                    "id": 4611
+                },
+                {
+                    "name": "Intrepid",
+                    "url": "http://www.intrepidcoatings.com/pdf/msds/200A79.pdf",
+                    "id": 4621
+                },
+                {
+                    "name": "Ranbar",
+                    "url": "http://www.ranbar.com/products/coating-resins/phenolic-rosin/",
+                    "id": 4620
+                },
+                {
+                    "name": "Chempol TDS",
+                    "url": "http://productfinder.arkemacoatingresins.com/coatingresinsfinder/TDSDocs/chempol812-2218_en.pdf",
+                    "id": 4619
+                },
+                {
+                    "name": "Cytec",
+                    "url": "https://www.google.com/patents/WO1999014277A1?cl=en&dq=structural+aluminum+primer&hl=en&sa=X&ei=eSBKVcncEcfTsAW0woDoCA&ved=0CCQQ6AEwAQ",
+                    "id": 4617
+                },
+                {
+                    "name": "Arakawa",
+                    "url": "http://www.arakawa-usa.com/product_info/Paint/pd3010.html",
+                    "id": 4618
+                },
+                {
+                    "name": "Columbia TDS",
+                    "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=CPC&prodno=07-450&doctype=PDS&lang=2",
+                    "id": 4607
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.2559300874
+        },
+        {
+            "recId": 2766,
+            "name": "Titanium Dioxide",
+            "CASRN": "13463-67-7",
+            "massPct": 0.1248439451,
+            "function": "pigment",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Super-Spec MSDS",
+                    "url": "http://www.benjaminmoore.com/en-us/for-architects-and-designers/paint-products/super-spec-hp-primers#piSheen=P07&advs=0&tab=3",
+                    "id": 4614
+                },
+                {
+                    "name": "Intrepid",
+                    "url": "http://www.intrepidcoatings.com/pdf/msds/200A79.pdf",
+                    "id": 4621
+                },
+                {
+                    "name": "Rustoleum MSDS",
+                    "url": "http://www.rustoleum.com/MSDS/ENGLISH/254170.PDF",
+                    "id": 4615
+                },
+                {
+                    "name": "Pettus",
+                    "url": "https://www.google.com/patents/US6413588",
+                    "id": 4611
+                },
+                {
+                    "name": "Columbia MSDS",
+                    "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=CPC&prodno=07-450-PP&doctype=MSDS&lang=2",
+                    "id": 4608
+                },
+                {
+                    "name": "Speedhide MSDS",
+                    "url": "https://buyat.ppg.com/ehsdocumentmanagerpublic/documentsearchinnerframe.aspx?CodeValue=6-204&CodeCondition=IsEqualTo&Language=en-US&SuppressSearchControls=True",
+                    "id": 4603
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.1248439451
+        },
+        {
+            "recId": 4626,
+            "name": "Zinc Phosphate",
+            "CASRN": "7779-90-0",
+            "massPct": 0.0936329588,
+            "function": "rust inhibitor",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Super-Spec MSDS",
+                    "url": "http://www.benjaminmoore.com/en-us/for-architects-and-designers/paint-products/super-spec-hp-primers#piSheen=P07&advs=0&tab=3",
+                    "id": 4614
+                },
+                {
+                    "name": "Columbia MSDS",
+                    "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=CPC&prodno=07-450-PP&doctype=MSDS&lang=2",
+                    "id": 4608
+                },
+                {
+                    "name": "Speedhide MSDS",
+                    "url": "https://buyat.ppg.com/ehsdocumentmanagerpublic/documentsearchinnerframe.aspx?CodeValue=6-204&CodeCondition=IsEqualTo&Language=en-US&SuppressSearchControls=True",
+                    "id": 4603
+                },
+                {
+                    "name": "Intrepid",
+                    "url": "http://www.intrepidcoatings.com/pdf/msds/200A79.pdf",
+                    "id": 4621
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.0936329588
+        },
+        {
+            "recId": 2805,
+            "name": "Xylene",
+            "CASRN": "1330-20-7",
+            "massPct": 0.2247191011,
+            "function": "solvent",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Rustoleum MSDS",
+                    "url": "http://www.rustoleum.com/MSDS/ENGLISH/254170.PDF",
+                    "id": 4615
+                },
+                {
+                    "name": "Super-Spec MSDS",
+                    "url": "http://www.benjaminmoore.com/en-us/for-architects-and-designers/paint-products/super-spec-hp-primers#piSheen=P07&advs=0&tab=3",
+                    "id": 4614
+                },
+                {
+                    "name": "Intrepid",
+                    "url": "http://www.intrepidcoatings.com/pdf/msds/200A79.pdf",
+                    "id": 4621
+                },
+                {
+                    "name": "Maida",
+                    "url": "https://www.google.com/patents/US3904790?dq=aluminum+primer&hl=en&sa=X&ei=Sx1KVbe8L4qvsAWgloCQCQ&sqi=2&pjf=1&ved=0CB0Q6AEwAA",
+                    "id": 4616
+                },
+                {
+                    "name": "Columbia MSDS",
+                    "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=CPC&prodno=07-450-PP&doctype=MSDS&lang=2",
+                    "id": 4608
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.2247191011
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Glycerol",
+            "CASRN": "56-81-5",
+            "massPct": null,
+            "function": "polyol",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Phthalic Anhydride",
+            "CASRN": "85-44-9",
+            "massPct": null,
+            "function": "polybasic acid",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Zinc Oxide",
+            "CASRN": "1314-13-2",
+            "massPct": 0.002808988764,
+            "function": "zinc phosphate residual",
+            "sources": [
+                {
+                    "name": "SNCZ",
+                    "url": "http://www.sncz.com/images/upload/msds-zinc-phosphate-english.pdf",
+                    "id": 4624
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.01248439451,
+                    "contributors": [
+                        {
+                            "recId": 4451,
+                            "massPct": 0.01248439451,
+                            "childrenIds": [
+                                4451
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.007490636704,
+                    "contributors": [
+                        {
+                            "recId": 926,
+                            "massPct": 0.007490636704,
+                            "childrenIds": [
+                                926
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.132334581804,
+                    "contributors": [
+                        {
+                            "recId": 926,
+                            "massPct": 0.007490636704,
+                            "childrenIds": [
+                                926
+                            ]
+                        },
+                        {
+                            "recId": 2766,
+                            "massPct": 0.1248439451,
+                            "childrenIds": [
+                                2766
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-567",
+                    "type": "orange",
+                    "name": "Cancer",
+                    "massPct": 0.1248439451,
+                    "contributors": [
+                        {
+                            "recId": 1535,
+                            "massPct": 0.1248439451,
+                            "childrenIds": [
+                                1535
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-575",
+                    "type": "orange",
+                    "name": "Eye Irritation",
+                    "massPct": 0.2247191011,
+                    "contributors": [
+                        {
+                            "recId": 2805,
+                            "massPct": 0.2247191011,
+                            "childrenIds": [
+                                2805
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.2247191011,
+                    "contributors": [
+                        {
+                            "recId": 2805,
+                            "massPct": 0.2247191011,
+                            "childrenIds": [
+                                2805
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.23720349561,
+                    "contributors": [
+                        {
+                            "recId": 4451,
+                            "massPct": 0.01248439451,
+                            "childrenIds": [
+                                4451
+                            ]
+                        },
+                        {
+                            "recId": 2805,
+                            "massPct": 0.2247191011,
+                            "childrenIds": [
+                                2805
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-567",
+                    "type": "red",
+                    "name": "Cancer",
+                    "massPct": 0.019975031214,
+                    "contributors": [
+                        {
+                            "recId": 4451,
+                            "massPct": 0.01248439451,
+                            "childrenIds": [
+                                4451
+                            ]
+                        },
+                        {
+                            "recId": 926,
+                            "massPct": 0.007490636704,
+                            "childrenIds": [
+                                926
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.1248439451,
+                    "contributors": [
+                        {
+                            "recId": 2766,
+                            "massPct": 0.1248439451,
+                            "childrenIds": [
+                                2766
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "unknown": [
+                {
+                    "hazardId": "unknown-11424",
+                    "type": "unknown",
+                    "name": "Unknown",
+                    "massPct": 0.2559300874,
+                    "contributors": [
+                        {
+                            "recId": 4625,
+                            "massPct": 0.2559300874,
+                            "childrenIds": [
+                                4625
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundary is defined as cradle-to-gate and ends with the finished product at the factory gate. Includes all cradle-to-gate data including polymer production, chemicals extraction, and energy production. Inbound transportation of significant upstream materials is included. Packaging is not included. ",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "EU-27: Talcum powder (filler)"
+            },
+            {
+                "name": "US: Silica sand (flour)"
+            },
+            {
+                "name": "DE: Zinc phosphate (estimation)"
+            },
+            {
+                "name": "DE: Ethyl benzene"
+            },
+            {
+                "name": "US: Xylene (by product BTX) (from reformate)"
+            },
+            {
+                "name": "US: Titanium dioxide pigment"
+            },
+            {
+                "name": "US: Limestone flour (5mm)"
+            },
+            {
+                "name": "US: Alkyd resin (LM-system) (estimation)"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0% post-consumer recycled content",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "Assume recycling rate for coating is the same as recycling rate of architectural aluminum. 95% recycled (burden associated with emissions from solvent evaporation; no burden or credit associated with other materials); 5% to landfill (25.59% plastic; 28.84% glass inert; 21.84% ferro metals; 22.47% xylene emissions; 1.25% ethyl benzene emissions).                                \n                                ",
+        "inUseNotes": "20.4% released as NMVOC (unspecified)",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "9.50E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "3.44E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "1.80E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "2.66E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.07E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "4.32E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "5.64E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "0.00E+00"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "8.39E-05"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.04E-05"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "1.92E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.88E-13"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.70E+00"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "2.74E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP043",
+    "name": "Aluminum Primer",
+    "altNames": [
+        "Universal Primer for Aluminum Substrates"
+    ],
+    "uniformats": [
+        {
+            "id": "B2010",
+            "name": "Exterior Walls"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "09-96-56",
+            "name": "Epoxy Coatings"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Aluminum is a difficult substrate to coat and requires a primer coating prior to application of a high performance coating.  A “universal primer” is a primer suitable as an undercoat for top-coats based on various chemistries (epoxy, polyurethane, etc.).  In the case of aluminum, the product most suited to be a universal primer is based on an alkyd resin formulation.  This CP describes a phenol-modified alkyd resin based primer for use on aluminum substrates, and compatible with various types of high performance coatings which would be subsequently applied.\t\t\t\t",
+    "sources": [
+        {
+            "name": "SNCZ",
+            "url": "http://www.sncz.com/images/upload/msds-zinc-phosphate-english.pdf",
+            "id": 4624
+        },
+        {
+            "name": "Highland",
+            "url": "http://highland-international.com/techsheets/84-Series-Phenolic-Modified-Alkyd-Primer-2-13.pdf",
+            "id": 4623
+        },
+        {
+            "name": "Ullmannn",
+            "url": "http://onlinelibrary.wiley.com/doi/10.1002/14356007.a01_409/full",
+            "id": 4622
+        },
+        {
+            "name": "Intrepid",
+            "url": "http://www.intrepidcoatings.com/pdf/msds/200A79.pdf",
+            "id": 4621
+        },
+        {
+            "name": "Ranbar",
+            "url": "http://www.ranbar.com/products/coating-resins/phenolic-rosin/",
+            "id": 4620
+        },
+        {
+            "name": "Chempol TDS",
+            "url": "http://productfinder.arkemacoatingresins.com/coatingresinsfinder/TDSDocs/chempol812-2218_en.pdf",
+            "id": 4619
+        },
+        {
+            "name": "Arakawa",
+            "url": "http://www.arakawa-usa.com/product_info/Paint/pd3010.html",
+            "id": 4618
+        },
+        {
+            "name": "Cytec",
+            "url": "https://www.google.com/patents/WO1999014277A1?cl=en&dq=structural+aluminum+primer&hl=en&sa=X&ei=eSBKVcncEcfTsAW0woDoCA&ved=0CCQQ6AEwAQ",
+            "id": 4617
+        },
+        {
+            "name": "Maida",
+            "url": "https://www.google.com/patents/US3904790?dq=aluminum+primer&hl=en&sa=X&ei=Sx1KVbe8L4qvsAWgloCQCQ&sqi=2&pjf=1&ved=0CB0Q6AEwAA",
+            "id": 4616
+        },
+        {
+            "name": "Rustoleum MSDS",
+            "url": "http://www.rustoleum.com/MSDS/ENGLISH/254170.PDF",
+            "id": 4615
+        },
+        {
+            "name": "Super-Spec MSDS",
+            "url": "http://www.benjaminmoore.com/en-us/for-architects-and-designers/paint-products/super-spec-hp-primers#piSheen=P07&advs=0&tab=3",
+            "id": 4614
+        },
+        {
+            "name": "Tinuvin",
+            "url": "http://worldaccount.basf.com/wa/NAFTA~en_US/Catalog/FunctionalPolymers/doc4/BASF/PRD/30094960/.pdf?title=&asset_type=msds/pdf&language=EN&validArea=US&urn=urn:documentum:ProductBase_EU:09007af8803905c2.pdf",
+            "id": 4613
+        },
+        {
+            "name": "Defined",
+            "url": "http://www.britannica.com/EBchecked/topic/15764/alkyd-resin",
+            "id": 4612
+        },
+        {
+            "name": "Pettus",
+            "url": "https://www.google.com/patents/US6413588",
+            "id": 4611
+        },
+        {
+            "name": "Lange",
+            "url": "https://www.google.com/patents/EP0079372A4?cl=en&dq=priming+aluminum+substrate&hl=en&sa=X&ei=hNhIVZrGMMuwsAXMwIBo&ved=0CDsQ6AEwBA",
+            "id": 4610
+        },
+        {
+            "name": "Sumter Coatings",
+            "url": "http://www.sumtercoatings.com/assets/pdfs/Technical_Information_Sheet_196N1306_GREEN_Compliant.pdf",
+            "id": 4609
+        },
+        {
+            "name": "Columbia MSDS",
+            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=CPC&prodno=07-450-PP&doctype=MSDS&lang=2",
+            "id": 4608
+        },
+        {
+            "name": "Columbia TDS",
+            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=CPC&prodno=07-450&doctype=PDS&lang=2",
+            "id": 4607
+        },
+        {
+            "name": "Pitt-Tech TDS",
+            "url": "http://www.ppghighperformancecoatings.com/getmedia/e1ab730c-c542-409b-9793-8ae39005b179/TDS_90-912C.pdf.aspx?ext=.pdf",
+            "id": 4606
+        },
+        {
+            "name": "EcoPrimer TDS",
+            "url": "http://www.cortecvci.com/Publications/PDS/EcoPrimer.pdf",
+            "id": 4605
+        },
+        {
+            "name": "Speedhide TDS",
+            "url": "http://www.ppghighperformancecoatings.com/Products/By-Brand/SPEEDHIDE%C2%AE/SPEEDHIDE%C2%AE-Int-Ext-Zinc-Chromate-Metal-Primer.aspx",
+            "id": 4604
+        },
+        {
+            "name": "Speedhide MSDS",
+            "url": "https://buyat.ppg.com/ehsdocumentmanagerpublic/documentsearchinnerframe.aspx?CodeValue=6-204&CodeCondition=IsEqualTo&Language=en-US&SuppressSearchControls=True",
+            "id": 4603
+        },
+        {
+            "name": "Vinyl-Shield TDS",
+            "url": "http://www.glass-shield.com/pdf/7342_en.pdf",
+            "id": 4602
+        },
+        {
+            "name": "Vinyl-Shield",
+            "url": "http://www.glass-shield.com/eg/vinyl-7342.php",
+            "id": 4601
+        },
+        {
+            "name": "ProCryl Web",
+            "url": "http://www.sherwin-williams.com/painting-contractors/products/catalog/pro-industrial-procryl-universal-acrylic-primer/",
+            "id": 4600
+        },
+        {
+            "name": "ProCryl EDS",
+            "url": "http://www.sherwin-williams.com/document/EDS/en/035777467305/",
+            "id": 4599
+        },
+        {
+            "name": "ProCryl MSDS",
+            "url": "http://www.sherwin-williams.com/document/MSDS/en/035777467305/",
+            "id": 4598
+        },
+        {
+            "name": "ProCryl PDS",
+            "url": "http://www.sherwin-williams.com/document/PDS/en/035777467305/",
+            "id": 4597
+        },
+        {
+            "name": "AwlGrip",
+            "url": "http://www.awlgrip.com/support-and-advice/surface-preparation-and-priming-aluminum.aspx",
+            "id": 4596
+        }
+    ]
+}

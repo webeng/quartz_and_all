@@ -1,0 +1,863 @@
+{
+  "CPID": "CP113",
+  "timestamp": 1453510066451,
+  "version": "a01",
+  "components": [
+    {
+      "recId": 5695,
+      "name": "Ethylene Glycol",
+      "CASRN": "107-21-1",
+      "massPct": 0.05,
+      "function": "anti-freeze",
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-578",
+            "type": "orange",
+            "name": "Organ Toxicant",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          },
+          {
+            "hazardId": "orange-570",
+            "type": "orange",
+            "name": "Endocrine",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          }
+        ],
+        "red": [
+          {
+            "hazardId": "red-568",
+            "type": "red",
+            "name": "Developmental",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "Grace patent",
+          "url": "https://www.google.com.ar/patents/US5132183",
+          "id": 6413
+        },
+        {
+          "name": "Hydrotech",
+          "url": "http://resources.hydrotechusa.com/download.php?resource=413",
+          "id": 6411
+        },
+        {
+          "name": "PolyGuard",
+          "url": "http://architectural.polyguardproducts.com/pdf/product_resource/doc_291.pdf",
+          "id": 6404
+        },
+        {
+          "name": "Cetco",
+          "url": "http://www.cetco.com/DesktopModules/Bring2mind/DMX/Download.aspx?Command=Core_Download&PortalId=0&EntryId=16042",
+          "id": 6401
+        }
+      ],
+      "notes": "",
+      "lca": "yes",
+      "massPctOfTotal": 0.05
+    },
+    {
+      "recId": 6420,
+      "name": "Copper Phthalocyanine",
+      "CASRN": "147-14-8",
+      "massPct": 0.005,
+      "function": "pigment",
+      "hazards": {},
+      "sources": [
+        {
+          "name": "Soprema TDS",
+          "url": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CB8QFjAAahUKEwjl66ma4IfGAhXEn4AKHWBsA0I&url=http%3A%2F%2Fwww.soprema.ca%2FopenFile.aspx%3FID%3D188&ei=wY15VaWHMcS_ggTg2I2QBA&usg=AFQjCNGKcTcop9a6UFHj5Y74TEQJnIy35w&sig2=QDhV6i2VlS7ra8GvpD6M5g&bvm=bv.95277229,d.eXY",
+          "id": 6400
+        },
+        {
+          "name": "Cetco TDS",
+          "url": "http://www.cetco.com/DesktopModules/Bring2mind/DMX/Download.aspx?Command=Core_Download&PortalId=0&EntryId=319",
+          "id": 6402
+        },
+        {
+          "name": "Sika TDS",
+          "url": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CB8QFjAAahUKEwj73a_2_IXGAhUDGIwKHUnkAOo&url=http%3A%2F%2Fusa.sika.com%2Fdms%2Fgetdocument.get%2F40eab4d9-0ebb-395a-ab27-738704a1cd2e%2Ftds-cpd-SikaBit%2520Primer%2520AW-us.pdf&ei=b594VbvqIYOwsATJyIPQDg&usg=AFQjCNHCzXQ9Rk9vZP0bED0g491qOZNlrA&sig2=jNzSbcYONq_S0Twj8jKMBA&bvm=bv.95277229,d.cWc",
+          "id": 6403
+        },
+        {
+          "name": "CCW AWP",
+          "url": "https://www.carlisleccw.com/default.aspx?page=view&mode=media&contentID=2435&frompage=search&fromcategory=-1&froms=CCW%20AWP",
+          "id": 6408
+        },
+        {
+          "name": "CCW 702 WB",
+          "url": "https://www.carlisleccw.com/default.aspx?page=view&mode=media&contentID=2434&frompage=search&fromcategory=-1&froms=CCW%20702",
+          "id": 6406
+        }
+      ],
+      "notes": "",
+      "lca": "yes",
+      "massPctOfTotal": 0.005
+    },
+    {
+      "recId": 6419,
+      "name": "1,2-Benzisothiazolin-3-one",
+      "CASRN": "2634-33-5",
+      "massPct": 0.0055,
+      "function": "antimicrobial",
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-577",
+            "type": "orange",
+            "name": "Skin Sensitization",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          },
+          {
+            "hazardId": "orange-572",
+            "type": "orange",
+            "name": "Respiratory",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          },
+          {
+            "hazardId": "orange-575",
+            "type": "orange",
+            "name": "Eye Irritation",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "Grace patent",
+          "url": "https://www.google.com.ar/patents/US5132183",
+          "id": 6413
+        },
+        {
+          "name": "CCW AWP",
+          "url": "https://www.carlisleccw.com/default.aspx?page=view&mode=media&contentID=2435&frompage=search&fromcategory=-1&froms=CCW%20AWP",
+          "id": 6408
+        },
+        {
+          "name": "CCW 702 WB",
+          "url": "https://www.carlisleccw.com/default.aspx?page=view&mode=media&contentID=2434&frompage=search&fromcategory=-1&froms=CCW%20702",
+          "id": 6406
+        }
+      ],
+      "notes": "",
+      "lca": "yes",
+      "massPctOfTotal": 0.0055
+    },
+    {
+      "recId": 1106,
+      "name": "Water",
+      "CASRN": "7732-18-5",
+      "massPct": 0.434,
+      "function": "solvent",
+      "hazards": {},
+      "sources": [
+        {
+          "name": "CCW AWP TDS",
+          "url": "https://www.carlisleccw.com/default.aspx?page=view&mode=media&contentID=2490&frompage=search&fromcategory=-1&froms=CCW%20AWP",
+          "id": 6409
+        },
+        {
+          "name": "Grace",
+          "url": "https://grace.com/construction/en-us/Documents/SD60029_-_Bituthene_Primer_WP-3000_%28USGHS%29.pdf",
+          "id": 6412
+        },
+        {
+          "name": "Hydrotech",
+          "url": "http://resources.hydrotechusa.com/download.php?resource=413",
+          "id": 6411
+        },
+        {
+          "name": "Meadows web",
+          "url": "http://www.wrmeadows.com/mel-prime-water-base-primer/",
+          "id": 6410
+        },
+        {
+          "name": "CCW 702 WB TDS",
+          "url": "https://www.carlisleccw.com/default.aspx?page=view&mode=media&contentID=2766&frompage=search&children=true&fromcategory=26&frommediatype=literature&fromdoctype=4",
+          "id": 6407
+        },
+        {
+          "name": "PolyGuard TDS",
+          "url": "http://architectural.polyguardproducts.com/pdf/product_resource/doc_290.pdf",
+          "id": 6405
+        },
+        {
+          "name": "Sika TDS",
+          "url": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CB8QFjAAahUKEwj73a_2_IXGAhUDGIwKHUnkAOo&url=http%3A%2F%2Fusa.sika.com%2Fdms%2Fgetdocument.get%2F40eab4d9-0ebb-395a-ab27-738704a1cd2e%2Ftds-cpd-SikaBit%2520Primer%2520AW-us.pdf&ei=b594VbvqIYOwsATJyIPQDg&usg=AFQjCNHCzXQ9Rk9vZP0bED0g491qOZNlrA&sig2=jNzSbcYONq_S0Twj8jKMBA&bvm=bv.95277229,d.cWc",
+          "id": 6403
+        },
+        {
+          "name": "Cetco TDS",
+          "url": "http://www.cetco.com/DesktopModules/Bring2mind/DMX/Download.aspx?Command=Core_Download&PortalId=0&EntryId=319",
+          "id": 6402
+        },
+        {
+          "name": "Soprema web",
+          "url": "http://soprema.us/products///elastocol-stick-h2o-5gal/25170/",
+          "id": 6399
+        },
+        {
+          "name": "Henry",
+          "url": "http://us.henry.com/fileadmin/pdf/current/msds/HE545_msds.pdf",
+          "id": 6398
+        },
+        {
+          "name": "Tamko TDS",
+          "url": "https://www.tamko.com/docs/documents-data-sheets/TAMKO%C2%AE_TWP-2_Primer_Data_Sheet.pdf?sfvrsn=0",
+          "id": 6396
+        }
+      ],
+      "notes": "",
+      "lca": "yes",
+      "massPctOfTotal": 0.434
+    },
+    {
+      "recId": 6418,
+      "name": "1,4-Diisobutyl-1,4-dimethylbutynediol",
+      "CASRN": "126-86-3",
+      "massPct": 0.0055,
+      "function": "surfactant/defoamer",
+      "hazards": {},
+      "sources": [
+        {
+          "name": "UCAR doc",
+          "url": "https://www.yumpu.com/en/document/view/6710179/ucarr-latex-123-arkema-inc",
+          "id": 6415
+        },
+        {
+          "name": "Grace patent",
+          "url": "https://www.google.com.ar/patents/US5132183",
+          "id": 6413
+        },
+        {
+          "name": "CCW AWP",
+          "url": "https://www.carlisleccw.com/default.aspx?page=view&mode=media&contentID=2435&frompage=search&fromcategory=-1&froms=CCW%20AWP",
+          "id": 6408
+        },
+        {
+          "name": "CCW 702 WB",
+          "url": "https://www.carlisleccw.com/default.aspx?page=view&mode=media&contentID=2434&frompage=search&fromcategory=-1&froms=CCW%20702",
+          "id": 6406
+        },
+        {
+          "name": "Surfynol",
+          "url": "https://apdirect.airproducts.com/msds/DisplayPDF.aspx?docid=63522",
+          "id": 6416
+        },
+        {
+          "name": "Grace patent 2",
+          "url": "https://www.google.com/patents/US4897313",
+          "id": 6414
+        },
+        {
+          "name": "Tamko",
+          "url": "https://www.tamko.com/docs/SDS/waterproofing/TAMKO%C2%AE_TWP-2_Water_Base_Primer_SDS.pdf?sfvrsn=6",
+          "id": 6397
+        }
+      ],
+      "notes": "",
+      "lca": "yes",
+      "massPctOfTotal": 0.0055
+    },
+    {
+      "recId": 5341,
+      "name": "Acrylic Polymer",
+      "CASRN": "70677-00-8",
+      "massPct": 0.5,
+      "function": "binder/adhesive",
+      "hazards": {},
+      "sources": [
+        {
+          "name": "Grace patent 2",
+          "url": "https://www.google.com/patents/US4897313",
+          "id": 6414
+        },
+        {
+          "name": "Grace",
+          "url": "https://grace.com/construction/en-us/Documents/SD60029_-_Bituthene_Primer_WP-3000_%28USGHS%29.pdf",
+          "id": 6412
+        },
+        {
+          "name": "CCW AWP",
+          "url": "https://www.carlisleccw.com/default.aspx?page=view&mode=media&contentID=2435&frompage=search&fromcategory=-1&froms=CCW%20AWP",
+          "id": 6408
+        },
+        {
+          "name": "CCW 702 WB",
+          "url": "https://www.carlisleccw.com/default.aspx?page=view&mode=media&contentID=2434&frompage=search&fromcategory=-1&froms=CCW%20702",
+          "id": 6406
+        },
+        {
+          "name": "PolyGuard",
+          "url": "http://architectural.polyguardproducts.com/pdf/product_resource/doc_291.pdf",
+          "id": 6404
+        },
+        {
+          "name": "Henry",
+          "url": "http://us.henry.com/fileadmin/pdf/current/msds/HE545_msds.pdf",
+          "id": 6398
+        }
+      ],
+      "notes": "This CASRN is for a representative acrylic polymer. There will be variation of the exact acrylic polymer used between manufacturers.",
+      "lca": "yes",
+      "massPctOfTotal": 0.5
+    }
+  ],
+  "impurities": [
+    {
+      "name": "2-(Acryloyloxy)ethanol",
+      "CASRN": "818-61-1",
+      "massPct": null,
+      "function": "acrylic polymer residual",
+      "sources": [],
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-577",
+            "type": "orange",
+            "name": "Skin Sensitization"
+          },
+          {
+            "hazardId": "orange-576",
+            "type": "orange",
+            "name": "Skin Irritation"
+          },
+          {
+            "hazardId": "orange-575",
+            "type": "orange",
+            "name": "Eye Irritation"
+          },
+          {
+            "hazardId": "orange-574",
+            "type": "orange",
+            "name": "Mammalian"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Styrene",
+      "CASRN": "100-42-5",
+      "massPct": null,
+      "function": "acrylic polymer residual",
+      "sources": [],
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-572",
+            "type": "orange",
+            "name": "Respiratory"
+          },
+          {
+            "hazardId": "orange-578",
+            "type": "orange",
+            "name": "Organ Toxicant"
+          },
+          {
+            "hazardId": "orange-571",
+            "type": "orange",
+            "name": "Mutagenicity"
+          },
+          {
+            "hazardId": "orange-570",
+            "type": "orange",
+            "name": "Endocrine"
+          },
+          {
+            "hazardId": "orange-568",
+            "type": "orange",
+            "name": "Developmental"
+          }
+        ],
+        "red": [
+          {
+            "hazardId": "red-567",
+            "type": "red",
+            "name": "Cancer"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Methyl Methacrylate",
+      "CASRN": "80-62-6",
+      "massPct": null,
+      "function": "acrylic polymer residual",
+      "sources": [],
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-577",
+            "type": "orange",
+            "name": "Skin Sensitization"
+          },
+          {
+            "hazardId": "orange-574",
+            "type": "orange",
+            "name": "Mammalian"
+          },
+          {
+            "hazardId": "orange-572",
+            "type": "orange",
+            "name": "Respiratory"
+          },
+          {
+            "hazardId": "orange-569",
+            "type": "orange",
+            "name": "Reproductive"
+          },
+          {
+            "hazardId": "orange-568",
+            "type": "orange",
+            "name": "Developmental"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Butyl Acrylate",
+      "CASRN": "141-32-2",
+      "massPct": null,
+      "function": "acrylic polymer residual",
+      "sources": [],
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-577",
+            "type": "orange",
+            "name": "Skin Sensitization"
+          },
+          {
+            "hazardId": "orange-569",
+            "type": "orange",
+            "name": "Reproductive"
+          },
+          {
+            "hazardId": "orange-574",
+            "type": "orange",
+            "name": "Mammalian"
+          },
+          {
+            "hazardId": "orange-568",
+            "type": "orange",
+            "name": "Developmental"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Methacrylic Acid",
+      "CASRN": "79-41-4",
+      "massPct": null,
+      "function": "acrylic polymer residual",
+      "sources": [],
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-576",
+            "type": "orange",
+            "name": "Skin Irritation"
+          },
+          {
+            "hazardId": "orange-575",
+            "type": "orange",
+            "name": "Eye Irritation"
+          },
+          {
+            "hazardId": "orange-568",
+            "type": "orange",
+            "name": "Developmental"
+          }
+        ]
+      }
+    }
+  ],
+  "health": {
+    "hazards": {
+      "orange": [
+        {
+          "hazardId": "orange-578",
+          "type": "orange",
+          "name": "Organ Toxicant",
+          "massPct": 0.05,
+          "contributors": [
+            {
+              "recId": 5695,
+              "massPct": 0.05,
+              "childrenIds": [
+                5695
+              ]
+            }
+          ]
+        },
+        {
+          "hazardId": "orange-570",
+          "type": "orange",
+          "name": "Endocrine",
+          "massPct": 0.05,
+          "contributors": [
+            {
+              "recId": 5695,
+              "massPct": 0.05,
+              "childrenIds": [
+                5695
+              ]
+            }
+          ]
+        },
+        {
+          "hazardId": "orange-577",
+          "type": "orange",
+          "name": "Skin Sensitization",
+          "massPct": 0.0055,
+          "contributors": [
+            {
+              "recId": 6419,
+              "massPct": 0.0055,
+              "childrenIds": [
+                6419
+              ]
+            }
+          ]
+        },
+        {
+          "hazardId": "orange-572",
+          "type": "orange",
+          "name": "Respiratory",
+          "massPct": 0.0055,
+          "contributors": [
+            {
+              "recId": 6419,
+              "massPct": 0.0055,
+              "childrenIds": [
+                6419
+              ]
+            }
+          ]
+        },
+        {
+          "hazardId": "orange-575",
+          "type": "orange",
+          "name": "Eye Irritation",
+          "massPct": 0.0055,
+          "contributors": [
+            {
+              "recId": 6419,
+              "massPct": 0.0055,
+              "childrenIds": [
+                6419
+              ]
+            }
+          ]
+        }
+      ],
+      "red": [
+        {
+          "hazardId": "red-568",
+          "type": "red",
+          "name": "Developmental",
+          "massPct": 0.05,
+          "contributors": [
+            {
+              "recId": 5695,
+              "massPct": 0.05,
+              "childrenIds": [
+                5695
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "environmental": {
+    "systemBoundary": "Includes all cradle-to-gate data, including raw materials extraction, energy production, transportation of ingredients to the mixing plant, and manufacturing energy. Packaging is excluded.  ",
+    "gabiDatasets": [
+      {
+        "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+      },
+      {
+        "name": "US: Diesel mix at filling station"
+      },
+      {
+        "name": "DE: Sulfenamide (N-Cyclohexyl-2-benzothiazolsulfenamid) (estimation)"
+      },
+      {
+        "name": "US: Butanediol from propylene oxide"
+      },
+      {
+        "name": "DE: Copper phthalocyanine (estimation)"
+      },
+      {
+        "name": "US: Ethylene glycol (from ethene and oxygen via EO)"
+      },
+      {
+        "name": "US: Water deionized"
+      },
+      {
+        "name": "US: Polymethyl Methacrylate Granulate (PMMA) (estimation)"
+      },
+      {
+        "name": "US: Electricity grid mix (eGrid)"
+      }
+    ],
+    "foregroundDataSource": "GaBi",
+    "backforegroundDataSource": "GaBi",
+    "postConsumerRecycledContent": "0%",
+    "referenceCountry": "United States",
+    "referenceYear": "2015",
+    "endOfLifeTreatment": "55% for recovery; 45% landfilled (plastic material)",
+    "inUseNotes": "5.64% released as NMVOC (unspecified); 43.4% released as water vapor",
+    "lcaResults": {
+      "cradleToGate": [
+        {
+          "name": "Acidification Potential",
+          "unit": "kg SO2 eq",
+          "value": "8.43E-03"
+        },
+        {
+          "name": "Eutrophication Potential",
+          "unit": "kg N eq",
+          "value": "4.89E-04"
+        },
+        {
+          "name": "Global Warming Potential",
+          "unit": "kg CO2 eq",
+          "value": "2.86E+00"
+        },
+        {
+          "name": "Ozone Depletion Potential",
+          "unit": "kg CFC-11 eq",
+          "value": "2.00E-10"
+        },
+        {
+          "name": "Smog Formation Potential",
+          "unit": "kg O3 eq",
+          "value": "1.06E-01"
+        },
+        {
+          "name": "Primary Energy Demand",
+          "unit": "MJ",
+          "value": "6.51E+01"
+        }
+      ],
+      "inUse": [
+        {
+          "name": "Acidification Potential",
+          "unit": "kg SO2 eq",
+          "value": "0.00E+00"
+        },
+        {
+          "name": "Eutrophication Potential",
+          "unit": "kg N eq",
+          "value": "0.00E+00"
+        },
+        {
+          "name": "Global Warming Potential",
+          "unit": "kg CO2 eq",
+          "value": "0.00E+00"
+        },
+        {
+          "name": "Ozone Depletion Potential",
+          "unit": "kg CFC-11 eq",
+          "value": "0.00E+00"
+        },
+        {
+          "name": "Smog Formation Potential",
+          "unit": "kg O3 eq",
+          "value": "1.56E-01"
+        },
+        {
+          "name": "Primary Energy Demand",
+          "unit": "MJ",
+          "value": "0.00E+00"
+        }
+      ],
+      "endOfLife": [
+        {
+          "name": "Acidification Potential",
+          "unit": "kg SO2 eq",
+          "value": "1.93E-04"
+        },
+        {
+          "name": "Eutrophication Potential",
+          "unit": "kg N eq",
+          "value": "6.93E-05"
+        },
+        {
+          "name": "Global Warming Potential",
+          "unit": "kg CO2 eq",
+          "value": "1.50E-02"
+        },
+        {
+          "name": "Ozone Depletion Potential",
+          "unit": "kg CFC-11 eq",
+          "value": "3.06E-13"
+        },
+        {
+          "name": "Smog Formation Potential",
+          "unit": "kg O3 eq",
+          "value": "1.94E-03"
+        },
+        {
+          "name": "Primary Energy Demand",
+          "unit": "MJ",
+          "value": "2.41E-01"
+        }
+      ]
+    }
+  },
+  "id": "CP113",
+  "name": "Foundation waterproofing sheet primer",
+  "altNames": [
+    "Water-Based Waterproofing Primer",
+    "Emulsion Primer for Self-Adhesive Membranes"
+  ],
+  "uniformats": [
+    {
+      "id": "A1010",
+      "name": "Standard Foundations"
+    }
+  ],
+  "masterformats": [
+    {
+      "id": "03-39-23",
+      "name": "Membrane Concrete Curing"
+    }
+  ],
+  "recordType": "Common",
+  "description": "Sheet waterproofing membranes are used in below grade waterproofing for applications such as foundations.  While these products are self-adhesive, the use of a primer is required prior to membrane application on concrete.  The primer is applied to dry surfaces to condition them by binding dust and also providing a tacky surface for improved membrane adhesion.  Both solvent-based and water-based primers are available.  Water-based primers are more prominent and are recommended when priming below grade applications so are covered in this CP.  The primer can be brush, roller, or spray applied.",
+  "sources": [
+    {
+      "name": "Radiant",
+      "url": "http://www.radiantcolor.com/Downloads/Producten/CELT%20W%20series.pdf",
+      "id": 6417
+    },
+    {
+      "name": "Surfynol",
+      "url": "https://apdirect.airproducts.com/msds/DisplayPDF.aspx?docid=63522",
+      "id": 6416
+    },
+    {
+      "name": "UCAR doc",
+      "url": "https://www.yumpu.com/en/document/view/6710179/ucarr-latex-123-arkema-inc",
+      "id": 6415
+    },
+    {
+      "name": "Grace patent 2",
+      "url": "https://www.google.com/patents/US4897313",
+      "id": 6414
+    },
+    {
+      "name": "Grace patent",
+      "url": "https://www.google.com.ar/patents/US5132183",
+      "id": 6413
+    },
+    {
+      "name": "Grace",
+      "url": "https://grace.com/construction/en-us/Documents/SD60029_-_Bituthene_Primer_WP-3000_%28USGHS%29.pdf",
+      "id": 6412
+    },
+    {
+      "name": "Hydrotech",
+      "url": "http://resources.hydrotechusa.com/download.php?resource=413",
+      "id": 6411
+    },
+    {
+      "name": "Meadows web",
+      "url": "http://www.wrmeadows.com/mel-prime-water-base-primer/",
+      "id": 6410
+    },
+    {
+      "name": "CCW AWP TDS",
+      "url": "https://www.carlisleccw.com/default.aspx?page=view&mode=media&contentID=2490&frompage=search&fromcategory=-1&froms=CCW%20AWP",
+      "id": 6409
+    },
+    {
+      "name": "CCW AWP",
+      "url": "https://www.carlisleccw.com/default.aspx?page=view&mode=media&contentID=2435&frompage=search&fromcategory=-1&froms=CCW%20AWP",
+      "id": 6408
+    },
+    {
+      "name": "CCW 702 WB TDS",
+      "url": "https://www.carlisleccw.com/default.aspx?page=view&mode=media&contentID=2766&frompage=search&children=true&fromcategory=26&frommediatype=literature&fromdoctype=4",
+      "id": 6407
+    },
+    {
+      "name": "CCW 702 WB",
+      "url": "https://www.carlisleccw.com/default.aspx?page=view&mode=media&contentID=2434&frompage=search&fromcategory=-1&froms=CCW%20702",
+      "id": 6406
+    },
+    {
+      "name": "PolyGuard TDS",
+      "url": "http://architectural.polyguardproducts.com/pdf/product_resource/doc_290.pdf",
+      "id": 6405
+    },
+    {
+      "name": "PolyGuard",
+      "url": "http://architectural.polyguardproducts.com/pdf/product_resource/doc_291.pdf",
+      "id": 6404
+    },
+    {
+      "name": "Sika TDS",
+      "url": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CB8QFjAAahUKEwj73a_2_IXGAhUDGIwKHUnkAOo&url=http%3A%2F%2Fusa.sika.com%2Fdms%2Fgetdocument.get%2F40eab4d9-0ebb-395a-ab27-738704a1cd2e%2Ftds-cpd-SikaBit%2520Primer%2520AW-us.pdf&ei=b594VbvqIYOwsATJyIPQDg&usg=AFQjCNHCzXQ9Rk9vZP0bED0g491qOZNlrA&sig2=jNzSbcYONq_S0Twj8jKMBA&bvm=bv.95277229,d.cWc",
+      "id": 6403
+    },
+    {
+      "name": "Cetco TDS",
+      "url": "http://www.cetco.com/DesktopModules/Bring2mind/DMX/Download.aspx?Command=Core_Download&PortalId=0&EntryId=319",
+      "id": 6402
+    },
+    {
+      "name": "Cetco",
+      "url": "http://www.cetco.com/DesktopModules/Bring2mind/DMX/Download.aspx?Command=Core_Download&PortalId=0&EntryId=16042",
+      "id": 6401
+    },
+    {
+      "name": "Soprema TDS",
+      "url": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CB8QFjAAahUKEwjl66ma4IfGAhXEn4AKHWBsA0I&url=http%3A%2F%2Fwww.soprema.ca%2FopenFile.aspx%3FID%3D188&ei=wY15VaWHMcS_ggTg2I2QBA&usg=AFQjCNGKcTcop9a6UFHj5Y74TEQJnIy35w&sig2=QDhV6i2VlS7ra8GvpD6M5g&bvm=bv.95277229,d.eXY",
+      "id": 6400
+    },
+    {
+      "name": "Soprema web",
+      "url": "http://soprema.us/products///elastocol-stick-h2o-5gal/25170/",
+      "id": 6399
+    },
+    {
+      "name": "Henry",
+      "url": "http://us.henry.com/fileadmin/pdf/current/msds/HE545_msds.pdf",
+      "id": 6398
+    },
+    {
+      "name": "Tamko",
+      "url": "https://www.tamko.com/docs/SDS/waterproofing/TAMKO%C2%AE_TWP-2_Water_Base_Primer_SDS.pdf?sfvrsn=6",
+      "id": 6397
+    },
+    {
+      "name": "Tamko TDS",
+      "url": "https://www.tamko.com/docs/documents-data-sheets/TAMKO%C2%AE_TWP-2_Primer_Data_Sheet.pdf?sfvrsn=0",
+      "id": 6396
+    }
+  ]
+}

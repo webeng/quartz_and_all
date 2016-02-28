@@ -1,0 +1,565 @@
+{
+    "CPID": "CP180",
+    "timestamp": 1452102165580,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 10251,
+            "name": "Polymethyl Methacrylate",
+            "CASRN": "9011-14-7",
+            "massPct": 0.41418,
+            "function": "polymer",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "LivingStone SDS",
+                    "url": "http://www.livingstonesurfaces.com/www/files/docs/MATERIAL_SAFETY_DATA.pdf",
+                    "id": 10240
+                },
+                {
+                    "name": "Wilsonart SDS",
+                    "url": "http://www.wilsonart.com/sites/default/files/docs/resources/technical-information-msds-wilsonart-solid-surface.pdf",
+                    "id": 10239
+                },
+                {
+                    "name": "Tempest SDS",
+                    "url": "http://www.staron.com/File/download.do?fileName=1419906813640.pdf",
+                    "id": 10238
+                },
+                {
+                    "name": "Chroma HPD",
+                    "url": "http://www.3-form.com/downloads/3form_Chroma_HPD_5-2013.pdf",
+                    "id": 10235
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.41418
+        },
+        {
+            "recId": 6615,
+            "name": "Alumina Trihydrate",
+            "CASRN": "21645-51-2",
+            "massPct": 0.52531,
+            "function": "filler",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Meganite SDS",
+                    "url": "http://www.fessendenhall.com/pdfs/msds-and-technical-data/meganite/MEGANITE%20-%20SDS%202015.pdf",
+                    "id": 10242
+                },
+                {
+                    "name": "LivingStone SDS",
+                    "url": "http://www.livingstonesurfaces.com/www/files/docs/MATERIAL_SAFETY_DATA.pdf",
+                    "id": 10240
+                },
+                {
+                    "name": "Wilsonart SDS",
+                    "url": "http://www.wilsonart.com/sites/default/files/docs/resources/technical-information-msds-wilsonart-solid-surface.pdf",
+                    "id": 10239
+                },
+                {
+                    "name": "Tempest SDS",
+                    "url": "http://www.staron.com/File/download.do?fileName=1419906813640.pdf",
+                    "id": 10238
+                },
+                {
+                    "name": "Hi-Macs SDS",
+                    "url": "http://www.lghausys.com/us/product/surfaces/tech_general3.jsp",
+                    "id": 10241
+                },
+                {
+                    "name": "Avonite SDS",
+                    "url": "http://www.aristechsurfaces.com/sites/469/uploaded/files/Avonite_Surfaces_Foundations_Acrystone.pdf",
+                    "id": 10237
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.52531
+        },
+        {
+            "recId": 2766,
+            "name": "Titanium Dioxide",
+            "CASRN": "13463-67-7",
+            "massPct": 0.05051,
+            "function": "pigment",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Meganite SDS",
+                    "url": "http://www.fessendenhall.com/pdfs/msds-and-technical-data/meganite/MEGANITE%20-%20SDS%202015.pdf",
+                    "id": 10242
+                },
+                {
+                    "name": "LivingStone SDS",
+                    "url": "http://www.livingstonesurfaces.com/www/files/docs/MATERIAL_SAFETY_DATA.pdf",
+                    "id": 10240
+                },
+                {
+                    "name": "Wilsonart SDS",
+                    "url": "http://www.wilsonart.com/sites/default/files/docs/resources/technical-information-msds-wilsonart-solid-surface.pdf",
+                    "id": 10239
+                },
+                {
+                    "name": "Hi-Macs SDS",
+                    "url": "http://www.lghausys.com/us/product/surfaces/tech_general3.jsp",
+                    "id": 10241
+                },
+                {
+                    "name": "Avonite SDS",
+                    "url": "http://www.aristechsurfaces.com/sites/469/uploaded/files/Avonite_Surfaces_Foundations_Acrystone.pdf",
+                    "id": 10237
+                },
+                {
+                    "name": "Chroma HPD",
+                    "url": "http://www.3-form.com/downloads/3form_Chroma_HPD_5-2013.pdf",
+                    "id": 10235
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.05051
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Methyl Methacrylate",
+            "CASRN": "80-62-6",
+            "massPct": 0.01,
+            "function": "monomer, polymethyl methacrylate residual",
+            "sources": [
+                {
+                    "name": "Wilsonart SDS",
+                    "url": "http://www.wilsonart.com/sites/default/files/docs/resources/technical-information-msds-wilsonart-solid-surface.pdf",
+                    "id": 10239
+                },
+                {
+                    "name": "Corian SDS",
+                    "url": "https://www.3eonline.com/ImageServer/NewPdf/45b2f9eb-6494-4fc4-9b00-70a892db0fc9/45b2f9eb-6494-4fc4-9b00-70a892db0fc9.pdf",
+                    "id": 10243
+                },
+                {
+                    "name": "Avonite SDS",
+                    "url": "http://www.aristechsurfaces.com/sites/469/uploaded/files/Avonite_Surfaces_Foundations_Acrystone.pdf",
+                    "id": 10237
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Methy Ethyl Ketone Peroxide",
+            "CASRN": "1338-23-4",
+            "massPct": null,
+            "function": "catalyst",
+            "sources": [
+                {
+                    "name": "Chromat",
+                    "url": "http://www.granudan.dk/CustomerData/Files/Folders/16--pdf/261_solid-surface-handbook-oct-rev.pdf",
+                    "id": 10248
+                },
+                {
+                    "name": "Eos Patent",
+                    "url": "https://www.google.com/patents/WO2006065936A2?cl=en&dq=solid+surface+countertops&hl=en&sa=X&sqi=2&pjf=1&ved=0CE4Q6AEwB2oVChMIoYyfjI_oxwIVSzs-Ch1alwD0",
+                    "id": 10244
+                },
+                {
+                    "name": "Vistas Patent",
+                    "url": "https://www.google.com/patents/US7252786?dq=PMMA+countertops&hl=en&sa=X&ved=0CFsQ6AEwCTgUahUKEwis1MyfmejHAhXKcT4KHSiqBfQ",
+                    "id": 10247
+                },
+                {
+                    "name": "Trinder Patent",
+                    "url": "https://www.google.com/patents/WO2014025949A2?cl=en&dq=PMMA+countertops&hl=en&sa=X&ved=0CCoQ6AEwAjgUahUKEwis1MyfmejHAhXKcT4KHSiqBfQ",
+                    "id": 10246
+                },
+                {
+                    "name": "Skelskey Patent",
+                    "url": "https://www.google.com/patents/WO2007064688A2?cl=en&dq=solid+surface+countertops&hl=en&sa=X&ved=0CBwQ6AEwADgKahUKEwjmppewj-jHAhVJOT4KHQfDCMM",
+                    "id": 10245
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.93949,
+                    "contributors": [
+                        {
+                            "recId": 10251,
+                            "massPct": 0.41418,
+                            "childrenIds": [
+                                10251
+                            ]
+                        },
+                        {
+                            "recId": 6615,
+                            "massPct": 0.52531,
+                            "childrenIds": [
+                                6615
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.05051,
+                    "contributors": [
+                        {
+                            "recId": 2766,
+                            "massPct": 0.05051,
+                            "childrenIds": [
+                                2766
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.05051,
+                    "contributors": [
+                        {
+                            "recId": 2766,
+                            "massPct": 0.05051,
+                            "childrenIds": [
+                                2766
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "System boundary includes upstream material production, energy generation, and inbound transport. Manufacutring includes plastic injection molding. Curing is assumed to happen at room temperature and therefore no energy is required. Packaging is excluded. ",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "US: Landfilling of plastic waste"
+            },
+            {
+                "name": "US: Aluminium Hydroxide from Bauxite (estimation)"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "US: Tap water from groundwater"
+            },
+            {
+                "name": "US: Titanium dioxide pigment"
+            },
+            {
+                "name": "DE: Plastic injection moulding part (unspecific)"
+            },
+            {
+                "name": "US: Polymethyl Methacrylate Granulate (PMMA) (estimation)"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% landfill (plastic waste)",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "1.39E-02"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "6.65E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.15E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "7.03E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.61E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.19E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "7.23E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "2.68E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.98E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.13E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "6.50E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.19E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP180",
+    "name": "PMMA Countertop",
+    "altNames": [
+        "Solid surface countertop"
+    ],
+    "uniformats": [
+        {
+            "id": "E2010",
+            "name": "Fixed Furnishings"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "12-36-23",
+            "name": "Plastic Countertops"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Polymethyl methacrylate (PMMA) or acrylic solid surface countertops are countertops made from a manmade polymer. These countertops are cured in sheet form and can be cut or formed to a number of different shapes and layouts. Sheets can be joined with a polymer adhesive to achieve a \"seamless\" look. Because PMMA countertops are nonporous, they are stain-resistant and do not require sealing. PMMA countertops come in a rainbow of colors and effects; however, white countertops were the focus of this survey. The pigments used to make other colors may have different associated health hazards.",
+    "sources": [
+        {
+            "name": "Corian HPD",
+            "url": "http://www.dupont.com/content/dam/dupont/tools-tactics/bi/surfaces-technical-library/documents/north-america/Corian_Acrylic_Solid_Surface_HPD_updated.pdf",
+            "id": 10250
+        },
+        {
+            "name": "Formica SDS",
+            "url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0CCoQFjACahUKEwjVgfL9j-rHAhUEHD4KHcAFAvI&url=http%3A%2F%2Fwww.formica.com%2Fus%2F~%2Fmedia%2Fnorth-america%2Fdocuments%2Fproducts%2Fen%2Fformica-solid-surfacing%2Ffss-acrylic-msds-2015.pdf&usg=AFQjCNGH7MIvA4KpbYAvkGKkiEJgdtZs0Q&sig2=g7Hy9BwN6U6BmSMSiPEo_g&bvm=bv.102022582,d.cWw",
+            "id": 10249
+        },
+        {
+            "name": "Chromat",
+            "url": "http://www.granudan.dk/CustomerData/Files/Folders/16--pdf/261_solid-surface-handbook-oct-rev.pdf",
+            "id": 10248
+        },
+        {
+            "name": "Vistas Patent",
+            "url": "https://www.google.com/patents/US7252786?dq=PMMA+countertops&hl=en&sa=X&ved=0CFsQ6AEwCTgUahUKEwis1MyfmejHAhXKcT4KHSiqBfQ",
+            "id": 10247
+        },
+        {
+            "name": "Trinder Patent",
+            "url": "https://www.google.com/patents/WO2014025949A2?cl=en&dq=PMMA+countertops&hl=en&sa=X&ved=0CCoQ6AEwAjgUahUKEwis1MyfmejHAhXKcT4KHSiqBfQ",
+            "id": 10246
+        },
+        {
+            "name": "Skelskey Patent",
+            "url": "https://www.google.com/patents/WO2007064688A2?cl=en&dq=solid+surface+countertops&hl=en&sa=X&ved=0CBwQ6AEwADgKahUKEwjmppewj-jHAhVJOT4KHQfDCMM",
+            "id": 10245
+        },
+        {
+            "name": "Eos Patent",
+            "url": "https://www.google.com/patents/WO2006065936A2?cl=en&dq=solid+surface+countertops&hl=en&sa=X&sqi=2&pjf=1&ved=0CE4Q6AEwB2oVChMIoYyfjI_oxwIVSzs-Ch1alwD0",
+            "id": 10244
+        },
+        {
+            "name": "Corian SDS",
+            "url": "https://www.3eonline.com/ImageServer/NewPdf/45b2f9eb-6494-4fc4-9b00-70a892db0fc9/45b2f9eb-6494-4fc4-9b00-70a892db0fc9.pdf",
+            "id": 10243
+        },
+        {
+            "name": "Meganite SDS",
+            "url": "http://www.fessendenhall.com/pdfs/msds-and-technical-data/meganite/MEGANITE%20-%20SDS%202015.pdf",
+            "id": 10242
+        },
+        {
+            "name": "Hi-Macs SDS",
+            "url": "http://www.lghausys.com/us/product/surfaces/tech_general3.jsp",
+            "id": 10241
+        },
+        {
+            "name": "LivingStone SDS",
+            "url": "http://www.livingstonesurfaces.com/www/files/docs/MATERIAL_SAFETY_DATA.pdf",
+            "id": 10240
+        },
+        {
+            "name": "Wilsonart SDS",
+            "url": "http://www.wilsonart.com/sites/default/files/docs/resources/technical-information-msds-wilsonart-solid-surface.pdf",
+            "id": 10239
+        },
+        {
+            "name": "Tempest SDS",
+            "url": "http://www.staron.com/File/download.do?fileName=1419906813640.pdf",
+            "id": 10238
+        },
+        {
+            "name": "Avonite SDS",
+            "url": "http://www.aristechsurfaces.com/sites/469/uploaded/files/Avonite_Surfaces_Foundations_Acrystone.pdf",
+            "id": 10237
+        },
+        {
+            "name": "Avonite HPD",
+            "url": "http://www.aristechsurfaces.com/sites/469/uploaded/files/Avonite_100_Acrylic_HPD_10_2014F.pdf",
+            "id": 10236
+        },
+        {
+            "name": "Chroma HPD",
+            "url": "http://www.3-form.com/downloads/3form_Chroma_HPD_5-2013.pdf",
+            "id": 10235
+        }
+    ]
+}

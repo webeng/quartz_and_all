@@ -1,0 +1,882 @@
+{
+    "CPID": "CP117",
+    "timestamp": 1452102134002,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 3872,
+            "name": "Wood Adhesive",
+            "CASRN": "",
+            "massPct": 0.1242,
+            "function": "binder",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": 0.72349056,
+                        "contributors": [
+                            {
+                                "recId": 3873,
+                                "massPct": 0.72349056,
+                                "childrenIds": [
+                                    3873,
+                                    3874
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 3877,
+                    "name": "Ammonium Sulfate",
+                    "CASRN": "7783-20-2",
+                    "massPct": 0.0121,
+                    "function": "binder catalyst",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Momentive Patent",
+                            "url": "http://www.google.com/patents/US8741430",
+                            "id": 3869
+                        },
+                        {
+                            "name": "Bergstedt 2009",
+                            "url": "http://www.cabdirect.org/abstracts/20103281511.html;jsessionid=087118DB909084342D267B328BA09781",
+                            "id": 3864
+                        },
+                        {
+                            "name": "CORRIM PB",
+                            "url": "http://www.corrim.org/pubs/reports/2013/phase1_updates/Particleboard%20LCA%20Sept%202013.pdf",
+                            "id": 3859
+                        },
+                        {
+                            "name": "PB EPD",
+                            "url": "http://www.roseburg.com/UserFiles/Library/Particleboard_EPD.pdf",
+                            "id": 3855
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00150282
+                },
+                {
+                    "recId": 3876,
+                    "name": "Urea",
+                    "CASRN": "57-13-6",
+                    "massPct": 0.0217,
+                    "function": "formaldehyde scavenger",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Saravia-Cortez 2013",
+                            "url": "http://dx.doi.org.er.lib.k-state.edu/10.1016/j.jclepro.2013.02.006",
+                            "id": 3865
+                        },
+                        {
+                            "name": "CORRIM PB",
+                            "url": "http://www.corrim.org/pubs/reports/2013/phase1_updates/Particleboard%20LCA%20Sept%202013.pdf",
+                            "id": 3859
+                        },
+                        {
+                            "name": "Forestia PB EPD",
+                            "url": "http://www.epd-norge.no/getfile.php/PDF/EPD/Byggevarer/NEPD00274E%20Forestia-particleboard%20GODKJENT.pdf",
+                            "id": 3860
+                        },
+                        {
+                            "name": "PB EPD",
+                            "url": "http://www.roseburg.com/UserFiles/Library/Particleboard_EPD.pdf",
+                            "id": 3855
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0026951400000000004
+                },
+                {
+                    "recId": 3873,
+                    "name": "Formaldehyde Resin",
+                    "CASRN": "",
+                    "massPct": 0.9662,
+                    "function": "binder resin",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": 0.7488,
+                                "contributors": [
+                                    {
+                                        "recId": 3874,
+                                        "massPct": 0.7488,
+                                        "childrenIds": [
+                                            3874
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "components": [
+                        {
+                            "recId": 3874,
+                            "name": "Urea Formaldehyde",
+                            "CASRN": "9011-05-6",
+                            "massPct": 0.7488,
+                            "function": "binder resin",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-7912",
+                                        "type": "orange",
+                                        "name": "Respiratory (occupational only)",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "DRH MSDS",
+                                    "url": "http://www.awpanels.com.au/1/wp-content/uploads/Particleboard-Raw-Mfr-DRHenderson.pdf",
+                                    "id": 3862
+                                },
+                                {
+                                    "name": "Dettmer",
+                                    "url": "http://www.forestprod.org/ckfinder/userfiles/files/presentation_wood_adhesives_dettmer.pdf",
+                                    "id": 3842
+                                },
+                                {
+                                    "name": "Glunz PB EPD",
+                                    "url": "http://construction-environment.com/download/CY524faa69X13d7d151650XY5be7/EPD_GLU_2010311_E.pdf?ITServ=CY39ad6642X14c3250ae26X813",
+                                    "id": 3856
+                                },
+                                {
+                                    "name": "Saravia-Cortez 2013",
+                                    "url": "http://dx.doi.org.er.lib.k-state.edu/10.1016/j.jclepro.2013.02.006",
+                                    "id": 3865
+                                },
+                                {
+                                    "name": "CORRIM PB",
+                                    "url": "http://www.corrim.org/pubs/reports/2013/phase1_updates/Particleboard%20LCA%20Sept%202013.pdf",
+                                    "id": 3859
+                                },
+                                {
+                                    "name": "PB EPD",
+                                    "url": "http://www.roseburg.com/UserFiles/Library/Particleboard_EPD.pdf",
+                                    "id": 3855
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.08985752755200001
+                        },
+                        {
+                            "recId": 3875,
+                            "name": "Melamine Urea Formaldehyde",
+                            "CASRN": "25036-13-9",
+                            "massPct": 0.2513,
+                            "function": "binder resin/formaldehyde scavenger",
+                            "hazards": {},
+                            "sources": [
+                                {
+                                    "name": "GP Patent",
+                                    "url": "http://www.google.com/patents/US5684118",
+                                    "id": 3868
+                                },
+                                {
+                                    "name": "CORRIM PB",
+                                    "url": "http://www.corrim.org/pubs/reports/2013/phase1_updates/Particleboard%20LCA%20Sept%202013.pdf",
+                                    "id": 3859
+                                },
+                                {
+                                    "name": "FINSA PB EPD",
+                                    "url": "http://construction-environment.com/download/CY166f5f87X14b69167039X6270/EPD_Financiera_Maderera_S.A.___S_P_00272.pdf",
+                                    "id": 3857
+                                },
+                                {
+                                    "name": "Roseburg MSDS",
+                                    "url": "http://www.roseburg.com/UserFiles/Library/Roseburg_Panels_MSDS_010614.pdf",
+                                    "id": 3325
+                                },
+                                {
+                                    "name": "BC CARB2 MSDS",
+                                    "url": "http://www.bc.com/content/uploads/bc-resources/MSDS-BCC-Standard-CARB-P2-Products-Resins.pdf",
+                                    "id": 3829
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.030156512652000003
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "name": "Momentive Patent",
+                            "url": "http://www.google.com/patents/US8741430",
+                            "id": 3869
+                        },
+                        {
+                            "name": "CHH MSDS",
+                            "url": "http://www.chhwoodproducts.com.au/files/msds/MSDS-MSDS-46.pdf",
+                            "id": 3861
+                        },
+                        {
+                            "name": "Forestia PB EPD",
+                            "url": "http://www.epd-norge.no/getfile.php/PDF/EPD/Byggevarer/NEPD00274E%20Forestia-particleboard%20GODKJENT.pdf",
+                            "id": 3860
+                        },
+                        {
+                            "name": "Roseburg MSDS",
+                            "url": "http://www.roseburg.com/UserFiles/Library/Roseburg_Panels_MSDS_010614.pdf",
+                            "id": 3325
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.12000204
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.1242
+        },
+        {
+            "recId": 3329,
+            "name": "Wood",
+            "CASRN": "unknown",
+            "massPct": 0.8673,
+            "function": "fibers",
+            "hazards": {
+                "unknown": [
+                    {
+                        "hazardId": "unknown-11424",
+                        "type": "unknown",
+                        "name": "Unknown",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "DRH MSDS",
+                    "url": "http://www.awpanels.com.au/1/wp-content/uploads/Particleboard-Raw-Mfr-DRHenderson.pdf",
+                    "id": 3862
+                },
+                {
+                    "name": "CHH MSDS",
+                    "url": "http://www.chhwoodproducts.com.au/files/msds/MSDS-MSDS-46.pdf",
+                    "id": 3861
+                },
+                {
+                    "name": "Forestia PB EPD",
+                    "url": "http://www.epd-norge.no/getfile.php/PDF/EPD/Byggevarer/NEPD00274E%20Forestia-particleboard%20GODKJENT.pdf",
+                    "id": 3860
+                },
+                {
+                    "name": "FINSA PB EPD",
+                    "url": "http://construction-environment.com/download/CY166f5f87X14b69167039X6270/EPD_Financiera_Maderera_S.A.___S_P_00272.pdf",
+                    "id": 3857
+                },
+                {
+                    "name": "Glunz PB EPD",
+                    "url": "http://construction-environment.com/download/CY524faa69X13d7d151650XY5be7/EPD_GLU_2010311_E.pdf?ITServ=CY39ad6642X14c3250ae26X813",
+                    "id": 3856
+                },
+                {
+                    "name": "PB EPD",
+                    "url": "http://www.roseburg.com/UserFiles/Library/Particleboard_EPD.pdf",
+                    "id": 3855
+                },
+                {
+                    "name": "PFP MSDS",
+                    "url": "http://plummerforestproducts.com/wp-content/uploads/2015/03/GHS-SDS-Jan-01-2015.pdf",
+                    "id": 3853
+                },
+                {
+                    "name": "Roseburg MSDS",
+                    "url": "http://www.roseburg.com/UserFiles/Library/Roseburg_Panels_MSDS_010614.pdf",
+                    "id": 3325
+                },
+                {
+                    "name": "Purekor MSDS",
+                    "url": "http://www.buildsite.com/pdf/panelsource/Purekor-Platinum-Door-Core-MSDSSDS-B13148.pdf",
+                    "id": 3847
+                },
+                {
+                    "name": "TP MSDS",
+                    "url": "http://www.timberproducts.com/.docs/pg/400/rid/10171/f/Particleboard_MSDS.pdf",
+                    "id": 3844
+                },
+                {
+                    "name": "Collins PB MSDS",
+                    "url": "http://www.collinsco.com/Library/MSDS/MSDS_Collins_FreeForm_Particleboard.pdf",
+                    "id": 3840
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.8673
+        },
+        {
+            "recId": 2921,
+            "name": "Paraffin Wax",
+            "CASRN": "8002-74-2",
+            "massPct": 0.0075,
+            "function": "water resistance",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Lum 2013",
+                    "url": "http://docsdrive.com/pdfs/knowledgia/ajaps/0000/56173-56173.pdf",
+                    "id": 3866
+                },
+                {
+                    "name": "Saravia-Cortez 2013",
+                    "url": "http://dx.doi.org.er.lib.k-state.edu/10.1016/j.jclepro.2013.02.006",
+                    "id": 3865
+                },
+                {
+                    "name": "DRH MSDS",
+                    "url": "http://www.awpanels.com.au/1/wp-content/uploads/Particleboard-Raw-Mfr-DRHenderson.pdf",
+                    "id": 3862
+                },
+                {
+                    "name": "CHH MSDS",
+                    "url": "http://www.chhwoodproducts.com.au/files/msds/MSDS-MSDS-46.pdf",
+                    "id": 3861
+                },
+                {
+                    "name": "Forestia PB EPD",
+                    "url": "http://www.epd-norge.no/getfile.php/PDF/EPD/Byggevarer/NEPD00274E%20Forestia-particleboard%20GODKJENT.pdf",
+                    "id": 3860
+                },
+                {
+                    "name": "CORRIM PB",
+                    "url": "http://www.corrim.org/pubs/reports/2013/phase1_updates/Particleboard%20LCA%20Sept%202013.pdf",
+                    "id": 3859
+                },
+                {
+                    "name": "FINSA PB EPD",
+                    "url": "http://construction-environment.com/download/CY166f5f87X14b69167039X6270/EPD_Financiera_Maderera_S.A.___S_P_00272.pdf",
+                    "id": 3857
+                },
+                {
+                    "name": "Glunz PB EPD",
+                    "url": "http://construction-environment.com/download/CY524faa69X13d7d151650XY5be7/EPD_GLU_2010311_E.pdf?ITServ=CY39ad6642X14c3250ae26X813",
+                    "id": 3856
+                },
+                {
+                    "name": "PB EPD",
+                    "url": "http://www.roseburg.com/UserFiles/Library/Particleboard_EPD.pdf",
+                    "id": 3855
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.0075
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Melamine",
+            "CASRN": "108-78-1",
+            "massPct": null,
+            "function": "melamine urea formaldehyde residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Formaldehyde",
+            "CASRN": "50-00-0",
+            "massPct": 0.001,
+            "function": "binder residual",
+            "sources": [
+                {
+                    "name": "TI MSDS",
+                    "url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=0CDUQFjAE&url=http%3A%2F%2Fwww.buildgp.com%2FDocumentViewer.aspx%3Felementid%3D13507&ei=pHwQVZrSOsuGyASO0ICABw&usg=AFQjCNGa6F0UkUZL2icNLfM0CxDdd8Urtg&sig2=6gUIZ1jgBRW3OwUn8iXUEg&bvm=bv.88528373,d.aWw",
+                    "id": 3870
+                },
+                {
+                    "name": "Roseburg MSDS",
+                    "url": "http://www.roseburg.com/UserFiles/Library/Roseburg_Panels_MSDS_010614.pdf",
+                    "id": 3325
+                },
+                {
+                    "name": "TP MSDS",
+                    "url": "http://www.timberproducts.com/.docs/pg/400/rid/10171/f/Particleboard_MSDS.pdf",
+                    "id": 3844
+                },
+                {
+                    "name": "FB MSDS",
+                    "url": "http://www.flakeboard.com/msds/Flakeboard_PB_MSDS.pdf",
+                    "id": 3837
+                },
+                {
+                    "name": "UB MSDS",
+                    "url": "http://uniboard.com/uploads/FICHES%20TECHNIQUES/MSDS%20boards%20except%20NU%20Green-Jan%202014.pdf",
+                    "id": 3836
+                },
+                {
+                    "name": "SP MSDS",
+                    "url": "http://www.sierrapine.com/media/module/content_item/MSDS_SierraPine_Particleboard.pdf",
+                    "id": 3834
+                },
+                {
+                    "name": "BC CARB2 MSDS",
+                    "url": "http://www.bc.com/content/uploads/bc-resources/MSDS-BCC-Standard-CARB-P2-Products-Resins.pdf",
+                    "id": 3829
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.08985752755200001,
+                    "contributors": [
+                        {
+                            "recId": 3872,
+                            "massPct": 0.08985752755200001,
+                            "childrenIds": [
+                                3872,
+                                3873,
+                                3874
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "unknown": [
+                {
+                    "hazardId": "unknown-11424",
+                    "type": "unknown",
+                    "name": "Unknown",
+                    "massPct": 0.8673,
+                    "contributors": [
+                        {
+                            "recId": 3329,
+                            "massPct": 0.8673,
+                            "childrenIds": [
+                                3329
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundary includes upstream forest operations, from planting through harvest, and particleboard manufacturing, including upstream transportation. Dataset represents US-CA industry average (Particleboard EPD) and has a density of 709.79 kg/m3 (oven dry).                        \n                        \n                        ",
+        "gabiDatasets": [
+            {
+                "name": "RNA: Particleboard"
+            }
+        ],
+        "foregroundDataSource": "CORRIM 2011",
+        "backforegroundDataSource": "CORRIM/USLCI",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "17.5% incinerated; 17.5% recycled; 65% to landfill",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "5.19E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.68E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "-1.20E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "3.61E-09"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "4.93E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "3.36E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "3.34E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "3.83E-05"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "6.38E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.55E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "4.62E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "6.93E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP117",
+    "name": "Particleboard",
+    "altNames": [
+        ""
+    ],
+    "uniformats": [
+        {
+            "id": "C2030",
+            "name": "Flooring"
+        },
+        {
+            "id": "B1020",
+            "name": "Roof Construction"
+        },
+        {
+            "id": "B1010",
+            "name": "Floor Construction"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "06-16-36",
+            "name": "Wood Panel Product Sheathing"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Particleboard is a non-structural wood panel product constructed using wood residues from the production of primary wood products. Particleboard is produced by blending these wood residues with resin(s), resin catalyst, and wax followed by curing under pressure and heat. Urea formaldehyde (UF) resins continue to be the most cost effective and commonly used resins for composite wood products such as particleboard. However, due to formaldehyde emission regulations from the California Air Resources Board (CARB), manufacturers have begun to use new technologies such as formaldehyde scavengers - such as urea, melamine, and melamine urea formaldehyde (MUF) resin - to reduce formaldehyde emissions from UF resin. This CP models a particleboard product bound with a UF/MUF resin system.",
+    "sources": [
+        {
+            "name": "BC CARB2 MSDS",
+            "url": "http://www.bc.com/content/uploads/bc-resources/MSDS-BCC-Standard-CARB-P2-Products-Resins.pdf",
+            "id": 3829
+        },
+        {
+            "name": "BC Underlayment Spec",
+            "url": "http://www.bc.com/dms/wood/particleboard/technical-data/Underlayment-Warranty--Installation-Instructions/Underlayment%20-%20specs%2C%20install%2C%20warranry%207-2014.pdf",
+            "id": 3830
+        },
+        {
+            "name": "SP Underlayment Spec",
+            "url": "http://www.sierrapine.com/media/module/content_item/Martell_CA_Spec_Sheet.pdf",
+            "id": 3831
+        },
+        {
+            "name": "Uniboard Particleboard",
+            "url": "http://uniboard.com/particleboard,1",
+            "id": 3832
+        },
+        {
+            "name": "SP Particleboard",
+            "url": "http://www.sierrapine.com/particleboard/",
+            "id": 3833
+        },
+        {
+            "name": "SP MSDS",
+            "url": "http://www.sierrapine.com/media/module/content_item/MSDS_SierraPine_Particleboard.pdf",
+            "id": 3834
+        },
+        {
+            "name": "Uniboard Lacey Act",
+            "url": "http://uniboard.com/uploads/PDFS/Formulaire_PB_2010_Lacey.pdf",
+            "id": 3835
+        },
+        {
+            "name": "UB MSDS",
+            "url": "http://uniboard.com/uploads/FICHES%20TECHNIQUES/MSDS%20boards%20except%20NU%20Green-Jan%202014.pdf",
+            "id": 3836
+        },
+        {
+            "name": "FB MSDS",
+            "url": "http://www.flakeboard.com/msds/Flakeboard_PB_MSDS.pdf",
+            "id": 3837
+        },
+        {
+            "name": "Duraflake Spec",
+            "url": "http://www.flakeboard.com/docs/brochures/Flakeboard_Duraflake_PB_AB_Specs.pdf",
+            "id": 3838
+        },
+        {
+            "name": "Duraflake",
+            "url": "http://www.flakeboard.com/duraflake.asp",
+            "id": 3839
+        },
+        {
+            "name": "Collins PB MSDS",
+            "url": "http://www.collinsco.com/Library/MSDS/MSDS_Collins_FreeForm_Particleboard.pdf",
+            "id": 3840
+        },
+        {
+            "name": "Collins PB Spec",
+            "url": "http://www.collinsco.com/Library/particleboard/Spec-Sheet-Particleboard.pdf",
+            "id": 3841
+        },
+        {
+            "name": "Dettmer",
+            "url": "http://www.forestprod.org/ckfinder/userfiles/files/presentation_wood_adhesives_dettmer.pdf",
+            "id": 3842
+        },
+        {
+            "name": "Collins NAF",
+            "url": "http://www.collinsco.com/Library/MSDS/2012_NAF_Executive_Order_Collins_Products_LLC.pdf",
+            "id": 3843
+        },
+        {
+            "name": "TP MSDS",
+            "url": "http://www.timberproducts.com/.docs/pg/400/rid/10171/f/Particleboard_MSDS.pdf",
+            "id": 3844
+        },
+        {
+            "name": "TP Particleboard",
+            "url": "http://www.timberproducts.com/.docs/pg/400/rid/10123/f/Particleboard_Brochure_v5.pdf",
+            "id": 3845
+        },
+        {
+            "name": "Purekor",
+            "url": "http://www.panelsource.net/files/Documents/Purekor_FSC_Particleboard.pdf",
+            "id": 3846
+        },
+        {
+            "name": "Purekor MSDS",
+            "url": "http://www.buildsite.com/pdf/panelsource/Purekor-Platinum-Door-Core-MSDSSDS-B13148.pdf",
+            "id": 3847
+        },
+        {
+            "name": "Ultrablend PB",
+            "url": "http://www.roseburg.com/Product/ultrablend-particleboard/",
+            "id": 3848
+        },
+        {
+            "name": "Ultrablend Dillard OR",
+            "url": "http://www.roseburg.com/UserFiles/Library/UltraBlend_Dillard_Tech_Data_071614.pdf",
+            "id": 3849
+        },
+        {
+            "name": "PFP spec",
+            "url": "http://plummerforestproducts.com/pdfs/SpecificationDataChart.pdf",
+            "id": 3851
+        },
+        {
+            "name": "Enstron",
+            "url": "http://plummerforestproducts.com/wp-content/uploads/2014/08/15452-Enston-Install-Sheet.pdf",
+            "id": 3852
+        },
+        {
+            "name": "PFP MSDS",
+            "url": "http://plummerforestproducts.com/wp-content/uploads/2015/03/GHS-SDS-Jan-01-2015.pdf",
+            "id": 3853
+        },
+        {
+            "name": "Potlatch PB MSDS",
+            "url": "http://www.potlatchcorp.com/files/Downloads/Particleboard/particleboardMSDSsheet.pdf",
+            "id": 3854
+        },
+        {
+            "name": "PB EPD",
+            "url": "http://www.roseburg.com/UserFiles/Library/Particleboard_EPD.pdf",
+            "id": 3855
+        },
+        {
+            "name": "Glunz PB EPD",
+            "url": "http://construction-environment.com/download/CY524faa69X13d7d151650XY5be7/EPD_GLU_2010311_E.pdf?ITServ=CY39ad6642X14c3250ae26X813",
+            "id": 3856
+        },
+        {
+            "name": "FINSA PB EPD",
+            "url": "http://construction-environment.com/download/CY166f5f87X14b69167039X6270/EPD_Financiera_Maderera_S.A.___S_P_00272.pdf",
+            "id": 3857
+        },
+        {
+            "name": "NAUF",
+            "url": "http://www.roseburg.com/UserFiles/Library/NAUF-ULEF_SkyBlend_Notice_02-24-15.pdf",
+            "id": 3858
+        },
+        {
+            "name": "CORRIM PB",
+            "url": "http://www.corrim.org/pubs/reports/2013/phase1_updates/Particleboard%20LCA%20Sept%202013.pdf",
+            "id": 3859
+        },
+        {
+            "name": "Forestia PB EPD",
+            "url": "http://www.epd-norge.no/getfile.php/PDF/EPD/Byggevarer/NEPD00274E%20Forestia-particleboard%20GODKJENT.pdf",
+            "id": 3860
+        },
+        {
+            "name": "CHH MSDS",
+            "url": "http://www.chhwoodproducts.com.au/files/msds/MSDS-MSDS-46.pdf",
+            "id": 3861
+        },
+        {
+            "name": "DRH MSDS",
+            "url": "http://www.awpanels.com.au/1/wp-content/uploads/Particleboard-Raw-Mfr-DRHenderson.pdf",
+            "id": 3862
+        },
+        {
+            "name": "Chimarhellas 2010",
+            "url": "http://www.chimarhellas.com/wp-content/uploads/2010/06/new-adhesive-system-for-improved-exterior-grade-wood-panels.pdf",
+            "id": 3863
+        },
+        {
+            "name": "Bergstedt 2009",
+            "url": "http://www.cabdirect.org/abstracts/20103281511.html;jsessionid=087118DB909084342D267B328BA09781",
+            "id": 3864
+        },
+        {
+            "name": "Saravia-Cortez 2013",
+            "url": "http://dx.doi.org.er.lib.k-state.edu/10.1016/j.jclepro.2013.02.006",
+            "id": 3865
+        },
+        {
+            "name": "Lum 2013",
+            "url": "http://docsdrive.com/pdfs/knowledgia/ajaps/0000/56173-56173.pdf",
+            "id": 3866
+        },
+        {
+            "name": "AGRIS",
+            "url": "http://agris.fao.org/agris-search/search.do?recordID=ID9600466",
+            "id": 3867
+        },
+        {
+            "name": "GP Patent",
+            "url": "http://www.google.com/patents/US5684118",
+            "id": 3868
+        },
+        {
+            "name": "Momentive Patent",
+            "url": "http://www.google.com/patents/US8741430",
+            "id": 3869
+        },
+        {
+            "name": "TI MSDS",
+            "url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=0CDUQFjAE&url=http%3A%2F%2Fwww.buildgp.com%2FDocumentViewer.aspx%3Felementid%3D13507&ei=pHwQVZrSOsuGyASO0ICABw&usg=AFQjCNGa6F0UkUZL2icNLfM0CxDdd8Urtg&sig2=6gUIZ1jgBRW3OwUn8iXUEg&bvm=bv.88528373,d.aWw",
+            "id": 3870
+        },
+        {
+            "name": "American Wood Council",
+            "url": "http://www.awc.org/pdf/EPDs/Particleboard_EPD.pdf",
+            "id": 3871
+        },
+        {
+            "name": "Roseburg MSDS",
+            "url": "http://www.roseburg.com/UserFiles/Library/Roseburg_Panels_MSDS_010614.pdf",
+            "id": 3325
+        }
+    ]
+}

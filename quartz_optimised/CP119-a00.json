@@ -1,0 +1,653 @@
+{
+    "CPID": "CP119",
+    "timestamp": 1452102135420,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 3329,
+            "name": "Wood",
+            "CASRN": "unknown",
+            "massPct": 0.9900990099,
+            "function": "lumber",
+            "hazards": {
+                "unknown": [
+                    {
+                        "hazardId": "unknown-11424",
+                        "type": "unknown",
+                        "name": "Unknown",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Pyroguard",
+                    "url": "http://www.frtw.com/sites/default/files/specs/pyroguardspecs/pyg_sds.pdf",
+                    "id": 5015
+                },
+                {
+                    "name": "Dricon",
+                    "url": "http://www.greatsouthernwood.com/uploadedFiles/Dricon_MSDS_091710.pdf",
+                    "id": 5007
+                },
+                {
+                    "name": "D-Blaze",
+                    "url": "http://treatedwood.com/uploads/D-Blaze_MSDS.pdf",
+                    "id": 5019
+                }
+            ],
+            "notes": "A variety of species are available for FRT. Softwoods are most typical; Douglas Fir, Southern Pine, and Western Hemlock, for example.",
+            "lca": "yes",
+            "massPctOfTotal": 0.9900990099
+        },
+        {
+            "recId": 5033,
+            "name": "Pressure Treatment Bath",
+            "CASRN": "",
+            "massPct": 0.009900990099,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.3,
+                        "contributors": [
+                            {
+                                "recId": 1204,
+                                "massPct": 0.3,
+                                "childrenIds": [
+                                    1204
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.3,
+                        "contributors": [
+                            {
+                                "recId": 1204,
+                                "massPct": 0.3,
+                                "childrenIds": [
+                                    1204
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": 0.3,
+                        "contributors": [
+                            {
+                                "recId": 1204,
+                                "massPct": 0.3,
+                                "childrenIds": [
+                                    1204
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental",
+                        "massPct": 0.3,
+                        "contributors": [
+                            {
+                                "recId": 1204,
+                                "massPct": 0.3,
+                                "childrenIds": [
+                                    1204
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 5035,
+                    "name": "Guanylurea Phosphate",
+                    "CASRN": "17675-60-4",
+                    "massPct": 0.7,
+                    "function": "flame retardant",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Dricon",
+                            "url": "http://www.greatsouthernwood.com/uploadedFiles/Dricon_MSDS_091710.pdf",
+                            "id": 5007
+                        },
+                        {
+                            "name": "Perkins",
+                            "url": "http://transparency.perkinswill.com/Content/Whitepapers/PerkinsWill_FlameRertardantAlternatives.pdf",
+                            "id": 5030
+                        },
+                        {
+                            "name": "Conrad",
+                            "url": "http://www.conradfp.com/pdfs/driconmsds.pdf",
+                            "id": 5026
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.006930693069299999
+                },
+                {
+                    "recId": 1204,
+                    "name": "Boric Acid",
+                    "CASRN": "10043-35-3",
+                    "massPct": 0.3,
+                    "function": "preservative",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "red-568",
+                                "type": "red",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Dricon",
+                            "url": "http://www.greatsouthernwood.com/uploadedFiles/Dricon_MSDS_091710.pdf",
+                            "id": 5007
+                        },
+                        {
+                            "name": "Perkins",
+                            "url": "http://transparency.perkinswill.com/Content/Whitepapers/PerkinsWill_FlameRertardantAlternatives.pdf",
+                            "id": 5030
+                        },
+                        {
+                            "name": "Conrad",
+                            "url": "http://www.conradfp.com/pdfs/driconmsds.pdf",
+                            "id": 5026
+                        },
+                        {
+                            "name": "Pyroguard",
+                            "url": "http://www.frtw.com/sites/default/files/specs/pyroguardspecs/pyg_sds.pdf",
+                            "id": 5015
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0029702970296999996
+                }
+            ],
+            "sources": [
+                {
+                    "name": "Thunderbolt",
+                    "url": "http://www.thunderboltwoodtreating.com/treatments/borate",
+                    "id": 5025
+                },
+                {
+                    "name": "AWPA",
+                    "url": "http://www.awpa.com/references/homeowner.asp",
+                    "id": 5010
+                },
+                {
+                    "name": "Preservative Properties",
+                    "url": "http://www.dricon.com/properties/preservative.aspx",
+                    "id": 5040
+                }
+            ],
+            "notes": "Bath ingredients listed below align with those recommended for areas of the US where termites are an issue, such as California.",
+            "lca": "",
+            "massPctOfTotal": 0.009900990099
+        }
+    ],
+    "impurities": [
+        {
+            "name": null,
+            "CASRN": null,
+            "massPct": 0,
+            "function": null,
+            "sources": [],
+            "hazards": {}
+        }
+    ],
+    "health": {
+        "hazards": {
+            "unknown": [
+                {
+                    "hazardId": "unknown-11424",
+                    "type": "unknown",
+                    "name": "Unknown",
+                    "massPct": 0.9900990099,
+                    "contributors": [
+                        {
+                            "recId": 3329,
+                            "massPct": 0.9900990099,
+                            "childrenIds": [
+                                3329
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "orange": [
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.0029702970296999996,
+                    "contributors": [
+                        {
+                            "recId": 5033,
+                            "massPct": 0.0029702970296999996,
+                            "childrenIds": [
+                                5033,
+                                1204
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.0029702970296999996,
+                    "contributors": [
+                        {
+                            "recId": 5033,
+                            "massPct": 0.0029702970296999996,
+                            "childrenIds": [
+                                5033,
+                                1204
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.0029702970296999996,
+                    "contributors": [
+                        {
+                            "recId": 5033,
+                            "massPct": 0.0029702970296999996,
+                            "childrenIds": [
+                                5033,
+                                1204
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-568",
+                    "type": "red",
+                    "name": "Developmental",
+                    "massPct": 0.0029702970296999996,
+                    "contributors": [
+                        {
+                            "recId": 5033,
+                            "massPct": 0.0029702970296999996,
+                            "childrenIds": [
+                                5033,
+                                1204
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundaries comprise the cradle-to-gate process for manufacturing PT lumber. This includes upstream production of material inputs, inbound transportation, and final energy requirements for pressure treatment.",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "GLO: Fork lifter (diesel consumption)"
+            },
+            {
+                "name": "US: Monoammonium phosphate (MAP)"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "US: Tap water from groundwater"
+            },
+            {
+                "name": "US: Gasoline mix (regular) at filling station"
+            },
+            {
+                "name": "US: Thermal energy from LPG"
+            },
+            {
+                "name": "US: Thermal energy from natural gas (eGrid)"
+            },
+            {
+                "name": "US: AP-42 Emission Factors for Uncontrolled Gasoline Industrial Engines"
+            },
+            {
+                "name": "US: Urea (stami carbon process)"
+            },
+            {
+                "name": "DE: Boric acid (estimation)"
+            },
+            {
+                "name": "RNA: Softwood lumber CORRIM"
+            },
+            {
+                "name": "GLO: Rail transport cargo - Diesel"
+            }
+        ],
+        "foregroundDataSource": "ACQ LCA",
+        "backforegroundDataSource": "CORRIM; GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "US",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% landfilled",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "2.04E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.10E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "-1.57E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.20E-11"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "3.61E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "1.45E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "4.16E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "5.19E-05"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "9.74E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "9.52E-13"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "4.81E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.06E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP119",
+    "name": "Fire-retardant Treated/PT Lumber",
+    "altNames": [
+        "FRT"
+    ],
+    "uniformats": [
+        {
+            "id": "B1020",
+            "name": "Roof Construction"
+        },
+        {
+            "id": "B1010",
+            "name": "Floor Construction"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "06-14-00",
+            "name": "Treated Wood Foundations"
+        }
+    ],
+    "recordType": "Common",
+    "description": "To become fire retardant, lumber is soaked in a treatment bath of water and additives, under pressure, until the bath solution has permeated the structure of the wood.  The bath is drained and the wood is dried to a 19% maximum humidity level, leaving the additives behind in the cells of the wood.  Fire retardant lumber (FRT) is rated for either interior applications (UFCA rated by the American Wood Protection Association) or exterior applications (UFCB).  This CP describes UFCA FRT, intended for various uses – joists, partitions, etc – where the lumber will not be exposed to moisture or outdoor conditions.",
+    "sources": [
+        {
+            "name": "Preservative Properties",
+            "url": "http://www.dricon.com/properties/preservative.aspx",
+            "id": 5040
+        },
+        {
+            "name": "ACQ LCA",
+            "url": "http://www.vhn.org/pdf/LCA-ACQ-final.pdf",
+            "id": 5032
+        },
+        {
+            "name": "Wood Weight",
+            "url": "http://www.engineeringtoolbox.com/weigt-wood-d_821.html",
+            "id": 5031
+        },
+        {
+            "name": "Perkins",
+            "url": "http://transparency.perkinswill.com/Content/Whitepapers/PerkinsWill_FlameRertardantAlternatives.pdf",
+            "id": 5030
+        },
+        {
+            "name": "Osmose video",
+            "url": "https://www.youtube.com/watch?v=oYb_SOreC74",
+            "id": 5029
+        },
+        {
+            "name": "Amerhart",
+            "url": "http://www.amerhart.com/wp-content/msds/1364535803ccamsds.pdf",
+            "id": 5028
+        },
+        {
+            "name": "Antiblu",
+            "url": "http://www.wolmanizedwood.com/~/media/Microsites/AntiBlu/Docs/AntiBlu%20Product%20Data%20sheet%20Chlorothalonil%20AB0098.ashx?la=en",
+            "id": 5027
+        },
+        {
+            "name": "Conrad",
+            "url": "http://www.conradfp.com/pdfs/driconmsds.pdf",
+            "id": 5026
+        },
+        {
+            "name": "Thunderbolt",
+            "url": "http://www.thunderboltwoodtreating.com/treatments/borate",
+            "id": 5025
+        },
+        {
+            "name": "Cali Ag",
+            "url": "http://californiaagriculture.ucanr.edu/landingpage.cfm?article=ca.v052n02p34&fulltext=yes",
+            "id": 5024
+        },
+        {
+            "name": "P5",
+            "url": "https://law.resource.org/pub/us/cfr/ibr/003/awpa.p5.1991.pdf",
+            "id": 5023
+        },
+        {
+            "name": "FlameFreeze",
+            "url": "http://www.greatsouthernwood.com/products/flamefreez",
+            "id": 5022
+        },
+        {
+            "name": "D-Blaze TDS",
+            "url": "http://treatedwood.com/uploads/db_brochure.pdf",
+            "id": 5021
+        },
+        {
+            "name": "D-Blaze Specs",
+            "url": "http://www.arcat.com/sd/clients/viance.html?coid=31403",
+            "id": 5020
+        },
+        {
+            "name": "D-Blaze",
+            "url": "http://treatedwood.com/uploads/D-Blaze_MSDS.pdf",
+            "id": 5019
+        },
+        {
+            "name": "Fire-X Specs",
+            "url": "http://www.frtw.com/sites/default/files/specs/efx_specs/xfx_specification.pdf",
+            "id": 5018
+        },
+        {
+            "name": "Fire-X",
+            "url": "http://www.frtw.com/sites/default/files/specs/efx_specs/xfx_clear_wood_msds.pdf",
+            "id": 5017
+        },
+        {
+            "name": "Pyroguard ICC",
+            "url": "http://www.frtw.com/sites/default/files/specs/pyroguardspecs/esr-1791.pdf",
+            "id": 5016
+        },
+        {
+            "name": "Pyroguard",
+            "url": "http://www.frtw.com/sites/default/files/specs/pyroguardspecs/pyg_sds.pdf",
+            "id": 5015
+        },
+        {
+            "name": "Pyroguard Specs",
+            "url": "http://www.frtw.com/sites/default/files/specs/pyroguardspecs/pyg_specification.pdf",
+            "id": 5014
+        },
+        {
+            "name": "Hoover Advantages",
+            "url": "http://www.frtw.com/sites/default/files/specs/pyroguardspecs/pyg_advantages.pdf",
+            "id": 5013
+        },
+        {
+            "name": "Hoover Selector",
+            "url": "http://www.frtw.com/sites/default/files/specs/common/int_ext.pdf",
+            "id": 5012
+        },
+        {
+            "name": "Excerpt",
+            "url": "http://www.awpa.com/standards/U1excerpt.pdf",
+            "id": 5011
+        },
+        {
+            "name": "AWPA",
+            "url": "http://www.awpa.com/references/homeowner.asp",
+            "id": 5010
+        },
+        {
+            "name": "Arch Patent",
+            "url": "http://www.google.com/patents/US6652633",
+            "id": 5009
+        },
+        {
+            "name": "Dricon Applications",
+            "url": "http://www.dricon.com/~/media/Microsites/Dricon/Docs/DriconApplicationGuide%20DRI2016.ashx?la=en",
+            "id": 5008
+        },
+        {
+            "name": "Dricon",
+            "url": "http://www.greatsouthernwood.com/uploadedFiles/Dricon_MSDS_091710.pdf",
+            "id": 5007
+        },
+        {
+            "name": "Dricon ESS",
+            "url": "http://www.dricon.com/~/media/Microsites/Dricon/Docs/ESR-1626.ashx?la=en",
+            "id": 5006
+        }
+    ]
+}

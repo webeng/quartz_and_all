@@ -1,0 +1,1737 @@
+{
+    "CPID": "CP134",
+    "timestamp": 1452102145896,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 8461,
+            "name": "Benzophenone",
+            "CASRN": "119-61-9",
+            "massPct": 0.005132152938,
+            "function": "Ultraviolet light absorber",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "DuPont Patent 2",
+                    "url": "https://www.google.com/patents/US5221584?dq=water-based+acrylic+high+performance+coating&hl=en&sa=X&ved=0CDEQ6AEwAzgKahUKEwjc4Ym6mYHHAhXKOT4KHbtUBA4",
+                    "id": 8420
+                },
+                {
+                    "name": "DuPont Patent 1",
+                    "url": "https://www.google.com/patents/EP0421609B1?cl=en&dq=water-based+acrylic+coating&hl=en&sa=X&ved=0CCwQ6AEwAmoVChMI_vzOx_iAxwIVAkw-Ch1wtAvy",
+                    "id": 8419
+                },
+                {
+                    "name": "DTM MSDS",
+                    "url": "http://www.sherwin-williams.com/document/MSDS/en/035777181065/",
+                    "id": 8476
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.005132152938
+        },
+        {
+            "recId": 8378,
+            "name": "2-(2-Butoxyethoxy)ethanol",
+            "CASRN": "112-34-5",
+            "massPct": 0.01026430588,
+            "function": "pigment solvent",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Devflex MSDS",
+                    "url": "https://www.gliddenprofessional.com/datasheets/specialorders/msds/4212-0100.aspx",
+                    "id": 8413
+                },
+                {
+                    "name": "Multi-Surface MSDS",
+                    "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&doctype=MSDS&lang=E&prodno=B66W501",
+                    "id": 8432
+                },
+                {
+                    "name": "PT DTM MSDS",
+                    "url": "https://buyat.ppg.com/ehsdocumentmanagerpublic/documentsearchinnerframe.aspx?CodeValue=90-374&CodeCondition=IsEqualTo&Language=en-US&SuppressSearchControls=True",
+                    "id": 8439
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.01026430588
+        },
+        {
+            "recId": 4993,
+            "name": "1,3-Pentanediol, 2,2,4-trimethyl-, monoisobutyrate",
+            "CASRN": "25265-77-4",
+            "massPct": 0.02566076469,
+            "function": "coalescing solvent",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "DEVCRYL MSDS",
+                    "url": "http://datasheets1.international-coatings.com/msds/DC1440S9500_USA_eng_B1.pdf",
+                    "id": 8411
+                },
+                {
+                    "name": "RO DTM MSDS",
+                    "url": "http://www.rustoleum.com/MSDS/ENGLISH/3192402.PDF",
+                    "id": 8443
+                },
+                {
+                    "name": "DTM EDS",
+                    "url": "http://www.sherwin-williams.com/document/EDS/en/035777181065/",
+                    "id": 8418
+                },
+                {
+                    "name": "Devflex MSDS",
+                    "url": "https://www.gliddenprofessional.com/datasheets/specialorders/msds/4212-0100.aspx",
+                    "id": 8413
+                },
+                {
+                    "name": "Intercryl MSDS",
+                    "url": "http://datasheets1.international-coatings.com/msds/52010_USA_eng_B2.pdf",
+                    "id": 8428
+                },
+                {
+                    "name": "Armor MSDS",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/2709/4b935a3dca68353eb84454634187554c6f2292fa.pdf",
+                    "id": 8446
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.02566076469
+        },
+        {
+            "recId": 3759,
+            "name": "Limestone",
+            "CASRN": "1317-65-3",
+            "massPct": 0.1026430588,
+            "function": "filler",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Devoe MSDS",
+                    "url": "https://www.gliddenprofessional.com/datasheets/specialorders/msds/4020-1000.aspx",
+                    "id": 8414
+                },
+                {
+                    "name": "Intercryl MSDS",
+                    "url": "http://datasheets1.international-coatings.com/msds/52010_USA_eng_B2.pdf",
+                    "id": 8428
+                },
+                {
+                    "name": "Frazee MSDS",
+                    "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=CMUS&prodno=042475018197&doctype=MSDS&lang=2",
+                    "id": 8427
+                },
+                {
+                    "name": "Ivy 1",
+                    "url": "http://www.ivycoatings.com/assets/IVY-ALLSHEETS-FLAT.pdf",
+                    "id": 8430
+                },
+                {
+                    "name": "DEVCRYL MSDS",
+                    "url": "http://datasheets1.international-coatings.com/msds/DC1440S9500_USA_eng_B1.pdf",
+                    "id": 8411
+                },
+                {
+                    "name": "RO 5100 MSDS",
+                    "url": "http://www.rustoleum.com/MSDS/ENGLISH/251280.PDF",
+                    "id": 8442
+                },
+                {
+                    "name": "Dryfall MSDS",
+                    "url": "http://www.sherwin-williams.com/document/MSDS/en/035777020333/",
+                    "id": 8467
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.1026430588
+        },
+        {
+            "recId": 2766,
+            "name": "Titanium Dioxide",
+            "CASRN": "13463-67-7",
+            "massPct": 0.1437002823,
+            "function": "pigment",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Devoe MSDS",
+                    "url": "https://www.gliddenprofessional.com/datasheets/specialorders/msds/4020-1000.aspx",
+                    "id": 8414
+                },
+                {
+                    "name": "BM DTM MSDS",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/2709/1fa695899c638fd7e0cd617b78bd2a7051cd3fce.pdf",
+                    "id": 8410
+                },
+                {
+                    "name": "Ivy 2",
+                    "url": "http://www.ivycoatings.com/assets/IVY-ALLSHEETS-DTM.pdf",
+                    "id": 8431
+                },
+                {
+                    "name": "EcoSafe bio MSDS",
+                    "url": "http://www.ecoprocote.com/v/vspfiles/assets/images/msds/sds.durasoy.sg.050114.pdf",
+                    "id": 8425
+                },
+                {
+                    "name": "Ultra-Hide 770 MSDS",
+                    "url": "https://www.gliddenprofessional.com/datasheets/enmsds/gp7-5000.aspx",
+                    "id": 8444
+                },
+                {
+                    "name": "Devflex MSDS",
+                    "url": "https://www.gliddenprofessional.com/datasheets/specialorders/msds/4212-0100.aspx",
+                    "id": 8413
+                },
+                {
+                    "name": "Multi-Surface MSDS",
+                    "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&doctype=MSDS&lang=E&prodno=B66W501",
+                    "id": 8432
+                },
+                {
+                    "name": "AP 1650 MSDS",
+                    "url": "http://kellymoore.com/docs/default-source/material-safety-technical-data-sheets/1650-333-MSDS.pdf?Status=Master&sfvrsn=0",
+                    "id": 8408
+                },
+                {
+                    "name": "Intercryl MSDS",
+                    "url": "http://datasheets1.international-coatings.com/msds/52010_USA_eng_B2.pdf",
+                    "id": 8428
+                },
+                {
+                    "name": "Frazee MSDS",
+                    "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=CMUS&prodno=042475018197&doctype=MSDS&lang=2",
+                    "id": 8427
+                },
+                {
+                    "name": "Ivy 1",
+                    "url": "http://www.ivycoatings.com/assets/IVY-ALLSHEETS-FLAT.pdf",
+                    "id": 8430
+                },
+                {
+                    "name": "EcoSafe MSDS",
+                    "url": "http://www.ecoprocote.com/v/vspfiles/assets/images/MSDS/SDS.EcoTuff.HTCoating.050114.pdf",
+                    "id": 8426
+                },
+                {
+                    "name": "DEVCRYL MSDS",
+                    "url": "http://datasheets1.international-coatings.com/msds/DC1440S9500_USA_eng_B1.pdf",
+                    "id": 8411
+                },
+                {
+                    "name": "PT DTM MSDS",
+                    "url": "https://buyat.ppg.com/ehsdocumentmanagerpublic/documentsearchinnerframe.aspx?CodeValue=90-374&CodeCondition=IsEqualTo&Language=en-US&SuppressSearchControls=True",
+                    "id": 8439
+                },
+                {
+                    "name": "RO 5100 MSDS",
+                    "url": "http://www.rustoleum.com/MSDS/ENGLISH/251280.PDF",
+                    "id": 8442
+                },
+                {
+                    "name": "RO 3700 MSDS",
+                    "url": "http://www.rustoleum.com/MSDS/ENGLISH/3792402.PDF",
+                    "id": 8441
+                },
+                {
+                    "name": "RO DTM MSDS",
+                    "url": "http://www.rustoleum.com/MSDS/ENGLISH/3192402.PDF",
+                    "id": 8443
+                },
+                {
+                    "name": "Dryfall EDS",
+                    "url": "http://www.sherwin-williams.com/document/EDS/en/035777020289/",
+                    "id": 8417
+                },
+                {
+                    "name": "Pro MSDS",
+                    "url": "http://www.sherwin-williams.com/document/MSDS/en/035777437018/",
+                    "id": 8438
+                },
+                {
+                    "name": "EC 1520 MSDS",
+                    "url": "http://kellymoore.com/docs/default-source/material-safety-technical-data-sheets/1520-121-MSDS.pdf?Status=Master&sfvrsn=0",
+                    "id": 8423
+                },
+                {
+                    "name": "Dura-Poxy MSDS",
+                    "url": "http://kellymoore.com/docs/default-source/material-safety-technical-data-sheets/1786-121-MSDS.pdf?Status=Master&sfvrsn=0",
+                    "id": 8421
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.1437002823
+        },
+        {
+            "recId": 8458,
+            "name": "5-Chloro-2-methyl-2H-isothiazol-3-one/2-methyl-2Hisothiazol-3-one",
+            "CASRN": "55965-84-9",
+            "massPct": 0.004362329997,
+            "function": "in-can preservative",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Dow Canguard",
+                    "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_004d/0901b8038004d891.pdf?filepath=biocides/pdfs/noreg/253-01797.pdf&fromPage=GetDoc",
+                    "id": 8416
+                },
+                {
+                    "name": "Dow",
+                    "url": "http://www.dow.com/assets/attachments/business/consumer_and_industrial_specialties/kathon_for_latex_preservation/latex_lx/tds/kathon_lx.pdf",
+                    "id": 8415
+                },
+                {
+                    "name": "Patent 4",
+                    "url": "https://www.google.com/patents/US20110293839?dq=water-based+acrylic+coatings&hl=en&sa=X&ved=0CCoQ6AEwAjgKahUKEwjWoeink4PHAhUJbT4KHWS-ACs",
+                    "id": 8435
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.004362329997
+        },
+        {
+            "recId": 1106,
+            "name": "Water",
+            "CASRN": "7732-18-5",
+            "massPct": 0.4516294586,
+            "function": "solvent",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "EcoSafe bio MSDS",
+                    "url": "http://www.ecoprocote.com/v/vspfiles/assets/images/msds/sds.durasoy.sg.050114.pdf",
+                    "id": 8425
+                },
+                {
+                    "name": "Ultra-Hide 770 MSDS",
+                    "url": "https://www.gliddenprofessional.com/datasheets/enmsds/gp7-5000.aspx",
+                    "id": 8444
+                },
+                {
+                    "name": "Devflex MSDS",
+                    "url": "https://www.gliddenprofessional.com/datasheets/specialorders/msds/4212-0100.aspx",
+                    "id": 8413
+                },
+                {
+                    "name": "Devoe MSDS",
+                    "url": "https://www.gliddenprofessional.com/datasheets/specialorders/msds/4020-1000.aspx",
+                    "id": 8414
+                },
+                {
+                    "name": "EcoSafe MSDS",
+                    "url": "http://www.ecoprocote.com/v/vspfiles/assets/images/MSDS/SDS.EcoTuff.HTCoating.050114.pdf",
+                    "id": 8426
+                },
+                {
+                    "name": "Dryfall EDS",
+                    "url": "http://www.sherwin-williams.com/document/EDS/en/035777020289/",
+                    "id": 8417
+                },
+                {
+                    "name": "DTM EDS",
+                    "url": "http://www.sherwin-williams.com/document/EDS/en/035777181065/",
+                    "id": 8418
+                },
+                {
+                    "name": "Pro EDS",
+                    "url": "http://www.sherwin-williams.com/document/EDS/en/035777437018/",
+                    "id": 8437
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.4516294586
+        },
+        {
+            "recId": 3606,
+            "name": "Silica, amorphous",
+            "CASRN": "7631-86-9",
+            "massPct": 0.01026430588,
+            "function": "thickener",
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "BM Poly MSDS",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/1/58745613aae08f538c09bcd05e8cb85567e91ae4.pdf",
+                    "id": 8478
+                },
+                {
+                    "name": "DEVCRYL MSDS",
+                    "url": "http://datasheets1.international-coatings.com/msds/DC1440S9500_USA_eng_B1.pdf",
+                    "id": 8411
+                },
+                {
+                    "name": "EcoSafe bio MSDS",
+                    "url": "http://www.ecoprocote.com/v/vspfiles/assets/images/msds/sds.durasoy.sg.050114.pdf",
+                    "id": 8425
+                },
+                {
+                    "name": "EcoSafe MSDS",
+                    "url": "http://www.ecoprocote.com/v/vspfiles/assets/images/MSDS/SDS.EcoTuff.HTCoating.050114.pdf",
+                    "id": 8426
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.01026430588
+        },
+        {
+            "recId": 4626,
+            "name": "Zinc Phosphate",
+            "CASRN": "7779-90-0",
+            "massPct": 0.05132152938,
+            "function": "anti-corrosive agent",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "BM DTM MSDS",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/2709/1fa695899c638fd7e0cd617b78bd2a7051cd3fce.pdf",
+                    "id": 8410
+                },
+                {
+                    "name": "Intercryl MSDS",
+                    "url": "http://datasheets1.international-coatings.com/msds/52010_USA_eng_B2.pdf",
+                    "id": 8428
+                },
+                {
+                    "name": "DEVCRYL MSDS",
+                    "url": "http://datasheets1.international-coatings.com/msds/DC1440S9500_USA_eng_B1.pdf",
+                    "id": 8411
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.05132152938
+        },
+        {
+            "recId": 8462,
+            "name": "Nonylphenoxypolyethylenoxy Ethanol Sulfate",
+            "CASRN": "9016-45-9",
+            "massPct": 0.005132152938,
+            "function": "surfactant",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "NPE RR",
+                    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/183101/nonylphenol_rrs.pdf",
+                    "id": 8433
+                },
+                {
+                    "name": "DuPont Patent 2",
+                    "url": "https://www.google.com/patents/US5221584?dq=water-based+acrylic+high+performance+coating&hl=en&sa=X&ved=0CDEQ6AEwAzgKahUKEwjc4Ym6mYHHAhXKOT4KHbtUBA4",
+                    "id": 8420
+                },
+                {
+                    "name": "DuPont Patent 1",
+                    "url": "https://www.google.com/patents/EP0421609B1?cl=en&dq=water-based+acrylic+coating&hl=en&sa=X&ved=0CCwQ6AEwAmoVChMI_vzOx_iAxwIVAkw-Ch1wtAvy",
+                    "id": 8419
+                },
+                {
+                    "name": "SW Maine",
+                    "url": "https://pharosproject.net/uploads/files/sources/1/4d634f574753f97bcf4537038ceee57c592da82c.xls",
+                    "id": 7565
+                },
+                {
+                    "name": "BM Maine",
+                    "url": "https://pharosproject.net/uploads/files/sources/1/55e9e656497abb90f3d4cdd0cd0c4e3634eaf1c5.xls",
+                    "id": 7564
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.005132152938
+        },
+        {
+            "recId": 4806,
+            "name": "Kaolin",
+            "CASRN": "1332-58-7",
+            "massPct": 0.03592507057,
+            "function": "opacity additive",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "BM DTM MSDS",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/2709/1fa695899c638fd7e0cd617b78bd2a7051cd3fce.pdf",
+                    "id": 8410
+                },
+                {
+                    "name": "Frazee MSDS",
+                    "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=CMUS&prodno=042475018197&doctype=MSDS&lang=2",
+                    "id": 8427
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.03592507057
+        },
+        {
+            "recId": 8456,
+            "name": "Acrylic Copolymer",
+            "CASRN": "25586-20-3",
+            "massPct": 0.1539645881,
+            "function": "copolymer",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Patent 5",
+                    "url": "https://www.google.com/patents/CA2293977C?cl=en&dq=kathon+lx+acrylic&hl=en&sa=X&ved=0CDIQ6AEwA2oVChMI_cqG-sSDxwIVCMk-Ch3lMwo5",
+                    "id": 8436
+                },
+                {
+                    "name": "Patent 4",
+                    "url": "https://www.google.com/patents/US20110293839?dq=water-based+acrylic+coatings&hl=en&sa=X&ved=0CCoQ6AEwAjgKahUKEwjWoeink4PHAhUJbT4KHWS-ACs",
+                    "id": 8435
+                },
+                {
+                    "name": "DuPont Patent 2",
+                    "url": "https://www.google.com/patents/US5221584?dq=water-based+acrylic+high+performance+coating&hl=en&sa=X&ved=0CDEQ6AEwAzgKahUKEwjc4Ym6mYHHAhXKOT4KHbtUBA4",
+                    "id": 8420
+                },
+                {
+                    "name": "DuPont Patent 1",
+                    "url": "https://www.google.com/patents/EP0421609B1?cl=en&dq=water-based+acrylic+coating&hl=en&sa=X&ved=0CCwQ6AEwAmoVChMI_vzOx_iAxwIVAkw-Ch1wtAvy",
+                    "id": 8419
+                },
+                {
+                    "name": "Patent 1",
+                    "url": "https://www.google.com/patents/US7345120",
+                    "id": 8434
+                },
+                {
+                    "name": "Ultra-Hide 770 MSDS",
+                    "url": "https://www.gliddenprofessional.com/datasheets/enmsds/gp7-5000.aspx",
+                    "id": 8444
+                },
+                {
+                    "name": "Devflex MSDS",
+                    "url": "https://www.gliddenprofessional.com/datasheets/specialorders/msds/4212-0100.aspx",
+                    "id": 8413
+                }
+            ],
+            "notes": "This CASRN is for a representative acrylic polymer. There will be variation of the exact acrylic polymer used between manufacturers.",
+            "lca": "yes",
+            "massPctOfTotal": 0.1539645881
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Ferric Oxide",
+            "CASRN": "1309-37-1",
+            "massPct": null,
+            "function": "kaolin clay residual",
+            "sources": [
+                {
+                    "name": "Kogel 2006",
+                    "url": "https://books.google.com/books?id=zNicdkuulE4C&pg=PA558&dq=kaolin+and+its+uses&hl=en&sa=X&ved=0CDkQ6AEwBWoVChMIuv3urd7vxwIVxBU-Ch3_qQuo#v=onepage&q=kaolin&f=false",
+                    "id": 8451
+                },
+                {
+                    "name": "Kogel 2009",
+                    "url": "http://ir.nmu.org.ua/bitstream/handle/123456789/144177/b468c8181927c36065977d15a07ad382.pdf?sequence=1",
+                    "id": 8450
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Butyl Acrylate",
+            "CASRN": "141-32-2",
+            "massPct": null,
+            "function": "acrylic copolymer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Zinc Oxide",
+            "CASRN": "1314-13-2",
+            "massPct": null,
+            "function": "trizinc bis(orthophosphate) residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Quartz",
+            "CASRN": "14808-60-7",
+            "massPct": 0.001385681293,
+            "function": "calcium carbonate and kaolin residual",
+            "sources": [
+                {
+                    "name": "Vulcan",
+                    "url": "http://www.vulcanmaterials.com/docs/default-source/msds/3239-001-(limestone).pdf?sfvrsn=0",
+                    "id": 8449
+                },
+                {
+                    "name": "El Dorado",
+                    "url": "http://eldoradochemical.com/MSDS_Sheets/EDC/Third_Party_Products/Limestone_Lhoist_NA.pdf",
+                    "id": 8448
+                },
+                {
+                    "name": "MSHA",
+                    "url": "http://www.msha.gov/regs/complian/guides/hazcom/msds/LimestoneMSDS.pdf",
+                    "id": 1081
+                },
+                {
+                    "name": "Burgess",
+                    "url": "http://www.burgesspigment.com/burgesswebsite.nsf/MSDS%20Hydrous.pdf",
+                    "id": 6589
+                },
+                {
+                    "name": "Edgar",
+                    "url": "http://www.lagunaclay.com/msds/pdf/3rawmat/adry/mkaoepk.pdf",
+                    "id": 6588
+                },
+                {
+                    "name": "Clayton",
+                    "url": "http://www.clayton.edu/portals/690/chemistry/inventory/MSDS%20Kaolin.pdf",
+                    "id": 6587
+                },
+                {
+                    "name": "Vanderbilt",
+                    "url": "http://www.vanderbiltchemicals.com/ee_content/documents/msds/can/08903.pdf",
+                    "id": 6586
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Potassium Hydroxide",
+            "CASRN": "1310-58-3",
+            "massPct": null,
+            "function": "nonylphenoxypolyethylenoxy ethanol sulfate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Methylisothiazolinone",
+            "CASRN": "2682-20-4",
+            "massPct": null,
+            "function": "5-chloro-2-methyl-2h-isothiazol-3-one/2-methyl-2hisothiazol-3-one residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Anatase Titanium Dioxide",
+            "CASRN": "1317-70-0",
+            "massPct": null,
+            "function": "kaolin clay residual",
+            "sources": [
+                {
+                    "name": "Kogel 2006",
+                    "url": "https://books.google.com/books?id=zNicdkuulE4C&pg=PA558&dq=kaolin+and+its+uses&hl=en&sa=X&ved=0CDkQ6AEwBWoVChMIuv3urd7vxwIVxBU-Ch3_qQuo#v=onepage&q=kaolin&f=false",
+                    "id": 8451
+                },
+                {
+                    "name": "Murray",
+                    "url": "https://books.google.com/books?id=zOsFafN36swC&pg=PA102&dq=kaolin+and+its+uses&hl=en&sa=X&ved=0CDMQ6AEwBGoVChMIuv3urd7vxwIVxBU-Ch3_qQuo#v=onepage&q=kaolin%20and%20its%20uses&f=false",
+                    "id": 8452
+                },
+                {
+                    "name": "Kogel 2009",
+                    "url": "http://ir.nmu.org.ua/bitstream/handle/123456789/144177/b468c8181927c36065977d15a07ad382.pdf?sequence=1",
+                    "id": 8450
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ammonium Persulfate",
+            "CASRN": "7727-54-0",
+            "massPct": null,
+            "function": "acrylic copolymer residual",
+            "sources": [
+                {
+                    "name": "DuPont Patent 2",
+                    "url": "https://www.google.com/patents/US5221584?dq=water-based+acrylic+high+performance+coating&hl=en&sa=X&ved=0CDEQ6AEwAzgKahUKEwjc4Ym6mYHHAhXKOT4KHbtUBA4",
+                    "id": 8420
+                },
+                {
+                    "name": "DuPont Patent 1",
+                    "url": "https://www.google.com/patents/EP0421609B1?cl=en&dq=water-based+acrylic+coating&hl=en&sa=X&ved=0CCwQ6AEwAmoVChMI_vzOx_iAxwIVAkw-Ch1wtAvy",
+                    "id": 8419
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Styrene",
+            "CASRN": "100-42-5",
+            "massPct": null,
+            "function": "acrylic copolymer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Methylchloroisothiazolinone",
+            "CASRN": "26172-55-4",
+            "massPct": null,
+            "function": "5-chloro-2-methyl-2h-isothiazol-3-one/2-methyl-2hisothiazol-3-one residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Acrylic Acid",
+            "CASRN": "79-10-7",
+            "massPct": null,
+            "function": "acrylic copolymer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.010264305876,
+                    "contributors": [
+                        {
+                            "recId": 8461,
+                            "massPct": 0.005132152938,
+                            "childrenIds": [
+                                8461
+                            ]
+                        },
+                        {
+                            "recId": 8462,
+                            "massPct": 0.005132152938,
+                            "childrenIds": [
+                                8462
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.158326918177,
+                    "contributors": [
+                        {
+                            "recId": 8378,
+                            "massPct": 0.01026430588,
+                            "childrenIds": [
+                                8378
+                            ]
+                        },
+                        {
+                            "recId": 2766,
+                            "massPct": 0.1437002823,
+                            "childrenIds": [
+                                2766
+                            ]
+                        },
+                        {
+                            "recId": 8458,
+                            "massPct": 0.004362329997,
+                            "childrenIds": [
+                                8458
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.01026430588,
+                    "contributors": [
+                        {
+                            "recId": 8378,
+                            "massPct": 0.01026430588,
+                            "childrenIds": [
+                                8378
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-567",
+                    "type": "orange",
+                    "name": "Cancer",
+                    "massPct": 0.06158583526,
+                    "contributors": [
+                        {
+                            "recId": 4993,
+                            "massPct": 0.02566076469,
+                            "childrenIds": [
+                                4993
+                            ]
+                        },
+                        {
+                            "recId": 4806,
+                            "massPct": 0.03592507057,
+                            "childrenIds": [
+                                4806
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-576",
+                    "type": "orange",
+                    "name": "Skin Irritation",
+                    "massPct": 0.004362329997,
+                    "contributors": [
+                        {
+                            "recId": 8458,
+                            "massPct": 0.004362329997,
+                            "childrenIds": [
+                                8458
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-567",
+                    "type": "red",
+                    "name": "Cancer",
+                    "massPct": 0.005132152938,
+                    "contributors": [
+                        {
+                            "recId": 8461,
+                            "massPct": 0.005132152938,
+                            "childrenIds": [
+                                8461
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.15396458818,
+                    "contributors": [
+                        {
+                            "recId": 2766,
+                            "massPct": 0.1437002823,
+                            "childrenIds": [
+                                2766
+                            ]
+                        },
+                        {
+                            "recId": 3606,
+                            "massPct": 0.01026430588,
+                            "childrenIds": [
+                                3606
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.005132152938,
+                    "contributors": [
+                        {
+                            "recId": 8462,
+                            "massPct": 0.005132152938,
+                            "childrenIds": [
+                                8462
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-568",
+                    "type": "red",
+                    "name": "Developmental",
+                    "massPct": 0.005132152938,
+                    "contributors": [
+                        {
+                            "recId": 8462,
+                            "massPct": 0.005132152938,
+                            "childrenIds": [
+                                8462
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "purple": [
+                {
+                    "hazardId": "purple-955",
+                    "type": "purple",
+                    "name": "PBT",
+                    "massPct": 0.005132152938,
+                    "contributors": [
+                        {
+                            "recId": 8462,
+                            "massPct": 0.005132152938,
+                            "childrenIds": [
+                                8462
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system is defined as cradle-to-gate and ends with the finished product at the factory gate. Includes all upstream raw material production, energy extraction, final material production and inbound transportation. Packaging is excluded.",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Electricity grid mix"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "US: Silica sand (flour)"
+            },
+            {
+                "name": "US: Styrene butylacrylate copolymer (50% solids) (estimation)"
+            },
+            {
+                "name": "DE: Butyric acid (Butanoic acid) by aldehyde oxidation"
+            },
+            {
+                "name": "DE: Acetophenone (Phenyl methyl ketone)"
+            },
+            {
+                "name": "US: Ethylene glycol (from ethene and oxygen via EO)"
+            },
+            {
+                "name": "DE: Zinc phosphate (estimation)"
+            },
+            {
+                "name": "US: Kaolin (mining and processing)"
+            },
+            {
+                "name": "DE: Thiazole (2-Mercaptobenzothiazol, C7H5NS2)"
+            },
+            {
+                "name": "US: Phenol (from cumene)"
+            },
+            {
+                "name": "US: Nonene"
+            },
+            {
+                "name": "US: Alcohol ethoxylate (ethoxylation, estimation)"
+            },
+            {
+                "name": "US: Limestone flour (5mm)"
+            },
+            {
+                "name": "US: Titanium dioxide pigment"
+            },
+            {
+                "name": "US: Water deionized"
+            },
+            {
+                "name": "US: Thermal energy from natural gas (eGrid)"
+            },
+            {
+                "name": "GLO: Hazardous waste (non-specific) (c rich, worst scenario)"
+            },
+            {
+                "name": "DE: Coating water-based (industry,white)(copy)(high performance coatings (acrylic))"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% to landfill",
+        "inUseNotes": "3.37% released as NMVOC (unspecified); 45.2% released as water vapor",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "8.97E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "3.21E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "1.87E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "2.06E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.05E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "3.92E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "9.33E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "0.00E+00"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "3.72E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.38E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "2.56E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "5.80E-13"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "3.35E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "4.21E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP134",
+    "name": "High Performance Coatings (Acrylic)",
+    "altNames": [
+        "High performance water-borne acrylic coating",
+        "latex acrylic high performance coatings"
+    ],
+    "uniformats": [
+        {
+            "id": "C2050",
+            "name": "Ceiling Finishes"
+        },
+        {
+            "id": "C2010",
+            "name": "Wall Finishes"
+        },
+        {
+            "id": "B3080",
+            "name": "Overhead Exterior Enclosures"
+        },
+        {
+            "id": "B2010",
+            "name": "Exterior Walls"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "09-96-00",
+            "name": "High-Performance Coatings"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Acrylic high performace coating (HPC) is the term for a wide range of enhanced protective coatings for both interior and exterior applications in residential or industrial settings. This survey focuses on site-applied interior acrylic HPCs that offer chemical, stain, moisture, and/or rust protection for a range of substrates (including prepared masonry, wallboard, metal, and wood). Acrylic HPCs can be solvent-based or water-based. Concerns over high VOC emissions from solvent-based coatings has made water-based acrylic HPCs the predominant form on the market; thus, this survey focuses on water-based coatings. Tinting additives can also increase VOC content. However, this survey focuses on white or neutral coatings since those colors were available across all the products surveyed.",
+    "sources": [
+        {
+            "name": "Dryfall MSDS",
+            "url": "http://www.sherwin-williams.com/document/MSDS/en/035777020333/",
+            "id": 8467
+        },
+        {
+            "name": "DTM MSDS",
+            "url": "http://www.sherwin-williams.com/document/MSDS/en/035777181065/",
+            "id": 8476
+        },
+        {
+            "name": "BM Poly MSDS",
+            "url": "https://www.pharosproject.net/uploads/files/sources/1/58745613aae08f538c09bcd05e8cb85567e91ae4.pdf",
+            "id": 8478
+        },
+        {
+            "name": "Burgess",
+            "url": "http://www.burgesspigment.com/burgesswebsite.nsf/MSDS%20Hydrous.pdf",
+            "id": 6589
+        },
+        {
+            "name": "Murray",
+            "url": "https://books.google.com/books?id=zOsFafN36swC&pg=PA102&dq=kaolin+and+its+uses&hl=en&sa=X&ved=0CDMQ6AEwBGoVChMIuv3urd7vxwIVxBU-Ch3_qQuo#v=onepage&q=kaolin%20and%20its%20uses&f=false",
+            "id": 8452
+        },
+        {
+            "name": "AP 1650 MSDS",
+            "url": "http://kellymoore.com/docs/default-source/material-safety-technical-data-sheets/1650-333-MSDS.pdf?Status=Master&sfvrsn=0",
+            "id": 8408
+        },
+        {
+            "name": "AP 1650 TDS",
+            "url": "http://kellymoore.com/docs/default-source/material-safety-technical-data-sheets/1640-TDS.pdf?Status=Master&sfvrsn=16",
+            "id": 8409
+        },
+        {
+            "name": "BM DTM MSDS",
+            "url": "https://www.pharosproject.net/uploads/files/sources/2709/1fa695899c638fd7e0cd617b78bd2a7051cd3fce.pdf",
+            "id": 8410
+        },
+        {
+            "name": "BM Maine",
+            "url": "https://pharosproject.net/uploads/files/sources/1/55e9e656497abb90f3d4cdd0cd0c4e3634eaf1c5.xls",
+            "id": 7564
+        },
+        {
+            "name": "DEVCRYL MSDS",
+            "url": "http://datasheets1.international-coatings.com/msds/DC1440S9500_USA_eng_B1.pdf",
+            "id": 8411
+        },
+        {
+            "name": "DEVCRYL TDS",
+            "url": "http://www.international-pc.com/PDS/10130-P-eng-A4.pdf",
+            "id": 8412
+        },
+        {
+            "name": "Devflex MSDS",
+            "url": "https://www.gliddenprofessional.com/datasheets/specialorders/msds/4212-0100.aspx",
+            "id": 8413
+        },
+        {
+            "name": "Devoe MSDS",
+            "url": "https://www.gliddenprofessional.com/datasheets/specialorders/msds/4020-1000.aspx",
+            "id": 8414
+        },
+        {
+            "name": "Dow",
+            "url": "http://www.dow.com/assets/attachments/business/consumer_and_industrial_specialties/kathon_for_latex_preservation/latex_lx/tds/kathon_lx.pdf",
+            "id": 8415
+        },
+        {
+            "name": "Dow Canguard",
+            "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_004d/0901b8038004d891.pdf?filepath=biocides/pdfs/noreg/253-01797.pdf&fromPage=GetDoc",
+            "id": 8416
+        },
+        {
+            "name": "Dryfall EDS",
+            "url": "http://www.sherwin-williams.com/document/EDS/en/035777020289/",
+            "id": 8417
+        },
+        {
+            "name": "DTM EDS",
+            "url": "http://www.sherwin-williams.com/document/EDS/en/035777181065/",
+            "id": 8418
+        },
+        {
+            "name": "DuPont Patent 1",
+            "url": "https://www.google.com/patents/EP0421609B1?cl=en&dq=water-based+acrylic+coating&hl=en&sa=X&ved=0CCwQ6AEwAmoVChMI_vzOx_iAxwIVAkw-Ch1wtAvy",
+            "id": 8419
+        },
+        {
+            "name": "DuPont Patent 2",
+            "url": "https://www.google.com/patents/US5221584?dq=water-based+acrylic+high+performance+coating&hl=en&sa=X&ved=0CDEQ6AEwAzgKahUKEwjc4Ym6mYHHAhXKOT4KHbtUBA4",
+            "id": 8420
+        },
+        {
+            "name": "Dura-Poxy MSDS",
+            "url": "http://kellymoore.com/docs/default-source/material-safety-technical-data-sheets/1786-121-MSDS.pdf?Status=Master&sfvrsn=0",
+            "id": 8421
+        },
+        {
+            "name": "Dura-Poxy TDS",
+            "url": "http://kellymoore.com/docs/default-source/material-safety-technical-data-sheets/1786-TDS.pdf?Status=Master&sfvrsn=2",
+            "id": 8422
+        },
+        {
+            "name": "EC 1520 MSDS",
+            "url": "http://kellymoore.com/docs/default-source/material-safety-technical-data-sheets/1520-121-MSDS.pdf?Status=Master&sfvrsn=0",
+            "id": 8423
+        },
+        {
+            "name": "EC 1520 TDS",
+            "url": "http://kellymoore.com/docs/default-source/material-safety-technical-data-sheets/1520-TDS.pdf?Status=Master&sfvrsn=8",
+            "id": 8424
+        },
+        {
+            "name": "EcoSafe bio MSDS",
+            "url": "http://www.ecoprocote.com/v/vspfiles/assets/images/msds/sds.durasoy.sg.050114.pdf",
+            "id": 8425
+        },
+        {
+            "name": "EcoSafe MSDS",
+            "url": "http://www.ecoprocote.com/v/vspfiles/assets/images/MSDS/SDS.EcoTuff.HTCoating.050114.pdf",
+            "id": 8426
+        },
+        {
+            "name": "Frazee MSDS",
+            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=CMUS&prodno=042475018197&doctype=MSDS&lang=2",
+            "id": 8427
+        },
+        {
+            "name": "Intercryl MSDS",
+            "url": "http://datasheets1.international-coatings.com/msds/52010_USA_eng_B2.pdf",
+            "id": 8428
+        },
+        {
+            "name": "Intercryl TDS",
+            "url": "http://www.international-pc.com/PDS/2075-P-eng-usa-LTR.pdf",
+            "id": 8429
+        },
+        {
+            "name": "Ivy 1",
+            "url": "http://www.ivycoatings.com/assets/IVY-ALLSHEETS-FLAT.pdf",
+            "id": 8430
+        },
+        {
+            "name": "Ivy 2",
+            "url": "http://www.ivycoatings.com/assets/IVY-ALLSHEETS-DTM.pdf",
+            "id": 8431
+        },
+        {
+            "name": "Multi-Surface MSDS",
+            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&doctype=MSDS&lang=E&prodno=B66W501",
+            "id": 8432
+        },
+        {
+            "name": "NPE RR",
+            "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/183101/nonylphenol_rrs.pdf",
+            "id": 8433
+        },
+        {
+            "name": "Patent 1",
+            "url": "https://www.google.com/patents/US7345120",
+            "id": 8434
+        },
+        {
+            "name": "Patent 4",
+            "url": "https://www.google.com/patents/US20110293839?dq=water-based+acrylic+coatings&hl=en&sa=X&ved=0CCoQ6AEwAjgKahUKEwjWoeink4PHAhUJbT4KHWS-ACs",
+            "id": 8435
+        },
+        {
+            "name": "Patent 5",
+            "url": "https://www.google.com/patents/CA2293977C?cl=en&dq=kathon+lx+acrylic&hl=en&sa=X&ved=0CDIQ6AEwA2oVChMI_cqG-sSDxwIVCMk-Ch3lMwo5",
+            "id": 8436
+        },
+        {
+            "name": "Pro EDS",
+            "url": "http://www.sherwin-williams.com/document/EDS/en/035777437018/",
+            "id": 8437
+        },
+        {
+            "name": "Pro MSDS",
+            "url": "http://www.sherwin-williams.com/document/MSDS/en/035777437018/",
+            "id": 8438
+        },
+        {
+            "name": "PT DTM MSDS",
+            "url": "https://buyat.ppg.com/ehsdocumentmanagerpublic/documentsearchinnerframe.aspx?CodeValue=90-374&CodeCondition=IsEqualTo&Language=en-US&SuppressSearchControls=True",
+            "id": 8439
+        },
+        {
+            "name": "PT DTM TDS",
+            "url": "http://www.ppghighperformancecoatings.com/getmedia/5658ffbc-85d0-4076-8346-e1d2163d051d/TDS_90-374.pdf.aspx?ext=.pdf",
+            "id": 8440
+        },
+        {
+            "name": "RO 3700 MSDS",
+            "url": "http://www.rustoleum.com/MSDS/ENGLISH/3792402.PDF",
+            "id": 8441
+        },
+        {
+            "name": "RO 5100 MSDS",
+            "url": "http://www.rustoleum.com/MSDS/ENGLISH/251280.PDF",
+            "id": 8442
+        },
+        {
+            "name": "RO DTM MSDS",
+            "url": "http://www.rustoleum.com/MSDS/ENGLISH/3192402.PDF",
+            "id": 8443
+        },
+        {
+            "name": "SW Maine",
+            "url": "https://pharosproject.net/uploads/files/sources/1/4d634f574753f97bcf4537038ceee57c592da82c.xls",
+            "id": 7565
+        },
+        {
+            "name": "Ultra-Hide 770 MSDS",
+            "url": "https://www.gliddenprofessional.com/datasheets/enmsds/gp7-5000.aspx",
+            "id": 8444
+        },
+        {
+            "name": "Ultra-Hide 770 TDS",
+            "url": "https://www.gliddenprofessional.com/datasheets/entds/gp7-5000.aspx",
+            "id": 8445
+        },
+        {
+            "name": "Armor MSDS",
+            "url": "https://www.pharosproject.net/uploads/files/sources/2709/4b935a3dca68353eb84454634187554c6f2292fa.pdf",
+            "id": 8446
+        },
+        {
+            "name": "Armor Info",
+            "url": "http://www.scuffmaster.com/product/color/armor/",
+            "id": 8447
+        },
+        {
+            "name": "Clayton",
+            "url": "http://www.clayton.edu/portals/690/chemistry/inventory/MSDS%20Kaolin.pdf",
+            "id": 6587
+        },
+        {
+            "name": "Edgar",
+            "url": "http://www.lagunaclay.com/msds/pdf/3rawmat/adry/mkaoepk.pdf",
+            "id": 6588
+        },
+        {
+            "name": "MSHA",
+            "url": "http://www.msha.gov/regs/complian/guides/hazcom/msds/LimestoneMSDS.pdf",
+            "id": 1081
+        },
+        {
+            "name": "El Dorado",
+            "url": "http://eldoradochemical.com/MSDS_Sheets/EDC/Third_Party_Products/Limestone_Lhoist_NA.pdf",
+            "id": 8448
+        },
+        {
+            "name": "Vulcan",
+            "url": "http://www.vulcanmaterials.com/docs/default-source/msds/3239-001-(limestone).pdf?sfvrsn=0",
+            "id": 8449
+        },
+        {
+            "name": "Vanderbilt",
+            "url": "http://www.vanderbiltchemicals.com/ee_content/documents/msds/can/08903.pdf",
+            "id": 6586
+        },
+        {
+            "name": "Kogel 2009",
+            "url": "http://ir.nmu.org.ua/bitstream/handle/123456789/144177/b468c8181927c36065977d15a07ad382.pdf?sequence=1",
+            "id": 8450
+        },
+        {
+            "name": "Kogel 2006",
+            "url": "https://books.google.com/books?id=zNicdkuulE4C&pg=PA558&dq=kaolin+and+its+uses&hl=en&sa=X&ved=0CDkQ6AEwBWoVChMIuv3urd7vxwIVxBU-Ch3_qQuo#v=onepage&q=kaolin&f=false",
+            "id": 8451
+        }
+    ]
+}

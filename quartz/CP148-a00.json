@@ -1,0 +1,1077 @@
+{
+    "CPID": "CP148",
+    "timestamp": 1452102148042,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 7687,
+            "name": "Di(2-ethylhexyl) terephthalate",
+            "CASRN": "6422-86-2",
+            "massPct": 0.0299850075,
+            "function": "plasticizer",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Flexco 220",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/2709/f68ebbaab1e1dbbb0d8461e0287fc5523993b524.pdf",
+                    "id": 7674
+                },
+                {
+                    "name": "Roppe 635",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/66/RoppeROP635AdhesiveMSDS.pdf",
+                    "id": 7680
+                },
+                {
+                    "name": "APAC 979",
+                    "url": "http://www.apacadhesives.com/PDF_2011/MSDS_2011/APAC_979.PDF",
+                    "id": 7662
+                },
+                {
+                    "name": "APAC 989",
+                    "url": "http://www.apacadhesives.com/PDF_2011/MSDS_2011/APAC_989.PDF",
+                    "id": 7663
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.0299850075
+        },
+        {
+            "recId": 7686,
+            "name": "Propylene Oxide, ethylene oxide, 1,2-propanediol, diphenylmethane-4,4'-diisocyanate polymer",
+            "CASRN": "68083-75-0",
+            "massPct": 0.19990005,
+            "function": "prepolymer",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Flexco 220",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/2709/f68ebbaab1e1dbbb0d8461e0287fc5523993b524.pdf",
+                    "id": 7674
+                },
+                {
+                    "name": "Roppe 635",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/66/RoppeROP635AdhesiveMSDS.pdf",
+                    "id": 7680
+                },
+                {
+                    "name": "APAC 979",
+                    "url": "http://www.apacadhesives.com/PDF_2011/MSDS_2011/APAC_979.PDF",
+                    "id": 7662
+                },
+                {
+                    "name": "APAC 989",
+                    "url": "http://www.apacadhesives.com/PDF_2011/MSDS_2011/APAC_989.PDF",
+                    "id": 7663
+                },
+                {
+                    "name": "APAC 999",
+                    "url": "http://www.apacadhesives.com/PDF_2011/MSDS_2011/APAC_999.PDF",
+                    "id": 7664
+                }
+            ],
+            "notes": "urethane polymer",
+            "lca": "yes",
+            "massPctOfTotal": 0.19990005
+        },
+        {
+            "recId": 2795,
+            "name": "Calcium Oxide",
+            "CASRN": "1305-78-8",
+            "massPct": 0.09995002499,
+            "function": "desicant/moisture scavenger",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Flexco 220",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/2709/f68ebbaab1e1dbbb0d8461e0287fc5523993b524.pdf",
+                    "id": 7674
+                },
+                {
+                    "name": "Roppe 635",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/66/RoppeROP635AdhesiveMSDS.pdf",
+                    "id": 7680
+                },
+                {
+                    "name": "APAC 979",
+                    "url": "http://www.apacadhesives.com/PDF_2011/MSDS_2011/APAC_979.PDF",
+                    "id": 7662
+                },
+                {
+                    "name": "APAC 989",
+                    "url": "http://www.apacadhesives.com/PDF_2011/MSDS_2011/APAC_989.PDF",
+                    "id": 7663
+                },
+                {
+                    "name": "APAC 999",
+                    "url": "http://www.apacadhesives.com/PDF_2011/MSDS_2011/APAC_999.PDF",
+                    "id": 7664
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.09995002499
+        },
+        {
+            "recId": 7230,
+            "name": "Polymethylene Polyphenyl Isocyanate",
+            "CASRN": "9016-87-9",
+            "massPct": 0.04997501249,
+            "function": "polymeric isocyanate",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Roberts 1409",
+                    "url": "http://www.robertsconsolidated.com/files/support/MSDS_R1409_1_1.pdf",
+                    "id": 7677
+                },
+                {
+                    "name": "Roberts 1540",
+                    "url": "http://www.robertsconsolidated.com/files/support/MSDS_R1540_12_1.pdf",
+                    "id": 7679
+                },
+                {
+                    "name": "Chemrex",
+                    "url": "http://www.ultimatesystemsltd.com/docs/BASF_Polyurethane_Flooring_Adhesive_MSDS.pdf",
+                    "id": 7669
+                },
+                {
+                    "name": "Loctite",
+                    "url": "http://henkelconsumerinfo.com/products/henkel.datasheets.Search.pdf?BUSAREA=0006&DOCTYPE=MSDS&LANG=EN&COUNTRY=US&VKORG=3450&MATNR=1417170",
+                    "id": 7676
+                },
+                {
+                    "name": "Roberts 1530",
+                    "url": "http://www.robertsconsolidated.com/files/support/MSDS_R1530_1_1.pdf",
+                    "id": 7678
+                },
+                {
+                    "name": "Titebond",
+                    "url": "http://www.franklininternational.com/msds/2308.017e0gro0020.pdf",
+                    "id": 7682
+                },
+                {
+                    "name": "Durapro 2130",
+                    "url": "http://www.duraproadhesives.com/gestion/uploaded/fiches%20signal%C3%A9tiques/AF-2130%20MSDS%20EN_rev4.pdf",
+                    "id": 7673
+                }
+            ],
+            "notes": "PMDI",
+            "lca": "yes",
+            "massPctOfTotal": 0.04997501249
+        },
+        {
+            "recId": 7688,
+            "name": "Hydrotreated Middle Petroleum Distillates",
+            "CASRN": "64742-46-7",
+            "massPct": 0.04997501249,
+            "function": "solvent",
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Armstrong 1",
+                    "url": "http://www.armstrong.com/pdbupimages/817430208175.pdf",
+                    "id": 7665
+                },
+                {
+                    "name": "Henry 971",
+                    "url": "http://www.wwhenry.com/assets/Products/Documents/Henry-971-msds-us-cn-e-08-10.pdf",
+                    "id": 7675
+                },
+                {
+                    "name": "Roberts 1530",
+                    "url": "http://www.robertsconsolidated.com/files/support/MSDS_R1530_1_1.pdf",
+                    "id": 7678
+                },
+                {
+                    "name": "SikaBond",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/2709/bbc8d77e6d0ba2e59b6958132dee0cd084157313.pdf",
+                    "id": 7681
+                },
+                {
+                    "name": "DriTac 7300",
+                    "url": "http://www.dritac.com/docs/7300MSDS.pdf",
+                    "id": 7671
+                },
+                {
+                    "name": "Flexco 220",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/2709/f68ebbaab1e1dbbb0d8461e0287fc5523993b524.pdf",
+                    "id": 7674
+                },
+                {
+                    "name": "Roppe 635",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/66/RoppeROP635AdhesiveMSDS.pdf",
+                    "id": 7680
+                },
+                {
+                    "name": "Chemrex",
+                    "url": "http://www.ultimatesystemsltd.com/docs/BASF_Polyurethane_Flooring_Adhesive_MSDS.pdf",
+                    "id": 7669
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.04997501249
+        },
+        {
+            "recId": 7231,
+            "name": "Methylene Bisphenyl Diisocyanate",
+            "CASRN": "101-68-8",
+            "massPct": 0.009995002499,
+            "function": "isocyanate",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Armstrong 1",
+                    "url": "http://www.armstrong.com/pdbupimages/817430208175.pdf",
+                    "id": 7665
+                },
+                {
+                    "name": "Flexco 220",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/2709/f68ebbaab1e1dbbb0d8461e0287fc5523993b524.pdf",
+                    "id": 7674
+                },
+                {
+                    "name": "Roppe 635",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/66/RoppeROP635AdhesiveMSDS.pdf",
+                    "id": 7680
+                },
+                {
+                    "name": "SikaBond",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/2709/bbc8d77e6d0ba2e59b6958132dee0cd084157313.pdf",
+                    "id": 7681
+                },
+                {
+                    "name": "Chemrex",
+                    "url": "http://www.ultimatesystemsltd.com/docs/BASF_Polyurethane_Flooring_Adhesive_MSDS.pdf",
+                    "id": 7669
+                },
+                {
+                    "name": "Bostik",
+                    "url": "http://www.bostik-us.com/sites/default/files/04148800.pdf",
+                    "id": 7667
+                },
+                {
+                    "name": "Loctite",
+                    "url": "http://henkelconsumerinfo.com/products/henkel.datasheets.Search.pdf?BUSAREA=0006&DOCTYPE=MSDS&LANG=EN&COUNTRY=US&VKORG=3450&MATNR=1417170",
+                    "id": 7676
+                },
+                {
+                    "name": "Chapco",
+                    "url": "http://www.buildsite.com/pdf/chapco/CHAPCOS-CHAMPION-MSDSSDS-1131422.pdf",
+                    "id": 7668
+                },
+                {
+                    "name": "Henry 971",
+                    "url": "http://www.wwhenry.com/assets/Products/Documents/Henry-971-msds-us-cn-e-08-10.pdf",
+                    "id": 7675
+                },
+                {
+                    "name": "APAC 979",
+                    "url": "http://www.apacadhesives.com/PDF_2011/MSDS_2011/APAC_979.PDF",
+                    "id": 7662
+                },
+                {
+                    "name": "APAC 999",
+                    "url": "http://www.apacadhesives.com/PDF_2011/MSDS_2011/APAC_999.PDF",
+                    "id": 7664
+                },
+                {
+                    "name": "APAC 989",
+                    "url": "http://www.apacadhesives.com/PDF_2011/MSDS_2011/APAC_989.PDF",
+                    "id": 7663
+                },
+                {
+                    "name": "Titebond",
+                    "url": "http://www.franklininternational.com/msds/2308.017e0gro0020.pdf",
+                    "id": 7682
+                },
+                {
+                    "name": "Durapro 2130",
+                    "url": "http://www.duraproadhesives.com/gestion/uploaded/fiches%20signal%C3%A9tiques/AF-2130%20MSDS%20EN_rev4.pdf",
+                    "id": 7673
+                }
+            ],
+            "notes": "MDI",
+            "lca": "yes",
+            "massPctOfTotal": 0.009995002499
+        },
+        {
+            "recId": 3759,
+            "name": "Limestone",
+            "CASRN": "1317-65-3",
+            "massPct": 0.5547226387,
+            "function": "filler",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Loctite",
+                    "url": "http://henkelconsumerinfo.com/products/henkel.datasheets.Search.pdf?BUSAREA=0006&DOCTYPE=MSDS&LANG=EN&COUNTRY=US&VKORG=3450&MATNR=1417170",
+                    "id": 7676
+                },
+                {
+                    "name": "Chapco",
+                    "url": "http://www.buildsite.com/pdf/chapco/CHAPCOS-CHAMPION-MSDSSDS-1131422.pdf",
+                    "id": 7668
+                },
+                {
+                    "name": "Roberts 1409",
+                    "url": "http://www.robertsconsolidated.com/files/support/MSDS_R1409_1_1.pdf",
+                    "id": 7677
+                },
+                {
+                    "name": "Roberts 1530",
+                    "url": "http://www.robertsconsolidated.com/files/support/MSDS_R1530_1_1.pdf",
+                    "id": 7678
+                },
+                {
+                    "name": "Roberts 1540",
+                    "url": "http://www.robertsconsolidated.com/files/support/MSDS_R1540_12_1.pdf",
+                    "id": 7679
+                },
+                {
+                    "name": "DriTac 1001",
+                    "url": "http://www.dritac.com/docs/1001MSDS.pdf",
+                    "id": 7695
+                }
+            ],
+            "notes": "Calcium carbonate",
+            "lca": "yes",
+            "massPctOfTotal": 0.5547226387
+        },
+        {
+            "recId": 6032,
+            "name": "Dibutyltin Dilaurate",
+            "CASRN": "77-58-7",
+            "massPct": 0.005497251374,
+            "function": "catalyst",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Dow Patent",
+                    "url": "https://www.google.com/patents/US6709539",
+                    "id": 7700
+                },
+                {
+                    "name": "CRT Patent",
+                    "url": "https://www.google.com/patents/US7255897?dq=polyurethane+flooring+adhesive&hl=en&sa=X&ved=0CDkQ6AEwBGoVChMI-8nuya3xxgIVx1Q-Ch3B-Qo9",
+                    "id": 7670
+                },
+                {
+                    "name": "Duffy Patent",
+                    "url": "http://www.google.com/patents/US20090198036",
+                    "id": 7672
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.005497251374
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Quartz",
+            "CASRN": "14808-60-7",
+            "massPct": 0.005547226387,
+            "function": "calcium carbonate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-576",
+                    "type": "orange",
+                    "name": "Skin Irritation",
+                    "massPct": 0.09995002499,
+                    "contributors": [
+                        {
+                            "recId": 2795,
+                            "massPct": 0.09995002499,
+                            "childrenIds": [
+                                2795
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.155422288854,
+                    "contributors": [
+                        {
+                            "recId": 2795,
+                            "massPct": 0.09995002499,
+                            "childrenIds": [
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 7230,
+                            "massPct": 0.04997501249,
+                            "childrenIds": [
+                                7230
+                            ]
+                        },
+                        {
+                            "recId": 6032,
+                            "massPct": 0.005497251374,
+                            "childrenIds": [
+                                6032
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-575",
+                    "type": "orange",
+                    "name": "Eye Irritation",
+                    "massPct": 0.09995002499,
+                    "contributors": [
+                        {
+                            "recId": 2795,
+                            "massPct": 0.09995002499,
+                            "childrenIds": [
+                                2795
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.159920039979,
+                    "contributors": [
+                        {
+                            "recId": 2795,
+                            "massPct": 0.09995002499,
+                            "childrenIds": [
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 7230,
+                            "massPct": 0.04997501249,
+                            "childrenIds": [
+                                7230
+                            ]
+                        },
+                        {
+                            "recId": 7231,
+                            "massPct": 0.009995002499,
+                            "childrenIds": [
+                                7231
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.055472263864,
+                    "contributors": [
+                        {
+                            "recId": 7230,
+                            "massPct": 0.04997501249,
+                            "childrenIds": [
+                                7230
+                            ]
+                        },
+                        {
+                            "recId": 6032,
+                            "massPct": 0.005497251374,
+                            "childrenIds": [
+                                6032
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.059970014988999995,
+                    "contributors": [
+                        {
+                            "recId": 7230,
+                            "massPct": 0.04997501249,
+                            "childrenIds": [
+                                7230
+                            ]
+                        },
+                        {
+                            "recId": 7231,
+                            "massPct": 0.009995002499,
+                            "childrenIds": [
+                                7231
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-567",
+                    "type": "orange",
+                    "name": "Cancer",
+                    "massPct": 0.059970014988999995,
+                    "contributors": [
+                        {
+                            "recId": 7230,
+                            "massPct": 0.04997501249,
+                            "childrenIds": [
+                                7230
+                            ]
+                        },
+                        {
+                            "recId": 7231,
+                            "massPct": 0.009995002499,
+                            "childrenIds": [
+                                7231
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.005497251374,
+                    "contributors": [
+                        {
+                            "recId": 6032,
+                            "massPct": 0.005497251374,
+                            "childrenIds": [
+                                6032
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-567",
+                    "type": "red",
+                    "name": "Cancer",
+                    "massPct": 0.04997501249,
+                    "contributors": [
+                        {
+                            "recId": 7688,
+                            "massPct": 0.04997501249,
+                            "childrenIds": [
+                                7688
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "purple": [
+                {
+                    "hazardId": "purple-955",
+                    "type": "purple",
+                    "name": "PBT",
+                    "massPct": 0.005497251374,
+                    "contributors": [
+                        {
+                            "recId": 6032,
+                            "massPct": 0.005497251374,
+                            "childrenIds": [
+                                6032
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "Includes all cradle-to-gate data, including raw materials extraction, energy production, transportation of raw ingredients, and polyurethane manufacturing. Polyurethanes are produced by continually combining the raw materials iso-cyanide and polyol components, which combine in an exothermic reaction to produce teh polyurethane product. Packaging is excluded.",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "GLO: Tin"
+            },
+            {
+                "name": "US: Naphtha at refinery"
+            },
+            {
+                "name": "EU-27: Dioctylphthalate/di (2-ethylhexyl) phthalate (DOP, DEHP)"
+            },
+            {
+                "name": "DE: Lime (CaO, quicklime lumpy)"
+            },
+            {
+                "name": "US: Limestone flour (5mm)"
+            },
+            {
+                "name": "US: Polyether Polyol (from PO+EO)"
+            },
+            {
+                "name": "US: Methylene diisocyanate (MDI)"
+            },
+            {
+                "name": "US: Electricity grid mix"
+            },
+            {
+                "name": "DE: Waste incineration (plastics)"
+            },
+            {
+                "name": "DE: Thermoplastic polyurethane (TPU, TPE-U) adhesive (copy)"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% to landfill (plastic; glass and inert)",
+        "inUseNotes": "2.81% released as NMVOC (unspecified)",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "3.93E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "3.55E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "1.86E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.85E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "6.85E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "3.82E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "7.78E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "0.00E+00"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "3.64E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "8.68E-05"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.76E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.07E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "5.03E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "7.81E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP148",
+    "name": "Polyurethane flooring adhesive",
+    "altNames": [
+        "moisture-cure polyurethane flooring adhesive",
+        "one-component polyurethane flooring adhesive",
+        "all-in-one urethane adhesive"
+    ],
+    "uniformats": [
+        {
+            "id": "C2030",
+            "name": "Flooring"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "09-60-00",
+            "name": "Flooring"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Polyurethane flooring adhesive is an adhesive used for adhering solid wood, engineered wood, bamboo, parquet, and some rubber and vinyl flooring to a variety of substrates (most commonly concrete, plywood, prepared terrazzo and ceramic tile). It comes in two forms - a one-part moisture cure adhesive or a two-part adhesive that must be mixed together on site. This survey focused on the more prominent one-part moisture cure form. Moisture-cure adhesives use ambient humidity or water in the substrate to cure. Moisture-cure polyurethane adhesives cure more slowly than two-part polyurethane adhesives and must set 12-48 hours before they can withstand foot traffic.",
+    "sources": [
+        {
+            "name": "MSHA",
+            "url": "http://www.msha.gov/regs/complian/guides/hazcom/msds/LimestoneMSDS.pdf",
+            "id": 1081
+        },
+        {
+            "name": "Specialty",
+            "url": "http://www.lagunaclay.com/msds/pdf/3rawmat/adry/mwhit.pdf",
+            "id": 6490
+        },
+        {
+            "name": "Titebond",
+            "url": "http://www.franklininternational.com/msds/2308.017e0gro0020.pdf",
+            "id": 7682
+        },
+        {
+            "name": "SikaBond",
+            "url": "https://www.pharosproject.net/uploads/files/sources/2709/bbc8d77e6d0ba2e59b6958132dee0cd084157313.pdf",
+            "id": 7681
+        },
+        {
+            "name": "Roppe 635",
+            "url": "https://www.pharosproject.net/uploads/files/sources/66/RoppeROP635AdhesiveMSDS.pdf",
+            "id": 7680
+        },
+        {
+            "name": "Roberts 1540",
+            "url": "http://www.robertsconsolidated.com/files/support/MSDS_R1540_12_1.pdf",
+            "id": 7679
+        },
+        {
+            "name": "Roberts 1530",
+            "url": "http://www.robertsconsolidated.com/files/support/MSDS_R1530_1_1.pdf",
+            "id": 7678
+        },
+        {
+            "name": "Roberts 1409",
+            "url": "http://www.robertsconsolidated.com/files/support/MSDS_R1409_1_1.pdf",
+            "id": 7677
+        },
+        {
+            "name": "Loctite",
+            "url": "http://henkelconsumerinfo.com/products/henkel.datasheets.Search.pdf?BUSAREA=0006&DOCTYPE=MSDS&LANG=EN&COUNTRY=US&VKORG=3450&MATNR=1417170",
+            "id": 7676
+        },
+        {
+            "name": "Henry 971",
+            "url": "http://www.wwhenry.com/assets/Products/Documents/Henry-971-msds-us-cn-e-08-10.pdf",
+            "id": 7675
+        },
+        {
+            "name": "Flexco 220",
+            "url": "https://www.pharosproject.net/uploads/files/sources/2709/f68ebbaab1e1dbbb0d8461e0287fc5523993b524.pdf",
+            "id": 7674
+        },
+        {
+            "name": "Durapro 2130",
+            "url": "http://www.duraproadhesives.com/gestion/uploaded/fiches%20signal%C3%A9tiques/AF-2130%20MSDS%20EN_rev4.pdf",
+            "id": 7673
+        },
+        {
+            "name": "Duffy Patent",
+            "url": "http://www.google.com/patents/US20090198036",
+            "id": 7672
+        },
+        {
+            "name": "DriTac 7300",
+            "url": "http://www.dritac.com/docs/7300MSDS.pdf",
+            "id": 7671
+        },
+        {
+            "name": "CRT Patent",
+            "url": "https://www.google.com/patents/US7255897?dq=polyurethane+flooring+adhesive&hl=en&sa=X&ved=0CDkQ6AEwBGoVChMI-8nuya3xxgIVx1Q-Ch3B-Qo9",
+            "id": 7670
+        },
+        {
+            "name": "Chemrex",
+            "url": "http://www.ultimatesystemsltd.com/docs/BASF_Polyurethane_Flooring_Adhesive_MSDS.pdf",
+            "id": 7669
+        },
+        {
+            "name": "Chapco",
+            "url": "http://www.buildsite.com/pdf/chapco/CHAPCOS-CHAMPION-MSDSSDS-1131422.pdf",
+            "id": 7668
+        },
+        {
+            "name": "Bostik",
+            "url": "http://www.bostik-us.com/sites/default/files/04148800.pdf",
+            "id": 7667
+        },
+        {
+            "name": "Bayer",
+            "url": "https://www.pharosproject.net/uploads/files/cml/1383145151.pdf",
+            "id": 7666
+        },
+        {
+            "name": "Armstrong 1",
+            "url": "http://www.armstrong.com/pdbupimages/817430208175.pdf",
+            "id": 7665
+        },
+        {
+            "name": "APAC 999",
+            "url": "http://www.apacadhesives.com/PDF_2011/MSDS_2011/APAC_999.PDF",
+            "id": 7664
+        },
+        {
+            "name": "APAC 989",
+            "url": "http://www.apacadhesives.com/PDF_2011/MSDS_2011/APAC_989.PDF",
+            "id": 7663
+        },
+        {
+            "name": "APAC 979",
+            "url": "http://www.apacadhesives.com/PDF_2011/MSDS_2011/APAC_979.PDF",
+            "id": 7662
+        },
+        {
+            "name": "Dow Patent",
+            "url": "https://www.google.com/patents/US6709539",
+            "id": 7700
+        },
+        {
+            "name": "DriTac 1001",
+            "url": "http://www.dritac.com/docs/1001MSDS.pdf",
+            "id": 7695
+        }
+    ]
+}

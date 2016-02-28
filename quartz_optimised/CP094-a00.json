@@ -1,0 +1,2191 @@
+{
+    "CPID": "CP094",
+    "timestamp": 1452102123803,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 4668,
+            "name": "Chlorothalonil",
+            "CASRN": "1897-45-6",
+            "massPct": 0.008193363376,
+            "function": "biocide",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Fyre",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/927974_323_U.pdf",
+                    "id": 6096
+                },
+                {
+                    "name": "Tremstop",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/917860_323_U.pdf",
+                    "id": 6089
+                },
+                {
+                    "name": "DAP",
+                    "url": "http://www.dap.com/docs/msds/00077365001_english.pdf",
+                    "id": 6086
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.008193363376
+        },
+        {
+            "recId": 1106,
+            "name": "Water",
+            "CASRN": "7732-18-5",
+            "massPct": 0.2458009013,
+            "function": "solvent",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Everkem TDS",
+                    "url": "http://www.everkemproducts.com/wp-content/uploads/2014/01/Firestop814+_Intumescent-Elastomeric-Firestopping-Sealant_Technical-Data-Sheet.pdf",
+                    "id": 6085
+                },
+                {
+                    "name": "Abesco",
+                    "url": "http://usabesco.com/wp-content/uploads/2013/01/Abesco-CP310-FR-Acrylic-Intumescent-Caulk.pdf",
+                    "id": 6084
+                },
+                {
+                    "name": "ADFP",
+                    "url": "http://www.adfire.com/MSDS%20s/MSDS%20Firebarrier/AD_FIREBARRIER_Intumescent_Caulk_CAN_022613.pdf",
+                    "id": 6097
+                },
+                {
+                    "name": "Fyre",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/927974_323_U.pdf",
+                    "id": 6096
+                },
+                {
+                    "name": "Hilti",
+                    "url": "https://www.us.hilti.com/medias/sys_master/documents/he2/9143657234462/Material_Safety_Data_Sheet_MSDS_for_FS-ONE_MAX_Intumescent_Firestop_Sealant_Documentation_ASSET_DOC_LOC_4085785.pdf",
+                    "id": 6095
+                },
+                {
+                    "name": "Boss 814",
+                    "url": "http://www.accumetricinc.com/uplimg/boss/MSDS/814%20MSDS.pdf",
+                    "id": 6093
+                },
+                {
+                    "name": "Tremstop",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/917860_323_U.pdf",
+                    "id": 6089
+                },
+                {
+                    "name": "3M CP-25WB",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xlY_9N8_U4v70k17zHvu9lxtD7SSSSSS--",
+                    "id": 6088
+                },
+                {
+                    "name": "3M 15WB",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00x4Y_Go8mBOv70k17zHvu9lxtD7SSSSSS--",
+                    "id": 6087
+                },
+                {
+                    "name": "DAP",
+                    "url": "http://www.dap.com/docs/msds/00077365001_english.pdf",
+                    "id": 6086
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.2458009013
+        },
+        {
+            "recId": 6101,
+            "name": "Expandable Graphite",
+            "CASRN": "12777-87-6",
+            "massPct": 0.04096681688,
+            "function": "intumescent",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "LCI",
+                    "url": "http://files.systems.stifirestop.com/5.%20Safety%20Data%20Sheet/1.%20English/SDS_LCI%20Intumescent%20Sealant.pdf",
+                    "id": 6092
+                },
+                {
+                    "name": "SSS 2",
+                    "url": "http://sti.fmpdata.net/ftp/datasheet/Canada/SSS_MSDS_CAN.pdf",
+                    "id": 6091
+                },
+                {
+                    "name": "Fyre",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/927974_323_U.pdf",
+                    "id": 6096
+                },
+                {
+                    "name": "Tremstop",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/917860_323_U.pdf",
+                    "id": 6089
+                },
+                {
+                    "name": "DAP",
+                    "url": "http://www.dap.com/docs/msds/00077365001_english.pdf",
+                    "id": 6086
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.04096681688
+        },
+        {
+            "recId": 6102,
+            "name": "Pentaerythritol",
+            "CASRN": "115-77-5",
+            "massPct": 0.04096681688,
+            "function": "carbon donor for intumescent",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "ADFP",
+                    "url": "http://www.adfire.com/MSDS%20s/MSDS%20Firebarrier/AD_FIREBARRIER_Intumescent_Caulk_CAN_022613.pdf",
+                    "id": 6097
+                },
+                {
+                    "name": "Fyre",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/927974_323_U.pdf",
+                    "id": 6096
+                },
+                {
+                    "name": "DAP",
+                    "url": "http://www.dap.com/docs/msds/00077365001_english.pdf",
+                    "id": 6086
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.04096681688
+        },
+        {
+            "recId": 1313,
+            "name": "Fiberglass (E-Glass)",
+            "CASRN": "65997-17-3",
+            "massPct": 0.04096681688,
+            "function": "heat resistance",
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": 0.5597,
+                        "contributors": [
+                            {
+                                "recId": 3606,
+                                "massPct": 0.5562,
+                                "childrenIds": [
+                                    3606
+                                ]
+                            },
+                            {
+                                "recId": 2766,
+                                "massPct": 0.0035,
+                                "childrenIds": [
+                                    2766
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": 0.0554,
+                        "contributors": [
+                            {
+                                "recId": 9377,
+                                "massPct": 0.0554,
+                                "childrenIds": [
+                                    9377
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental",
+                        "massPct": 0.0554,
+                        "contributors": [
+                            {
+                                "recId": 9377,
+                                "massPct": 0.0554,
+                                "childrenIds": [
+                                    9377
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation",
+                        "massPct": 0.21610000000000001,
+                        "contributors": [
+                            {
+                                "recId": 2795,
+                                "massPct": 0.2116,
+                                "childrenIds": [
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 9378,
+                                "massPct": 0.0045,
+                                "childrenIds": [
+                                    9378
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.3435,
+                        "contributors": [
+                            {
+                                "recId": 2795,
+                                "massPct": 0.2116,
+                                "childrenIds": [
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 9378,
+                                "massPct": 0.0045,
+                                "childrenIds": [
+                                    9378
+                                ]
+                            },
+                            {
+                                "recId": 3334,
+                                "massPct": 0.003,
+                                "childrenIds": [
+                                    3334
+                                ]
+                            },
+                            {
+                                "recId": 2794,
+                                "massPct": 0.1209,
+                                "childrenIds": [
+                                    2794
+                                ]
+                            },
+                            {
+                                "recId": 2766,
+                                "massPct": 0.0035,
+                                "childrenIds": [
+                                    2766
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": 0.2146,
+                        "contributors": [
+                            {
+                                "recId": 2795,
+                                "massPct": 0.2116,
+                                "childrenIds": [
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 3334,
+                                "massPct": 0.003,
+                                "childrenIds": [
+                                    3334
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.2519,
+                        "contributors": [
+                            {
+                                "recId": 2795,
+                                "massPct": 0.2116,
+                                "childrenIds": [
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 2796,
+                                "massPct": 0.0403,
+                                "childrenIds": [
+                                    2796
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": 0.0045,
+                        "contributors": [
+                            {
+                                "recId": 9378,
+                                "massPct": 0.0045,
+                                "childrenIds": [
+                                    9378
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": 0.003,
+                        "contributors": [
+                            {
+                                "recId": 3334,
+                                "massPct": 0.003,
+                                "childrenIds": [
+                                    3334
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.1209,
+                        "contributors": [
+                            {
+                                "recId": 2794,
+                                "massPct": 0.1209,
+                                "childrenIds": [
+                                    2794
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 3749,
+                    "name": "Sodium Oxide",
+                    "CASRN": "1313-59-3",
+                    "massPct": 0.003,
+                    "function": "fiber glass component",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Mortensen",
+                            "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+                            "id": 8640
+                        },
+                        {
+                            "name": "Ceramics",
+                            "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                            "id": 8638
+                        },
+                        {
+                            "name": "ASM",
+                            "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                            "id": 8639
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00012290045064
+                },
+                {
+                    "recId": 3606,
+                    "name": "Silica, amorphous",
+                    "CASRN": "7631-86-9",
+                    "massPct": 0.5562,
+                    "function": "fiber glass component",
+                    "hazards": {
+                        "red": [
+                            {
+                                "hazardId": "red-7911",
+                                "type": "red",
+                                "name": "Cancer (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Mortensen",
+                            "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+                            "id": 8640
+                        },
+                        {
+                            "name": "Ceramics",
+                            "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                            "id": 8638
+                        },
+                        {
+                            "name": "ASM",
+                            "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                            "id": 8639
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.022785743548656
+                },
+                {
+                    "recId": 2795,
+                    "name": "Calcium Oxide",
+                    "CASRN": "1305-78-8",
+                    "massPct": 0.2116,
+                    "function": "fiber glass component",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-576",
+                                "type": "orange",
+                                "name": "Skin Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-575",
+                                "type": "orange",
+                                "name": "Eye Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Mortensen",
+                            "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+                            "id": 8640
+                        },
+                        {
+                            "name": "Ceramics",
+                            "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                            "id": 8638
+                        },
+                        {
+                            "name": "ASM",
+                            "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                            "id": 8639
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.008668578451808
+                },
+                {
+                    "recId": 9378,
+                    "name": "Fluorine",
+                    "CASRN": "7782-41-4",
+                    "massPct": 0.0045,
+                    "function": "fiber glass component",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-576",
+                                "type": "orange",
+                                "name": "Skin Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Ceramics",
+                            "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                            "id": 8638
+                        },
+                        {
+                            "name": "ASM",
+                            "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                            "id": 8639
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00018435067595999998
+                },
+                {
+                    "recId": 3334,
+                    "name": "Ferric Oxide",
+                    "CASRN": "1309-37-1",
+                    "massPct": 0.003,
+                    "function": "fiber glass component",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-575",
+                                "type": "orange",
+                                "name": "Eye Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-567",
+                                "type": "orange",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Ceramics",
+                            "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                            "id": 8638
+                        },
+                        {
+                            "name": "ASM",
+                            "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                            "id": 8639
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00012290045064
+                },
+                {
+                    "recId": 2796,
+                    "name": "Magnesium Oxide",
+                    "CASRN": "1309-48-4",
+                    "massPct": 0.0403,
+                    "function": "fiber glass component",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Mortensen",
+                            "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+                            "id": 8640
+                        },
+                        {
+                            "name": "Ceramics",
+                            "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                            "id": 8638
+                        },
+                        {
+                            "name": "ASM",
+                            "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                            "id": 8639
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.001650962720264
+                },
+                {
+                    "recId": 9377,
+                    "name": "Boric Oxide",
+                    "CASRN": "1303-86-2",
+                    "massPct": 0.0554,
+                    "function": "fiber glass component",
+                    "hazards": {
+                        "red": [
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "red-568",
+                                "type": "red",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Ceramics",
+                            "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                            "id": 8638
+                        },
+                        {
+                            "name": "ASM",
+                            "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                            "id": 8639
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0022695616551519997
+                },
+                {
+                    "recId": 2794,
+                    "name": "Aluminum Oxide",
+                    "CASRN": "1344-28-1",
+                    "massPct": 0.1209,
+                    "function": "fiber glass component",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Mortensen",
+                            "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+                            "id": 8640
+                        },
+                        {
+                            "name": "Ceramics",
+                            "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                            "id": 8638
+                        },
+                        {
+                            "name": "ASM",
+                            "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                            "id": 8639
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.004952888160791999
+                },
+                {
+                    "recId": 2766,
+                    "name": "Titanium Dioxide",
+                    "CASRN": "13463-67-7",
+                    "massPct": 0.0035,
+                    "function": "fiber glass component",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-7911",
+                                "type": "red",
+                                "name": "Cancer (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Ceramics",
+                            "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                            "id": 8638
+                        },
+                        {
+                            "name": "ASM",
+                            "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                            "id": 8639
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00014338385908
+                }
+            ],
+            "sources": [
+                {
+                    "name": "SSS 2",
+                    "url": "http://sti.fmpdata.net/ftp/datasheet/Canada/SSS_MSDS_CAN.pdf",
+                    "id": 6091
+                },
+                {
+                    "name": "Fyre",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/927974_323_U.pdf",
+                    "id": 6096
+                },
+                {
+                    "name": "Tremstop",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/917860_323_U.pdf",
+                    "id": 6089
+                },
+                {
+                    "name": "3M CP-25WB",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xlY_9N8_U4v70k17zHvu9lxtD7SSSSSS--",
+                    "id": 6088
+                },
+                {
+                    "name": "3M 15WB",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00x4Y_Go8mBOv70k17zHvu9lxtD7SSSSSS--",
+                    "id": 6087
+                },
+                {
+                    "name": "DAP",
+                    "url": "http://www.dap.com/docs/msds/00077365001_english.pdf",
+                    "id": 6086
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.04096681688
+        },
+        {
+            "recId": 6100,
+            "name": "Zinc Borate",
+            "CASRN": "1332-07-6",
+            "massPct": 0.08193363376,
+            "function": "flame retardant",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "ADFP",
+                    "url": "http://www.adfire.com/MSDS%20s/MSDS%20Firebarrier/AD_FIREBARRIER_Intumescent_Caulk_CAN_022613.pdf",
+                    "id": 6097
+                },
+                {
+                    "name": "Boss 816",
+                    "url": "http://www.accumetricinc.com/uplimg/boss/MSDS/816%20MSDS.pdf",
+                    "id": 6094
+                },
+                {
+                    "name": "Tremstop",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/917860_323_U.pdf",
+                    "id": 6089
+                },
+                {
+                    "name": "3M CP-25WB",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xlY_9N8_U4v70k17zHvu9lxtD7SSSSSS--",
+                    "id": 6088
+                },
+                {
+                    "name": "3M 15WB",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00x4Y_Go8mBOv70k17zHvu9lxtD7SSSSSS--",
+                    "id": 6087
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.08193363376
+        },
+        {
+            "recId": 3334,
+            "name": "Ferric Oxide",
+            "CASRN": "1309-37-1",
+            "massPct": 0.02458009013,
+            "function": "pigment",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Ceramics",
+                    "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                    "id": 8638
+                },
+                {
+                    "name": "ASM",
+                    "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                    "id": 8639
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.02458009013
+        },
+        {
+            "recId": 3759,
+            "name": "Limestone",
+            "CASRN": "1317-65-3",
+            "massPct": 0.1433838591,
+            "function": "filler",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Fyre",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/927974_323_U.pdf",
+                    "id": 6096
+                },
+                {
+                    "name": "LCI",
+                    "url": "http://files.systems.stifirestop.com/5.%20Safety%20Data%20Sheet/1.%20English/SDS_LCI%20Intumescent%20Sealant.pdf",
+                    "id": 6092
+                },
+                {
+                    "name": "SSS 2",
+                    "url": "http://sti.fmpdata.net/ftp/datasheet/Canada/SSS_MSDS_CAN.pdf",
+                    "id": 6091
+                },
+                {
+                    "name": "Tremstop",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/917860_323_U.pdf",
+                    "id": 6089
+                },
+                {
+                    "name": "3M 15WB",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00x4Y_Go8mBOv70k17zHvu9lxtD7SSSSSS--",
+                    "id": 6087
+                },
+                {
+                    "name": "DAP",
+                    "url": "http://www.dap.com/docs/msds/00077365001_english.pdf",
+                    "id": 6086
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.1433838591
+        },
+        {
+            "recId": 4442,
+            "name": "Ammonium Polyphosphate",
+            "CASRN": "68333-79-9",
+            "massPct": 0.05735354363,
+            "function": "nitrogen and phosphorus component of intumescent",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Boss 814 TDS",
+                    "url": "http://www.accumetricinc.com/uplimg/boss/TDS/814.pdf",
+                    "id": 10274
+                },
+                {
+                    "name": "DAP",
+                    "url": "http://www.dap.com/docs/msds/00077365001_english.pdf",
+                    "id": 6086
+                },
+                {
+                    "name": "Minnesota",
+                    "url": "https://www.google.com/patents/US5175197",
+                    "id": 6098
+                },
+                {
+                    "name": "ADFP",
+                    "url": "http://www.adfire.com/MSDS%20s/MSDS%20Firebarrier/AD_FIREBARRIER_Intumescent_Caulk_CAN_022613.pdf",
+                    "id": 6097
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.05735354363
+        },
+        {
+            "recId": 6104,
+            "name": "Octylphenoxy Polyethoxyethanol",
+            "CASRN": "9036-19-5",
+            "massPct": 0.008193363376,
+            "function": "surfactant",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "3M CP-25WB",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xlY_9N8_U4v70k17zHvu9lxtD7SSSSSS--",
+                    "id": 6088
+                },
+                {
+                    "name": "Abesco",
+                    "url": "http://usabesco.com/wp-content/uploads/2013/01/Abesco-CP310-FR-Acrylic-Intumescent-Caulk.pdf",
+                    "id": 6084
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.008193363376
+        },
+        {
+            "recId": 10324,
+            "name": "Acrylic Polymer",
+            "CASRN": "67967-61-7",
+            "massPct": 0.2867677181,
+            "function": "binder",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "SSS 2",
+                    "url": "http://sti.fmpdata.net/ftp/datasheet/Canada/SSS_MSDS_CAN.pdf",
+                    "id": 6091
+                },
+                {
+                    "name": "LCI",
+                    "url": "http://files.systems.stifirestop.com/5.%20Safety%20Data%20Sheet/1.%20English/SDS_LCI%20Intumescent%20Sealant.pdf",
+                    "id": 6092
+                },
+                {
+                    "name": "SSS",
+                    "url": "http://files.systems.stifirestop.com/5.%20Safety%20Data%20Sheet/1.%20English/SDS_SSS%20Intumescent%20Sealant.pdf",
+                    "id": 6090
+                },
+                {
+                    "name": "Everkem TDS",
+                    "url": "http://www.everkemproducts.com/wp-content/uploads/2014/01/Firestop814+_Intumescent-Elastomeric-Firestopping-Sealant_Technical-Data-Sheet.pdf",
+                    "id": 6085
+                },
+                {
+                    "name": "Abesco",
+                    "url": "http://usabesco.com/wp-content/uploads/2013/01/Abesco-CP310-FR-Acrylic-Intumescent-Caulk.pdf",
+                    "id": 6084
+                },
+                {
+                    "name": "ADFP",
+                    "url": "http://www.adfire.com/MSDS%20s/MSDS%20Firebarrier/AD_FIREBARRIER_Intumescent_Caulk_CAN_022613.pdf",
+                    "id": 6097
+                },
+                {
+                    "name": "Fyre",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/927974_323_U.pdf",
+                    "id": 6096
+                },
+                {
+                    "name": "Hilti",
+                    "url": "https://www.us.hilti.com/medias/sys_master/documents/he2/9143657234462/Material_Safety_Data_Sheet_MSDS_for_FS-ONE_MAX_Intumescent_Firestop_Sealant_Documentation_ASSET_DOC_LOC_4085785.pdf",
+                    "id": 6095
+                },
+                {
+                    "name": "Boss 814",
+                    "url": "http://www.accumetricinc.com/uplimg/boss/MSDS/814%20MSDS.pdf",
+                    "id": 6093
+                },
+                {
+                    "name": "Tremstop",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/917860_323_U.pdf",
+                    "id": 6089
+                },
+                {
+                    "name": "DAP",
+                    "url": "http://www.dap.com/docs/msds/00077365001_english.pdf",
+                    "id": 6086
+                }
+            ],
+            "notes": "This CASRN is for a representative acrylic polymer. There will be variation of the exact acrylic polymer used between manufacturers.",
+            "lca": "yes",
+            "massPctOfTotal": 0.2867677181
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Boric Acid",
+            "CASRN": "10043-35-3",
+            "massPct": null,
+            "function": "zinc borate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ethylbenzene",
+            "CASRN": "100-41-4",
+            "massPct": null,
+            "function": "residual of exemplary acrylic polymer",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Quartz",
+            "CASRN": "14808-60-7",
+            "massPct": 0.008193363376,
+            "function": "calcium carbonate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Butyl Acrylate",
+            "CASRN": "141-32-2",
+            "massPct": null,
+            "function": "residual of exemplary acrylic polymer",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Hydrogen Peroxide",
+            "CASRN": "7722-84-1",
+            "massPct": null,
+            "function": "expandable graphite residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Methyl Methacrylate",
+            "CASRN": "80-62-6",
+            "massPct": null,
+            "function": "residual of exemplary acrylic polymer",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "2-Ethylhexyl Acrylate",
+            "CASRN": "103-11-7",
+            "massPct": null,
+            "function": "residual of exemplary acrylic polymer",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Potassium Permanganate",
+            "CASRN": "7722-64-7",
+            "massPct": null,
+            "function": "expandable graphite residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Sodium Hydroxide",
+            "CASRN": "1310-73-2",
+            "massPct": null,
+            "function": "sodium oxide residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Nitric Acid",
+            "CASRN": "7697-37-2",
+            "massPct": 0.004506349857,
+            "function": "expandable graphite residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Sulfuric Acid",
+            "CASRN": "7664-93-9",
+            "massPct": 0.008193363376,
+            "function": "expandable graphite residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-577",
+                    "type": "orange",
+                    "name": "Skin Sensitization",
+                    "massPct": 0.008193363376,
+                    "contributors": [
+                        {
+                            "recId": 4668,
+                            "massPct": 0.008193363376,
+                            "childrenIds": [
+                                4668
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.013146251536792001,
+                    "contributors": [
+                        {
+                            "recId": 4668,
+                            "massPct": 0.008193363376,
+                            "childrenIds": [
+                                4668
+                            ]
+                        },
+                        {
+                            "recId": 1313,
+                            "massPct": 0.004952888160791999,
+                            "childrenIds": [
+                                1313,
+                                2794
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-569",
+                    "type": "orange",
+                    "name": "Reproductive",
+                    "massPct": 0.00837771405196,
+                    "contributors": [
+                        {
+                            "recId": 4668,
+                            "massPct": 0.008193363376,
+                            "childrenIds": [
+                                4668
+                            ]
+                        },
+                        {
+                            "recId": 1313,
+                            "massPct": 0.00018435067595999998,
+                            "childrenIds": [
+                                1313,
+                                9378
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.04684555510428,
+                    "contributors": [
+                        {
+                            "recId": 4668,
+                            "massPct": 0.008193363376,
+                            "childrenIds": [
+                                4668
+                            ]
+                        },
+                        {
+                            "recId": 1313,
+                            "massPct": 0.008668578451808,
+                            "childrenIds": [
+                                1313,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 1313,
+                            "massPct": 0.00018435067595999998,
+                            "childrenIds": [
+                                1313,
+                                9378
+                            ]
+                        },
+                        {
+                            "recId": 1313,
+                            "massPct": 0.00012290045064,
+                            "childrenIds": [
+                                1313,
+                                3334
+                            ]
+                        },
+                        {
+                            "recId": 1313,
+                            "massPct": 0.004952888160791999,
+                            "childrenIds": [
+                                1313,
+                                2794
+                            ]
+                        },
+                        {
+                            "recId": 1313,
+                            "massPct": 0.00014338385908,
+                            "childrenIds": [
+                                1313,
+                                2766
+                            ]
+                        },
+                        {
+                            "recId": 3334,
+                            "massPct": 0.02458009013,
+                            "childrenIds": [
+                                3334
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-575",
+                    "type": "orange",
+                    "name": "Eye Irritation",
+                    "massPct": 0.041564932408447997,
+                    "contributors": [
+                        {
+                            "recId": 4668,
+                            "massPct": 0.008193363376,
+                            "childrenIds": [
+                                4668
+                            ]
+                        },
+                        {
+                            "recId": 1313,
+                            "massPct": 0.008668578451808,
+                            "childrenIds": [
+                                1313,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 1313,
+                            "massPct": 0.00012290045064,
+                            "childrenIds": [
+                                1313,
+                                3334
+                            ]
+                        },
+                        {
+                            "recId": 3334,
+                            "massPct": 0.02458009013,
+                            "childrenIds": [
+                                3334
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.016386726752,
+                    "contributors": [
+                        {
+                            "recId": 4668,
+                            "massPct": 0.008193363376,
+                            "childrenIds": [
+                                4668
+                            ]
+                        },
+                        {
+                            "recId": 6104,
+                            "massPct": 0.008193363376,
+                            "childrenIds": [
+                                6104
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-576",
+                    "type": "orange",
+                    "name": "Skin Irritation",
+                    "massPct": 0.008852929127768,
+                    "contributors": [
+                        {
+                            "recId": 1313,
+                            "massPct": 0.008668578451808,
+                            "childrenIds": [
+                                1313,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 1313,
+                            "massPct": 0.00018435067595999998,
+                            "childrenIds": [
+                                1313,
+                                9378
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.010319541172072,
+                    "contributors": [
+                        {
+                            "recId": 1313,
+                            "massPct": 0.008668578451808,
+                            "childrenIds": [
+                                1313,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 1313,
+                            "massPct": 0.001650962720264,
+                            "childrenIds": [
+                                1313,
+                                2796
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-567",
+                    "type": "orange",
+                    "name": "Cancer",
+                    "massPct": 0.02470299058064,
+                    "contributors": [
+                        {
+                            "recId": 1313,
+                            "massPct": 0.00012290045064,
+                            "childrenIds": [
+                                1313,
+                                3334
+                            ]
+                        },
+                        {
+                            "recId": 3334,
+                            "massPct": 0.02458009013,
+                            "childrenIds": [
+                                3334
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.08193363376,
+                    "contributors": [
+                        {
+                            "recId": 6100,
+                            "massPct": 0.08193363376,
+                            "childrenIds": [
+                                6100
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-567",
+                    "type": "red",
+                    "name": "Cancer",
+                    "massPct": 0.016386726752,
+                    "contributors": [
+                        {
+                            "recId": 4668,
+                            "massPct": 0.008193363376,
+                            "childrenIds": [
+                                4668
+                            ]
+                        },
+                        {
+                            "recId": 6104,
+                            "massPct": 0.008193363376,
+                            "childrenIds": [
+                                6104
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.022929127407736,
+                    "contributors": [
+                        {
+                            "recId": 1313,
+                            "massPct": 0.022785743548656,
+                            "childrenIds": [
+                                1313,
+                                3606
+                            ]
+                        },
+                        {
+                            "recId": 1313,
+                            "massPct": 0.00014338385908,
+                            "childrenIds": [
+                                1313,
+                                2766
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.0022695616551519997,
+                    "contributors": [
+                        {
+                            "recId": 1313,
+                            "massPct": 0.0022695616551519997,
+                            "childrenIds": [
+                                1313,
+                                9377
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-568",
+                    "type": "red",
+                    "name": "Developmental",
+                    "massPct": 0.0022695616551519997,
+                    "contributors": [
+                        {
+                            "recId": 1313,
+                            "massPct": 0.0022695616551519997,
+                            "childrenIds": [
+                                1313,
+                                9377
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundary is defined as cradle-to-gate and ends with the finished product at the factory gate. Manfacturing includes the mixing of sealant materials. Upstream data includes chemicals and energy production. Inbound transportation of upstream materials is included.",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "DE: Fungicide unspecific"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "GLO: Non-ionic surfactant (ethylene oxid dervatives)"
+            },
+            {
+                "name": "DE: Iron oxide (Fe2O3) from iron ore"
+            },
+            {
+                "name": "CN: Glass fibers"
+            },
+            {
+                "name": "DE: Synthetic Graphite (via hard coal coke)"
+            },
+            {
+                "name": "DE: Zinc borate (estimation)"
+            },
+            {
+                "name": "DE: Ammoniumpolyphosphate"
+            },
+            {
+                "name": "US: Limestone flour (5mm)"
+            },
+            {
+                "name": "DE: Polymethylmethacrylate granulate (PMMA) mix"
+            },
+            {
+                "name": "US: Sodium hydroxide (caustic soda) mix (100%)"
+            },
+            {
+                "name": "US: Acetaldehyde (Ethanal)"
+            },
+            {
+                "name": "US: Water deionized"
+            },
+            {
+                "name": "US: Formaldehyde (HCHO, 100%)"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% to landfill",
+        "inUseNotes": "0.60% released as NMVOC (unspecified); 24.6% released as water vapor",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "9.24E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "5.77E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "2.82E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "2.22E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.13E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "5.95E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.66E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "0.00E+00"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "3.25E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "8.40E-05"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "3.96E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "8.81E-13"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "4.29E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "6.49E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP094",
+    "name": "Intumescent firestop sealant",
+    "altNames": [
+        "Intumescent Elastomeric Firestopping Sealant",
+        "Firestopping Sealant",
+        "Fire Barrier Sealant",
+        "Intumescent Acrylic Sealant"
+    ],
+    "uniformats": [
+        {
+            "id": "D3060",
+            "name": "Ventilation"
+        },
+        {
+            "id": "D3050",
+            "name": "Facility HVAC Distribution Systems"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "07-84-43",
+            "name": "Fire-Resistant Joint Sealants"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Intumescent firestop sealants are used to seal joints and voids in fire-rated assemblies, including around through penetrations such as pipes, HVAC ducting, cables, etc.  The sealant offers good adhesion to a variety of surfaces including metal, plastic, drywall, concrete, and wood.  The sealant contains fire resistant and intumescent materials to prevent the spread of fire and smoke through the protected joints and penetrations.  The most common material is water-based with an elastomeric acrylic polymer binder.  The material is supplied in tubes or pails for application with a caulk gun, trowel or putty knife.  While the primary purpose of these sealants is fire protection, they do also decrease sound transmission through the sealed voids.",
+    "sources": [
+        {
+            "name": "Boss 814 TDS",
+            "url": "http://www.accumetricinc.com/uplimg/boss/TDS/814.pdf",
+            "id": 10274
+        },
+        {
+            "name": "Mortensen",
+            "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+            "id": 8640
+        },
+        {
+            "name": "ASM",
+            "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+            "id": 8639
+        },
+        {
+            "name": "Ceramics",
+            "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+            "id": 8638
+        },
+        {
+            "name": "EG-acid",
+            "url": "http://polymer-additives.specialchem.com/product/a-nordmann-rassmann-nord-min-kp-251",
+            "id": 6099
+        },
+        {
+            "name": "Minnesota",
+            "url": "https://www.google.com/patents/US5175197",
+            "id": 6098
+        },
+        {
+            "name": "ADFP",
+            "url": "http://www.adfire.com/MSDS%20s/MSDS%20Firebarrier/AD_FIREBARRIER_Intumescent_Caulk_CAN_022613.pdf",
+            "id": 6097
+        },
+        {
+            "name": "Fyre",
+            "url": "http://www.tremcosealants.com/fileshare/msds/927974_323_U.pdf",
+            "id": 6096
+        },
+        {
+            "name": "Hilti",
+            "url": "https://www.us.hilti.com/medias/sys_master/documents/he2/9143657234462/Material_Safety_Data_Sheet_MSDS_for_FS-ONE_MAX_Intumescent_Firestop_Sealant_Documentation_ASSET_DOC_LOC_4085785.pdf",
+            "id": 6095
+        },
+        {
+            "name": "Boss 816",
+            "url": "http://www.accumetricinc.com/uplimg/boss/MSDS/816%20MSDS.pdf",
+            "id": 6094
+        },
+        {
+            "name": "Boss 814",
+            "url": "http://www.accumetricinc.com/uplimg/boss/MSDS/814%20MSDS.pdf",
+            "id": 6093
+        },
+        {
+            "name": "LCI",
+            "url": "http://files.systems.stifirestop.com/5.%20Safety%20Data%20Sheet/1.%20English/SDS_LCI%20Intumescent%20Sealant.pdf",
+            "id": 6092
+        },
+        {
+            "name": "SSS 2",
+            "url": "http://sti.fmpdata.net/ftp/datasheet/Canada/SSS_MSDS_CAN.pdf",
+            "id": 6091
+        },
+        {
+            "name": "SSS",
+            "url": "http://files.systems.stifirestop.com/5.%20Safety%20Data%20Sheet/1.%20English/SDS_SSS%20Intumescent%20Sealant.pdf",
+            "id": 6090
+        },
+        {
+            "name": "Tremstop",
+            "url": "http://www.tremcosealants.com/fileshare/msds/917860_323_U.pdf",
+            "id": 6089
+        },
+        {
+            "name": "3M CP-25WB",
+            "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xlY_9N8_U4v70k17zHvu9lxtD7SSSSSS--",
+            "id": 6088
+        },
+        {
+            "name": "3M 15WB",
+            "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00x4Y_Go8mBOv70k17zHvu9lxtD7SSSSSS--",
+            "id": 6087
+        },
+        {
+            "name": "DAP",
+            "url": "http://www.dap.com/docs/msds/00077365001_english.pdf",
+            "id": 6086
+        },
+        {
+            "name": "Everkem TDS",
+            "url": "http://www.everkemproducts.com/wp-content/uploads/2014/01/Firestop814+_Intumescent-Elastomeric-Firestopping-Sealant_Technical-Data-Sheet.pdf",
+            "id": 6085
+        },
+        {
+            "name": "Abesco",
+            "url": "http://usabesco.com/wp-content/uploads/2013/01/Abesco-CP310-FR-Acrylic-Intumescent-Caulk.pdf",
+            "id": 6084
+        }
+    ]
+}

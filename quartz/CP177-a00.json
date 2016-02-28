@@ -1,0 +1,691 @@
+{
+    "CPID": "CP177",
+    "timestamp": 1452102163384,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 1323,
+            "name": "Cellulose",
+            "CASRN": "9004-34-6",
+            "massPct": 0.02965159377,
+            "function": "fiber",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Cafco ES",
+                    "url": "http://isolatek.com/productinfo/SDS/SDS_CAFCO%20300%20Family_FINAL_032615.pdf",
+                    "id": 10067
+                },
+                {
+                    "name": "Pyrolite",
+                    "url": "http://msds.carboline.com/servlet/FeedFile/1/prod/0147/6AA00FACF4ABC650852573BF005D82AB/0147S7NL_2_USANSI.pdf",
+                    "id": 10064
+                },
+                {
+                    "name": "Cafco 300",
+                    "url": "http://isolatek.com/productinfo/SDS/SDS_CAFCO%20300%20Family_FINAL_032615.pdf",
+                    "id": 10063
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.02965159377
+        },
+        {
+            "recId": 10078,
+            "name": "Sodium Lauryl Sulfate",
+            "CASRN": "151-21-3",
+            "massPct": 0.002965159377,
+            "function": "air entraining agent",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Hilton Patent",
+                    "url": "https://patents.google.com/patent/US20040092614A1/en?q=cementitious+fireproofing&country=US&language=ENGLISH&after=19900101&clustered=false&page=1",
+                    "id": 10073
+                },
+                {
+                    "name": "Isolatek Patent",
+                    "url": "https://patents.google.com/patent/US6475275B1/en?q=gypsum&q=spray&q=fireproofing&assignee=isolatek",
+                    "id": 10072
+                },
+                {
+                    "name": "Grace Patent",
+                    "url": "https://patents.google.com/patent/US4904503A/en?q=gypsum&q=spray&q=fireproofing",
+                    "id": 10071
+                }
+            ],
+            "notes": "Not listed in any MSDS but review of patent literature indicates that an air entraining agent is required for appropriate application. This is a representative CASRN cited in patent literature. Other materials may be used.",
+            "lca": "yes",
+            "massPctOfTotal": 0.002965159377
+        },
+        {
+            "recId": 1202,
+            "name": "Vermiculite",
+            "CASRN": "1318-00-9",
+            "massPct": 0.2223869533,
+            "function": "aggregate",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Cafco ES",
+                    "url": "http://isolatek.com/productinfo/SDS/SDS_CAFCO%20300%20Family_FINAL_032615.pdf",
+                    "id": 10067
+                },
+                {
+                    "name": "SW 5GP",
+                    "url": "http://msds.carboline.com/servlet/FeedFile/1/prod/24AD/0C506C9F76AAF51C852575B30055BE40/24ADS1NL_2_USANSI.pdf",
+                    "id": 10065
+                },
+                {
+                    "name": "Pyrolite",
+                    "url": "http://msds.carboline.com/servlet/FeedFile/1/prod/0147/6AA00FACF4ABC650852573BF005D82AB/0147S7NL_2_USANSI.pdf",
+                    "id": 10064
+                },
+                {
+                    "name": "Cafco 300",
+                    "url": "http://isolatek.com/productinfo/SDS/SDS_CAFCO%20300%20Family_FINAL_032615.pdf",
+                    "id": 10063
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.2223869533
+        },
+        {
+            "recId": 3759,
+            "name": "Limestone",
+            "CASRN": "1317-65-3",
+            "massPct": 0.02965159377,
+            "function": "basic material, set retarder",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Cafco ES",
+                    "url": "http://isolatek.com/productinfo/SDS/SDS_CAFCO%20300%20Family_FINAL_032615.pdf",
+                    "id": 10067
+                },
+                {
+                    "name": "Pyrolite 15",
+                    "url": "http://msds.carboline.com/servlet/FeedFile/1/prod/0149/395CDCF1DDE43FB7852573BF005D80A1/0149S7NL_2_USANSI.pdf",
+                    "id": 10066
+                },
+                {
+                    "name": "SW 5GP",
+                    "url": "http://msds.carboline.com/servlet/FeedFile/1/prod/24AD/0C506C9F76AAF51C852575B30055BE40/24ADS1NL_2_USANSI.pdf",
+                    "id": 10065
+                },
+                {
+                    "name": "Cafco 300",
+                    "url": "http://isolatek.com/productinfo/SDS/SDS_CAFCO%20300%20Family_FINAL_032615.pdf",
+                    "id": 10063
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.02965159377
+        },
+        {
+            "recId": 926,
+            "name": "Quartz",
+            "CASRN": "14808-60-7",
+            "massPct": 0.009883864591,
+            "function": "filler, set retarder",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "SW 5GP PDS",
+                    "url": "http://msds.carboline.com/servlet/FeedFile/1/prod/24AD/8549/SOUTHWEST_TYPE_5GP_PDS-Fireproofing.pdf",
+                    "id": 10070
+                },
+                {
+                    "name": "Cafco ES",
+                    "url": "http://isolatek.com/productinfo/SDS/SDS_CAFCO%20300%20Family_FINAL_032615.pdf",
+                    "id": 10067
+                },
+                {
+                    "name": "Pyrolite",
+                    "url": "http://msds.carboline.com/servlet/FeedFile/1/prod/0147/6AA00FACF4ABC650852573BF005D82AB/0147S7NL_2_USANSI.pdf",
+                    "id": 10064
+                },
+                {
+                    "name": "Cafco 300",
+                    "url": "http://isolatek.com/productinfo/SDS/SDS_CAFCO%20300%20Family_FINAL_032615.pdf",
+                    "id": 10063
+                },
+                {
+                    "name": "Monokote G",
+                    "url": "https://grace.com/construction/en-us/Documents/SD3001J_-_Z-106G_(USGHS).pdf",
+                    "id": 10061
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.009883864591
+        },
+        {
+            "recId": 10077,
+            "name": "Plaster Of Paris",
+            "CASRN": "26499-65-0",
+            "massPct": 0.6918705214,
+            "function": "binder",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Cafco ES",
+                    "url": "http://isolatek.com/productinfo/SDS/SDS_CAFCO%20300%20Family_FINAL_032615.pdf",
+                    "id": 10067
+                },
+                {
+                    "name": "Pyrolite 15",
+                    "url": "http://msds.carboline.com/servlet/FeedFile/1/prod/0149/395CDCF1DDE43FB7852573BF005D80A1/0149S7NL_2_USANSI.pdf",
+                    "id": 10066
+                },
+                {
+                    "name": "SW 5GP",
+                    "url": "http://msds.carboline.com/servlet/FeedFile/1/prod/24AD/0C506C9F76AAF51C852575B30055BE40/24ADS1NL_2_USANSI.pdf",
+                    "id": 10065
+                },
+                {
+                    "name": "Pyrolite",
+                    "url": "http://msds.carboline.com/servlet/FeedFile/1/prod/0147/6AA00FACF4ABC650852573BF005D82AB/0147S7NL_2_USANSI.pdf",
+                    "id": 10064
+                },
+                {
+                    "name": "Cafco 300",
+                    "url": "http://isolatek.com/productinfo/SDS/SDS_CAFCO%20300%20Family_FINAL_032615.pdf",
+                    "id": 10063
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.6918705214
+        },
+        {
+            "recId": 5510,
+            "name": "Aluminum Sulfate",
+            "CASRN": "10043-01-3",
+            "massPct": 0.009883864591,
+            "function": "set accelerater",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Hilton Patent",
+                    "url": "https://patents.google.com/patent/US20040092614A1/en?q=cementitious+fireproofing&country=US&language=ENGLISH&after=19900101&clustered=false&page=1",
+                    "id": 10073
+                },
+                {
+                    "name": "Isolatek Patent",
+                    "url": "https://patents.google.com/patent/US6475275B1/en?q=gypsum&q=spray&q=fireproofing&assignee=isolatek",
+                    "id": 10072
+                },
+                {
+                    "name": "Grace Patent",
+                    "url": "https://patents.google.com/patent/US4904503A/en?q=gypsum&q=spray&q=fireproofing",
+                    "id": 10071
+                }
+            ],
+            "notes": "This CASRN is for a representative set retarder. There will be variation in the exact set retarder used between manufacturers. Not listed in any MSDS but review of patent literature indicates that a set accelerator is added to the slurry mix immediately before application. (Even so, patent literature gives this component as a wt % of the dry mix ingredients). This makes the slurry set faster on the substrate and helps it to form a better bond.",
+            "lca": "yes",
+            "massPctOfTotal": 0.009883864591
+        },
+        {
+            "recId": 10079,
+            "name": "Proteinaceous Material",
+            "CASRN": "unknown",
+            "massPct": 0.003706449222,
+            "function": "set retarder",
+            "hazards": {
+                "unknown": [
+                    {
+                        "hazardId": "unknown-11424",
+                        "type": "unknown",
+                        "name": "Unknown",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Hilton Patent",
+                    "url": "https://patents.google.com/patent/US20040092614A1/en?q=cementitious+fireproofing&country=US&language=ENGLISH&after=19900101&clustered=false&page=1",
+                    "id": 10073
+                },
+                {
+                    "name": "Isolatek Patent",
+                    "url": "https://patents.google.com/patent/US6475275B1/en?q=gypsum&q=spray&q=fireproofing&assignee=isolatek",
+                    "id": 10072
+                },
+                {
+                    "name": "Grace Patent",
+                    "url": "https://patents.google.com/patent/US4904503A/en?q=gypsum&q=spray&q=fireproofing",
+                    "id": 10071
+                }
+            ],
+            "notes": "Not listed in any MSDS but review of patent literature indicates that proteinaceous material is a key component of the set retarder is needed to keep the spray from setting in the pump during application. Other components in the set retarder include calcium carbonate and quartz which were included in MSDS. Some examples of proteinaceous material listed in the patents include calcium acetate, gelatin, glue, and ground horse hooves, but no representative materials were singled out.",
+            "lca": "yes",
+            "massPctOfTotal": 0.003706449222
+        }
+    ],
+    "impurities": [
+        {
+            "name": null,
+            "CASRN": null,
+            "massPct": 0,
+            "function": null,
+            "sources": [],
+            "hazards": {}
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.009883864591,
+                    "contributors": [
+                        {
+                            "recId": 926,
+                            "massPct": 0.009883864591,
+                            "childrenIds": [
+                                926
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.009883864591,
+                    "contributors": [
+                        {
+                            "recId": 926,
+                            "massPct": 0.009883864591,
+                            "childrenIds": [
+                                926
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.009883864591,
+                    "contributors": [
+                        {
+                            "recId": 5510,
+                            "massPct": 0.009883864591,
+                            "childrenIds": [
+                                5510
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-567",
+                    "type": "red",
+                    "name": "Cancer",
+                    "massPct": 0.009883864591,
+                    "contributors": [
+                        {
+                            "recId": 926,
+                            "massPct": 0.009883864591,
+                            "childrenIds": [
+                                926
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "unknown": [
+                {
+                    "hazardId": "unknown-11424",
+                    "type": "unknown",
+                    "name": "Unknown",
+                    "massPct": 0.003706449222,
+                    "contributors": [
+                        {
+                            "recId": 10079,
+                            "massPct": 0.003706449222,
+                            "childrenIds": [
+                                10079
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundary is defined as cradle-to-gate and ends with the finished product at the factory gate. Manfacturing includes the mixing of fireproofing materials. Upstream data includes chemicals and energy production. Inbound transportation of upstream materials is included. Packaging is excluded. ",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "EU-27: Quartz sand (extraction and processing)"
+            },
+            {
+                "name": "US: Lubricants at refinery"
+            },
+            {
+                "name": "US: Limestone flour (1µm)"
+            },
+            {
+                "name": "US: Whey protein concentrate (powder)"
+            },
+            {
+                "name": "US: Aluminium sulphate (estimation)"
+            },
+            {
+                "name": "DE: Dodecanoic acid (Lauric acid)"
+            },
+            {
+                "name": "US: Cellulose production"
+            },
+            {
+                "name": "US: Vermiculite"
+            },
+            {
+                "name": "US: Municipal Solid Waste Incineration"
+            },
+            {
+                "name": "US: Landfilling of glass/inert"
+            },
+            {
+                "name": "US: Thermal energy from natural gas (eGrid)"
+            },
+            {
+                "name": "US: Thermal energy from light fuel oil (LFO) (eGrid)"
+            },
+            {
+                "name": "DE: Gypsum (FGD) from hard coal power plant"
+            },
+            {
+                "name": "DE: Gypsum (CaSO4) beta-hemihydrate"
+            },
+            {
+                "name": "US: Gypsum interior plaster (gypsum) 1kg (estimation)"
+            },
+            {
+                "name": "US: Diesel mix at refinery"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "GLO: Diesel combustion construction machine (50 ppm S) XX-02"
+            },
+            {
+                "name": "RER: Explosives (ANFO)"
+            },
+            {
+                "name": "DE: Gypsum rock (CaSO42H2O) dihydrate open pit mining"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0% post-consumer recycled content",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% to landfill ",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "1.88E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.96E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "3.98E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "6.34E-11"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "4.22E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "9.58E+00"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "2.32E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.34E-05"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.98E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.13E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "4.71E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.19E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP177",
+    "name": "Gypsum Spray Fireproofing",
+    "altNames": [
+        "Wet mix spray-applied fire resistive material (SFRM)",
+        "cementitious fireproofing"
+    ],
+    "uniformats": [
+        {
+            "id": "C1010",
+            "name": "Interior Partitions"
+        },
+        {
+            "id": "B1020",
+            "name": "Roof Construction"
+        },
+        {
+            "id": "B1010",
+            "name": "Floor Construction"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "07-81-00",
+            "name": "Applied Fireproofing"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Gypsum spray fireproofing is applied to structural steel beams, columns, joists, and floor and roof decking to insulate it from high heat produced during a fire and to prevent (or delay) the loss of structural integrity.  It is sold in dry mix bags which are then mixed together on site with potable water and sprayed onto un-primed steel. The wet mix density and spray rate must be carefully controlled so that a minimum dry density of 15 pcf (240 kg/m3) is achieved. Gypsum spray fireproofing is applied after all construction work on the application area is completed in order to limit disturbance to the set material. However, ducts, piping, and conduit must be installed after fireproofing has been completed.",
+    "sources": [
+        {
+            "name": "Antoine",
+            "url": "http://antoine.frostburg.edu/chem/senese/javascript/water-density.html",
+            "id": 10076
+        },
+        {
+            "name": "Cafco ES PDS",
+            "url": "http://isolatek.com/productinfo/TDS/CAFCO%20300%20ES_C-TDS_08-15.pdf",
+            "id": 10075
+        },
+        {
+            "name": "Goldbond",
+            "url": "http://nationalgypsumtest.com/products/..%5CFile%5Cmsds01305.pdf",
+            "id": 10074
+        },
+        {
+            "name": "Hilton Patent",
+            "url": "https://patents.google.com/patent/US20040092614A1/en?q=cementitious+fireproofing&country=US&language=ENGLISH&after=19900101&clustered=false&page=1",
+            "id": 10073
+        },
+        {
+            "name": "Isolatek Patent",
+            "url": "https://patents.google.com/patent/US6475275B1/en?q=gypsum&q=spray&q=fireproofing&assignee=isolatek",
+            "id": 10072
+        },
+        {
+            "name": "Grace Patent",
+            "url": "https://patents.google.com/patent/US4904503A/en?q=gypsum&q=spray&q=fireproofing",
+            "id": 10071
+        },
+        {
+            "name": "SW 5GP PDS",
+            "url": "http://msds.carboline.com/servlet/FeedFile/1/prod/24AD/8549/SOUTHWEST_TYPE_5GP_PDS-Fireproofing.pdf",
+            "id": 10070
+        },
+        {
+            "name": "Pyrolite PDS",
+            "url": "http://msds.carboline.com/servlet/FeedFile/1/prod/0147/9605/Pyrolite_22_PDS-Fireproofing.pdf",
+            "id": 10069
+        },
+        {
+            "name": "Pyrolite 15 PDS",
+            "url": "http://msds.carboline.com/servlet/FeedFile/1/prod/0149/9604/Pyrolite_15_PDS-Fireproofing.pdf",
+            "id": 10068
+        },
+        {
+            "name": "Cafco ES",
+            "url": "http://isolatek.com/productinfo/SDS/SDS_CAFCO%20300%20Family_FINAL_032615.pdf",
+            "id": 10067
+        },
+        {
+            "name": "Pyrolite 15",
+            "url": "http://msds.carboline.com/servlet/FeedFile/1/prod/0149/395CDCF1DDE43FB7852573BF005D80A1/0149S7NL_2_USANSI.pdf",
+            "id": 10066
+        },
+        {
+            "name": "SW 5GP",
+            "url": "http://msds.carboline.com/servlet/FeedFile/1/prod/24AD/0C506C9F76AAF51C852575B30055BE40/24ADS1NL_2_USANSI.pdf",
+            "id": 10065
+        },
+        {
+            "name": "Pyrolite",
+            "url": "http://msds.carboline.com/servlet/FeedFile/1/prod/0147/6AA00FACF4ABC650852573BF005D82AB/0147S7NL_2_USANSI.pdf",
+            "id": 10064
+        },
+        {
+            "name": "Cafco 300",
+            "url": "http://isolatek.com/productinfo/SDS/SDS_CAFCO%20300%20Family_FINAL_032615.pdf",
+            "id": 10063
+        },
+        {
+            "name": "Monokote G TDS",
+            "url": "https://grace.com/construction/en-us/Documents/Z106-19E-106-G.pdf",
+            "id": 10062
+        },
+        {
+            "name": "Monokote G",
+            "url": "https://grace.com/construction/en-us/Documents/SD3001J_-_Z-106G_(USGHS).pdf",
+            "id": 10061
+        }
+    ]
+}

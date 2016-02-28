@@ -1,0 +1,883 @@
+{
+    "CPID": "CP053",
+    "timestamp": 1452102112018,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 4806,
+            "name": "Kaolin",
+            "CASRN": "1332-58-7",
+            "massPct": 0.01065416578,
+            "function": "filler",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Federal",
+                    "url": "http://pcs.federalmogul.com/MSDSSheets/Ethylene_Propylene_Diene_Monomer_EPDM_Rubber3b3b2823-108a-4d3a-bf18-d71a6582c4fb.pdf",
+                    "id": 4781
+                },
+                {
+                    "name": "Specialty",
+                    "url": "http://specialtygaskets.com/files/msds-epdm-rubber.pdf",
+                    "id": 4789
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.01065416578
+        },
+        {
+            "recId": 4804,
+            "name": "Butyl Zimate",
+            "CASRN": "136-23-2",
+            "massPct": 0.006925207756,
+            "function": "accelerator",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "EPA",
+                    "url": "http://www.epa.gov/HPV/pubs/summaries/zincdibu/c14257tp.pdf",
+                    "id": 4792
+                },
+                {
+                    "name": "Chung",
+                    "url": "https://www.google.com/patents/US20040092646?dq=extruded+epdm+composition&ei=Yr1cVaCSHoWFyQSmlIOICA",
+                    "id": 4788
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.006925207756
+        },
+        {
+            "recId": 1530,
+            "name": "Carbon Black",
+            "CASRN": "1333-86-4",
+            "massPct": 0.4368207969,
+            "function": "filler, pigment",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Nok",
+                    "url": "https://www.google.com/patents/US20090088522?dq=epdm+gasket+composition&hl=en&sa=X&ei=xrtcVZHWE4KksAXYvYH4Dw&ved=0CDMQ6AEwAw",
+                    "id": 4787
+                },
+                {
+                    "name": "Specialty",
+                    "url": "http://specialtygaskets.com/files/msds-epdm-rubber.pdf",
+                    "id": 4789
+                },
+                {
+                    "name": "Federal",
+                    "url": "http://pcs.federalmogul.com/MSDSSheets/Ethylene_Propylene_Diene_Monomer_EPDM_Rubber3b3b2823-108a-4d3a-bf18-d71a6582c4fb.pdf",
+                    "id": 4781
+                },
+                {
+                    "name": "Chung",
+                    "url": "https://www.google.com/patents/US20040092646?dq=extruded+epdm+composition&ei=Yr1cVaCSHoWFyQSmlIOICA",
+                    "id": 4788
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.4368207969
+        },
+        {
+            "recId": 2798,
+            "name": "Zinc Oxide",
+            "CASRN": "1314-13-2",
+            "massPct": 0.01278499893,
+            "function": "accelerator",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Nok",
+                    "url": "https://www.google.com/patents/US20090088522?dq=epdm+gasket+composition&hl=en&sa=X&ei=xrtcVZHWE4KksAXYvYH4Dw&ved=0CDMQ6AEwAw",
+                    "id": 4787
+                },
+                {
+                    "name": "D4817",
+                    "url": "http://www.astm.org/Standards/D4817.htm",
+                    "id": 4791
+                },
+                {
+                    "name": "Chung",
+                    "url": "https://www.google.com/patents/US20040092646?dq=extruded+epdm+composition&ei=Yr1cVaCSHoWFyQSmlIOICA",
+                    "id": 4788
+                },
+                {
+                    "name": "Federal",
+                    "url": "http://pcs.federalmogul.com/MSDSSheets/Ethylene_Propylene_Diene_Monomer_EPDM_Rubber3b3b2823-108a-4d3a-bf18-d71a6582c4fb.pdf",
+                    "id": 4781
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.01278499893
+        },
+        {
+            "recId": 6613,
+            "name": "Stearic Acid",
+            "CASRN": "57-11-4",
+            "massPct": 0.002556999787,
+            "function": "vulcanizing agent",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "D4817",
+                    "url": "http://www.astm.org/Standards/D4817.htm",
+                    "id": 4791
+                },
+                {
+                    "name": "Chung",
+                    "url": "https://www.google.com/patents/US20040092646?dq=extruded+epdm+composition&ei=Yr1cVaCSHoWFyQSmlIOICA",
+                    "id": 4788
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.002556999787
+        },
+        {
+            "recId": 4805,
+            "name": "Paraffin Oil",
+            "CASRN": "8012-95-1",
+            "massPct": 0.2732793522,
+            "function": "plasticizer",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Nok",
+                    "url": "https://www.google.com/patents/US20090088522?dq=epdm+gasket+composition&hl=en&sa=X&ei=xrtcVZHWE4KksAXYvYH4Dw&ved=0CDMQ6AEwAw",
+                    "id": 4787
+                },
+                {
+                    "name": "Chung",
+                    "url": "https://www.google.com/patents/US20040092646?dq=extruded+epdm+composition&ei=Yr1cVaCSHoWFyQSmlIOICA",
+                    "id": 4788
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.2732793522
+        },
+        {
+            "recId": 4802,
+            "name": "Ethylene-ethylidenenorbomene-propylene terpolymer",
+            "CASRN": "25038-36-2",
+            "massPct": 0.2569784786,
+            "function": "polymer",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Nok",
+                    "url": "https://www.google.com/patents/US20090088522?dq=epdm+gasket+composition&hl=en&sa=X&ei=xrtcVZHWE4KksAXYvYH4Dw&ved=0CDMQ6AEwAw",
+                    "id": 4787
+                },
+                {
+                    "name": "Chung",
+                    "url": "https://www.google.com/patents/US20040092646?dq=extruded+epdm+composition&ei=Yr1cVaCSHoWFyQSmlIOICA",
+                    "id": 4788
+                },
+                {
+                    "name": "Federal",
+                    "url": "http://pcs.federalmogul.com/MSDSSheets/Ethylene_Propylene_Diene_Monomer_EPDM_Rubber3b3b2823-108a-4d3a-bf18-d71a6582c4fb.pdf",
+                    "id": 4781
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.2569784786
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Polycyclic Aromatic Hydrocarbons",
+            "CASRN": "130498-29-2",
+            "massPct": 0.000087364,
+            "function": "carbon black residual",
+            "sources": [
+                {
+                    "name": "Appendix B",
+                    "url": "http://www.epa.gov/ttn/atw/112c6/app_b.pdf",
+                    "id": 4540
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Anatase Titanium Dioxide",
+            "CASRN": "1317-70-0",
+            "massPct": null,
+            "function": "kaolin clay residual",
+            "sources": [
+                {
+                    "name": "Kogel 2006",
+                    "url": "https://books.google.com/books?id=zNicdkuulE4C&pg=PA558&dq=kaolin+and+its+uses&hl=en&sa=X&ved=0CDkQ6AEwBWoVChMIuv3urd7vxwIVxBU-Ch3_qQuo#v=onepage&q=kaolin&f=false",
+                    "id": 8451
+                },
+                {
+                    "name": "Murray",
+                    "url": "https://books.google.com/books?id=zOsFafN36swC&pg=PA102&dq=kaolin+and+its+uses&hl=en&sa=X&ved=0CDMQ6AEwBGoVChMIuv3urd7vxwIVxBU-Ch3_qQuo#v=onepage&q=kaolin%20and%20its%20uses&f=false",
+                    "id": 8452
+                },
+                {
+                    "name": "Kogel 2009",
+                    "url": "http://ir.nmu.org.ua/bitstream/handle/123456789/144177/b468c8181927c36065977d15a07ad382.pdf?sequence=1",
+                    "id": 8450
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Quartz",
+            "CASRN": "14808-60-7",
+            "massPct": 0.0001065416578,
+            "function": "kaolin clay residual",
+            "sources": [
+                {
+                    "name": "Burgess",
+                    "url": "http://www.burgesspigment.com/burgesswebsite.nsf/MSDS%20Hydrous.pdf",
+                    "id": 6589
+                },
+                {
+                    "name": "Edgar",
+                    "url": "http://www.lagunaclay.com/msds/pdf/3rawmat/adry/mkaoepk.pdf",
+                    "id": 6588
+                },
+                {
+                    "name": "Vanderbilt",
+                    "url": "http://www.vanderbiltchemicals.com/ee_content/documents/msds/can/08903.pdf",
+                    "id": 6586
+                },
+                {
+                    "name": "Clayton",
+                    "url": "http://www.clayton.edu/portals/690/chemistry/inventory/MSDS%20Kaolin.pdf",
+                    "id": 6587
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ferric Oxide",
+            "CASRN": "1309-37-1",
+            "massPct": null,
+            "function": "koalin clay residual",
+            "sources": [
+                {
+                    "name": "Kogel 2006",
+                    "url": "https://books.google.com/books?id=zNicdkuulE4C&pg=PA558&dq=kaolin+and+its+uses&hl=en&sa=X&ved=0CDkQ6AEwBWoVChMIuv3urd7vxwIVxBU-Ch3_qQuo#v=onepage&q=kaolin&f=false",
+                    "id": 8451
+                },
+                {
+                    "name": "Kogel 2009",
+                    "url": "http://ir.nmu.org.ua/bitstream/handle/123456789/144177/b468c8181927c36065977d15a07ad382.pdf?sequence=1",
+                    "id": 8450
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-567",
+                    "type": "orange",
+                    "name": "Cancer",
+                    "massPct": 0.01065416578,
+                    "contributors": [
+                        {
+                            "recId": 4806,
+                            "massPct": 0.01065416578,
+                            "childrenIds": [
+                                4806
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.72288514803,
+                    "contributors": [
+                        {
+                            "recId": 1530,
+                            "massPct": 0.4368207969,
+                            "childrenIds": [
+                                1530
+                            ]
+                        },
+                        {
+                            "recId": 2798,
+                            "massPct": 0.01278499893,
+                            "childrenIds": [
+                                2798
+                            ]
+                        },
+                        {
+                            "recId": 4805,
+                            "massPct": 0.2732793522,
+                            "childrenIds": [
+                                4805
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.01278499893,
+                    "contributors": [
+                        {
+                            "recId": 2798,
+                            "massPct": 0.01278499893,
+                            "childrenIds": [
+                                2798
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-569",
+                    "type": "orange",
+                    "name": "Reproductive",
+                    "massPct": 0.01278499893,
+                    "contributors": [
+                        {
+                            "recId": 2798,
+                            "massPct": 0.01278499893,
+                            "childrenIds": [
+                                2798
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-571",
+                    "type": "orange",
+                    "name": "Mutagenicity",
+                    "massPct": 0.2732793522,
+                    "contributors": [
+                        {
+                            "recId": 4805,
+                            "massPct": 0.2732793522,
+                            "childrenIds": [
+                                4805
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.4368207969,
+                    "contributors": [
+                        {
+                            "recId": 1530,
+                            "massPct": 0.4368207969,
+                            "childrenIds": [
+                                1530
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-567",
+                    "type": "red",
+                    "name": "Cancer",
+                    "massPct": 0.2732793522,
+                    "contributors": [
+                        {
+                            "recId": 4805,
+                            "massPct": 0.2732793522,
+                            "childrenIds": [
+                                4805
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "Includes all cradle-to-gate data, including raw materials extraction, energy production, transportation of ingredients to the mixing plant, and manufacturing energy. Packaging is excluded.  ",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "US: Lubricants at refinery"
+            },
+            {
+                "name": "US: Ethylen Propylen Dien Elastomer (EPDM)"
+            },
+            {
+                "name": "US: Water deionized"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "GLO: Compressed air 7 bar (medium power consumption)"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% to landfill",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "1.11E-02"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "6.15E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "5.74E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "6.74E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.80E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "1.32E+02"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "7.23E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "2.68E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.98E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.13E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "6.51E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.19E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP053",
+    "name": "Curtain wall seals - Rubber (ethylene propylene diene monomer) gasket",
+    "altNames": [
+        "EPDM Curtainwall Gaskets"
+    ],
+    "uniformats": [
+        {
+            "id": "B2010",
+            "name": "Exterior Walls"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "07-91-16",
+            "name": "Joint gaskets"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Ethylene/propylene/diene terpolymer (EPDM) is frequently used to make curtainwall gaskets, which form a seal between the window portion of a curtainwall and the aluminum frame. This gasket is not adhered to the glass or the framing in order to allow for shifts and expansions due to temperature change. The seal between the glass and frame is therefore not water-tight, and curtainwall frames and gaskets can be designed in various shapes and/or include draining holes to properly direct rain water and prevent water damage to interiors.",
+    "sources": [
+        {
+            "name": "Appendix B",
+            "url": "http://www.epa.gov/ttn/atw/112c6/app_b.pdf",
+            "id": 4540
+        },
+        {
+            "name": "Murray",
+            "url": "https://books.google.com/books?id=zOsFafN36swC&pg=PA102&dq=kaolin+and+its+uses&hl=en&sa=X&ved=0CDMQ6AEwBGoVChMIuv3urd7vxwIVxBU-Ch3_qQuo#v=onepage&q=kaolin%20and%20its%20uses&f=false",
+            "id": 8452
+        },
+        {
+            "name": "Kogel 2009",
+            "url": "http://ir.nmu.org.ua/bitstream/handle/123456789/144177/b468c8181927c36065977d15a07ad382.pdf?sequence=1",
+            "id": 8450
+        },
+        {
+            "name": "Kogel 2006",
+            "url": "https://books.google.com/books?id=zNicdkuulE4C&pg=PA558&dq=kaolin+and+its+uses&hl=en&sa=X&ved=0CDkQ6AEwBWoVChMIuv3urd7vxwIVxBU-Ch3_qQuo#v=onepage&q=kaolin&f=false",
+            "id": 8451
+        },
+        {
+            "name": "Burgess",
+            "url": "http://www.burgesspigment.com/burgesswebsite.nsf/MSDS%20Hydrous.pdf",
+            "id": 6589
+        },
+        {
+            "name": "Edgar",
+            "url": "http://www.lagunaclay.com/msds/pdf/3rawmat/adry/mkaoepk.pdf",
+            "id": 6588
+        },
+        {
+            "name": "Vanderbilt",
+            "url": "http://www.vanderbiltchemicals.com/ee_content/documents/msds/can/08903.pdf",
+            "id": 6586
+        },
+        {
+            "name": "Clayton",
+            "url": "http://www.clayton.edu/portals/690/chemistry/inventory/MSDS%20Kaolin.pdf",
+            "id": 6587
+        },
+        {
+            "name": "Kogel",
+            "url": "books.google.com/books?id=zNicdkuulE4C&lpg=PA894&pg=PA871#v=onepage&q&f=false ",
+            "id": 6585
+        },
+        {
+            "name": "Canada",
+            "url": "http://www.tboake.com/guides/curtain.pdf",
+            "id": 4801
+        },
+        {
+            "name": "Cure package",
+            "url": "http://www.britannica.com/EBchecked/topic/511800/rubber/289657/Additives",
+            "id": 4796
+        },
+        {
+            "name": "EPDM",
+            "url": "http://www.kgk-rubberpoint.de/ai/resources/607fcf1f86d.pdf",
+            "id": 4795
+        },
+        {
+            "name": "EPA",
+            "url": "http://www.epa.gov/HPV/pubs/summaries/zincdibu/c14257tp.pdf",
+            "id": 4792
+        },
+        {
+            "name": "D4817",
+            "url": "http://www.astm.org/Standards/D4817.htm",
+            "id": 4791
+        },
+        {
+            "name": "Tremco",
+            "url": "https://www.tremcosealants.com/fileshare/msds/0020643E7Z_U.PDF",
+            "id": 4790
+        },
+        {
+            "name": "Specialty",
+            "url": "http://specialtygaskets.com/files/msds-epdm-rubber.pdf",
+            "id": 4789
+        },
+        {
+            "name": "Chung",
+            "url": "https://www.google.com/patents/US20040092646?dq=extruded+epdm+composition&ei=Yr1cVaCSHoWFyQSmlIOICA",
+            "id": 4788
+        },
+        {
+            "name": "Nok",
+            "url": "https://www.google.com/patents/US20090088522?dq=epdm+gasket+composition&hl=en&sa=X&ei=xrtcVZHWE4KksAXYvYH4Dw&ved=0CDMQ6AEwAw",
+            "id": 4787
+        },
+        {
+            "name": "Santoprene MSDS",
+            "url": "http://www1.mscdirect.com/MSDS/MSDS00010/74204082-20110702.PDF",
+            "id": 4786
+        },
+        {
+            "name": "Santoprene web",
+            "url": "http://www.exxonmobilchemical.com/Chem-English/brands/santoprene-thermoplastic-vulcanizate-tpv.aspx?ln=productsservices",
+            "id": 4785
+        },
+        {
+            "name": "Robertson 2",
+            "url": "https://www.google.com/patents/US5253459?dq=curtain+wall+gasket+composition&hl=en&sa=X&ei=U7lcVa-jIMSHsAXrxYOYDw&ved=0CFkQ6AEwCA",
+            "id": 4784
+        },
+        {
+            "name": "Hydro",
+            "url": "https://www.google.com/patents/EP1170455B1?cl=en&dq=curtain+wall+gasket+composition+epdm&hl=en&sa=X&ei=eLdcVfOnIcrvtQXF0IFA&ved=0CEQQ6AEwBA",
+            "id": 4783
+        },
+        {
+            "name": "Ting",
+            "url": "https://www.google.com/patents/WO1994021880A1?cl=en&dq=curtain+wall+gasket+composition&hl=en&sa=X&ei=D7NcVbWHNMffsAXG0oA4&ved=0CEUQ6AEwBQ",
+            "id": 4782
+        },
+        {
+            "name": "Federal",
+            "url": "http://pcs.federalmogul.com/MSDSSheets/Ethylene_Propylene_Diene_Monomer_EPDM_Rubber3b3b2823-108a-4d3a-bf18-d71a6582c4fb.pdf",
+            "id": 4781
+        },
+        {
+            "name": "Carlisle",
+            "url": "https://www.carlisleccw.com/download.aspx?id=2559",
+            "id": 4780
+        },
+        {
+            "name": "Brown",
+            "url": "https://www.google.com/patents/US3722161?dq=curtain+wall+gasket+composition&hl=en&sa=X&ei=D7NcVbWHNMffsAXG0oA4&ved=0CCcQ6AEwAQ",
+            "id": 4779
+        },
+        {
+            "name": "Robertson",
+            "url": "https://www.google.com/patents/EP0399778A1?cl=en&dq=curtain+wall+gasket+composition&hl=en&sa=X&ei=D7NcVbWHNMffsAXG0oA4&ved=0CD4Q6AEwBA",
+            "id": 4778
+        },
+        {
+            "name": "Chriswell",
+            "url": "https://www.google.com/patents/US3841045?dq=curtain+wall+gasket&hl=en&sa=X&ei=7a9cVaDwIIjQtQXjj4C4Bg&ved=0CCQQ6AEwAQ",
+            "id": 4777
+        },
+        {
+            "name": "Smith",
+            "url": "http://www.rci-online.org/interface/2000-11-smith.pdf",
+            "id": 4776
+        },
+        {
+            "name": "Pittsburgh",
+            "url": "https://www.google.com/patents/US3336707?dq=curtain+wall+gasket&hl=en&sa=X&ei=7a9cVaDwIIjQtQXjj4C4Bg&ved=0CB0Q6AEwAA",
+            "id": 4775
+        },
+        {
+            "name": "WBDG",
+            "url": "http://www.wbdg.org/design/env_fenestration_cw.php",
+            "id": 4774
+        },
+        {
+            "name": "Reed Catalog",
+            "url": "http://www.reedrubberproducts.com/cmss_files/attachmentlibrary/January-2015-Glazing-Catalog-Rev.pdf",
+            "id": 4773
+        },
+        {
+            "name": "DaPro",
+            "url": "http://www.daprorubber.com/EPDM.aspx",
+            "id": 4772
+        }
+    ]
+}

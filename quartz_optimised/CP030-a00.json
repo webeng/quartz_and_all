@@ -1,0 +1,1468 @@
+{
+    "CPID": "CP030",
+    "timestamp": 1452102102667,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 5465,
+            "name": "Stoddard Solvent",
+            "CASRN": "8052-41-3",
+            "massPct": 0.03789473684,
+            "function": "solvent",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Ultra-Shield",
+                    "url": "http://www.gmxwaterproofing.com/files/waterproofing/UltraShield-AG_SDS-1213.pdf",
+                    "id": 6964
+                },
+                {
+                    "name": "Aero-Block",
+                    "url": "http://www.garlandco.com/products/msds/AeroBlockWB_1300_MSDS.pdf",
+                    "id": 6959
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.03789473684
+        },
+        {
+            "recId": 1106,
+            "name": "Water",
+            "CASRN": "7732-18-5",
+            "massPct": 0.3221052632,
+            "function": "solvent",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "AirGuard TDS",
+                    "url": "http://www.appliedtechnologies.com/files/pdf/AirGuard%200727%20Spec%20Sheet.pdf",
+                    "id": 6965
+                },
+                {
+                    "name": "Ultra-Shield",
+                    "url": "http://www.gmxwaterproofing.com/files/waterproofing/UltraShield-AG_SDS-1213.pdf",
+                    "id": 6964
+                },
+                {
+                    "name": "ExoAir",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/584100_855_U.pdf",
+                    "id": 6963
+                },
+                {
+                    "name": "Air-Bloc HPD",
+                    "url": "http://us.henry.com/fileadmin/pdf/literature/hpd/AIR-BLOC%2006WB.pdf",
+                    "id": 6961
+                },
+                {
+                    "name": "Aero-Block web",
+                    "url": "http://www.garlandco.com/products/air-barriers/aero-block-wb-sb.html",
+                    "id": 6960
+                },
+                {
+                    "name": "Barriseal TDS",
+                    "url": "http://www.carlisleccw.com/?page=view&mode=media&contentID=2762",
+                    "id": 6958
+                },
+                {
+                    "name": "Air-Shield web",
+                    "url": "http://www.wrmeadows.com/air-shield-lm-air-vapor-liquid-moisture-barrier/",
+                    "id": 6956
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.3221052632
+        },
+        {
+            "recId": 6979,
+            "name": "Petroleum Asphalt",
+            "CASRN": "8052-42-4",
+            "massPct": 0.4905109489,
+            "function": "waterproofing",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "AirGuard TDS",
+                    "url": "http://www.appliedtechnologies.com/files/pdf/AirGuard%200727%20Spec%20Sheet.pdf",
+                    "id": 6965
+                },
+                {
+                    "name": "Ultra-Shield",
+                    "url": "http://www.gmxwaterproofing.com/files/waterproofing/UltraShield-AG_SDS-1213.pdf",
+                    "id": 6964
+                },
+                {
+                    "name": "ExoAir",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/584100_855_U.pdf",
+                    "id": 6963
+                },
+                {
+                    "name": "Air-Bloc HPD",
+                    "url": "http://us.henry.com/fileadmin/pdf/literature/hpd/AIR-BLOC%2006WB.pdf",
+                    "id": 6961
+                },
+                {
+                    "name": "Aero-Block",
+                    "url": "http://www.garlandco.com/products/msds/AeroBlockWB_1300_MSDS.pdf",
+                    "id": 6959
+                },
+                {
+                    "name": "Barriseal",
+                    "url": "http://www.carlisleccw.com/?page=view&mode=media&contentID=2360",
+                    "id": 6957
+                },
+                {
+                    "name": "Air-Shield",
+                    "url": "http://www.wrmeadows.com/MSDS-PDF/6388000-4.pdf",
+                    "id": 6955
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.4905109489
+        },
+        {
+            "recId": 6981,
+            "name": "Tetrasodium Pyrophosphate",
+            "CASRN": "7722-88-5",
+            "massPct": 0.009343065693,
+            "function": "surfactant",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Overview",
+                    "url": "http://onlinepubs.trb.org/onlinepubs/circulars/ec102.pdf",
+                    "id": 6966
+                },
+                {
+                    "name": "Barriseal",
+                    "url": "http://www.carlisleccw.com/?page=view&mode=media&contentID=2360",
+                    "id": 6957
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.009343065693
+        },
+        {
+            "recId": 6980,
+            "name": "Styrene Butadiene Copolymer",
+            "CASRN": "9003-55-8",
+            "massPct": 0.1401459854,
+            "function": "elastomer",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Ultra-Shield",
+                    "url": "http://www.gmxwaterproofing.com/files/waterproofing/UltraShield-AG_SDS-1213.pdf",
+                    "id": 6964
+                },
+                {
+                    "name": "ExoAir",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/584100_855_U.pdf",
+                    "id": 6963
+                },
+                {
+                    "name": "Air-Bloc",
+                    "url": "http://us.henry.com/fileadmin/pdf/current/msds/HE06AB_msds.pdf",
+                    "id": 6962
+                },
+                {
+                    "name": "Barriseal",
+                    "url": "http://www.carlisleccw.com/?page=view&mode=media&contentID=2360",
+                    "id": 6957
+                }
+            ],
+            "notes": "SBR",
+            "lca": "yes",
+            "massPctOfTotal": 0.1401459854
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Tri-Phenylene",
+            "CASRN": "217-59-4",
+            "massPct": 0.000001594160584,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "EPA",
+                    "url": "http://nepis.epa.gov/Exe/ZyNET.exe/9100RXZK.txt?ZyActionD=ZyDocument&Client=EPA&Index=1976%20Thru%201980&Docs=&Query=%28benzo%29%20OR%20FNAME%3D%229100RXZK.txt%22%20AND%20FNAME%3D%229100RXZK.txt%22&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C76THRU80%5CTXT%5C00000018%5C9100RXZK.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=19&SeekPage=f",
+                    "id": 6484
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Benzo[a]-anthracene",
+            "CASRN": "56-55-3",
+            "massPct": 3.26189781e-7,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "Barksdale",
+                    "url": "http://onlinepubs.trb.org/onlinepubs/shrp/SHRP-A-650.pdf",
+                    "id": 7029
+                },
+                {
+                    "name": "EPA",
+                    "url": "http://nepis.epa.gov/Exe/ZyNET.exe/9100RXZK.txt?ZyActionD=ZyDocument&Client=EPA&Index=1976%20Thru%201980&Docs=&Query=%28benzo%29%20OR%20FNAME%3D%229100RXZK.txt%22%20AND%20FNAME%3D%229100RXZK.txt%22&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C76THRU80%5CTXT%5C00000018%5C9100RXZK.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=19&SeekPage=f",
+                    "id": 6484
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Phenanthrene",
+            "CASRN": "85-01-8",
+            "massPct": 0.000001128175182,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "NIH",
+                    "url": "http://www.ncbi.nlm.nih.gov/books/NBK294237/?report=printable",
+                    "id": 7032
+                },
+                {
+                    "name": "Barksdale",
+                    "url": "http://onlinepubs.trb.org/onlinepubs/shrp/SHRP-A-650.pdf",
+                    "id": 7029
+                },
+                {
+                    "name": "EPA",
+                    "url": "http://nepis.epa.gov/Exe/ZyNET.exe/9100RXZK.txt?ZyActionD=ZyDocument&Client=EPA&Index=1976%20Thru%201980&Docs=&Query=%28benzo%29%20OR%20FNAME%3D%229100RXZK.txt%22%20AND%20FNAME%3D%229100RXZK.txt%22&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C76THRU80%5CTXT%5C00000018%5C9100RXZK.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=19&SeekPage=f",
+                    "id": 6484
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Dibenzanthracenes",
+            "CASRN": "various",
+            "massPct": 8.093430657e-7,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Fluorene",
+            "CASRN": "86-73-7",
+            "massPct": 1.962043796e-7,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Styrene",
+            "CASRN": "100-42-5",
+            "massPct": 0.0001541605839,
+            "function": "sbr residual",
+            "sources": [
+                {
+                    "name": "Rovene 4002",
+                    "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=fda58407a3234db6a2e025ee7d6e89b3",
+                    "id": 7055
+                },
+                {
+                    "name": "Ultrapave MSDS",
+                    "url": "http://www.sfm.state.or.us/CR2K_SubDB/MSDS/UP_5000.PDF",
+                    "id": 6972
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Chrysene",
+            "CASRN": "218-01-9",
+            "massPct": 4.905109489e-7,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "Barksdale",
+                    "url": "http://onlinepubs.trb.org/onlinepubs/shrp/SHRP-A-650.pdf",
+                    "id": 7029
+                },
+                {
+                    "name": "EPA",
+                    "url": "http://nepis.epa.gov/Exe/ZyNET.exe/9100RXZK.txt?ZyActionD=ZyDocument&Client=EPA&Index=1976%20Thru%201980&Docs=&Query=%28benzo%29%20OR%20FNAME%3D%229100RXZK.txt%22%20AND%20FNAME%3D%229100RXZK.txt%22&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C76THRU80%5CTXT%5C00000018%5C9100RXZK.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=19&SeekPage=f",
+                    "id": 6484
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Benzo[ghi]perylene",
+            "CASRN": "191-24-2",
+            "massPct": 0.000001177226277,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "EPA",
+                    "url": "http://nepis.epa.gov/Exe/ZyNET.exe/9100RXZK.txt?ZyActionD=ZyDocument&Client=EPA&Index=1976%20Thru%201980&Docs=&Query=%28benzo%29%20OR%20FNAME%3D%229100RXZK.txt%22%20AND%20FNAME%3D%229100RXZK.txt%22&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C76THRU80%5CTXT%5C00000018%5C9100RXZK.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=19&SeekPage=f",
+                    "id": 6484
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Benzofluoroanthenes",
+            "CASRN": "various",
+            "massPct": 2.943065693e-7,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "1,3-Butadiene",
+            "CASRN": "106-99-0",
+            "massPct": 1.962043796e-7,
+            "function": "sbr residual",
+            "sources": [
+                {
+                    "name": "Rovene 4002",
+                    "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=fda58407a3234db6a2e025ee7d6e89b3",
+                    "id": 7055
+                },
+                {
+                    "name": "Ultrapave MSDS",
+                    "url": "http://www.sfm.state.or.us/CR2K_SubDB/MSDS/UP_5000.PDF",
+                    "id": 6972
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Fluoranthene",
+            "CASRN": "206-44-0",
+            "massPct": 2.011094891e-7,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "Barksdale",
+                    "url": "http://onlinepubs.trb.org/onlinepubs/shrp/SHRP-A-650.pdf",
+                    "id": 7029
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Naphthalene",
+            "CASRN": "91-20-3",
+            "massPct": 0.000001348905109,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Indeno(1,2,3-cd)pyrene",
+            "CASRN": "193-39-5",
+            "massPct": 5.886131387e-7,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Benzo(a)pyrene",
+            "CASRN": "50-32-8",
+            "massPct": 5.395620438e-7,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "NPS",
+                    "url": "http://www.nature.nps.gov/hazardssafety/toxic/asphalt.pdf",
+                    "id": 7031
+                },
+                {
+                    "name": "Barksdale",
+                    "url": "http://onlinepubs.trb.org/onlinepubs/shrp/SHRP-A-650.pdf",
+                    "id": 7029
+                },
+                {
+                    "name": "EPA",
+                    "url": "http://nepis.epa.gov/Exe/ZyNET.exe/9100RXZK.txt?ZyActionD=ZyDocument&Client=EPA&Index=1976%20Thru%201980&Docs=&Query=%28benzo%29%20OR%20FNAME%3D%229100RXZK.txt%22%20AND%20FNAME%3D%229100RXZK.txt%22&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C76THRU80%5CTXT%5C00000018%5C9100RXZK.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=19&SeekPage=f",
+                    "id": 6484
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Pyrene",
+            "CASRN": "129-00-0",
+            "massPct": 4.41459854e-7,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "Barksdale",
+                    "url": "http://onlinepubs.trb.org/onlinepubs/shrp/SHRP-A-650.pdf",
+                    "id": 7029
+                },
+                {
+                    "name": "EPA",
+                    "url": "http://nepis.epa.gov/Exe/ZyNET.exe/9100RXZK.txt?ZyActionD=ZyDocument&Client=EPA&Index=1976%20Thru%201980&Docs=&Query=%28benzo%29%20OR%20FNAME%3D%229100RXZK.txt%22%20AND%20FNAME%3D%229100RXZK.txt%22&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C76THRU80%5CTXT%5C00000018%5C9100RXZK.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=19&SeekPage=f",
+                    "id": 6484
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Anthanthrene",
+            "CASRN": "191-26-4",
+            "massPct": 9.810218978e-9,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "Barksdale",
+                    "url": "http://onlinepubs.trb.org/onlinepubs/shrp/SHRP-A-650.pdf",
+                    "id": 7029
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Anthracene",
+            "CASRN": "120-12-7",
+            "massPct": 3.433576642e-8,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "Barksdale",
+                    "url": "http://onlinepubs.trb.org/onlinepubs/shrp/SHRP-A-650.pdf",
+                    "id": 7029
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Perylene",
+            "CASRN": "198-55-0",
+            "massPct": 0.000001447007299,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "EPA",
+                    "url": "http://nepis.epa.gov/Exe/ZyNET.exe/9100RXZK.txt?ZyActionD=ZyDocument&Client=EPA&Index=1976%20Thru%201980&Docs=&Query=%28benzo%29%20OR%20FNAME%3D%229100RXZK.txt%22%20AND%20FNAME%3D%229100RXZK.txt%22&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C76THRU80%5CTXT%5C00000018%5C9100RXZK.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=19&SeekPage=f",
+                    "id": 6484
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Benzo(e)pyrene",
+            "CASRN": "192-97-2",
+            "massPct": 0.000001863941606,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "NPS",
+                    "url": "http://www.nature.nps.gov/hazardssafety/toxic/asphalt.pdf",
+                    "id": 7031
+                },
+                {
+                    "name": "EPA",
+                    "url": "http://nepis.epa.gov/Exe/ZyNET.exe/9100RXZK.txt?ZyActionD=ZyDocument&Client=EPA&Index=1976%20Thru%201980&Docs=&Query=%28benzo%29%20OR%20FNAME%3D%229100RXZK.txt%22%20AND%20FNAME%3D%229100RXZK.txt%22&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C76THRU80%5CTXT%5C00000018%5C9100RXZK.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=19&SeekPage=f",
+                    "id": 6484
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Acenaphthene",
+            "CASRN": "83-32-9",
+            "massPct": 1.716788321e-7,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Coronene",
+            "CASRN": "191-07-1",
+            "massPct": 9.810218978e-8,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "Barksdale",
+                    "url": "http://onlinepubs.trb.org/onlinepubs/shrp/SHRP-A-650.pdf",
+                    "id": 7029
+                },
+                {
+                    "name": "EPA",
+                    "url": "http://nepis.epa.gov/Exe/ZyNET.exe/9100RXZK.txt?ZyActionD=ZyDocument&Client=EPA&Index=1976%20Thru%201980&Docs=&Query=%28benzo%29%20OR%20FNAME%3D%229100RXZK.txt%22%20AND%20FNAME%3D%229100RXZK.txt%22&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C76THRU80%5CTXT%5C00000018%5C9100RXZK.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=19&SeekPage=f",
+                    "id": 6484
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.03789473684,
+                    "contributors": [
+                        {
+                            "recId": 5465,
+                            "massPct": 0.03789473684,
+                            "childrenIds": [
+                                5465
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-575",
+                    "type": "orange",
+                    "name": "Eye Irritation",
+                    "massPct": 0.009343065693,
+                    "contributors": [
+                        {
+                            "recId": 6981,
+                            "massPct": 0.009343065693,
+                            "childrenIds": [
+                                6981
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-571",
+                    "type": "red",
+                    "name": "Mutagenicity",
+                    "massPct": 0.03789473684,
+                    "contributors": [
+                        {
+                            "recId": 5465,
+                            "massPct": 0.03789473684,
+                            "childrenIds": [
+                                5465
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-567",
+                    "type": "red",
+                    "name": "Cancer",
+                    "massPct": 0.03789473684,
+                    "contributors": [
+                        {
+                            "recId": 5465,
+                            "massPct": 0.03789473684,
+                            "childrenIds": [
+                                5465
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundary is defined as cradle-to-gate and ends with the finished product at the factory gate. Includes all cradle-to-gate data including upsteam chemical production and energy extraction. Inbound transportation of significant upstream materials is included. Packaging is not included.                ",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "US: Tricalcium phosphate"
+            },
+            {
+                "name": "US: Naphtha at refinery"
+            },
+            {
+                "name": "US: Water deionized"
+            },
+            {
+                "name": "US: Styrene-butadiene rubber (SBR)"
+            },
+            {
+                "name": "US: Bitumen at refinery"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "55% for recovery; 45% landfilled (plastic material)                                \n                                ",
+        "inUseNotes": "2.50% released as NMVOC (unspecified); 32.2% released as water vapor",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "2.64E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.48E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "9.59E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "7.08E-11"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "4.65E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "4.36E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "6.93E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "0.00E+00"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "2.24E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "7.95E-05"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "1.79E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "3.56E-13"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "2.31E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "2.86E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP030",
+    "name": "Liquid-applied moisture barrier",
+    "altNames": [
+        "Fluid applied moisture barrier",
+        "fluid applied air/weather barrier"
+    ],
+    "uniformats": [
+        {
+            "id": "B3010",
+            "name": "Roofing"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "07-27-26",
+            "name": "Fluid-Applied Membrane Air Barrier"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Various products may be used as a liquid moisture barrier, air barrier, vapor barrier or some combination of the three.  These products can be in sheet form or liquid applied.  The advantages of liquid applied barriers include that they create a continuous, seamless barrier and are flexible to accomodate building movement.  This CP describes a one component, liquid-applied, water-based, air, vapor and liquid moisture barrier.  This type of barrier can be polymer based or polymer-modified asphalt based, the latter being described here.  These barriers are applied by roller, brush, or spray and may be applied to most common surfaces, including concrete, CMU, and sheathing panels.  Intended for cavity walls to be covered with an exterior finish.",
+    "sources": [
+        {
+            "name": "Asphalt Institute",
+            "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+            "id": 1566
+        },
+        {
+            "name": "NIH",
+            "url": "http://www.ncbi.nlm.nih.gov/books/NBK294237/?report=printable",
+            "id": 7032
+        },
+        {
+            "name": "NPS",
+            "url": "http://www.nature.nps.gov/hazardssafety/toxic/asphalt.pdf",
+            "id": 7031
+        },
+        {
+            "name": "Barksdale",
+            "url": "http://onlinepubs.trb.org/onlinepubs/shrp/SHRP-A-650.pdf",
+            "id": 7029
+        },
+        {
+            "name": "Rovene 4002",
+            "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=fda58407a3234db6a2e025ee7d6e89b3",
+            "id": 7055
+        },
+        {
+            "name": "EPA",
+            "url": "http://nepis.epa.gov/Exe/ZyNET.exe/9100RXZK.txt?ZyActionD=ZyDocument&Client=EPA&Index=1976%20Thru%201980&Docs=&Query=%28benzo%29%20OR%20FNAME%3D%229100RXZK.txt%22%20AND%20FNAME%3D%229100RXZK.txt%22&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C76THRU80%5CTXT%5C00000018%5C9100RXZK.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=19&SeekPage=f",
+            "id": 6484
+        },
+        {
+            "name": "Air-Shield",
+            "url": "http://www.wrmeadows.com/MSDS-PDF/6388000-4.pdf",
+            "id": 6955
+        },
+        {
+            "name": "Air-Shield web",
+            "url": "http://www.wrmeadows.com/air-shield-lm-air-vapor-liquid-moisture-barrier/",
+            "id": 6956
+        },
+        {
+            "name": "Barriseal",
+            "url": "http://www.carlisleccw.com/?page=view&mode=media&contentID=2360",
+            "id": 6957
+        },
+        {
+            "name": "Barriseal TDS",
+            "url": "http://www.carlisleccw.com/?page=view&mode=media&contentID=2762",
+            "id": 6958
+        },
+        {
+            "name": "Aero-Block",
+            "url": "http://www.garlandco.com/products/msds/AeroBlockWB_1300_MSDS.pdf",
+            "id": 6959
+        },
+        {
+            "name": "Aero-Block web",
+            "url": "http://www.garlandco.com/products/air-barriers/aero-block-wb-sb.html",
+            "id": 6960
+        },
+        {
+            "name": "Air-Bloc HPD",
+            "url": "http://us.henry.com/fileadmin/pdf/literature/hpd/AIR-BLOC%2006WB.pdf",
+            "id": 6961
+        },
+        {
+            "name": "Air-Bloc",
+            "url": "http://us.henry.com/fileadmin/pdf/current/msds/HE06AB_msds.pdf",
+            "id": 6962
+        },
+        {
+            "name": "ExoAir",
+            "url": "http://www.tremcosealants.com/fileshare/msds/584100_855_U.pdf",
+            "id": 6963
+        },
+        {
+            "name": "Ultra-Shield",
+            "url": "http://www.gmxwaterproofing.com/files/waterproofing/UltraShield-AG_SDS-1213.pdf",
+            "id": 6964
+        },
+        {
+            "name": "AirGuard TDS",
+            "url": "http://www.appliedtechnologies.com/files/pdf/AirGuard%200727%20Spec%20Sheet.pdf",
+            "id": 6965
+        },
+        {
+            "name": "Overview",
+            "url": "http://onlinepubs.trb.org/onlinepubs/circulars/ec102.pdf",
+            "id": 6966
+        },
+        {
+            "name": "CDC",
+            "url": "http://www.cdc.gov/niosh/docs/2001-110/pdfs/2001-110.pdf",
+            "id": 6968
+        },
+        {
+            "name": "Ultrapave MSDS",
+            "url": "http://www.sfm.state.or.us/CR2K_SubDB/MSDS/UP_5000.PDF",
+            "id": 6972
+        },
+        {
+            "name": "ExoAir TDS",
+            "url": "http://www.tremcosealants.com/fileshare/pds/ExoAir120SP-R.pdf",
+            "id": 6975
+        },
+        {
+            "name": "Ultra-Shield TDS",
+            "url": "http://www.gmxwaterproofing.com/files/waterproofing/UltraShield-AG_datasheet.pdf",
+            "id": 6976
+        },
+        {
+            "name": "ExoAir 2",
+            "url": "http://www.tremcosealants.com/fileshare/CertificationLetters/CertExoAir120.pdf",
+            "id": 6977
+        },
+        {
+            "name": "Air-Bloc TDS",
+            "url": "http://us.henry.com/fileadmin/pdf/current/tds/HE06AB_techdata.pdf",
+            "id": 6978
+        }
+    ]
+}

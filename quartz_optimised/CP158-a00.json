@@ -1,0 +1,864 @@
+{
+    "CPID": "CP158",
+    "timestamp": 1452102153829,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 6262,
+            "name": "Phenol, 2-(5-chloro-2H-benzotriazole-2-yl)-6-(1,1-dimethylethyl)-4-methyl",
+            "CASRN": "3896-11-5",
+            "massPct": 0.003248,
+            "function": "uv-stabilizer",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Tinuvin 326 TDS",
+                    "url": "http://shanghaiguanan.com/pic/2014916154624916.pdf",
+                    "id": 6837
+                },
+                {
+                    "name": "BASF2",
+                    "url": "http://www.plastic-additives.basf.com/ev/internet/plastic-additives/en/function/conversions:/publish/content/plastic-additives/Download_center/Downloads/Building_Construction.pdf",
+                    "id": 6238
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.003248
+        },
+        {
+            "recId": 6260,
+            "name": "1,3,5-Trimethyl-2,4,6-tris(3,5-di-tert-butyl-4-hydroxybenzyl)benzene",
+            "CASRN": "1709-70-2",
+            "massPct": 0.004297,
+            "function": "antioxidant",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "BASF2",
+                    "url": "http://www.plastic-additives.basf.com/ev/internet/plastic-additives/en/function/conversions:/publish/content/plastic-additives/Download_center/Downloads/Building_Construction.pdf",
+                    "id": 6238
+                },
+                {
+                    "name": "EPA2004",
+                    "url": "http://www.epa.gov/hpv/pubs/summaries/irganeth/c15483.pdf",
+                    "id": 6239
+                },
+                {
+                    "name": "Damodaran",
+                    "url": "https://www.researchgate.net/profile/Martin_Bastian/publication/268694959_Monitoring_the_effect_of_chlorine_on_the_ageing_of_polypropylene_pipes_by_infrared_microscopy/links/54896d620cf268d28f09c996.pdf",
+                    "id": 6215
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.004297
+        },
+        {
+            "recId": 6263,
+            "name": "Methanone, [2-hydroxy-4-(octyloxy)phenyl]phenyl,-",
+            "CASRN": "1843-05-6",
+            "massPct": 0.003248,
+            "function": "uv-stabilizer",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "BASF2",
+                    "url": "http://www.plastic-additives.basf.com/ev/internet/plastic-additives/en/function/conversions:/publish/content/plastic-additives/Download_center/Downloads/Building_Construction.pdf",
+                    "id": 6238
+                },
+                {
+                    "name": "Chimasorb 81",
+                    "url": "http://shanghaiguanan.com/pic/2014916135928851.pdf",
+                    "id": 6242
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.003248
+        },
+        {
+            "recId": 6259,
+            "name": "Pentaerythritol tetrakis (3-(3,5-di-tert-butyl-4-hydroxyphenyl)propionate)",
+            "CASRN": "6683-19-8",
+            "massPct": 0.001474,
+            "function": "antioxidant",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "BASF2",
+                    "url": "http://www.plastic-additives.basf.com/ev/internet/plastic-additives/en/function/conversions:/publish/content/plastic-additives/Download_center/Downloads/Building_Construction.pdf",
+                    "id": 6238
+                },
+                {
+                    "name": "Irganox B215",
+                    "url": "http://shanghaiguanan.com/pic/2014916113948141.pdf",
+                    "id": 6233
+                },
+                {
+                    "name": "SpecialChem2",
+                    "url": "http://polymer-additives.specialchem.com/product/a-basf-irganox-b-225-powder",
+                    "id": 6232
+                },
+                {
+                    "name": "UCSF",
+                    "url": "http://legacy.library.ucsf.edu/tid/ipt03c00/pdf;jsessionid=7364186846599DC9EEA24479E17C8EBB.tobacco03",
+                    "id": 6220
+                },
+                {
+                    "name": "Damodaran",
+                    "url": "https://www.researchgate.net/profile/Martin_Bastian/publication/268694959_Monitoring_the_effect_of_chlorine_on_the_ageing_of_polypropylene_pipes_by_infrared_microscopy/links/54896d620cf268d28f09c996.pdf",
+                    "id": 6215
+                },
+                {
+                    "name": "Geertz",
+                    "url": "http://www.sciencedirect.com/science/article/pii/S0141391009001128",
+                    "id": 6222
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.001474
+        },
+        {
+            "recId": 6261,
+            "name": "Tris(2,4-ditert-butylphenyl) phosphite",
+            "CASRN": "31570-04-4",
+            "massPct": 0.000959,
+            "function": "stabilizer",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "BASF2",
+                    "url": "http://www.plastic-additives.basf.com/ev/internet/plastic-additives/en/function/conversions:/publish/content/plastic-additives/Download_center/Downloads/Building_Construction.pdf",
+                    "id": 6238
+                },
+                {
+                    "name": "Irganox B215",
+                    "url": "http://shanghaiguanan.com/pic/2014916113948141.pdf",
+                    "id": 6233
+                },
+                {
+                    "name": "SpecialChem2",
+                    "url": "http://polymer-additives.specialchem.com/product/a-basf-irganox-b-225-powder",
+                    "id": 6232
+                },
+                {
+                    "name": "Irgafos 168",
+                    "url": "http://shanghaiguanan.com/pic/2014916113835287.pdf",
+                    "id": 6230
+                },
+                {
+                    "name": "Damodaran",
+                    "url": "https://www.researchgate.net/profile/Martin_Bastian/publication/268694959_Monitoring_the_effect_of_chlorine_on_the_ageing_of_polypropylene_pipes_by_infrared_microscopy/links/54896d620cf268d28f09c996.pdf",
+                    "id": 6215
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.000959
+        },
+        {
+            "recId": 6256,
+            "name": "Pigment Polymer Blend",
+            "CASRN": "",
+            "massPct": 0.029978,
+            "function": "pigment",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": 0.77557,
+                        "contributors": [
+                            {
+                                "recId": 6257,
+                                "massPct": 0.77557,
+                                "childrenIds": [
+                                    6257
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 6258,
+                    "name": "CI Black 28",
+                    "CASRN": "68186-91-4",
+                    "massPct": 0.225165,
+                    "function": "pigment",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "FDA",
+                            "url": "http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?fr=178.3297",
+                            "id": 6252
+                        },
+                        {
+                            "name": "Ferro",
+                            "url": "http://www.ferro.com/NR/rdonlyres/DA6D6E95-EE0F-47BD-9A9E-18058FEC8F10/0/E_Pigments_03_12_V5.pdf",
+                            "id": 6249
+                        },
+                        {
+                            "name": "Tolinski",
+                            "url": "https://books.google.com/books?id=pPycBAAAQBAJ&pg=PA198&lpg=PA198&dq=irgastat+polypropylene&source=bl&ots=e-dQ73aIl_&sig=rTRK96QsGaPOxlgSsPsIHsOFl-w&hl=en&sa=X&ei=jgxyVbfZAoGDsQXK4YLwDA&ved=0CDEQ6AEwAw#v=onepage&q=pipe&f=false",
+                            "id": 6250
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0067499963700000006
+                },
+                {
+                    "recId": 6257,
+                    "name": "Polypropylene",
+                    "CASRN": "9003-07-0",
+                    "massPct": 0.77557,
+                    "function": "binder",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Ruemer",
+                            "url": "http://www.google.com/patents/EP2067798A1?cl=en",
+                            "id": 6253
+                        },
+                        {
+                            "name": "Aquatherm3",
+                            "url": "http://www.aquatherm.com/downloads/documents/MSDS-AQUATHERM_POLYPROPYLENE_PIPE_FITTINGS_PANELS__VALVES_9_23_2011.pdf",
+                            "id": 6245
+                        },
+                        {
+                            "name": "Aquatherm",
+                            "url": "http://www.gpi-us.com/pdf/MSDS.pdf",
+                            "id": 6224
+                        },
+                        {
+                            "name": "Tolinski",
+                            "url": "https://books.google.com/books?id=pPycBAAAQBAJ&pg=PA198&lpg=PA198&dq=irgastat+polypropylene&source=bl&ots=e-dQ73aIl_&sig=rTRK96QsGaPOxlgSsPsIHsOFl-w&hl=en&sa=X&ei=jgxyVbfZAoGDsQXK4YLwDA&ved=0CDEQ6AEwAw#v=onepage&q=pipe&f=false",
+                            "id": 6250
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.02325003746
+                }
+            ],
+            "sources": [
+                {
+                    "name": "Borealis",
+                    "url": "http://www.borealisgroup.com/Global/Polyolefins/Energy%20Infrastructure/Pipes%20Fittings/Plumbing%20and%20Heating%20Pipe%20Systems/pp-rct-the-innovative-solution-for-higher-competitiveness-and-performance.pdf",
+                    "id": 6219
+                },
+                {
+                    "name": "iPlex",
+                    "url": "http://www.iplex.com.au/resources/EandS/DOC100712-10072012121240.pdf",
+                    "id": 6228
+                },
+                {
+                    "name": "Vinidex",
+                    "url": "http://www.vinidex.com.au/wp-content/uploads/20140314-VX-MSDS-030-PP-Pipe.pdf",
+                    "id": 6225
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.029978
+        },
+        {
+            "recId": 6254,
+            "name": "Polypropylene random copolymer",
+            "CASRN": "",
+            "massPct": 0.956797,
+            "function": "",
+            "hazards": {},
+            "components": [
+                {
+                    "recId": 6255,
+                    "name": "Ethylene Propylene Copolymer",
+                    "CASRN": "9010‐79‐1",
+                    "massPct": 1,
+                    "function": "polymer",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Aquatherm3",
+                            "url": "http://www.aquatherm.com/downloads/documents/MSDS-AQUATHERM_POLYPROPYLENE_PIPE_FITTINGS_PANELS__VALVES_9_23_2011.pdf",
+                            "id": 6245
+                        },
+                        {
+                            "name": "Gate",
+                            "url": "http://www.gate-operators.com/ppr.html",
+                            "id": 6229
+                        },
+                        {
+                            "name": "Aquatherm",
+                            "url": "http://www.gpi-us.com/pdf/MSDS.pdf",
+                            "id": 6224
+                        },
+                        {
+                            "name": "iPlex",
+                            "url": "http://www.iplex.com.au/resources/EandS/DOC100712-10072012121240.pdf",
+                            "id": 6228
+                        },
+                        {
+                            "name": "Vinidex",
+                            "url": "http://www.vinidex.com.au/wp-content/uploads/20140314-VX-MSDS-030-PP-Pipe.pdf",
+                            "id": 6225
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.956797
+                }
+            ],
+            "sources": [
+                {
+                    "name": "Borealis",
+                    "url": "http://www.borealisgroup.com/Global/Polyolefins/Energy%20Infrastructure/Pipes%20Fittings/Plumbing%20and%20Heating%20Pipe%20Systems/pp-rct-the-innovative-solution-for-higher-competitiveness-and-performance.pdf",
+                    "id": 6219
+                },
+                {
+                    "name": "SCC",
+                    "url": "https://www.scc.ca/en/standardsdb/standards/25575",
+                    "id": 6214
+                },
+                {
+                    "name": "F2389",
+                    "url": "http://www.astm.org/Standards/F2389.htm",
+                    "id": 6213
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.956797
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Manganese Oxide",
+            "CASRN": "1317-35-7",
+            "massPct": null,
+            "function": "CI black 28 residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Sodium Tetraborate Pentahydrate",
+            "CASRN": "12179-04-3",
+            "massPct": null,
+            "function": "CI black 28 residual",
+            "sources": [],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Chromium (III) oxide",
+            "CASRN": "1308-38-9",
+            "massPct": null,
+            "function": "CI black 28 residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ferric Oxide",
+            "CASRN": "1309-37-1",
+            "massPct": null,
+            "function": "CI black 28 residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ethylene",
+            "CASRN": "74-85-1",
+            "massPct": null,
+            "function": "ethylene-propene copolymer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.02325003746,
+                    "contributors": [
+                        {
+                            "recId": 6256,
+                            "massPct": 0.02325003746,
+                            "childrenIds": [
+                                6256,
+                                6257
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundary is defined as cradle-to-gate and ends with the finished product at the factory gate. Includes all cradle-to-gate data including upsteam chemical production, energy extraction, and pipe extrustion. Inbound transportation of significant upstream materials is included. Packaging is not included. ",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Tap water from groundwater"
+            },
+            {
+                "name": "DE: Plastic injection moulding part"
+            },
+            {
+                "name": "US: Landfilling of plastic waste"
+            },
+            {
+                "name": "GLO: Used oil treatment (worst case scenario)"
+            },
+            {
+                "name": "DE: Phenyldiamine (o-phenyldiamine)"
+            },
+            {
+                "name": "US: Tris(2-chloroisopropyl)phosphate (TCPP)"
+            },
+            {
+                "name": "US: Carbon black (furnace black, general purpose)"
+            },
+            {
+                "name": "US: Acrylic acid (Propene)"
+            },
+            {
+                "name": "US: Cumene (isopropylbenzene) (C9H12)"
+            },
+            {
+                "name": "US: Phenol (from cumene)"
+            },
+            {
+                "name": "DE: Diethyl ether"
+            },
+            {
+                "name": "US: Lubricants at refinery"
+            },
+            {
+                "name": "US: Polyethylene Low Density Granulate (LDPE/PE-LD)"
+            },
+            {
+                "name": "US: Polypropylene granulate (PP)"
+            },
+            {
+                "name": "US: Water deionized"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% to landfill",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "8.84E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "4.65E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "3.84E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "6.45E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.43E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "1.03E+02"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "7.23E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "2.68E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.98E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.13E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "6.51E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.19E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP158",
+    "name": "PP Water Pipe",
+    "altNames": [
+        "PP Pressure Pipes",
+        "PP-R Pipe"
+    ],
+    "uniformats": [
+        {
+            "id": "D2010",
+            "name": "Domestic Water Distribution"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "22-11-16",
+            "name": "Domestic Water Piping"
+        }
+    ],
+    "recordType": "Common",
+    "description": "This CP describes pipes made from polypropylene random copolymer (PP-R) that are intended for the distribution of hot and cold water within buildings, and able to sustain a pressure of 160 psi at 73 degrees F, as per ASTM F2389.  While the market for PP-R pipes features a variety of specialty products, we have focused on a “standard” product; that is, no added antimicrobial treatment (more common in Asia than US), and no composite fiberglass reinforcement.  Were any of these options specified for use in construction, the health profile for this CP would likely change considerably.",
+    "sources": [
+        {
+            "name": "Tinuvin 326 TDS",
+            "url": "http://shanghaiguanan.com/pic/2014916154624916.pdf",
+            "id": 6837
+        },
+        {
+            "name": "Irganox 1010 TDS",
+            "url": "http://www.telko.com/files/images/telko/ru/basf/termostabilizator/irganox_1010_tds.pdf",
+            "id": 6673
+        },
+        {
+            "name": "BuildingGreen",
+            "url": "https://www2.buildinggreen.com/article/piping-perspective-selecting-pipe-plumbing-buildings",
+            "id": 6212
+        },
+        {
+            "name": "F2389",
+            "url": "http://www.astm.org/Standards/F2389.htm",
+            "id": 6213
+        },
+        {
+            "name": "SCC",
+            "url": "https://www.scc.ca/en/standardsdb/standards/25575",
+            "id": 6214
+        },
+        {
+            "name": "Damodaran",
+            "url": "https://www.researchgate.net/profile/Martin_Bastian/publication/268694959_Monitoring_the_effect_of_chlorine_on_the_ageing_of_polypropylene_pipes_by_infrared_microscopy/links/54896d620cf268d28f09c996.pdf",
+            "id": 6215
+        },
+        {
+            "name": "Dresden",
+            "url": "http://www.ilsi.org/Europe/Documents/BRENZ2.pdf",
+            "id": 6216
+        },
+        {
+            "name": "Whelton",
+            "url": "http://standards.nsf.org/apps/group_public/download.php/26543/Whelton-%20PEXPipeintheUS.pdf",
+            "id": 6217
+        },
+        {
+            "name": "Fundaox",
+            "url": "http://halogenfreeflameretardant.buy.weamax.com/pz6a3ae64-dltp-antioxidant-plastic-additives-didodecyl-3-for-hdpe-pipe-cas-no-123-28-4.html",
+            "id": 6218
+        },
+        {
+            "name": "Borealis",
+            "url": "http://www.borealisgroup.com/Global/Polyolefins/Energy%20Infrastructure/Pipes%20Fittings/Plumbing%20and%20Heating%20Pipe%20Systems/pp-rct-the-innovative-solution-for-higher-competitiveness-and-performance.pdf",
+            "id": 6219
+        },
+        {
+            "name": "UCSF",
+            "url": "http://legacy.library.ucsf.edu/tid/ipt03c00/pdf;jsessionid=7364186846599DC9EEA24479E17C8EBB.tobacco03",
+            "id": 6220
+        },
+        {
+            "name": "Hametner",
+            "url": "http://www.tandfonline.com/doi/abs/10.1081/MA-100101625?journalCode=lmsa20",
+            "id": 6221
+        },
+        {
+            "name": "Geertz",
+            "url": "http://www.sciencedirect.com/science/article/pii/S0141391009001128",
+            "id": 6222
+        },
+        {
+            "name": "Zhang",
+            "url": "http://www.sciencedirect.com/science/article/pii/S1877705814001957",
+            "id": 6223
+        },
+        {
+            "name": "Aquatherm",
+            "url": "http://www.gpi-us.com/pdf/MSDS.pdf",
+            "id": 6224
+        },
+        {
+            "name": "Vinidex",
+            "url": "http://www.vinidex.com.au/wp-content/uploads/20140314-VX-MSDS-030-PP-Pipe.pdf",
+            "id": 6225
+        },
+        {
+            "name": "Terrain",
+            "url": "http://www.polypipe.com/cms/toolbox/Terrain_Polypropylene_Fittings_and_Pipes.pdf",
+            "id": 6226
+        },
+        {
+            "name": "Wavin",
+            "url": "http://webcache.googleusercontent.com/search?q=cache:Z2iuRXqiyiEJ:www.wavin.co.uk/web/download%3Fuuid%3D3b956d97-6b76-40b9-8620-228d7b6161fa+&cd=9&hl=en&ct=clnk&gl=us",
+            "id": 6227
+        },
+        {
+            "name": "iPlex",
+            "url": "http://www.iplex.com.au/resources/EandS/DOC100712-10072012121240.pdf",
+            "id": 6228
+        },
+        {
+            "name": "Gate",
+            "url": "http://www.gate-operators.com/ppr.html",
+            "id": 6229
+        },
+        {
+            "name": "Irgafos 168",
+            "url": "http://shanghaiguanan.com/pic/2014916113835287.pdf",
+            "id": 6230
+        },
+        {
+            "name": "Irganox B225 TDS",
+            "url": "http://shanghaiguanan.com/pic/2014916114155393.pdf",
+            "id": 6231
+        },
+        {
+            "name": "SpecialChem2",
+            "url": "http://polymer-additives.specialchem.com/product/a-basf-irganox-b-225-powder",
+            "id": 6232
+        },
+        {
+            "name": "Irganox B215",
+            "url": "http://shanghaiguanan.com/pic/2014916113948141.pdf",
+            "id": 6233
+        },
+        {
+            "name": "BASF1",
+            "url": "http://www.plastic-additives.basf.com/ev/internet/plastic-additives/en/function/conversions:/publish/content/plastic-additives/Download_center/Downloads/Additives-for-polyolefins.pdf",
+            "id": 6234
+        },
+        {
+            "name": "Chimassorb 2020 TDS",
+            "url": "http://www.telko.com/files/images/telko/ru/basf/svetostabilizator/chimassorb_2020_tds.pdf",
+            "id": 6235
+        },
+        {
+            "name": "Chimassorb 944",
+            "url": "http://www.resikem.com.ar/admin/archivos/tecnica/230/TDS_Chimassorb_944.PDF",
+            "id": 6236
+        },
+        {
+            "name": "Tinuvin 622 TDS",
+            "url": "http://shanghaiguanan.com/pic/2014916155153871.pdf",
+            "id": 6237
+        },
+        {
+            "name": "BASF2",
+            "url": "http://www.plastic-additives.basf.com/ev/internet/plastic-additives/en/function/conversions:/publish/content/plastic-additives/Download_center/Downloads/Building_Construction.pdf",
+            "id": 6238
+        },
+        {
+            "name": "EPA2004",
+            "url": "http://www.epa.gov/hpv/pubs/summaries/irganeth/c15483.pdf",
+            "id": 6239
+        },
+        {
+            "name": "Irganox PS 802",
+            "url": "http://www.telko.com/files/images/telko/ru/basf/termostabilizator/irganox_ps_802_tds.pdf",
+            "id": 6240
+        },
+        {
+            "name": "Chimasorb 81",
+            "url": "http://shanghaiguanan.com/pic/2014916135928851.pdf",
+            "id": 6242
+        },
+        {
+            "name": "Aquatherm2",
+            "url": "http://www.aquatherm.com/downloads/documents/aquatherm_NA_2015.pdf",
+            "id": 6244
+        },
+        {
+            "name": "Aquatherm3",
+            "url": "http://www.aquatherm.com/downloads/documents/MSDS-AQUATHERM_POLYPROPYLENE_PIPE_FITTINGS_PANELS__VALVES_9_23_2011.pdf",
+            "id": 6245
+        },
+        {
+            "name": "Antimicrobial",
+            "url": "http://www.google.com/patents/CN103672219A?cl=en ",
+            "id": 6246
+        },
+        {
+            "name": "Duro",
+            "url": "http://duropipe.com/product.php?id=44",
+            "id": 6247
+        },
+        {
+            "name": "Seefine",
+            "url": "http://newseefine.com/1-2-antibacterial-ppr-pipe/183586",
+            "id": 6248
+        },
+        {
+            "name": "Ferro",
+            "url": "http://www.ferro.com/NR/rdonlyres/DA6D6E95-EE0F-47BD-9A9E-18058FEC8F10/0/E_Pigments_03_12_V5.pdf",
+            "id": 6249
+        },
+        {
+            "name": "Tolinski",
+            "url": "https://books.google.com/books?id=pPycBAAAQBAJ&pg=PA198&lpg=PA198&dq=irgastat+polypropylene&source=bl&ots=e-dQ73aIl_&sig=rTRK96QsGaPOxlgSsPsIHsOFl-w&hl=en&sa=X&ei=jgxyVbfZAoGDsQXK4YLwDA&ved=0CDEQ6AEwAw#v=onepage&q=pipe&f=false",
+            "id": 6250
+        },
+        {
+            "name": "Geode",
+            "url": "http://www.ferro.com/NR/rdonlyres/E1EDD83A-A415-4A01-A619-DE358B7447D6/2857/F63312TDS.pdf",
+            "id": 6251
+        },
+        {
+            "name": "FDA",
+            "url": "http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?fr=178.3297",
+            "id": 6252
+        },
+        {
+            "name": "Ruemer",
+            "url": "http://www.google.com/patents/EP2067798A1?cl=en",
+            "id": 6253
+        }
+    ]
+}

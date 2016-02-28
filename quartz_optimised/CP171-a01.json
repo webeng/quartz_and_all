@@ -1,0 +1,570 @@
+{
+  "CPID": "CP171",
+  "timestamp": 1453510110049,
+  "version": "a01",
+  "components": [
+    {
+      "recId": 9644,
+      "name": "Phenol-Resorcinol-Formaldehyde Resin",
+      "CASRN": "25986-71-4",
+      "massPct": 0.0145,
+      "function": "binder",
+      "hazards": {},
+      "sources": [
+        {
+          "name": "Phenol Resiorcinol Resin MSDS",
+          "url": "http://www.nightingalesupply.com.au/PDF/Msds_adhesves/R145%20%20%20Resin.pdf",
+          "id": 9641
+        },
+        {
+          "name": "AWC MAT230",
+          "url": "http://www.awc.org/pdf/education/mat/AWC-MAT230-Glulam-2hr-150530.pdf",
+          "id": 9640
+        },
+        {
+          "name": "Adhesives GLTA",
+          "url": "http://www.glulam.co.uk/principalChoices_adhesives.htm",
+          "id": 9639
+        },
+        {
+          "name": "Adhesives Guide",
+          "url": "http://woodaware.info/PDFs/Adhesives.pdf",
+          "id": 9638
+        },
+        {
+          "name": "Magna Glulam MSDS",
+          "url": "http://www.magnaglulam.com.au/images/docs/MAGNA-GLULAM-MSDS.pdf",
+          "id": 9637
+        },
+        {
+          "name": "Hi-Clear II Treated Glulam MSDS",
+          "url": "http://rosboro.com/pdfs/GlulamBeamsHighClearIITreated_MSDS.pdf",
+          "id": 9636
+        },
+        {
+          "name": "QB Adhesive qualification",
+          "url": "http://www.qbcorp.com.php5-9.dfw1-1.websitetestlink.com/wp-content/uploads/2010/02/Adhesive-qualification-and-test-results.pdf",
+          "id": 9634
+        },
+        {
+          "name": "Goodlam Brochure",
+          "url": "http://www.goodfellowinc.com/wp-content/uploads/2013/06/BrochureGoodlam-Eng.pdf",
+          "id": 9631
+        },
+        {
+          "name": "MSDS EWP/Plywood",
+          "url": "http://www.bc.com/content/uploads/bc-resources/MSDS_Sheet_-018887-phenol-formaldehyde.pdf",
+          "id": 9629
+        },
+        {
+          "name": "Corrim PNW Glulam 2013",
+          "url": "http://www.corrim.org/pubs/reports/2013/phase1_updates/PNW%20Glulam%20LCA%20report%201_7_13%20final.pdf",
+          "id": 9619
+        },
+        {
+          "name": "Corrim SE Glulam 2013",
+          "url": "http://www.corrim.org/pubs/reports/2013/phase1_updates/SE%20Glulam%20LCA%20report%201_7_13%20final.pdf",
+          "id": 9620
+        },
+        {
+          "name": "AWC Glulam EPD",
+          "url": "http://www.awc.org/pdf/greenbuilding/epd/AWC-EPD-Glulam-1307.pdf",
+          "id": 9618
+        }
+      ],
+      "notes": "PRF",
+      "lca": "",
+      "massPctOfTotal": 0.0145
+    },
+    {
+      "recId": 3329,
+      "name": "Wood",
+      "CASRN": "unknown",
+      "massPct": 0.9845,
+      "function": "timber, lamstock",
+      "hazards": {
+        "unknown": [
+          {
+            "hazardId": "unknown-11424",
+            "type": "unknown",
+            "name": "Unknown",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "Corrim PNW Glulam 2013",
+          "url": "http://www.corrim.org/pubs/reports/2013/phase1_updates/PNW%20Glulam%20LCA%20report%201_7_13%20final.pdf",
+          "id": 9619
+        },
+        {
+          "name": "Corrim SE Glulam 2013",
+          "url": "http://www.corrim.org/pubs/reports/2013/phase1_updates/SE%20Glulam%20LCA%20report%201_7_13%20final.pdf",
+          "id": 9620
+        },
+        {
+          "name": "Magna Glulam MSDS",
+          "url": "http://www.magnaglulam.com.au/images/docs/MAGNA-GLULAM-MSDS.pdf",
+          "id": 9637
+        },
+        {
+          "name": "Hi-Clear II Treated Glulam MSDS",
+          "url": "http://rosboro.com/pdfs/GlulamBeamsHighClearIITreated_MSDS.pdf",
+          "id": 9636
+        },
+        {
+          "name": "Moelven Glulam EPD",
+          "url": "http://www.epd-norge.no/getfile.php/PDF/EPD/Byggevarer/NEPD115Elimtre.pdf",
+          "id": 9624
+        },
+        {
+          "name": "AWC Glulam EPD",
+          "url": "http://www.awc.org/pdf/greenbuilding/epd/AWC-EPD-Glulam-1307.pdf",
+          "id": 9618
+        }
+      ],
+      "notes": "Various softwood species are used for Glulam and vary by region. Douglas fir is the most commonly used in the Pacific Northwest, while pine species are more common in the Southeast United States. Hardwood species, specifically oak, are sometimes used, but not common. Species resistant to decay and insects, Alaskan Yellow Cedar and Port Oxford Cedar, may be specified to avoid the use of preservative treatments for glulam in contact with the ground or exposed to high moisture conditions.",
+      "lca": "",
+      "massPctOfTotal": 0.9845
+    }
+  ],
+  "impurities": [
+    {
+      "name": "Formaldehyde",
+      "CASRN": "50-00-0",
+      "massPct": 0.000999000999,
+      "function": "Phenol-Resorcinol-Formaldehyde Resin Residual",
+      "sources": [
+        {
+          "name": "Adhesives Guide",
+          "url": "http://woodaware.info/PDFs/Adhesives.pdf",
+          "id": 9638
+        },
+        {
+          "name": "Phenol Resiorcinol Resin MSDS",
+          "url": "http://www.nightingalesupply.com.au/PDF/Msds_adhesves/R145%20%20%20Resin.pdf",
+          "id": 9641
+        },
+        {
+          "name": "MSDS EWP/Plywood",
+          "url": "http://www.bc.com/content/uploads/bc-resources/MSDS_Sheet_-018887-phenol-formaldehyde.pdf",
+          "id": 9629
+        }
+      ],
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-577",
+            "type": "orange",
+            "name": "Skin Sensitization"
+          },
+          {
+            "hazardId": "orange-576",
+            "type": "orange",
+            "name": "Skin Irritation"
+          },
+          {
+            "hazardId": "orange-574",
+            "type": "orange",
+            "name": "Mammalian"
+          },
+          {
+            "hazardId": "orange-571",
+            "type": "orange",
+            "name": "Mutagenicity"
+          },
+          {
+            "hazardId": "orange-575",
+            "type": "orange",
+            "name": "Eye Irritation"
+          },
+          {
+            "hazardId": "orange-568",
+            "type": "orange",
+            "name": "Developmental"
+          }
+        ],
+        "red": [
+          {
+            "hazardId": "red-567",
+            "type": "red",
+            "name": "Cancer"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Phenol",
+      "CASRN": "108-95-2",
+      "massPct": null,
+      "function": "Phenol-Resorcinol-Formaldehyde Resin Residual",
+      "sources": [
+        {
+          "name": "Adhesives Guide",
+          "url": "http://woodaware.info/PDFs/Adhesives.pdf",
+          "id": 9638
+        },
+        {
+          "name": "Phenol Resiorcinol Resin MSDS",
+          "url": "http://www.nightingalesupply.com.au/PDF/Msds_adhesves/R145%20%20%20Resin.pdf",
+          "id": 9641
+        }
+      ],
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-576",
+            "type": "orange",
+            "name": "Skin Irritation"
+          },
+          {
+            "hazardId": "orange-574",
+            "type": "orange",
+            "name": "Mammalian"
+          },
+          {
+            "hazardId": "orange-571",
+            "type": "orange",
+            "name": "Mutagenicity"
+          },
+          {
+            "hazardId": "orange-575",
+            "type": "orange",
+            "name": "Eye Irritation"
+          },
+          {
+            "hazardId": "orange-570",
+            "type": "orange",
+            "name": "Endocrine"
+          },
+          {
+            "hazardId": "orange-567",
+            "type": "orange",
+            "name": "Cancer"
+          }
+        ],
+        "red": [
+          {
+            "hazardId": "red-569",
+            "type": "red",
+            "name": "Reproductive"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Resorcinol",
+      "CASRN": "108-46-3",
+      "massPct": null,
+      "function": "Phenol-Resorcinol-Formaldehyde Resin Residual",
+      "sources": [
+        {
+          "name": "Phenol Resiorcinol Resin MSDS",
+          "url": "http://www.nightingalesupply.com.au/PDF/Msds_adhesves/R145%20%20%20Resin.pdf",
+          "id": 9641
+        }
+      ],
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-577",
+            "type": "orange",
+            "name": "Skin Sensitization"
+          },
+          {
+            "hazardId": "orange-570",
+            "type": "orange",
+            "name": "Endocrine"
+          }
+        ]
+      }
+    }
+  ],
+  "health": {
+    "hazards": {
+      "unknown": [
+        {
+          "hazardId": "unknown-11424",
+          "type": "unknown",
+          "name": "Unknown",
+          "massPct": 0.9845,
+          "contributors": [
+            {
+              "recId": 3329,
+              "massPct": 0.9845,
+              "childrenIds": [
+                3329
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "environmental": {
+    "systemBoundary": "The system boundary includes upstream forest operations, from planting through harvest, and glulam manufacturing, including upstream transportation. Dataset represents US-CA industry average (AWC Glulam EPD) and has a density of 533.97 kg/m3 (oven dry). Composition from EPD: wood (98.5%), phenol resorcinol formaldehyde resin (1.25%), melamine urea formaldehyde resin (0.15%), polyurethane resin (0.07%), resorcinol formaldehyde resin (0.02%), melamine formaldehyde resin (0.01%).",
+    "gabiDatasets": [
+      {
+        "name": "RNA: Glue laminated timbers"
+      }
+    ],
+    "foregroundDataSource": "CORRIM 2011",
+    "backforegroundDataSource": "CORRIM/USLCI",
+    "postConsumerRecycledContent": "0%",
+    "referenceCountry": "United States",
+    "referenceYear": "2015",
+    "endOfLifeTreatment": "17.5% incinerated; 17.5% recycled; 65% to landfill",
+    "lcaResults": {
+      "cradleToGate": [
+        {
+          "name": "Acidification Potential",
+          "unit": "kg SO2 eq",
+          "value": "3.70E-03"
+        },
+        {
+          "name": "Eutrophication Potential",
+          "unit": "kg N eq",
+          "value": "2.17E-04"
+        },
+        {
+          "name": "Global Warming Potential",
+          "unit": "kg CO2 eq",
+          "value": "-1.43E+00"
+        },
+        {
+          "name": "Ozone Depletion Potential",
+          "unit": "kg CFC-11 eq",
+          "value": "6.20E-08"
+        },
+        {
+          "name": "Smog Formation Potential",
+          "unit": "kg O3 eq",
+          "value": "4.91E-02"
+        },
+        {
+          "name": "Primary Energy Demand",
+          "unit": "MJ",
+          "value": "1.82E+01"
+        }
+      ],
+      "inUse": [
+        {
+          "name": "Acidification Potential",
+          "unit": "kg SO2 eq"
+        },
+        {
+          "name": "Eutrophication Potential",
+          "unit": "kg N eq"
+        },
+        {
+          "name": "Global Warming Potential",
+          "unit": "kg CO2 eq"
+        },
+        {
+          "name": "Ozone Depletion Potential",
+          "unit": "kg CFC-11 eq"
+        },
+        {
+          "name": "Smog Formation Potential",
+          "unit": "kg O3 eq"
+        },
+        {
+          "name": "Primary Energy Demand",
+          "unit": "MJ"
+        }
+      ],
+      "endOfLife": [
+        {
+          "name": "Acidification Potential",
+          "unit": "kg SO2 eq",
+          "value": "3.34E-04"
+        },
+        {
+          "name": "Eutrophication Potential",
+          "unit": "kg N eq",
+          "value": "3.83E-05"
+        },
+        {
+          "name": "Global Warming Potential",
+          "unit": "kg CO2 eq",
+          "value": "6.64E-01"
+        },
+        {
+          "name": "Ozone Depletion Potential",
+          "unit": "kg CFC-11 eq",
+          "value": "1.55E-12"
+        },
+        {
+          "name": "Smog Formation Potential",
+          "unit": "kg O3 eq",
+          "value": "4.62E-03"
+        },
+        {
+          "name": "Primary Energy Demand",
+          "unit": "MJ",
+          "value": "6.93E-01"
+        }
+      ]
+    }
+  },
+  "id": "CP171",
+  "name": "Glulam",
+  "altNames": [
+    "Glue Laminated Lumber",
+    "Glue Laminated Timber"
+  ],
+  "uniformats": [
+    {
+      "id": "B1020",
+      "name": "Roof Construction"
+    },
+    {
+      "id": "B1010",
+      "name": "Floor Construction"
+    }
+  ],
+  "masterformats": [
+    {
+      "id": "06-18-00",
+      "name": "Glued-Laminated Construction"
+    }
+  ],
+  "recordType": "Common",
+  "description": "Glulam is an engineered wood product made of two or more layers of lumber that are glued together. Multiple formaldehyde resins (Phenol-resorcinol-formaldehyde (PRF), melamine-urea-formaldehyde (MUF), and resorcinol formaldehyde) and polyurethane resins can be used, however PRF resins are the most common on the market and are applicable to interior and exterior applications due to their moisture resistance. Glulam manufacturing begins with kiln-drying lumber (aka lamstock) to a maximum moisture content of 16%. When glulam beams are specified beyond typical lumber sizes, lumber is end jointed and bound with a resin, typically PFR or MUF. Once at the desired length, resin is applied to the lumber faces via cold set (uses pressure and ambient heat) or radio frequency (uses pressure and heat at 200+ degrees Fahrenheit) curing. Glulam may be used for a variety of structural applications in the residential and commercial markets. In applications where the glulam is exposed to weather or high moisture conditions a preservative treatment, such as a copper napthalene treatment, may be needed, but was not included in the scope of this CP. Species resistant to decay and insects, Alaskan Yellow Cedar and Port Oxford Cedar, may also be specified to avoid the use of preservative treatments for glulam. Factory applied sealants and/or plastic wrapping may be use to protect Glulam during transit and construction. Sealants are not standard and are only used when specified. Translucent penetrating sealers may be desired if beams are to be exposed with a stain or natural finish and Primer coats may be specified if a complete seal is desired. Field applied products are also available for these purposes. The CP characterizes an unsealed Glulam product without preservative treatment.",
+  "sources": [
+    {
+      "name": "Hexion LT-5210 Q Resin",
+      "url": "http://www.anthonyforest.com/pdfs/Hexion_CascophenLT-5210Q_MSDS.pdf",
+      "id": 9643
+    },
+    {
+      "name": "Hexion FM-7400 Catalyst",
+      "url": "http://www.anthonyforest.com/pdfs/Hexion_Cascoset_FM-7400_MSDS.pdf",
+      "id": 9642
+    },
+    {
+      "name": "Phenol Resiorcinol Resin MSDS",
+      "url": "http://www.nightingalesupply.com.au/PDF/Msds_adhesves/R145%20%20%20Resin.pdf",
+      "id": 9641
+    },
+    {
+      "name": "AWC MAT230",
+      "url": "http://www.awc.org/pdf/education/mat/AWC-MAT230-Glulam-2hr-150530.pdf",
+      "id": 9640
+    },
+    {
+      "name": "Adhesives GLTA",
+      "url": "http://www.glulam.co.uk/principalChoices_adhesives.htm",
+      "id": 9639
+    },
+    {
+      "name": "Adhesives Guide",
+      "url": "http://woodaware.info/PDFs/Adhesives.pdf",
+      "id": 9638
+    },
+    {
+      "name": "Magna Glulam MSDS",
+      "url": "http://www.magnaglulam.com.au/images/docs/MAGNA-GLULAM-MSDS.pdf",
+      "id": 9637
+    },
+    {
+      "name": "Hi-Clear II Treated Glulam MSDS",
+      "url": "http://rosboro.com/pdfs/GlulamBeamsHighClearIITreated_MSDS.pdf",
+      "id": 9636
+    },
+    {
+      "name": "Calvert Specs",
+      "url": "http://calvertglulam.com/wp-content/uploads/2014/11/calvert_specs.pdf",
+      "id": 9635
+    },
+    {
+      "name": "QB Adhesive qualification",
+      "url": "http://www.qbcorp.com.php5-9.dfw1-1.websitetestlink.com/wp-content/uploads/2010/02/Adhesive-qualification-and-test-results.pdf",
+      "id": 9634
+    },
+    {
+      "name": "Boozerbeam Structural Glulam",
+      "url": "http://boozerbeam.com/wp-content/uploads/2015/07/2.1E30fHighStrenght.pdf",
+      "id": 9633
+    },
+    {
+      "name": "FraserWood Glulam",
+      "url": "http://www.fraserwoodindustries.com/userimages/FW%20Glulam%20Flyer.pdf",
+      "id": 9632
+    },
+    {
+      "name": "Goodlam Brochure",
+      "url": "http://www.goodfellowinc.com/wp-content/uploads/2013/06/BrochureGoodlam-Eng.pdf",
+      "id": 9631
+    },
+    {
+      "name": "Boise Glulam",
+      "url": "https://www.bc.com/manufacturing/boise-glulam/",
+      "id": 9630
+    },
+    {
+      "name": "MSDS EWP/Plywood",
+      "url": "http://www.bc.com/content/uploads/bc-resources/MSDS_Sheet_-018887-phenol-formaldehyde.pdf",
+      "id": 9629
+    },
+    {
+      "name": "Boise Wood Finishes",
+      "url": "http://www.bc.com/content/uploads/bc-resources/GE-14_Wood_Finish.pdf",
+      "id": 9628
+    },
+    {
+      "name": "Cedar Glulam",
+      "url": "http://www.bc.com/content/uploads/bc-resources/BG-8-CedarGlulam_Wet-Use.pdf",
+      "id": 9627
+    },
+    {
+      "name": "Anthony Glulam Brochure",
+      "url": "http://www.anthonyforest.com/pdfs/GlulamBrochure.pdf",
+      "id": 9626
+    },
+    {
+      "name": "Glulam Product Guide",
+      "url": "https://law.resource.org/pub/us/code/bsc.ca.gov/sibr/org.apawood.X440.pdf",
+      "id": 9625
+    },
+    {
+      "name": "Moelven Glulam EPD",
+      "url": "http://www.epd-norge.no/getfile.php/PDF/EPD/Byggevarer/NEPD115Elimtre.pdf",
+      "id": 9624
+    },
+    {
+      "name": "Nordic Lam Declare",
+      "url": "http://declareproducts.com/content/nordic-lam",
+      "id": 9623
+    },
+    {
+      "name": "Nordic Lam HPD",
+      "url": "http://nordic.ca/data/files/datasheet/file/HPD467-20140129152011.pdf",
+      "id": 9622
+    },
+    {
+      "name": "Nordic Lam EPD",
+      "url": "http://nordic.ca/data/files/datasheet/file/EPDNordicLam.pdf",
+      "id": 9621
+    },
+    {
+      "name": "Corrim SE Glulam 2013",
+      "url": "http://www.corrim.org/pubs/reports/2013/phase1_updates/SE%20Glulam%20LCA%20report%201_7_13%20final.pdf",
+      "id": 9620
+    },
+    {
+      "name": "Corrim PNW Glulam 2013",
+      "url": "http://www.corrim.org/pubs/reports/2013/phase1_updates/PNW%20Glulam%20LCA%20report%201_7_13%20final.pdf",
+      "id": 9619
+    },
+    {
+      "name": "AWC Glulam EPD",
+      "url": "http://www.awc.org/pdf/greenbuilding/epd/AWC-EPD-Glulam-1307.pdf",
+      "id": 9618
+    }
+  ]
+}

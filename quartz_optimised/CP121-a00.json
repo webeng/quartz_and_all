@@ -1,0 +1,2066 @@
+{
+    "CPID": "CP121",
+    "timestamp": 1452102136826,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 7229,
+            "name": "A Side",
+            "CASRN": "",
+            "massPct": 0.510373444,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": 0.6061,
+                        "contributors": [
+                            {
+                                "recId": 7230,
+                                "massPct": 0.6061,
+                                "childrenIds": [
+                                    7230
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.6061,
+                        "contributors": [
+                            {
+                                "recId": 7230,
+                                "massPct": 0.6061,
+                                "childrenIds": [
+                                    7230
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 1,
+                        "contributors": [
+                            {
+                                "recId": 7230,
+                                "massPct": 0.6061,
+                                "childrenIds": [
+                                    7230
+                                ]
+                            },
+                            {
+                                "recId": 7231,
+                                "massPct": 0.3939,
+                                "childrenIds": [
+                                    7231
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 1,
+                        "contributors": [
+                            {
+                                "recId": 7230,
+                                "massPct": 0.6061,
+                                "childrenIds": [
+                                    7230
+                                ]
+                            },
+                            {
+                                "recId": 7231,
+                                "massPct": 0.3939,
+                                "childrenIds": [
+                                    7231
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": 1,
+                        "contributors": [
+                            {
+                                "recId": 7230,
+                                "massPct": 0.6061,
+                                "childrenIds": [
+                                    7230
+                                ]
+                            },
+                            {
+                                "recId": 7231,
+                                "massPct": 0.3939,
+                                "childrenIds": [
+                                    7231
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 7230,
+                    "name": "Polymethylene Polyphenyl Isocyanate",
+                    "CASRN": "9016-87-9",
+                    "massPct": 0.6061,
+                    "function": "prepolymer",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-567",
+                                "type": "orange",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "FoamSulate A",
+                            "url": "http://www.premiumspray.com/wp-content/files/products/MSDS%20-%20Foamsulate%20-%20A%20-%20ISO.pdf",
+                            "id": 7212
+                        },
+                        {
+                            "name": "InsulBloc",
+                            "url": "http://www.ncfi.com/content/uploads/2014/07/11-017-GM-series.pdf",
+                            "id": 7210
+                        },
+                        {
+                            "name": "Heatlok A",
+                            "url": "http://www.demilec.com/documents/Tech-Library/A-PMDI-SDS.pdf",
+                            "id": 7206
+                        },
+                        {
+                            "name": "DuraTite A",
+                            "url": "http://www.rhinoapplicators.com/images/stories/Foam/BBI%20MSDS/MSDS%20Rhino%20DuraTite%20Iso.pdf",
+                            "id": 7203
+                        },
+                        {
+                            "name": "Permax A HPD",
+                            "url": "http://us.henry.com/fileadmin/pdf/literature/hpd/PERMAX-A-COMPONENT-HPD.pdf",
+                            "id": 7200
+                        },
+                        {
+                            "name": "SprayTite A",
+                            "url": "http://spf.basf.com/DOCS/ELASTOSPRAY_8000A_ISOCYANATE.pdf",
+                            "id": 7192
+                        },
+                        {
+                            "name": "EcoBay A",
+                            "url": "http://www.polysource.ca/chemical_systems/ECOBAY%20CC%20CAN%20MSDS%20-%20A%20%28ISO%29.pdf",
+                            "id": 7189
+                        },
+                        {
+                            "name": "SPF",
+                            "url": "http://www.spraypolyurethane.org/spf_basics",
+                            "id": 7187
+                        },
+                        {
+                            "name": "Tiger A",
+                            "url": "http://tigerfoam.com/sprayfoaminsulation/wp-content/themes/tigerfoam/downloads/TF-QuickCure-SDS_A.pdf",
+                            "id": 7185
+                        },
+                        {
+                            "name": "ProSeal A",
+                            "url": "http://www.icynene.com/sites/default/files/US%20content%20uploads/SDS/A%20side%20for%20Proseal%20and%20Classic%20Max%20-%20July%201%202015.pdf",
+                            "id": 7182
+                        },
+                        {
+                            "name": "CertaSpray A",
+                            "url": "http://www.certainteed.com/resources/30-50-048.pdf",
+                            "id": 7179
+                        }
+                    ],
+                    "notes": "PMDI",
+                    "lca": "",
+                    "massPctOfTotal": 0.30933734440839994
+                },
+                {
+                    "recId": 7231,
+                    "name": "Methylene Bisphenyl Diisocyanate",
+                    "CASRN": "101-68-8",
+                    "massPct": 0.3939,
+                    "function": "monomer",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-567",
+                                "type": "orange",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "FoamSulate A",
+                            "url": "http://www.premiumspray.com/wp-content/files/products/MSDS%20-%20Foamsulate%20-%20A%20-%20ISO.pdf",
+                            "id": 7212
+                        },
+                        {
+                            "name": "InsulBloc",
+                            "url": "http://www.ncfi.com/content/uploads/2014/07/11-017-GM-series.pdf",
+                            "id": 7210
+                        },
+                        {
+                            "name": "Heatlok A",
+                            "url": "http://www.demilec.com/documents/Tech-Library/A-PMDI-SDS.pdf",
+                            "id": 7206
+                        },
+                        {
+                            "name": "DuraTite A",
+                            "url": "http://www.rhinoapplicators.com/images/stories/Foam/BBI%20MSDS/MSDS%20Rhino%20DuraTite%20Iso.pdf",
+                            "id": 7203
+                        },
+                        {
+                            "name": "Permax A HPD",
+                            "url": "http://us.henry.com/fileadmin/pdf/literature/hpd/PERMAX-A-COMPONENT-HPD.pdf",
+                            "id": 7200
+                        },
+                        {
+                            "name": "SprayTite A",
+                            "url": "http://spf.basf.com/DOCS/ELASTOSPRAY_8000A_ISOCYANATE.pdf",
+                            "id": 7192
+                        },
+                        {
+                            "name": "EcoBay A",
+                            "url": "http://www.polysource.ca/chemical_systems/ECOBAY%20CC%20CAN%20MSDS%20-%20A%20%28ISO%29.pdf",
+                            "id": 7189
+                        },
+                        {
+                            "name": "SPF",
+                            "url": "http://www.spraypolyurethane.org/spf_basics",
+                            "id": 7187
+                        },
+                        {
+                            "name": "Tiger A",
+                            "url": "http://tigerfoam.com/sprayfoaminsulation/wp-content/themes/tigerfoam/downloads/TF-QuickCure-SDS_A.pdf",
+                            "id": 7185
+                        },
+                        {
+                            "name": "ProSeal A",
+                            "url": "http://www.icynene.com/sites/default/files/US%20content%20uploads/SDS/A%20side%20for%20Proseal%20and%20Classic%20Max%20-%20July%201%202015.pdf",
+                            "id": 7182
+                        },
+                        {
+                            "name": "CertaSpray A",
+                            "url": "http://www.certainteed.com/resources/30-50-048.pdf",
+                            "id": 7179
+                        }
+                    ],
+                    "notes": "MDI",
+                    "lca": "",
+                    "massPctOfTotal": 0.20103609959159996
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.510373444
+        },
+        {
+            "recId": 7232,
+            "name": "B Side",
+            "CASRN": "",
+            "massPct": 0.489626556,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation",
+                        "massPct": 0.02096,
+                        "contributors": [
+                            {
+                                "recId": 7238,
+                                "massPct": 0.0131,
+                                "childrenIds": [
+                                    7238
+                                ]
+                            },
+                            {
+                                "recId": 7237,
+                                "massPct": 0.00786,
+                                "childrenIds": [
+                                    7237
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": 0.02096,
+                        "contributors": [
+                            {
+                                "recId": 7238,
+                                "massPct": 0.0131,
+                                "childrenIds": [
+                                    7238
+                                ]
+                            },
+                            {
+                                "recId": 7237,
+                                "massPct": 0.00786,
+                                "childrenIds": [
+                                    7237
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.11687,
+                        "contributors": [
+                            {
+                                "recId": 7237,
+                                "massPct": 0.00786,
+                                "childrenIds": [
+                                    7237
+                                ]
+                            },
+                            {
+                                "recId": 7239,
+                                "massPct": 0.10565,
+                                "childrenIds": [
+                                    7239
+                                ]
+                            },
+                            {
+                                "recId": 6032,
+                                "massPct": 0.00336,
+                                "childrenIds": [
+                                    6032
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": 0.10565,
+                        "contributors": [
+                            {
+                                "recId": 7239,
+                                "massPct": 0.10565,
+                                "childrenIds": [
+                                    7239
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": 0.00336,
+                        "contributors": [
+                            {
+                                "recId": 6032,
+                                "massPct": 0.00336,
+                                "childrenIds": [
+                                    6032
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.00336,
+                        "contributors": [
+                            {
+                                "recId": 6032,
+                                "massPct": 0.00336,
+                                "childrenIds": [
+                                    6032
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT",
+                        "massPct": 0.10901,
+                        "contributors": [
+                            {
+                                "recId": 7239,
+                                "massPct": 0.10565,
+                                "childrenIds": [
+                                    7239
+                                ]
+                            },
+                            {
+                                "recId": 6032,
+                                "massPct": 0.00336,
+                                "childrenIds": [
+                                    6032
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 7238,
+                    "name": "N,N-Dimethylcyclohexylamine",
+                    "CASRN": "98-94-2",
+                    "massPct": 0.0131,
+                    "function": "catalyst",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-576",
+                                "type": "orange",
+                                "name": "Skin Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-575",
+                                "type": "orange",
+                                "name": "Eye Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Permax B HPD",
+                            "url": "http://us.henry.com/fileadmin/pdf/literature/hpd/PERMAX-2-0-W-B-COMPONENT-HPD.pdf",
+                            "id": 7201
+                        },
+                        {
+                            "name": "StyroFoam B",
+                            "url": "http://www.dow.com/webapps/msds/showpdf.aspx?id=090003e8804e240d",
+                            "id": 7195
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0064141078836
+                },
+                {
+                    "recId": 7237,
+                    "name": "Pentamethyldiethylenetriamine",
+                    "CASRN": "3030-47-5",
+                    "massPct": 0.00786,
+                    "function": "catalyst",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-576",
+                                "type": "orange",
+                                "name": "Skin Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-575",
+                                "type": "orange",
+                                "name": "Eye Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "CPSC",
+                            "url": "http://www.cpsc.gov/PageFiles/129845/amine.pdf",
+                            "id": 7217
+                        },
+                        {
+                            "name": "Tiger B",
+                            "url": "http://tigerfoam.com/sprayfoaminsulation/wp-content/themes/tigerfoam/downloads/TF-QuickCure-SDS_B.pdf",
+                            "id": 7186
+                        },
+                        {
+                            "name": "ProSeal B",
+                            "url": "http://www.icynene.com/sites/default/files/US%20content%20uploads/SDS/MDC200v3%20Resin%20US%20-%20July%201%202015.pdf",
+                            "id": 7183
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0038484647301600004
+                },
+                {
+                    "recId": 1106,
+                    "name": "Water",
+                    "CASRN": "7732-18-5",
+                    "massPct": 0.02175,
+                    "function": "blowing agent",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "ACC 2013",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/2333/8369285d92c7f179cdecd4cbc04147d49e5ec5a0.pdf",
+                            "id": 7216
+                        },
+                        {
+                            "name": "Permax B HPD",
+                            "url": "http://us.henry.com/fileadmin/pdf/literature/hpd/PERMAX-2-0-W-B-COMPONENT-HPD.pdf",
+                            "id": 7201
+                        },
+                        {
+                            "name": "SPFA EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1807/15/SPFA_101.1_TS_SPFInsulationClosedCellMediumDensity_10October2013.pdf",
+                            "id": 7196
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.010649377593
+                },
+                {
+                    "recId": 7235,
+                    "name": "Polyester Polyol",
+                    "CASRN": "70749-97-2",
+                    "massPct": 0.46024,
+                    "function": "polyol",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Heatlok B",
+                            "url": "http://www.demilec.com/documents/Tech-Library/Heatlok/Heatlok-B-Side-SDS.pdf",
+                            "id": 7207
+                        },
+                        {
+                            "name": "DuraTite B",
+                            "url": "http://www.rhinoapplicators.com/images/stories/Foam/BBI%20MSDS/MSDS%20Rhino%20DuraTite%202.0%20B%20Resin%20.pdf",
+                            "id": 7204
+                        },
+                        {
+                            "name": "SPFA EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1807/15/SPFA_101.1_TS_SPFInsulationClosedCellMediumDensity_10October2013.pdf",
+                            "id": 7196
+                        },
+                        {
+                            "name": "StyroFoam B",
+                            "url": "http://www.dow.com/webapps/msds/showpdf.aspx?id=090003e8804e240d",
+                            "id": 7195
+                        },
+                        {
+                            "name": "ACC 2013",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/2333/8369285d92c7f179cdecd4cbc04147d49e5ec5a0.pdf",
+                            "id": 7216
+                        }
+                    ],
+                    "notes": "This CASRN is for a representative polyether polyol. There will be variation of the exact polyols used between manufacturers.",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.22534572613343998
+                },
+                {
+                    "recId": 7240,
+                    "name": "1,1,1,3,3-Pentafluoropropane",
+                    "CASRN": "460-73-1",
+                    "massPct": 0.09605,
+                    "function": "blowing agent",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "ACC 2013",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/2333/8369285d92c7f179cdecd4cbc04147d49e5ec5a0.pdf",
+                            "id": 7216
+                        },
+                        {
+                            "name": "FoamSulate B",
+                            "url": "http://www.premiumspray.com/wp-content/files/products/MSDS%20-%20Foamsulate%20210%20-%20B%20-%20Resin.pdf",
+                            "id": 7213
+                        },
+                        {
+                            "name": "InsulBloc",
+                            "url": "http://www.ncfi.com/content/uploads/2014/07/11-017-GM-series.pdf",
+                            "id": 7210
+                        },
+                        {
+                            "name": "FoamLok B",
+                            "url": "http://www.lapolla.com/wp-content/uploads/2015/07/msds-fl-2000-us.pdf",
+                            "id": 7208
+                        },
+                        {
+                            "name": "Heatlok B",
+                            "url": "http://www.demilec.com/documents/Tech-Library/Heatlok/Heatlok-B-Side-SDS.pdf",
+                            "id": 7207
+                        },
+                        {
+                            "name": "DuraTite B",
+                            "url": "http://www.rhinoapplicators.com/images/stories/Foam/BBI%20MSDS/MSDS%20Rhino%20DuraTite%202.0%20B%20Resin%20.pdf",
+                            "id": 7204
+                        },
+                        {
+                            "name": "Permax B HPD",
+                            "url": "http://us.henry.com/fileadmin/pdf/literature/hpd/PERMAX-2-0-W-B-COMPONENT-HPD.pdf",
+                            "id": 7201
+                        },
+                        {
+                            "name": "SPFA EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1807/15/SPFA_101.1_TS_SPFInsulationClosedCellMediumDensity_10October2013.pdf",
+                            "id": 7196
+                        },
+                        {
+                            "name": "StyroFoam B",
+                            "url": "http://www.dow.com/webapps/msds/showpdf.aspx?id=090003e8804e240d",
+                            "id": 7195
+                        },
+                        {
+                            "name": "SprayTite B",
+                            "url": "http://spf.basf.com/DOCS/SPRAYTITE_180-F.pdf",
+                            "id": 7193
+                        },
+                        {
+                            "name": "EcoBay B",
+                            "url": "http://www.idi-insulation.com/PDFs/spray-foam/materials/BaySeal/Ecobay%20CC%20MSDS.pdf",
+                            "id": 7190
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0470286307038
+                },
+                {
+                    "recId": 7236,
+                    "name": "Bis(3-dimethylaminopropyl)-n,n-dimethylpropandiamine",
+                    "CASRN": "33329-35-0",
+                    "massPct": 0.00786,
+                    "function": "catalyst",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "StyroFoam B",
+                            "url": "http://www.dow.com/webapps/msds/showpdf.aspx?id=090003e8804e240d",
+                            "id": 7195
+                        },
+                        {
+                            "name": "ProSeal B",
+                            "url": "http://www.icynene.com/sites/default/files/US%20content%20uploads/SDS/MDC200v3%20Resin%20US%20-%20July%201%202015.pdf",
+                            "id": 7183
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0038484647301600004
+                },
+                {
+                    "recId": 7234,
+                    "name": "Mannich Polyol",
+                    "CASRN": "25134-86-5",
+                    "massPct": 0.11309,
+                    "function": "polyol",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Permax B HPD",
+                            "url": "http://us.henry.com/fileadmin/pdf/literature/hpd/PERMAX-2-0-W-B-COMPONENT-HPD.pdf",
+                            "id": 7201
+                        },
+                        {
+                            "name": "DuraTite B",
+                            "url": "http://www.rhinoapplicators.com/images/stories/Foam/BBI%20MSDS/MSDS%20Rhino%20DuraTite%202.0%20B%20Resin%20.pdf",
+                            "id": 7204
+                        },
+                        {
+                            "name": "SPFA EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1807/15/SPFA_101.1_TS_SPFInsulationClosedCellMediumDensity_10October2013.pdf",
+                            "id": 7196
+                        },
+                        {
+                            "name": "StyroFoam B",
+                            "url": "http://www.dow.com/webapps/msds/showpdf.aspx?id=090003e8804e240d",
+                            "id": 7195
+                        }
+                    ],
+                    "notes": "This CASRN is for a representative Mannich polyol. There will be variation of the exact polyols used between manufacturers.",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.055371867218039994
+                },
+                {
+                    "recId": 7239,
+                    "name": "Tris(1-chloro-2-propyl) phosphate",
+                    "CASRN": "13674-84-5",
+                    "massPct": 0.10565,
+                    "function": "flame retardant",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "purple": [
+                            {
+                                "hazardId": "purple-955",
+                                "type": "purple",
+                                "name": "PBT",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "ACC 2013",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/2333/8369285d92c7f179cdecd4cbc04147d49e5ec5a0.pdf",
+                            "id": 7216
+                        },
+                        {
+                            "name": "FoamLok B",
+                            "url": "http://www.lapolla.com/wp-content/uploads/2015/07/msds-fl-2000-us.pdf",
+                            "id": 7208
+                        },
+                        {
+                            "name": "Heatlok B",
+                            "url": "http://www.demilec.com/documents/Tech-Library/Heatlok/Heatlok-B-Side-SDS.pdf",
+                            "id": 7207
+                        },
+                        {
+                            "name": "SprayTite B",
+                            "url": "http://spf.basf.com/DOCS/SPRAYTITE_180-F.pdf",
+                            "id": 7193
+                        },
+                        {
+                            "name": "CertaSpray B",
+                            "url": "http://www.certainteed.com/resources/30-50-051.pdf",
+                            "id": 7181
+                        },
+                        {
+                            "name": "DuraTite B",
+                            "url": "http://www.rhinoapplicators.com/images/stories/Foam/BBI%20MSDS/MSDS%20Rhino%20DuraTite%202.0%20B%20Resin%20.pdf",
+                            "id": 7204
+                        },
+                        {
+                            "name": "Permax B HPD",
+                            "url": "http://us.henry.com/fileadmin/pdf/literature/hpd/PERMAX-2-0-W-B-COMPONENT-HPD.pdf",
+                            "id": 7201
+                        },
+                        {
+                            "name": "SPFA EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1807/15/SPFA_101.1_TS_SPFInsulationClosedCellMediumDensity_10October2013.pdf",
+                            "id": 7196
+                        },
+                        {
+                            "name": "EcoBay B",
+                            "url": "http://www.idi-insulation.com/PDFs/spray-foam/materials/BaySeal/Ecobay%20CC%20MSDS.pdf",
+                            "id": 7190
+                        },
+                        {
+                            "name": "Tiger B",
+                            "url": "http://tigerfoam.com/sprayfoaminsulation/wp-content/themes/tigerfoam/downloads/TF-QuickCure-SDS_B.pdf",
+                            "id": 7186
+                        },
+                        {
+                            "name": "ProSeal B",
+                            "url": "http://www.icynene.com/sites/default/files/US%20content%20uploads/SDS/MDC200v3%20Resin%20US%20-%20July%201%202015.pdf",
+                            "id": 7183
+                        }
+                    ],
+                    "notes": "TCPP",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0517290456414
+                },
+                {
+                    "recId": 6032,
+                    "name": "Dibutyltin Dilaurate",
+                    "CASRN": "77-58-7",
+                    "massPct": 0.00336,
+                    "function": "catalyst",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "purple": [
+                            {
+                                "hazardId": "purple-955",
+                                "type": "purple",
+                                "name": "PBT",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "PU foams",
+                            "url": "https://books.google.com/books?id=okvLBQAAQBAJ&lpg=PA35&ots=E_pjVXbrVR&dq=%22closed%20cell%22%20amine%20%20%22tin%20catalyst%22&pg=PA35#v=onepage&q=%22closed%20cell%22%20amine%20%20%22tin%20catalyst%22&f=false",
+                            "id": 7228
+                        },
+                        {
+                            "name": "Honeywell patent",
+                            "url": "https://www.google.com/patents/EP2678391A2",
+                            "id": 7219
+                        },
+                        {
+                            "name": "Specialty plastics",
+                            "url": "https://books.google.com/books?id=NuckAgAAQBAJ&lpg=PA56&ots=eseZ_9DiVp&dq=tin%20catalyst%20in%20amine%20catalyst%20mix%20foam&pg=PA56#v=onepage&q=tin%20catalyst%20in%20amine%20catalyst%20mix%20foam&f=false",
+                            "id": 7227
+                        },
+                        {
+                            "name": "SPF Workbook",
+                            "url": "http://spraypolyurethane.org/Workbook",
+                            "id": 7226
+                        },
+                        {
+                            "name": "Air Products",
+                            "url": "http://www.google.com/patents/WO2014066596A1?cl=en",
+                            "id": 7225
+                        },
+                        {
+                            "name": "SPFA EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1807/15/SPFA_101.1_TS_SPFInsulationClosedCellMediumDensity_10October2013.pdf",
+                            "id": 7196
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.00164514522816
+                },
+                {
+                    "recId": 7241,
+                    "name": "Polysiloxanes, polyoxyalkylene-",
+                    "CASRN": "87244-72-2",
+                    "massPct": 0.0096,
+                    "function": "surfactant",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Honeywell patent",
+                            "url": "https://www.google.com/patents/EP2678391A2",
+                            "id": 7219
+                        },
+                        {
+                            "name": "Dabco MSDS",
+                            "url": "https://apdirect.airproducts.com/msds/DisplayPDF.aspx?docid=105080",
+                            "id": 7221
+                        },
+                        {
+                            "name": "FoamSulate B",
+                            "url": "http://www.premiumspray.com/wp-content/files/products/MSDS%20-%20Foamsulate%20210%20-%20B%20-%20Resin.pdf",
+                            "id": 7213
+                        },
+                        {
+                            "name": "FoamLok B",
+                            "url": "http://www.lapolla.com/wp-content/uploads/2015/07/msds-fl-2000-us.pdf",
+                            "id": 7208
+                        },
+                        {
+                            "name": "Heatlok B",
+                            "url": "http://www.demilec.com/documents/Tech-Library/Heatlok/Heatlok-B-Side-SDS.pdf",
+                            "id": 7207
+                        },
+                        {
+                            "name": "SprayTite B",
+                            "url": "http://spf.basf.com/DOCS/SPRAYTITE_180-F.pdf",
+                            "id": 7193
+                        },
+                        {
+                            "name": "BASF patent",
+                            "url": "https://www.google.com/patents/US7855240",
+                            "id": 7220
+                        },
+                        {
+                            "name": "ACC 2013",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/2333/8369285d92c7f179cdecd4cbc04147d49e5ec5a0.pdf",
+                            "id": 7216
+                        },
+                        {
+                            "name": "SPFA EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1807/15/SPFA_101.1_TS_SPFInsulationClosedCellMediumDensity_10October2013.pdf",
+                            "id": 7196
+                        },
+                        {
+                            "name": "Chemnet",
+                            "url": "http://www.21chemnet.com/cas/87244-72-2.html",
+                            "id": 7224
+                        },
+                        {
+                            "name": "Werner",
+                            "url": "http://www.wernerblank.com/polyur/chemistry/surfactants/cas87244722.htm",
+                            "id": 7223
+                        },
+                        {
+                            "name": "DC193",
+                            "url": "http://www.lookchem.com/cas-872/87244-72-2.html",
+                            "id": 7222
+                        },
+                        {
+                            "name": "Baysystems patent",
+                            "url": "https://www.google.com/patents/US7160930",
+                            "id": 7218
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.004700414937599999
+                },
+                {
+                    "recId": 7233,
+                    "name": "Polyether Polyol",
+                    "CASRN": "63641-64-5",
+                    "massPct": 0.14702,
+                    "function": "polyol",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "ACC 2013",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/2333/8369285d92c7f179cdecd4cbc04147d49e5ec5a0.pdf",
+                            "id": 7216
+                        },
+                        {
+                            "name": "Permax B HPD",
+                            "url": "http://us.henry.com/fileadmin/pdf/literature/hpd/PERMAX-2-0-W-B-COMPONENT-HPD.pdf",
+                            "id": 7201
+                        },
+                        {
+                            "name": "DuraTite B",
+                            "url": "http://www.rhinoapplicators.com/images/stories/Foam/BBI%20MSDS/MSDS%20Rhino%20DuraTite%202.0%20B%20Resin%20.pdf",
+                            "id": 7204
+                        },
+                        {
+                            "name": "Heatlok B",
+                            "url": "http://www.demilec.com/documents/Tech-Library/Heatlok/Heatlok-B-Side-SDS.pdf",
+                            "id": 7207
+                        },
+                        {
+                            "name": "CertaSpray B",
+                            "url": "http://www.certainteed.com/resources/30-50-051.pdf",
+                            "id": 7181
+                        }
+                    ],
+                    "notes": "This CASRN is for a representative polyether polyol. There will be variation of the exact polyols used between manufacturers.",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.07198489626312
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.489626556
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Propylene Oxide",
+            "CASRN": "75-56-9",
+            "massPct": null,
+            "function": "mannich polyol residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ethylene Glycol",
+            "CASRN": "107-21-1",
+            "massPct": null,
+            "function": "polyester polyol residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "2,5-Diaminotoluene",
+            "CASRN": "95-70-5",
+            "massPct": null,
+            "function": "polyether polyol residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Formaldehyde",
+            "CASRN": "50-00-0",
+            "massPct": 0.00005141078838,
+            "function": "mannich polyol residual",
+            "sources": [
+                {
+                    "name": "Bayer CPI",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/1221/5be64ae6180cb64590e6b7db69d2666c1f5d702f.pdf",
+                    "id": 7215
+                },
+                {
+                    "name": "DuraTite B",
+                    "url": "http://www.rhinoapplicators.com/images/stories/Foam/BBI%20MSDS/MSDS%20Rhino%20DuraTite%202.0%20B%20Resin%20.pdf",
+                    "id": 7204
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ethylene Oxide",
+            "CASRN": "75-21-8",
+            "massPct": null,
+            "function": "polyether and mannich polyol residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Phenol",
+            "CASRN": "108-95-2",
+            "massPct": null,
+            "function": "mannich polyol residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Diethylene Glycol",
+            "CASRN": "111-46-6",
+            "massPct": 0.007054121251,
+            "function": "polyester polyol residual/catalyst solvent",
+            "sources": [
+                {
+                    "name": "StyroFoam B",
+                    "url": "http://www.dow.com/webapps/msds/showpdf.aspx?id=090003e8804e240d",
+                    "id": 7195
+                },
+                {
+                    "name": "Tiger B",
+                    "url": "http://tigerfoam.com/sprayfoaminsulation/wp-content/themes/tigerfoam/downloads/TF-QuickCure-SDS_B.pdf",
+                    "id": 7186
+                },
+                {
+                    "name": "CertaSpray B",
+                    "url": "http://www.certainteed.com/resources/30-50-051.pdf",
+                    "id": 7181
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Dimethyl Terepthalate",
+            "CASRN": "120-61-6",
+            "massPct": null,
+            "function": "polyester polyol residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Hydrofluoric Acid",
+            "CASRN": "7664-39-3",
+            "massPct": null,
+            "function": "1,1,1,3,3-pentafluoropropane residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.31098248963655994,
+                    "contributors": [
+                        {
+                            "recId": 7229,
+                            "massPct": 0.30933734440839994,
+                            "childrenIds": [
+                                7229,
+                                7230
+                            ]
+                        },
+                        {
+                            "recId": 7232,
+                            "massPct": 0.00164514522816,
+                            "childrenIds": [
+                                7232,
+                                6032
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.36656000000811995,
+                    "contributors": [
+                        {
+                            "recId": 7229,
+                            "massPct": 0.30933734440839994,
+                            "childrenIds": [
+                                7229,
+                                7230
+                            ]
+                        },
+                        {
+                            "recId": 7232,
+                            "massPct": 0.0038484647301600004,
+                            "childrenIds": [
+                                7232,
+                                7237
+                            ]
+                        },
+                        {
+                            "recId": 7232,
+                            "massPct": 0.0517290456414,
+                            "childrenIds": [
+                                7232,
+                                7239
+                            ]
+                        },
+                        {
+                            "recId": 7232,
+                            "massPct": 0.00164514522816,
+                            "childrenIds": [
+                                7232,
+                                6032
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.5103734439999998,
+                    "contributors": [
+                        {
+                            "recId": 7229,
+                            "massPct": 0.30933734440839994,
+                            "childrenIds": [
+                                7229,
+                                7230
+                            ]
+                        },
+                        {
+                            "recId": 7229,
+                            "massPct": 0.20103609959159996,
+                            "childrenIds": [
+                                7229,
+                                7231
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.5103734439999998,
+                    "contributors": [
+                        {
+                            "recId": 7229,
+                            "massPct": 0.30933734440839994,
+                            "childrenIds": [
+                                7229,
+                                7230
+                            ]
+                        },
+                        {
+                            "recId": 7229,
+                            "massPct": 0.20103609959159996,
+                            "childrenIds": [
+                                7229,
+                                7231
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-567",
+                    "type": "orange",
+                    "name": "Cancer",
+                    "massPct": 0.5103734439999998,
+                    "contributors": [
+                        {
+                            "recId": 7229,
+                            "massPct": 0.30933734440839994,
+                            "childrenIds": [
+                                7229,
+                                7230
+                            ]
+                        },
+                        {
+                            "recId": 7229,
+                            "massPct": 0.20103609959159996,
+                            "childrenIds": [
+                                7229,
+                                7231
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-576",
+                    "type": "orange",
+                    "name": "Skin Irritation",
+                    "massPct": 0.01026257261376,
+                    "contributors": [
+                        {
+                            "recId": 7232,
+                            "massPct": 0.0064141078836,
+                            "childrenIds": [
+                                7232,
+                                7238
+                            ]
+                        },
+                        {
+                            "recId": 7232,
+                            "massPct": 0.0038484647301600004,
+                            "childrenIds": [
+                                7232,
+                                7237
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-575",
+                    "type": "orange",
+                    "name": "Eye Irritation",
+                    "massPct": 0.01026257261376,
+                    "contributors": [
+                        {
+                            "recId": 7232,
+                            "massPct": 0.0064141078836,
+                            "childrenIds": [
+                                7232,
+                                7238
+                            ]
+                        },
+                        {
+                            "recId": 7232,
+                            "massPct": 0.0038484647301600004,
+                            "childrenIds": [
+                                7232,
+                                7237
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-569",
+                    "type": "orange",
+                    "name": "Reproductive",
+                    "massPct": 0.0517290456414,
+                    "contributors": [
+                        {
+                            "recId": 7232,
+                            "massPct": 0.0517290456414,
+                            "childrenIds": [
+                                7232,
+                                7239
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.00164514522816,
+                    "contributors": [
+                        {
+                            "recId": 7232,
+                            "massPct": 0.00164514522816,
+                            "childrenIds": [
+                                7232,
+                                6032
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "purple": [
+                {
+                    "hazardId": "purple-955",
+                    "type": "purple",
+                    "name": "PBT",
+                    "massPct": 0.053374190869559995,
+                    "contributors": [
+                        {
+                            "recId": 7232,
+                            "massPct": 0.0517290456414,
+                            "childrenIds": [
+                                7232,
+                                7239
+                            ]
+                        },
+                        {
+                            "recId": 7232,
+                            "massPct": 0.00164514522816,
+                            "childrenIds": [
+                                7232,
+                                6032
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The cradle-to-gate system boundary includes upstream production of material inputs, inbound transport, and production at the manufacturing facility. The insulation is applied on-site and therefore there is no burden from the blowing agent being released during installation or off-gassing during the use stage. ",
+        "gabiDatasets": [
+            {
+                "name": "US: Spray Foam Life Cycle - Medium Density 1 SPFA (modified for CP's specific Part B composition)"
+            }
+        ],
+        "foregroundDataSource": "SPFA, PIMA",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "Assumes no blowing agent remains in product at decommisioning, remainder of product (94%) sent to landfill (plastic).",
+        "inUseNotes": "1.06% released as NMVOC (unspecified); 4.70% blowing agent released as 1,1,1,3,3-pentafluoropropane; 1.07% blowing agent released as water vapor",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "1.05E-02"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "9.72E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "3.08E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.28E-07"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.33E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "6.18E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.03E+01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "2.94E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "0.00E+00"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "6.83E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "2.53E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.72E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.06E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "6.16E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "7.75E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP121",
+    "name": "Spray Foam Insulation",
+    "altNames": [
+        "Closed cell polyurethane insulation",
+        "SPF",
+        "Polyurethane spray foam insulation"
+    ],
+    "uniformats": [
+        {
+            "id": "B2010",
+            "name": "Exterior Walls"
+        },
+        {
+            "id": "B1020",
+            "name": "Roof Construction"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "07-21-29",
+            "name": "Sprayed Insulation"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Spray foam insulation (SPF) is a site applied foam insulation for residential, commercial, and industrial applications.  SPF is a two-part polyurethane based foam and can be used in place of other insulating materials like batt insulation (fiberglass, mineral fiber) and loose fill insulation.  SPF can be either open or closed cell and both can be used to create a continuous air barrier.  Despite its higher cost, closed cell insulation has gained larger market share due to its higher R value and vapor barrier characteristics.  Closed cell SPF can be used in various applications including interior or exterior walls, attics, foundations, HVAC ducts, etc.  Since these products are reacted and applied on site, special care must be taken to avoid occupational exposure to the isocyanates, amines, blowing agents, etc. that volatilize during the application process.  Special training is required for applicators of SPF, and there is a delay period before unprotected individuals can re-enter the application area. Offgassing from the SPF can occur for extended periods after installation.  There is continued debate on the definition of full cure for SPF insulation and the amount of time needed for harmful levels of emissions to recede is highly contested.",
+    "sources": [
+        {
+            "name": "PU foams",
+            "url": "https://books.google.com/books?id=okvLBQAAQBAJ&lpg=PA35&ots=E_pjVXbrVR&dq=%22closed%20cell%22%20amine%20%20%22tin%20catalyst%22&pg=PA35#v=onepage&q=%22closed%20cell%22%20amine%20%20%22tin%20catalyst%22&f=false",
+            "id": 7228
+        },
+        {
+            "name": "Specialty plastics",
+            "url": "https://books.google.com/books?id=NuckAgAAQBAJ&lpg=PA56&ots=eseZ_9DiVp&dq=tin%20catalyst%20in%20amine%20catalyst%20mix%20foam&pg=PA56#v=onepage&q=tin%20catalyst%20in%20amine%20catalyst%20mix%20foam&f=false",
+            "id": 7227
+        },
+        {
+            "name": "CertaSpray A",
+            "url": "http://www.certainteed.com/resources/30-50-048.pdf",
+            "id": 7179
+        },
+        {
+            "name": "CertaSpray TDS",
+            "url": "http://www.certainteed.com/resources/30-50-011.pdf",
+            "id": 7180
+        },
+        {
+            "name": "CertaSpray B",
+            "url": "http://www.certainteed.com/resources/30-50-051.pdf",
+            "id": 7181
+        },
+        {
+            "name": "ProSeal A",
+            "url": "http://www.icynene.com/sites/default/files/US%20content%20uploads/SDS/A%20side%20for%20Proseal%20and%20Classic%20Max%20-%20July%201%202015.pdf",
+            "id": 7182
+        },
+        {
+            "name": "ProSeal B",
+            "url": "http://www.icynene.com/sites/default/files/US%20content%20uploads/SDS/MDC200v3%20Resin%20US%20-%20July%201%202015.pdf",
+            "id": 7183
+        },
+        {
+            "name": "ProSeal TDS",
+            "url": "http://www.icynene.com/sites/default/files/US%20content%20uploads/Proseal/ProSeal%20-%20USA%20Technical%20Product%20Data%20Sheet%20June%202015.pdf",
+            "id": 7184
+        },
+        {
+            "name": "Tiger A",
+            "url": "http://tigerfoam.com/sprayfoaminsulation/wp-content/themes/tigerfoam/downloads/TF-QuickCure-SDS_A.pdf",
+            "id": 7185
+        },
+        {
+            "name": "Tiger B",
+            "url": "http://tigerfoam.com/sprayfoaminsulation/wp-content/themes/tigerfoam/downloads/TF-QuickCure-SDS_B.pdf",
+            "id": 7186
+        },
+        {
+            "name": "SPF",
+            "url": "http://www.spraypolyurethane.org/spf_basics",
+            "id": 7187
+        },
+        {
+            "name": "EcoBay TDS",
+            "url": "http://www.polyurethanes.bayer.com/Handler/GenericForceDownload.ashx?itemID=C26F81AC909F435C9E819A3C51258FAA&lang=en",
+            "id": 7188
+        },
+        {
+            "name": "EcoBay A",
+            "url": "http://www.polysource.ca/chemical_systems/ECOBAY%20CC%20CAN%20MSDS%20-%20A%20%28ISO%29.pdf",
+            "id": 7189
+        },
+        {
+            "name": "EcoBay B",
+            "url": "http://www.idi-insulation.com/PDFs/spray-foam/materials/BaySeal/Ecobay%20CC%20MSDS.pdf",
+            "id": 7190
+        },
+        {
+            "name": "SprayTite TDS",
+            "url": "http://spf.basf.com/DOCS/ST_180~BASF~050613.pdf",
+            "id": 7191
+        },
+        {
+            "name": "SprayTite A",
+            "url": "http://spf.basf.com/DOCS/ELASTOSPRAY_8000A_ISOCYANATE.pdf",
+            "id": 7192
+        },
+        {
+            "name": "SprayTite B",
+            "url": "http://spf.basf.com/DOCS/SPRAYTITE_180-F.pdf",
+            "id": 7193
+        },
+        {
+            "name": "StyroFoam TDS",
+            "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_0887/0901b8038088707e.pdf?filepath=styrofoam/pdfs/noreg/179-04063.pdf&fromPage=GetDoc",
+            "id": 7194
+        },
+        {
+            "name": "StyroFoam B",
+            "url": "http://www.dow.com/webapps/msds/showpdf.aspx?id=090003e8804e240d",
+            "id": 7195
+        },
+        {
+            "name": "SPFA EPD",
+            "url": "http://productguide.ulenvironment.com/productDocuments/1807/15/SPFA_101.1_TS_SPFInsulationClosedCellMediumDensity_10October2013.pdf",
+            "id": 7196
+        },
+        {
+            "name": "Permax TDS",
+            "url": "http://us.henry.com/fileadmin/pdf/current/tds/RT204519_techdata.pdf",
+            "id": 7197
+        },
+        {
+            "name": "Permax A",
+            "url": "http://us.henry.com/fileadmin/pdf/current/msds/RT1001_Comp_A_SDS.pdf",
+            "id": 7198
+        },
+        {
+            "name": "Permax B",
+            "url": "http://us.henry.com/fileadmin/pdf/current/msds/RT204518_msds.pdf",
+            "id": 7199
+        },
+        {
+            "name": "Permax A HPD",
+            "url": "http://us.henry.com/fileadmin/pdf/literature/hpd/PERMAX-A-COMPONENT-HPD.pdf",
+            "id": 7200
+        },
+        {
+            "name": "Permax B HPD",
+            "url": "http://us.henry.com/fileadmin/pdf/literature/hpd/PERMAX-2-0-W-B-COMPONENT-HPD.pdf",
+            "id": 7201
+        },
+        {
+            "name": "DuraTite TDS",
+            "url": "http://www.rhinoapplicators.com/images/stories/Foam/BBI%20TDS/DuraTite%202pt0%20TDS.pdf",
+            "id": 7202
+        },
+        {
+            "name": "DuraTite A",
+            "url": "http://www.rhinoapplicators.com/images/stories/Foam/BBI%20MSDS/MSDS%20Rhino%20DuraTite%20Iso.pdf",
+            "id": 7203
+        },
+        {
+            "name": "DuraTite B",
+            "url": "http://www.rhinoapplicators.com/images/stories/Foam/BBI%20MSDS/MSDS%20Rhino%20DuraTite%202.0%20B%20Resin%20.pdf",
+            "id": 7204
+        },
+        {
+            "name": "Heatlok TDS",
+            "url": "http://www.demilec.com/documents/Tech-Library/Heatlok/Heatlok-TDS.pdf",
+            "id": 7205
+        },
+        {
+            "name": "Heatlok A",
+            "url": "http://www.demilec.com/documents/Tech-Library/A-PMDI-SDS.pdf",
+            "id": 7206
+        },
+        {
+            "name": "Heatlok B",
+            "url": "http://www.demilec.com/documents/Tech-Library/Heatlok/Heatlok-B-Side-SDS.pdf",
+            "id": 7207
+        },
+        {
+            "name": "FoamLok B",
+            "url": "http://www.lapolla.com/wp-content/uploads/2015/07/msds-fl-2000-us.pdf",
+            "id": 7208
+        },
+        {
+            "name": "InsulBloc TDS",
+            "url": "http://www.ncfi.com/content/uploads/2014/07/11-017-InsulBloc-TDS-and-Fact-Sheet-042415.pdf",
+            "id": 7209
+        },
+        {
+            "name": "InsulBloc",
+            "url": "http://www.ncfi.com/content/uploads/2014/07/11-017-GM-series.pdf",
+            "id": 7210
+        },
+        {
+            "name": "FoamSulate TDS",
+            "url": "http://www.premiumspray.com/wp-content/files/products/PSP_FS210_TechData.pdf",
+            "id": 7211
+        },
+        {
+            "name": "FoamSulate A",
+            "url": "http://www.premiumspray.com/wp-content/files/products/MSDS%20-%20Foamsulate%20-%20A%20-%20ISO.pdf",
+            "id": 7212
+        },
+        {
+            "name": "FoamSulate B",
+            "url": "http://www.premiumspray.com/wp-content/files/products/MSDS%20-%20Foamsulate%20210%20-%20B%20-%20Resin.pdf",
+            "id": 7213
+        },
+        {
+            "name": "SPF Market",
+            "url": "https://www.otciq.com/otciq/ajax/showFinancialReportById.pdf?id=102327",
+            "id": 7214
+        },
+        {
+            "name": "Bayer CPI",
+            "url": "https://www.pharosproject.net/uploads/files/sources/1221/5be64ae6180cb64590e6b7db69d2666c1f5d702f.pdf",
+            "id": 7215
+        },
+        {
+            "name": "ACC 2013",
+            "url": "https://www.pharosproject.net/uploads/files/sources/2333/8369285d92c7f179cdecd4cbc04147d49e5ec5a0.pdf",
+            "id": 7216
+        },
+        {
+            "name": "CPSC",
+            "url": "http://www.cpsc.gov/PageFiles/129845/amine.pdf",
+            "id": 7217
+        },
+        {
+            "name": "Baysystems patent",
+            "url": "https://www.google.com/patents/US7160930",
+            "id": 7218
+        },
+        {
+            "name": "Honeywell patent",
+            "url": "https://www.google.com/patents/EP2678391A2",
+            "id": 7219
+        },
+        {
+            "name": "BASF patent",
+            "url": "https://www.google.com/patents/US7855240",
+            "id": 7220
+        },
+        {
+            "name": "Dabco MSDS",
+            "url": "https://apdirect.airproducts.com/msds/DisplayPDF.aspx?docid=105080",
+            "id": 7221
+        },
+        {
+            "name": "DC193",
+            "url": "http://www.lookchem.com/cas-872/87244-72-2.html",
+            "id": 7222
+        },
+        {
+            "name": "Werner",
+            "url": "http://www.wernerblank.com/polyur/chemistry/surfactants/cas87244722.htm",
+            "id": 7223
+        },
+        {
+            "name": "Chemnet",
+            "url": "http://www.21chemnet.com/cas/87244-72-2.html",
+            "id": 7224
+        },
+        {
+            "name": "Air Products",
+            "url": "http://www.google.com/patents/WO2014066596A1?cl=en",
+            "id": 7225
+        },
+        {
+            "name": "SPF Workbook",
+            "url": "http://spraypolyurethane.org/Workbook",
+            "id": 7226
+        }
+    ]
+}

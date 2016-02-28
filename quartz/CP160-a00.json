@@ -1,0 +1,988 @@
+{
+    "CPID": "CP160",
+    "timestamp": 1452102155293,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 6171,
+            "name": "Isobutane",
+            "CASRN": "75-28-5",
+            "massPct": 0.056497,
+            "function": "blowing agent",
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Armacell EP2671911A1",
+                    "url": "https://www.google.com/patents/EP2671911A1",
+                    "id": 6149
+                },
+                {
+                    "name": "Pregis Polyethylene Foam Natural MSDS",
+                    "url": "http://www.menards.com/msds/106242_001.pdf",
+                    "id": 6163
+                },
+                {
+                    "name": "Uitenbroek 2008",
+                    "url": "http://www.insulation.org/articles/article.cfm?id=IO080405",
+                    "id": 6158
+                },
+                {
+                    "name": "Wang et al 2010",
+                    "url": "http://onlinelibrary.wiley.com/doi/10.1002/pen.21803/abstract",
+                    "id": 6166
+                },
+                {
+                    "name": "Pregis Polyethylene Foam MSDS",
+                    "url": "http://foammart.com/sheets/Polyethylene.pdf",
+                    "id": 6162
+                },
+                {
+                    "name": "Armacell US7854240",
+                    "url": "https://www.google.com/patents/US7854240",
+                    "id": 6150
+                },
+                {
+                    "name": "Kembla MSDS",
+                    "url": "http://www.kembla.com/assets/Uploads/MSDS/Kembla-Pair-Coil-New-Insulation-MSDS.pdf",
+                    "id": 6156
+                },
+                {
+                    "name": "Nomafoam MSDS",
+                    "url": "http://www.nomacoinsulation.com/pdf/msds/MSDS%20PE%20062911_002.pdf",
+                    "id": 6146
+                },
+                {
+                    "name": "Tundra MSDS White",
+                    "url": "http://www.tundrafoam.com/uploads/file/SAFETY%20DATA%20SHEET%20(PE%20FOAM%20-WHITEWITH%20FR)%20-%20Apr%202015.pdf",
+                    "id": 6142
+                },
+                {
+                    "name": "Tundra MSDS Black",
+                    "url": "http://www.tundrafoam.com/uploads/file/SAFETY%20DATA%20SHEET%20(PE%20FOAM%20-BLACK%20WITH%20FR)%20-%20Apr%202015.pdf",
+                    "id": 6141
+                },
+                {
+                    "name": "Tubolit MSDS",
+                    "url": "http://www.industrialinsulation.com/images/tubolit_polyethylene_msds_2014.pdf",
+                    "id": 6139
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.056497
+        },
+        {
+            "recId": 1535,
+            "name": "Talc",
+            "CASRN": "14807-96-6",
+            "massPct": 0.02259887006,
+            "function": "nucleating agent",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Wang et al 2010",
+                    "url": "http://onlinelibrary.wiley.com/doi/10.1002/pen.21803/abstract",
+                    "id": 6166
+                },
+                {
+                    "name": "Armacell EP2671911A1",
+                    "url": "https://www.google.com/patents/EP2671911A1",
+                    "id": 6149
+                },
+                {
+                    "name": "Pregis Polyethylene Foam MSDS",
+                    "url": "http://foammart.com/sheets/Polyethylene.pdf",
+                    "id": 6162
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.02259887006
+        },
+        {
+            "recId": 1530,
+            "name": "Carbon Black",
+            "CASRN": "1333-86-4",
+            "massPct": 0.02354048964,
+            "function": "pigment",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Climaflex MSDS 2004",
+                    "url": "http://www.insulationexpress.co.uk/documents/MSDS%20Climaflex%20Polyolefin1.pdf",
+                    "id": 6154
+                },
+                {
+                    "name": "Therma-cel Product Sheet",
+                    "url": "http://www.nomacoinsulation.com/pdf/product%20information/therma-cel/NI-0015-PS-0712%20thermacel.pdf",
+                    "id": 6145
+                },
+                {
+                    "name": "Thermotec 4-zero Brochure",
+                    "url": "http://thermotec.com.au/wp-content/uploads/2014/03/126624-THERMOTEC-AUST-Thermal-Pipe-4-Zero-A4-4pp.pdf",
+                    "id": 6160
+                },
+                {
+                    "name": "Tubolit MSDS",
+                    "url": "http://www.industrialinsulation.com/images/tubolit_polyethylene_msds_2014.pdf",
+                    "id": 6139
+                },
+                {
+                    "name": "E-therm MSDS",
+                    "url": "http://thermotec.com.au/wp-content/uploads/2013/06/E-therm-MSDS.pdf",
+                    "id": 6161
+                },
+                {
+                    "name": "Uitenbroek 2008",
+                    "url": "http://www.insulation.org/articles/article.cfm?id=IO080405",
+                    "id": 6158
+                },
+                {
+                    "name": "Pregis Polyethylene Foam Natural MSDS",
+                    "url": "http://www.menards.com/msds/106242_001.pdf",
+                    "id": 6163
+                },
+                {
+                    "name": "Tundra MSDS Black",
+                    "url": "http://www.tundrafoam.com/uploads/file/SAFETY%20DATA%20SHEET%20(PE%20FOAM%20-BLACK%20WITH%20FR)%20-%20Apr%202015.pdf",
+                    "id": 6141
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.02354048964
+        },
+        {
+            "recId": 6173,
+            "name": "Glycerol Monostearate",
+            "CASRN": "31566-31-1",
+            "massPct": 0.01412429379,
+            "function": "aging modifier",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Pregis Polyethylene Foam Natural MSDS",
+                    "url": "http://www.menards.com/msds/106242_001.pdf",
+                    "id": 6163
+                },
+                {
+                    "name": "Kembla MSDS",
+                    "url": "http://www.kembla.com/assets/Uploads/MSDS/Kembla-Pair-Coil-New-Insulation-MSDS.pdf",
+                    "id": 6156
+                },
+                {
+                    "name": "Wang et al 2010",
+                    "url": "http://onlinelibrary.wiley.com/doi/10.1002/pen.21803/abstract",
+                    "id": 6166
+                },
+                {
+                    "name": "Pregis Polyethylene Foam MSDS",
+                    "url": "http://foammart.com/sheets/Polyethylene.pdf",
+                    "id": 6162
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.01412429379
+        },
+        {
+            "recId": 6859,
+            "name": "Antimony Trioxide",
+            "CASRN": "1309-64-4",
+            "massPct": 0.04708097928,
+            "function": "flame retardant",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Armacell EP2671911A1",
+                    "url": "https://www.google.com/patents/EP2671911A1",
+                    "id": 6149
+                },
+                {
+                    "name": "Armacell US7854240",
+                    "url": "https://www.google.com/patents/US7854240",
+                    "id": 6150
+                },
+                {
+                    "name": "Thermotec 4-zero Brochure",
+                    "url": "http://thermotec.com.au/wp-content/uploads/2014/03/126624-THERMOTEC-AUST-Thermal-Pipe-4-Zero-A4-4pp.pdf",
+                    "id": 6160
+                },
+                {
+                    "name": "Pregis Polyethylene Foam MSDS",
+                    "url": "http://foammart.com/sheets/Polyethylene.pdf",
+                    "id": 6162
+                },
+                {
+                    "name": "Tundra MSDS White",
+                    "url": "http://www.tundrafoam.com/uploads/file/SAFETY%20DATA%20SHEET%20(PE%20FOAM%20-WHITEWITH%20FR)%20-%20Apr%202015.pdf",
+                    "id": 6142
+                },
+                {
+                    "name": "Tundra MSDS Black",
+                    "url": "http://www.tundrafoam.com/uploads/file/SAFETY%20DATA%20SHEET%20(PE%20FOAM%20-BLACK%20WITH%20FR)%20-%20Apr%202015.pdf",
+                    "id": 6141
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.04708097928
+        },
+        {
+            "recId": 6944,
+            "name": "Polyethylene",
+            "CASRN": "9002-88-4",
+            "massPct": 0.8361581921,
+            "function": "resin",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Pregis Polyethylene Foam MSDS",
+                    "url": "http://foammart.com/sheets/Polyethylene.pdf",
+                    "id": 6162
+                },
+                {
+                    "name": "Pregis Polyethylene Foam Natural MSDS",
+                    "url": "http://www.menards.com/msds/106242_001.pdf",
+                    "id": 6163
+                },
+                {
+                    "name": "E-therm MSDS",
+                    "url": "http://thermotec.com.au/wp-content/uploads/2013/06/E-therm-MSDS.pdf",
+                    "id": 6161
+                },
+                {
+                    "name": "Uitenbroek 2008",
+                    "url": "http://www.insulation.org/articles/article.cfm?id=IO080405",
+                    "id": 6158
+                },
+                {
+                    "name": "Armacell US7854240",
+                    "url": "https://www.google.com/patents/US7854240",
+                    "id": 6150
+                },
+                {
+                    "name": "Kembla MSDS",
+                    "url": "http://www.kembla.com/assets/Uploads/MSDS/Kembla-Pair-Coil-New-Insulation-MSDS.pdf",
+                    "id": 6156
+                },
+                {
+                    "name": "Nomafoam MSDS",
+                    "url": "http://www.nomacoinsulation.com/pdf/msds/MSDS%20PE%20062911_002.pdf",
+                    "id": 6146
+                },
+                {
+                    "name": "Tundra MSDS White",
+                    "url": "http://www.tundrafoam.com/uploads/file/SAFETY%20DATA%20SHEET%20(PE%20FOAM%20-WHITEWITH%20FR)%20-%20Apr%202015.pdf",
+                    "id": 6142
+                },
+                {
+                    "name": "Tundra MSDS Black",
+                    "url": "http://www.tundrafoam.com/uploads/file/SAFETY%20DATA%20SHEET%20(PE%20FOAM%20-BLACK%20WITH%20FR)%20-%20Apr%202015.pdf",
+                    "id": 6141
+                },
+                {
+                    "name": "Tubolit MSDS",
+                    "url": "http://www.industrialinsulation.com/images/tubolit_polyethylene_msds_2014.pdf",
+                    "id": 6139
+                }
+            ],
+            "notes": "Polyethylene homopolymer",
+            "lca": "yes",
+            "massPctOfTotal": 0.8361581921
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Polycyclic Aromatic Hydrocarbons",
+            "CASRN": "130498-29-2",
+            "massPct": 0.000004708097928,
+            "function": "carbon black residual",
+            "sources": [
+                {
+                    "name": "SIDS Carbon black",
+                    "url": "webnet.oecd.org/hpv/ui/handler.axd?id=5a53a150-3bb8-4296-9286-ee930e09de8c",
+                    "id": 5081
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Zinc Oxide",
+            "CASRN": "1314-13-2",
+            "massPct": null,
+            "function": "glycerol monostearate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "red": [
+                {
+                    "hazardId": "red-571",
+                    "type": "red",
+                    "name": "Mutagenicity",
+                    "massPct": 0.056497,
+                    "contributors": [
+                        {
+                            "recId": 6171,
+                            "massPct": 0.056497,
+                            "childrenIds": [
+                                6171
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-567",
+                    "type": "red",
+                    "name": "Cancer",
+                    "massPct": 0.10357797928,
+                    "contributors": [
+                        {
+                            "recId": 6171,
+                            "massPct": 0.056497,
+                            "childrenIds": [
+                                6171
+                            ]
+                        },
+                        {
+                            "recId": 6859,
+                            "massPct": 0.04708097928,
+                            "childrenIds": [
+                                6859
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.02354048964,
+                    "contributors": [
+                        {
+                            "recId": 1530,
+                            "massPct": 0.02354048964,
+                            "childrenIds": [
+                                1530
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.04708097928,
+                    "contributors": [
+                        {
+                            "recId": 6859,
+                            "massPct": 0.04708097928,
+                            "childrenIds": [
+                                6859
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-568",
+                    "type": "red",
+                    "name": "Developmental",
+                    "massPct": 0.04708097928,
+                    "contributors": [
+                        {
+                            "recId": 6859,
+                            "massPct": 0.04708097928,
+                            "childrenIds": [
+                                6859
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "orange": [
+                {
+                    "hazardId": "orange-567",
+                    "type": "orange",
+                    "name": "Cancer",
+                    "massPct": 0.02259887006,
+                    "contributors": [
+                        {
+                            "recId": 1535,
+                            "massPct": 0.02259887006,
+                            "childrenIds": [
+                                1535
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.02354048964,
+                    "contributors": [
+                        {
+                            "recId": 1530,
+                            "massPct": 0.02354048964,
+                            "childrenIds": [
+                                1530
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.04708097928,
+                    "contributors": [
+                        {
+                            "recId": 6859,
+                            "massPct": 0.04708097928,
+                            "childrenIds": [
+                                6859
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.8361581921,
+                    "contributors": [
+                        {
+                            "recId": 6944,
+                            "massPct": 0.8361581921,
+                            "childrenIds": [
+                                6944
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.8361581921,
+                    "contributors": [
+                        {
+                            "recId": 6944,
+                            "massPct": 0.8361581921,
+                            "childrenIds": [
+                                6944
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "Includes upstream material production, transport to manufacturing, energy and fugitive emissions (from blowing agent) associated with manufacturing. Packaging is excluded. Any blowing agent emissions during installation or use phases are excluded, and could represent a significant impact due to the high SFP of the blowing agent. ",
+        "gabiDatasets": [
+            {
+                "name": "US: Carbon black (furnace black, general purpose) PE [Organic intermediate products]"
+            },
+            {
+                "name": "US: Landfilling of plastic waste PE <p-agg> [Landfill]"
+            },
+            {
+                "name": "EU-27: Talcum powder (filler) PE [Minerals production]"
+            },
+            {
+                "name": "EU-27: Calcium stearate (stabilizer) PE [Organic intermediate products]"
+            },
+            {
+                "name": "CN: Antimony PE [Metal production]"
+            },
+            {
+                "name": "US: Isobutane (from n-butane) PE [Organic intermediate products]"
+            },
+            {
+                "name": "GLO: Compressed air 7 bar (medium power consumption) PE <u-so> [Mechanical energy generation]"
+            },
+            {
+                "name": "US: Thermal energy from natural gas (eGrid) PE [Thermal energy from natural gas]"
+            },
+            {
+                "name": "US: Lubricants at refinery PE [Refinery products]"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid) PE [Electricity grid mix]"
+            },
+            {
+                "name": "US: Polyethylene Low Density Granulate (LDPE/PE-LD) PE [Plastic production]"
+            },
+            {
+                "name": "US: Diesel mix at filling station PE [Filling station]"
+            },
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6 PE <u-so> [Truck]"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "Assumes all blowing agent released before decommisioning, remaining amount landfilled (84% plastic, 11% inert)",
+        "inUseNotes": "5.65% blowing agent released as isobutane",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "3.67E-02"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "7.16E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "3.49E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "4.33E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.99E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "9.29E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "6.95E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "0.00E+00"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "6.31E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "2.26E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.73E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.06E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "5.98E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "7.76E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP160",
+    "name": "Pipe Insulation",
+    "altNames": [
+        "Polyethylene pipe insulation",
+        "Polyolefin pipe insulation "
+    ],
+    "uniformats": [
+        {
+            "id": "D2060",
+            "name": "Process Support Plumbing Systems"
+        },
+        {
+            "id": "D2030",
+            "name": "Building Support Plumbing Systems"
+        },
+        {
+            "id": "D2020",
+            "name": "Sanitary Drainage"
+        },
+        {
+            "id": "D2010",
+            "name": "Domestic Water Distribution"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "22-07-19",
+            "name": "Plumbing Piping Insulation"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Polyethylene pipe insulation is composed of a closed-cell polyethylene foam typically sold in a tube sleeve of varying pipe sizes and thicknesses. The polyethylene foam is produced by extruding polyethylene resin with other additives such as aging modifiers, nucleating agents, pigments and flame retardants. Once mixed, a hydrocarbon blowing agent is injected under high pressure into the extruder and the blended material is pushed through a die at the end of the extruder, forming a tube. Upon exiting the extruder, the blowing agent pressure normalizes, causing the mixed resin to expand. Once the foam cools and solidifies, the insulation can be packaged as an unslit tube, with a slit, or with a slit and pre-applied adhesive. This CP is for a pipe insulation product without a pre-applied adhesive.",
+    "sources": [
+        {
+            "name": "SIDS Carbon black",
+            "url": "webnet.oecd.org/hpv/ui/handler.axd?id=5a53a150-3bb8-4296-9286-ee930e09de8c",
+            "id": 5081
+        },
+        {
+            "name": "Turbolit SS TDS",
+            "url": "http://www.industrialinsulation.com/images/TubolitSS_data_2015.pdf",
+            "id": 6137
+        },
+        {
+            "name": "Armacell Brochure",
+            "url": "http://www.insulation.org/mtl/pdfs/000420_442.pdf",
+            "id": 6138
+        },
+        {
+            "name": "Tubolit MSDS",
+            "url": "http://www.industrialinsulation.com/images/tubolit_polyethylene_msds_2014.pdf",
+            "id": 6139
+        },
+        {
+            "name": "Tundra TDS",
+            "url": "http://www.tundrafoam.com/uploads/file/2_ITP%20Sellsheets_PolyPipe_Fittings.pdf",
+            "id": 6140
+        },
+        {
+            "name": "Tundra MSDS Black",
+            "url": "http://www.tundrafoam.com/uploads/file/SAFETY%20DATA%20SHEET%20(PE%20FOAM%20-BLACK%20WITH%20FR)%20-%20Apr%202015.pdf",
+            "id": 6141
+        },
+        {
+            "name": "Tundra MSDS White",
+            "url": "http://www.tundrafoam.com/uploads/file/SAFETY%20DATA%20SHEET%20(PE%20FOAM%20-WHITEWITH%20FR)%20-%20Apr%202015.pdf",
+            "id": 6142
+        },
+        {
+            "name": "BC Mechanical Insulation Guide",
+            "url": "http://mispec.org/wp-content/uploads/2013/03/Mechanical-Insulation-Guide-for-BC-Aug-7-2012.pdf ",
+            "id": 6143
+        },
+        {
+            "name": "Therma-cel",
+            "url": "http://www.nomacoinsulation.com/therma-cel-seam-seal.php",
+            "id": 6144
+        },
+        {
+            "name": "Therma-cel Product Sheet",
+            "url": "http://www.nomacoinsulation.com/pdf/product%20information/therma-cel/NI-0015-PS-0712%20thermacel.pdf",
+            "id": 6145
+        },
+        {
+            "name": "Nomafoam MSDS",
+            "url": "http://www.nomacoinsulation.com/pdf/msds/MSDS%20PE%20062911_002.pdf",
+            "id": 6146
+        },
+        {
+            "name": "Therma-cel Tarboro GreenCircle",
+            "url": "http://www.nomacoinsulation.com/pdf/product%20information/Nomaco%20Insulation%20-%20Tarboro%2014-0083_thermacel.pdf",
+            "id": 6147
+        },
+        {
+            "name": "Therma-cel Yukon GreenCircle",
+            "url": "http://www.nomacoinsulation.com/pdf/product%20information/Nomaco%20Insulation%20-%20Yukon%2014-0086_thermacel.pdf",
+            "id": 6148
+        },
+        {
+            "name": "Armacell EP2671911A1",
+            "url": "https://www.google.com/patents/EP2671911A1",
+            "id": 6149
+        },
+        {
+            "name": "Armacell US7854240",
+            "url": "https://www.google.com/patents/US7854240",
+            "id": 6150
+        },
+        {
+            "name": "Climaflex TDS",
+            "url": "http://www.insulationexpress.co.uk/documents/Climaflex%20Product%20Literature.pdf",
+            "id": 6151
+        },
+        {
+            "name": "Climaflex Catalog",
+            "url": "http://www.nmc.be/d/25_8000/1/technical-insulation/ClimaflexSystem_Katalog_EN_BE.PDF",
+            "id": 6152
+        },
+        {
+            "name": "Climaflex XT TDS",
+            "url": "http://www.nmc.be/d/25_8000/1/technical-insulation/CLIMAFLEX_XT_EN_BE.pdf",
+            "id": 6153
+        },
+        {
+            "name": "Climaflex MSDS 2004",
+            "url": "http://www.insulationexpress.co.uk/documents/MSDS%20Climaflex%20Polyolefin1.pdf",
+            "id": 6154
+        },
+        {
+            "name": "NMC Pipe insulation brochure",
+            "url": "http://www.insulationexpress.co.uk/documents/NMC%20Insulation%20Brochure%20EN.pdf",
+            "id": 6155
+        },
+        {
+            "name": "Kembla MSDS",
+            "url": "http://www.kembla.com/assets/Uploads/MSDS/Kembla-Pair-Coil-New-Insulation-MSDS.pdf",
+            "id": 6156
+        },
+        {
+            "name": "WBDG Materials",
+            "url": "http://www.wbdg.org/design/midg_materials.php",
+            "id": 6157
+        },
+        {
+            "name": "Uitenbroek 2008",
+            "url": "http://www.insulation.org/articles/article.cfm?id=IO080405",
+            "id": 6158
+        },
+        {
+            "name": "Material Specs",
+            "url": "http://www.insulation.org/techs/MaterialsSpecs.pdf",
+            "id": 6159
+        },
+        {
+            "name": "Thermotec 4-zero Brochure",
+            "url": "http://thermotec.com.au/wp-content/uploads/2014/03/126624-THERMOTEC-AUST-Thermal-Pipe-4-Zero-A4-4pp.pdf",
+            "id": 6160
+        },
+        {
+            "name": "E-therm MSDS",
+            "url": "http://thermotec.com.au/wp-content/uploads/2013/06/E-therm-MSDS.pdf",
+            "id": 6161
+        },
+        {
+            "name": "Pregis Polyethylene Foam MSDS",
+            "url": "http://foammart.com/sheets/Polyethylene.pdf",
+            "id": 6162
+        },
+        {
+            "name": "Pregis Polyethylene Foam Natural MSDS",
+            "url": "http://www.menards.com/msds/106242_001.pdf",
+            "id": 6163
+        },
+        {
+            "name": "Proflex pipe insulation TDS",
+            "url": "http://www.pregis.us/Portals/8/ProductResources/Specialty/PROFILES%20PIPE%20INSULATION.pdf",
+            "id": 6164
+        },
+        {
+            "name": "Exolit Overview",
+            "url": "http://www.easyfairs.com/uploads/tx_ef/Exolit-Overview.pdf",
+            "id": 6165
+        },
+        {
+            "name": "Wang et al 2010",
+            "url": "http://onlinelibrary.wiley.com/doi/10.1002/pen.21803/abstract",
+            "id": 6166
+        },
+        {
+            "name": "Hydrocerol 1602 MSDS",
+            "url": "https://www.b2bcomposites.com/msds/ted/71522.pdf",
+            "id": 6167
+        },
+        {
+            "name": "NOVAPOL MSDS",
+            "url": "http://www.novachem.com/Product%20Documents/NOVAPOLNotColoured_SDS_AMER_USEN.pdf",
+            "id": 6168
+        },
+        {
+            "name": "EM HDPE MSDS",
+            "url": "http://www.erotomold.com/documents/ExxonMobil-Polyethylene-Resin-HDPE-8660-MSDS.pdf",
+            "id": 6169
+        }
+    ]
+}

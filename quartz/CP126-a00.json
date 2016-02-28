@@ -1,0 +1,937 @@
+{
+    "CPID": "CP126",
+    "timestamp": 1452102139837,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 6347,
+            "name": "Heptane",
+            "CASRN": "142-82-5",
+            "massPct": 0.11869,
+            "function": "solvent",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "EPDM Solvent MSDS",
+                    "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000000487_REG_NA_EN.pdf",
+                    "id": 6326
+                },
+                {
+                    "name": "Sure-weld MSDS",
+                    "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1369",
+                    "id": 6324
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.11869
+        },
+        {
+            "recId": 2796,
+            "name": "Magnesium Oxide",
+            "CASRN": "1309-48-4",
+            "massPct": 0.00973,
+            "function": "antioxidant",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Firestone",
+                    "url": "https://www.google.com/patents/US5409987?dq=chloroprene+roofing+adhesive&hl=en&sa=X&ei=5npfVdHeLYPRtQWZ3YD4Cg&ved=0CDkQ6AEwBA",
+                    "id": 6340
+                },
+                {
+                    "name": "UltraPly MSDS",
+                    "url": "http://www.firestonebpe.com/en/downloads",
+                    "id": 6331
+                },
+                {
+                    "name": "Sure-weld MSDS",
+                    "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1369",
+                    "id": 6324
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.00973
+        },
+        {
+            "recId": 2798,
+            "name": "Zinc Oxide",
+            "CASRN": "1314-13-2",
+            "massPct": 0.003,
+            "function": "antioxidant",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Firestone",
+                    "url": "https://www.google.com/patents/US5409987?dq=chloroprene+roofing+adhesive&hl=en&sa=X&ei=5npfVdHeLYPRtQWZ3YD4Cg&ved=0CDkQ6AEwBA",
+                    "id": 6340
+                },
+                {
+                    "name": "UltraPly MSDS",
+                    "url": "http://www.firestonebpe.com/en/downloads",
+                    "id": 6331
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.003
+        },
+        {
+            "recId": 6348,
+            "name": "Terpene Phenolic Resin",
+            "CASRN": "68648-57-7",
+            "massPct": 0.0815,
+            "function": "tackifying resin",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Adhesives Mag",
+                    "url": "http://www.adhesivesmag.com/articles/85273-polychloroprene-contact-adhesives",
+                    "id": 4732
+                },
+                {
+                    "name": "Foreverest",
+                    "url": "http://foreverest.cn/products/polyterpene-resins/terpene-phenolic-resin.html",
+                    "id": 6343
+                },
+                {
+                    "name": "Sylvares 2019 TDS",
+                    "url": "http://www.arizonachemical.com/wp-content/uploads/SYLVARES%C2%AE-TP2019.pdf",
+                    "id": 6342
+                },
+                {
+                    "name": "DuPont",
+                    "url": "https://www.google.com/patents/US3308087?dq=chloroprene+roofing+adhesive&hl=en&sa=X&ei=5npfVdHeLYPRtQWZ3YD4Cg&ved=0CCsQ6AEwAg",
+                    "id": 6339
+                }
+            ],
+            "notes": "This CASRN is for a representative terpene phenolic resin. There will be variation of the exact terpene phenolic resin used between manufacturers.",
+            "lca": "yes",
+            "massPctOfTotal": 0.0815
+        },
+        {
+            "recId": 3523,
+            "name": "Acetone",
+            "CASRN": "67-64-1",
+            "massPct": 0.23737,
+            "function": "solvent",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "FTR-190e MSDS",
+                    "url": "http://www.fibertite.com/downloads/msds/MSDS-ftr-190e-adhesive.pdf",
+                    "id": 6334
+                },
+                {
+                    "name": "UltraPly MSDS",
+                    "url": "http://www.firestonebpe.com/en/downloads",
+                    "id": 6331
+                },
+                {
+                    "name": "BA-2004 MSDS",
+                    "url": "http://www.firestonebpe.com/en/downloads",
+                    "id": 6330
+                },
+                {
+                    "name": "TPO Solvent MSDS",
+                    "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000000158_REG_NA_EN.pdf",
+                    "id": 6328
+                },
+                {
+                    "name": "EPDM Solvent MSDS",
+                    "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000000487_REG_NA_EN.pdf",
+                    "id": 6326
+                },
+                {
+                    "name": "Sure-weld MSDS",
+                    "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1369",
+                    "id": 6324
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.23737
+        },
+        {
+            "recId": 2805,
+            "name": "Xylene",
+            "CASRN": "1330-20-7",
+            "massPct": 0.01187,
+            "function": "solvent",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "UltraPly MSDS",
+                    "url": "http://www.firestonebpe.com/en/downloads",
+                    "id": 6331
+                },
+                {
+                    "name": "BA-2004 MSDS",
+                    "url": "http://www.firestonebpe.com/en/downloads",
+                    "id": 6330
+                },
+                {
+                    "name": "EPDM Solvent MSDS",
+                    "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000000487_REG_NA_EN.pdf",
+                    "id": 6326
+                },
+                {
+                    "name": "Sure-weld MSDS",
+                    "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1369",
+                    "id": 6324
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.01187
+        },
+        {
+            "recId": 3477,
+            "name": "Polychloroprene",
+            "CASRN": "9010-98-4",
+            "massPct": 0.1343,
+            "function": "rubber",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Firestone",
+                    "url": "https://www.google.com/patents/US5409987?dq=chloroprene+roofing+adhesive&hl=en&sa=X&ei=5npfVdHeLYPRtQWZ3YD4Cg&ved=0CDkQ6AEwBA",
+                    "id": 6340
+                },
+                {
+                    "name": "BA-2004 TDS",
+                    "url": "http://www.firestonebpe.com/sites/default/files/media/tis_epdm_bonding_adhesive.pdf",
+                    "id": 6329
+                },
+                {
+                    "name": "UltraPly MSDS",
+                    "url": "http://www.firestonebpe.com/en/downloads",
+                    "id": 6331
+                },
+                {
+                    "name": "Sure-weld MSDS",
+                    "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1369",
+                    "id": 6324
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.1343
+        },
+        {
+            "recId": 3522,
+            "name": "Toluene",
+            "CASRN": "108-88-3",
+            "massPct": 0.40354,
+            "function": "solvent",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "FTR-190e MSDS",
+                    "url": "http://www.fibertite.com/downloads/msds/MSDS-ftr-190e-adhesive.pdf",
+                    "id": 6334
+                },
+                {
+                    "name": "Sarnacol 2170 MSDS",
+                    "url": "http://gbr.sika.com/dms/getdocument.get/651719d5-d241-3e0d-a698-64c33643a53c/Sarnacol%202170%20MSDS%20June%202011.pdf",
+                    "id": 6338
+                },
+                {
+                    "name": "UltraPly MSDS",
+                    "url": "http://www.firestonebpe.com/en/downloads",
+                    "id": 6331
+                },
+                {
+                    "name": "BA-2004 MSDS",
+                    "url": "http://www.firestonebpe.com/en/downloads",
+                    "id": 6330
+                },
+                {
+                    "name": "TPO Solvent MSDS",
+                    "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000000158_REG_NA_EN.pdf",
+                    "id": 6328
+                },
+                {
+                    "name": "EPDM Solvent MSDS",
+                    "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000000487_REG_NA_EN.pdf",
+                    "id": 6326
+                },
+                {
+                    "name": "Sure-weld MSDS",
+                    "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1369",
+                    "id": 6324
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.40354
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Phenol",
+            "CASRN": "108-95-2",
+            "massPct": null,
+            "function": "residual of exemplary terpene phenolic resin",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Chloroprene",
+            "CASRN": "126-99-8",
+            "massPct": 5.965e-8,
+            "function": "polychloroprene residual",
+            "sources": [
+                {
+                    "name": "IARC",
+                    "url": "http://monographs.iarc.fr/ENG/Monographs/vol71/mono71-9.pdf",
+                    "id": 4738
+                },
+                {
+                    "name": "DuPont 2",
+                    "url": "http://www2.dupont.com/Plastics/en_US/pfo/assets/downloads/neoprene/A%20Guide%20to%20Grades,%20Compounding%20and%20Processing%20of%20Neoprene%20Rubber%20%28Bament%20Guide%29.pdf",
+                    "id": 4737
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.00973,
+                    "contributors": [
+                        {
+                            "recId": 2796,
+                            "massPct": 0.00973,
+                            "childrenIds": [
+                                2796
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.003,
+                    "contributors": [
+                        {
+                            "recId": 2798,
+                            "massPct": 0.003,
+                            "childrenIds": [
+                                2798
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-569",
+                    "type": "orange",
+                    "name": "Reproductive",
+                    "massPct": 0.24037,
+                    "contributors": [
+                        {
+                            "recId": 2798,
+                            "massPct": 0.003,
+                            "childrenIds": [
+                                2798
+                            ]
+                        },
+                        {
+                            "recId": 3523,
+                            "massPct": 0.23737,
+                            "childrenIds": [
+                                3523
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.003,
+                    "contributors": [
+                        {
+                            "recId": 2798,
+                            "massPct": 0.003,
+                            "childrenIds": [
+                                2798
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-575",
+                    "type": "orange",
+                    "name": "Eye Irritation",
+                    "massPct": 0.01187,
+                    "contributors": [
+                        {
+                            "recId": 2805,
+                            "massPct": 0.01187,
+                            "childrenIds": [
+                                2805
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.41541,
+                    "contributors": [
+                        {
+                            "recId": 2805,
+                            "massPct": 0.01187,
+                            "childrenIds": [
+                                2805
+                            ]
+                        },
+                        {
+                            "recId": 3522,
+                            "massPct": 0.40354,
+                            "childrenIds": [
+                                3522
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-568",
+                    "type": "red",
+                    "name": "Developmental",
+                    "massPct": 0.64091,
+                    "contributors": [
+                        {
+                            "recId": 3523,
+                            "massPct": 0.23737,
+                            "childrenIds": [
+                                3523
+                            ]
+                        },
+                        {
+                            "recId": 3522,
+                            "massPct": 0.40354,
+                            "childrenIds": [
+                                3522
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.41541,
+                    "contributors": [
+                        {
+                            "recId": 2805,
+                            "massPct": 0.01187,
+                            "childrenIds": [
+                                2805
+                            ]
+                        },
+                        {
+                            "recId": 3522,
+                            "massPct": 0.40354,
+                            "childrenIds": [
+                                3522
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "Includes all cradle-to-gate data, including raw materials extraction, energy production, transportation of ingredients to the mixing plant, and manufacturing energy. Packaging is excluded.  \n                                ",
+        "gabiDatasets": [
+            {
+                "name": "US: Landfilling of plastic waste PE <p-agg> [Landfill]"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid) PE [Electricity grid mix]"
+            },
+            {
+                "name": "US: Phenolic resin (45% concentration) (estimation) PE [Plastic production]"
+            },
+            {
+                "name": "GLO: Zinc oxide PE [Inorganic intermediate products]"
+            },
+            {
+                "name": "US: Chloroprene (from butadiene via chlorination) PE [Organic intermediate products]"
+            },
+            {
+                "name": "EU-27: Magnesium oxide (MgO, fine, filler) PE [Inorganic intermediate products]"
+            },
+            {
+                "name": "DE: n-heptane (C7H16) (estimation) PE [Organic intermediate products]"
+            },
+            {
+                "name": "US: Acetone (from cumene) PE [Organic intermediate products]"
+            },
+            {
+                "name": "US: Xylene (by product BTX) (from reformate) PE [Organic intermediate products]"
+            },
+            {
+                "name": "US: Toluene (from pyrolysis fuel) PE [Organic intermediate products]"
+            },
+            {
+                "name": "US: Diesel mix at filling station PE [Filling station]"
+            },
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6 PE <u-so> [Truck]"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "21.7% to landfill (plastic material); 78.3% solvents released during application (burden not included)",
+        "inUseNotes": "76.2% released as NMVOC (unspecified)",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "6.45E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "3.17E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "2.43E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.50E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.41E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "7.12E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "2.11E+00"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "0.00E+00"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "1.66E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "5.65E-05"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "1.45E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "2.75E-13"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.84E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "2.29E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP126",
+    "name": "Membrane roofing adhesives",
+    "altNames": [
+        ""
+    ],
+    "uniformats": [
+        {
+            "id": "B3010",
+            "name": "Roofing"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "07-50-00",
+            "name": "Membrane Roofing"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Roofing membranes are adhered to roof substrates through a variety of adhesive products.  While individual products will specify particular adhesives, rubberized contact adhesives can generally be used with EPDM, TPO and some PVC roofing membranes.  Some low VOC products are available, however this CP describes the traditional solvent-based version of rubberized roofing adhesives, which have fairly high VOC levels (median across products reviewed is more than 76%).  The adhesive is rolled or sprayed to the roofing substrate, and potentially also on the back-side of the roofing membrane, and allowed to dry.  The membrane is applied to the roofing substrate and pressure applied, until a permanent bond is created.",
+    "sources": [
+        {
+            "name": "Adhesives Mag",
+            "url": "http://www.adhesivesmag.com/articles/85273-polychloroprene-contact-adhesives",
+            "id": 4732
+        },
+        {
+            "name": "DuPont",
+            "url": "http://www.vanderbiltchemicals.com/ee_content/documents/msds/us/76297.pdf",
+            "id": 4719
+        },
+        {
+            "name": "DuPont 2",
+            "url": "http://www2.dupont.com/Plastics/en_US/pfo/assets/downloads/neoprene/A%20Guide%20to%20Grades,%20Compounding%20and%20Processing%20of%20Neoprene%20Rubber%20%28Bament%20Guide%29.pdf",
+            "id": 4737
+        },
+        {
+            "name": "IARC",
+            "url": "http://monographs.iarc.fr/ENG/Monographs/vol71/mono71-9.pdf",
+            "id": 4738
+        },
+        {
+            "name": "Foreverest",
+            "url": "http://foreverest.cn/products/polyterpene-resins/terpene-phenolic-resin.html",
+            "id": 6343
+        },
+        {
+            "name": "Sylvares 2019 TDS",
+            "url": "http://www.arizonachemical.com/wp-content/uploads/SYLVARES%C2%AE-TP2019.pdf",
+            "id": 6342
+        },
+        {
+            "name": "Sylvares 2019 MSDS",
+            "url": "http://www.arizonachemical.com/wp-content/uploads/SYLVARESTM-TP-2019-SDS-US-Default-v1-2000000007281.pdf",
+            "id": 6341
+        },
+        {
+            "name": "Firestone",
+            "url": "https://www.google.com/patents/US5409987?dq=chloroprene+roofing+adhesive&hl=en&sa=X&ei=5npfVdHeLYPRtQWZ3YD4Cg&ved=0CDkQ6AEwBA",
+            "id": 6340
+        },
+        {
+            "name": "DuPont",
+            "url": "https://www.google.com/patents/US3308087?dq=chloroprene+roofing+adhesive&hl=en&sa=X&ei=5npfVdHeLYPRtQWZ3YD4Cg&ved=0CCsQ6AEwAg",
+            "id": 6339
+        },
+        {
+            "name": "Sarnacol 2170 MSDS",
+            "url": "http://gbr.sika.com/dms/getdocument.get/651719d5-d241-3e0d-a698-64c33643a53c/Sarnacol%202170%20MSDS%20June%202011.pdf",
+            "id": 6338
+        },
+        {
+            "name": "Sarnacol 2170",
+            "url": "http://gbr.sarnafil.sika.com/dms/getdocument.get/4b861ed7-fd53-391a-b10e-154d14109fa2/.",
+            "id": 6337
+        },
+        {
+            "name": "Seaman ICC",
+            "url": "http://www.icc-es.org/Reports/pdf_files/ESR-1456.pdf",
+            "id": 6336
+        },
+        {
+            "name": "FTR-190e TDS",
+            "url": "http://www.fibertite.com/downloads/products/190e.pdf",
+            "id": 6335
+        },
+        {
+            "name": "FTR-190e MSDS",
+            "url": "http://www.fibertite.com/downloads/msds/MSDS-ftr-190e-adhesive.pdf",
+            "id": 6334
+        },
+        {
+            "name": "UltraPly ASTM",
+            "url": "http://www.firestonebpe.com/en/downloads",
+            "id": 6333
+        },
+        {
+            "name": "UltraPly TDS",
+            "url": "http://www.firestonebpe.com/en/downloads",
+            "id": 6332
+        },
+        {
+            "name": "UltraPly MSDS",
+            "url": "http://www.firestonebpe.com/en/downloads",
+            "id": 6331
+        },
+        {
+            "name": "BA-2004 MSDS",
+            "url": "http://www.firestonebpe.com/en/downloads",
+            "id": 6330
+        },
+        {
+            "name": "BA-2004 TDS",
+            "url": "http://www.firestonebpe.com/sites/default/files/media/tis_epdm_bonding_adhesive.pdf",
+            "id": 6329
+        },
+        {
+            "name": "TPO Solvent MSDS",
+            "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000000158_REG_NA_EN.pdf",
+            "id": 6328
+        },
+        {
+            "name": "TPO Solvent TDS",
+            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Data%20sheets/JM%20TPO%20Data%20Sheets/JM%20TPO_JM%20Brand/RS-8587_JMTPOMembraneAdhesiveSolventBased.pdf",
+            "id": 6327
+        },
+        {
+            "name": "EPDM Solvent MSDS",
+            "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000000487_REG_NA_EN.pdf",
+            "id": 6326
+        },
+        {
+            "name": "EPDM Solvent TDS",
+            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Data%20sheets/JM%20EPDM%20Data%20Sheets/RS-3000_JMEPDMMemAdhSB.pdf",
+            "id": 6325
+        },
+        {
+            "name": "Sure-weld MSDS",
+            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1369",
+            "id": 6324
+        }
+    ]
+}

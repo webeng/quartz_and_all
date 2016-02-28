@@ -1,0 +1,1211 @@
+{
+    "CPID": "CP086",
+    "timestamp": 1452102120105,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 1435,
+            "name": "Formaldehyde",
+            "CASRN": "50-00-0",
+            "massPct": 0.000921,
+            "function": "preservative",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "CanLII",
+                    "url": "http://www.canlii.org/en/ca/laws/regu/sor-88-64/latest/sor-88-64.html",
+                    "id": 5689
+                },
+                {
+                    "name": "SpecSeal",
+                    "url": "http://files.systems.stifirestop.com/5.%20Safety%20Data%20Sheet/1.%20English/SDS_SNS%20Smoke%20%27N%27%20Sound%20Sealant.pdf",
+                    "id": 5685
+                },
+                {
+                    "name": "QuietZone",
+                    "url": "http://www.actiocms.com/VIEW_MSDS/AuthorDisplay_V402/msdsdisplaycode_author_new_MASTER.cfm?edit_msds_id=508&dbname=production&Hide_Section_Numbers=N&formatcode=14&language=1&noprint_label_fax_email=N",
+                    "id": 5682
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.000921
+        },
+        {
+            "recId": 1106,
+            "name": "Water",
+            "CASRN": "7732-18-5",
+            "massPct": 0.138122,
+            "function": "",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Boss",
+                    "url": "http://www.accumetricinc.com/uplimg/boss/MSDS/826%20MSDS.pdf",
+                    "id": 5688
+                },
+                {
+                    "name": "Green Glue",
+                    "url": "http://www.greengluecompany.com/sites/default/files/Noiseproofing%20Sealant%20MSDS%202013_11.pdf",
+                    "id": 5687
+                },
+                {
+                    "name": "OSI",
+                    "url": "http://henkelconsumerinfo.com/products/henkel.datasheets.Search.pdf?BUSAREA=0006&DOCTYPE=MSDS&LANG=EN&COUNTRY=US&VKORG=3450&MATNR=1496542",
+                    "id": 5686
+                },
+                {
+                    "name": "SpecSeal",
+                    "url": "http://files.systems.stifirestop.com/5.%20Safety%20Data%20Sheet/1.%20English/SDS_SNS%20Smoke%20%27N%27%20Sound%20Sealant.pdf",
+                    "id": 5685
+                },
+                {
+                    "name": "Liquid Nails",
+                    "url": "http://www.liquidnails.com/LNDatasheets/MSDS/AS-825",
+                    "id": 5684
+                },
+                {
+                    "name": "3M SS100",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xmx_9Oxmeov70k17zHvu9lxtD7SSSSSS--",
+                    "id": 5683
+                },
+                {
+                    "name": "QuietZone",
+                    "url": "http://www.actiocms.com/VIEW_MSDS/AuthorDisplay_V402/msdsdisplaycode_author_new_MASTER.cfm?edit_msds_id=508&dbname=production&Hide_Section_Numbers=N&formatcode=14&language=1&noprint_label_fax_email=N",
+                    "id": 5682
+                },
+                {
+                    "name": "Titebond",
+                    "url": "http://www.franklininternational.com/msds/2892.018i0fao0020.pdf",
+                    "id": 5681
+                },
+                {
+                    "name": "QuietSeal Pro",
+                    "url": "https://pharosproject.net/uploads/files/sources/1238/abb0e5adaf8901133e29d3fb0c6a8be62ae6b02f.pdf",
+                    "id": 5680
+                },
+                {
+                    "name": "SheetRock SS",
+                    "url": "http://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/sheetrock-acoustical-sealant-submittal-J678.pdf",
+                    "id": 5679
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.138122
+        },
+        {
+            "recId": 5341,
+            "name": "Acrylic Polymer",
+            "CASRN": "70677-00-8",
+            "massPct": 0.211786,
+            "function": "binder",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "3M SS100",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xmx_9Oxmeov70k17zHvu9lxtD7SSSSSS--",
+                    "id": 5683
+                },
+                {
+                    "name": "Green Glue",
+                    "url": "http://www.greengluecompany.com/sites/default/files/Noiseproofing%20Sealant%20MSDS%202013_11.pdf",
+                    "id": 5687
+                },
+                {
+                    "name": "OSI",
+                    "url": "http://henkelconsumerinfo.com/products/henkel.datasheets.Search.pdf?BUSAREA=0006&DOCTYPE=MSDS&LANG=EN&COUNTRY=US&VKORG=3450&MATNR=1496542",
+                    "id": 5686
+                },
+                {
+                    "name": "SpecSeal",
+                    "url": "http://files.systems.stifirestop.com/5.%20Safety%20Data%20Sheet/1.%20English/SDS_SNS%20Smoke%20%27N%27%20Sound%20Sealant.pdf",
+                    "id": 5685
+                },
+                {
+                    "name": "Titebond",
+                    "url": "http://www.franklininternational.com/msds/2892.018i0fao0020.pdf",
+                    "id": 5681
+                },
+                {
+                    "name": "QuietSeal Pro",
+                    "url": "https://pharosproject.net/uploads/files/sources/1238/abb0e5adaf8901133e29d3fb0c6a8be62ae6b02f.pdf",
+                    "id": 5680
+                },
+                {
+                    "name": "SheetRock SS",
+                    "url": "http://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/sheetrock-acoustical-sealant-submittal-J678.pdf",
+                    "id": 5679
+                }
+            ],
+            "notes": "This CASRN is for a representative acrylic polymer. There will be variation of the exact acrylic polymer used between manufacturers.",
+            "lca": "yes",
+            "massPctOfTotal": 0.211786
+        },
+        {
+            "recId": 5695,
+            "name": "Ethylene Glycol",
+            "CASRN": "107-21-1",
+            "massPct": 0.009208,
+            "function": "anti-freeze",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "OSI",
+                    "url": "http://henkelconsumerinfo.com/products/henkel.datasheets.Search.pdf?BUSAREA=0006&DOCTYPE=MSDS&LANG=EN&COUNTRY=US&VKORG=3450&MATNR=1496542",
+                    "id": 5686
+                },
+                {
+                    "name": "3M SS100",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xmx_9Oxmeov70k17zHvu9lxtD7SSSSSS--",
+                    "id": 5683
+                },
+                {
+                    "name": "QuietZone",
+                    "url": "http://www.actiocms.com/VIEW_MSDS/AuthorDisplay_V402/msdsdisplaycode_author_new_MASTER.cfm?edit_msds_id=508&dbname=production&Hide_Section_Numbers=N&formatcode=14&language=1&noprint_label_fax_email=N",
+                    "id": 5682
+                },
+                {
+                    "name": "Titebond",
+                    "url": "http://www.franklininternational.com/msds/2892.018i0fao0020.pdf",
+                    "id": 5681
+                },
+                {
+                    "name": "SheetRock",
+                    "url": "http://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-sheetrock-acoustical-sealant-sds-en-61000040001.pdf",
+                    "id": 5678
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.009208
+        },
+        {
+            "recId": 5954,
+            "name": "Dipropylene Glycol Dibenzoate",
+            "CASRN": "27138-31-4",
+            "massPct": 0.046041,
+            "function": "plasticizer",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Liquid Nails",
+                    "url": "http://www.liquidnails.com/LNDatasheets/MSDS/AS-825",
+                    "id": 5684
+                },
+                {
+                    "name": "3M SS100",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xmx_9Oxmeov70k17zHvu9lxtD7SSSSSS--",
+                    "id": 5683
+                }
+            ],
+            "notes": "Phthalates serve as other common plasticizers",
+            "lca": "yes",
+            "massPctOfTotal": 0.046041
+        },
+        {
+            "recId": 3759,
+            "name": "Limestone",
+            "CASRN": "1317-65-3",
+            "massPct": 0.5295,
+            "function": "filler",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "OSI",
+                    "url": "http://henkelconsumerinfo.com/products/henkel.datasheets.Search.pdf?BUSAREA=0006&DOCTYPE=MSDS&LANG=EN&COUNTRY=US&VKORG=3450&MATNR=1496542",
+                    "id": 5686
+                },
+                {
+                    "name": "SpecSeal",
+                    "url": "http://files.systems.stifirestop.com/5.%20Safety%20Data%20Sheet/1.%20English/SDS_SNS%20Smoke%20%27N%27%20Sound%20Sealant.pdf",
+                    "id": 5685
+                },
+                {
+                    "name": "Liquid Nails",
+                    "url": "http://www.liquidnails.com/LNDatasheets/MSDS/AS-825",
+                    "id": 5684
+                },
+                {
+                    "name": "3M SS100",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xmx_9Oxmeov70k17zHvu9lxtD7SSSSSS--",
+                    "id": 5683
+                },
+                {
+                    "name": "QuietSeal Pro",
+                    "url": "https://pharosproject.net/uploads/files/sources/1238/abb0e5adaf8901133e29d3fb0c6a8be62ae6b02f.pdf",
+                    "id": 5680
+                },
+                {
+                    "name": "SheetRock",
+                    "url": "http://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-sheetrock-acoustical-sealant-sds-en-61000040001.pdf",
+                    "id": 5678
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.5295
+        },
+        {
+            "recId": 5694,
+            "name": "Solvent Naphtha (Petroleum), medium aliphatic",
+            "CASRN": "64742-88-7",
+            "massPct": 0.046041,
+            "function": "solvent",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "3M SS100",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xmx_9Oxmeov70k17zHvu9lxtD7SSSSSS--",
+                    "id": 5683
+                },
+                {
+                    "name": "Titebond",
+                    "url": "http://www.franklininternational.com/msds/2892.018i0fao0020.pdf",
+                    "id": 5681
+                }
+            ],
+            "notes": "petroleum",
+            "lca": "yes",
+            "massPctOfTotal": 0.046041
+        },
+        {
+            "recId": 2766,
+            "name": "Titanium Dioxide",
+            "CASRN": "13463-67-7",
+            "massPct": 0.009208,
+            "function": "pigment",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "OSI",
+                    "url": "http://henkelconsumerinfo.com/products/henkel.datasheets.Search.pdf?BUSAREA=0006&DOCTYPE=MSDS&LANG=EN&COUNTRY=US&VKORG=3450&MATNR=1496542",
+                    "id": 5686
+                },
+                {
+                    "name": "SpecSeal",
+                    "url": "http://files.systems.stifirestop.com/5.%20Safety%20Data%20Sheet/1.%20English/SDS_SNS%20Smoke%20%27N%27%20Sound%20Sealant.pdf",
+                    "id": 5685
+                },
+                {
+                    "name": "Liquid Nails",
+                    "url": "http://www.liquidnails.com/LNDatasheets/MSDS/AS-825",
+                    "id": 5684
+                },
+                {
+                    "name": "3M SS100",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xmx_9Oxmeov70k17zHvu9lxtD7SSSSSS--",
+                    "id": 5683
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.009208
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Quartz",
+            "CASRN": "14808-60-7",
+            "massPct": 0.009208,
+            "function": "limestone residual",
+            "sources": [
+                {
+                    "name": "OSI",
+                    "url": "http://henkelconsumerinfo.com/products/henkel.datasheets.Search.pdf?BUSAREA=0006&DOCTYPE=MSDS&LANG=EN&COUNTRY=US&VKORG=3450&MATNR=1496542",
+                    "id": 5686
+                },
+                {
+                    "name": "Liquid Nails",
+                    "url": "http://www.liquidnails.com/LNDatasheets/MSDS/AS-825",
+                    "id": 5684
+                },
+                {
+                    "name": "3M SS100",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xmx_9Oxmeov70k17zHvu9lxtD7SSSSSS--",
+                    "id": 5683
+                },
+                {
+                    "name": "QuietSeal Pro",
+                    "url": "https://pharosproject.net/uploads/files/sources/1238/abb0e5adaf8901133e29d3fb0c6a8be62ae6b02f.pdf",
+                    "id": 5680
+                },
+                {
+                    "name": "SheetRock",
+                    "url": "http://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-sheetrock-acoustical-sealant-sds-en-61000040001.pdf",
+                    "id": 5678
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "2-(Acryloyloxy)ethanol",
+            "CASRN": "818-61-1",
+            "massPct": null,
+            "function": "acrylic polymer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Styrene",
+            "CASRN": "100-42-5",
+            "massPct": null,
+            "function": "acrylic polymer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Toluene",
+            "CASRN": "108-88-3",
+            "massPct": null,
+            "function": "naphtha residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Xylene",
+            "CASRN": "1330-20-7",
+            "massPct": null,
+            "function": "naphtha residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ethylbenzene",
+            "CASRN": "100-41-4",
+            "massPct": null,
+            "function": "naphtha residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Methyl Methacrylate",
+            "CASRN": "80-62-6",
+            "massPct": null,
+            "function": "acrylic polymer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Butyl Acrylate",
+            "CASRN": "141-32-2",
+            "massPct": null,
+            "function": "acrylic polymer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Methacrylic Acid",
+            "CASRN": "79-41-4",
+            "massPct": null,
+            "function": "acrylic polymer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-577",
+                    "type": "orange",
+                    "name": "Skin Sensitization",
+                    "massPct": 0.000921,
+                    "contributors": [
+                        {
+                            "recId": 1435,
+                            "massPct": 0.000921,
+                            "childrenIds": [
+                                1435
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-576",
+                    "type": "orange",
+                    "name": "Skin Irritation",
+                    "massPct": 0.000921,
+                    "contributors": [
+                        {
+                            "recId": 1435,
+                            "massPct": 0.000921,
+                            "childrenIds": [
+                                1435
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.05617,
+                    "contributors": [
+                        {
+                            "recId": 1435,
+                            "massPct": 0.000921,
+                            "childrenIds": [
+                                1435
+                            ]
+                        },
+                        {
+                            "recId": 5694,
+                            "massPct": 0.046041,
+                            "childrenIds": [
+                                5694
+                            ]
+                        },
+                        {
+                            "recId": 2766,
+                            "massPct": 0.009208,
+                            "childrenIds": [
+                                2766
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-571",
+                    "type": "orange",
+                    "name": "Mutagenicity",
+                    "massPct": 0.000921,
+                    "contributors": [
+                        {
+                            "recId": 1435,
+                            "massPct": 0.000921,
+                            "childrenIds": [
+                                1435
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-575",
+                    "type": "orange",
+                    "name": "Eye Irritation",
+                    "massPct": 0.000921,
+                    "contributors": [
+                        {
+                            "recId": 1435,
+                            "massPct": 0.000921,
+                            "childrenIds": [
+                                1435
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.000921,
+                    "contributors": [
+                        {
+                            "recId": 1435,
+                            "massPct": 0.000921,
+                            "childrenIds": [
+                                1435
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.055249,
+                    "contributors": [
+                        {
+                            "recId": 5695,
+                            "massPct": 0.009208,
+                            "childrenIds": [
+                                5695
+                            ]
+                        },
+                        {
+                            "recId": 5694,
+                            "massPct": 0.046041,
+                            "childrenIds": [
+                                5694
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.009208,
+                    "contributors": [
+                        {
+                            "recId": 5695,
+                            "massPct": 0.009208,
+                            "childrenIds": [
+                                5695
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-567",
+                    "type": "red",
+                    "name": "Cancer",
+                    "massPct": 0.000921,
+                    "contributors": [
+                        {
+                            "recId": 1435,
+                            "massPct": 0.000921,
+                            "childrenIds": [
+                                1435
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-568",
+                    "type": "red",
+                    "name": "Developmental",
+                    "massPct": 0.009208,
+                    "contributors": [
+                        {
+                            "recId": 5695,
+                            "massPct": 0.009208,
+                            "childrenIds": [
+                                5695
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.009208,
+                    "contributors": [
+                        {
+                            "recId": 2766,
+                            "massPct": 0.009208,
+                            "childrenIds": [
+                                2766
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundary is defined as cradle-to-gate and ends with the finished product at the factory gate. Manfacturing includes the mixing of sealant materials. Upstream data includes chemicals and energy production. Inbound transportation of upstream materials is included.",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Formaldehyde (HCHO, 100%)"
+            },
+            {
+                "name": "EU-27: Dipropyleneglycol dibenzoate plast"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "US: Naphtha at refinery"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "US: Titanium dioxide pigment"
+            },
+            {
+                "name": "US: Ethylene glycol (from ethene and oxygen via EO)"
+            },
+            {
+                "name": "US: Water deionized"
+            },
+            {
+                "name": "US: Limestone flour (5mm) PE [Minerals production]"
+            },
+            {
+                "name": "DE: Polymethylmethacrylate granulate (PMMA) mix"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0% post consumer recycled content",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "19.33% solvent emissions to air (13.8% water vapour; 5.52% NMVOCs); 80.67% to landfill (53.9% inert and glass; 25.9% plastic)",
+        "inUseNotes": "1.10% released as NMVOC (unspecified); 13.8% released as water vapor",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "3.66E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "2.49E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "1.34E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.00E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "4.91E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "3.31E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "3.05E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "0.00E+00"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "3.16E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "7.71E-05"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.07E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "9.07E-13"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "4.34E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "6.67E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP086",
+    "name": "Drywall Acoustical Sealant",
+    "altNames": [
+        "Acoustic Sealant",
+        "Acoustic Caulk",
+        "Soundblocking Sealant"
+    ],
+    "uniformats": [
+        {
+            "id": "C2050",
+            "name": "Ceiling Finishes"
+        },
+        {
+            "id": "C1070",
+            "name": "Suspended Ceiling Construction"
+        },
+        {
+            "id": "C1010",
+            "name": "Interior Partitions"
+        },
+        {
+            "id": "B3080",
+            "name": "Overhead Exterior Enclosures"
+        },
+        {
+            "id": "B2010",
+            "name": "Exterior Walls"
+        },
+        {
+            "id": "B1080",
+            "name": "Stairs"
+        },
+        {
+            "id": "A2010",
+            "name": "Walls for Subgrade Enclosures"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "07-92-19",
+            "name": "Acoustical Joint Sealant"
+        }
+    ],
+    "recordType": "Common",
+    "description": "This CP describes a non-hardening sealant to fill gaps in wall, floor, and ceiling systems, preventing sound leakage to maintain STC (sound transmission class) ratings.  Sealant is designed to fill gaps around the perimeter, at unbacked seams, and around penetrations.  Material is applied with a standard caulk gun per ASTM C919.  The overwhelming majority of acoustical sealants for this purpose are water-based acrylic sealants, which was investigated for this CP.\t\t\t\t",
+    "sources": [
+        {
+            "name": "ASTM C919",
+            "url": "http://library.sut.ac.th:8080/astm/cd04072005/PDF/C919.pdf",
+            "id": 5691
+        },
+        {
+            "name": "Encor 163S",
+            "url": "https://www.pharosproject.net/uploads/files/sources/3264/7682a335b5e3cb8c3eb9e626548b0173d3dc57d8.pdf",
+            "id": 5690
+        },
+        {
+            "name": "CanLII",
+            "url": "http://www.canlii.org/en/ca/laws/regu/sor-88-64/latest/sor-88-64.html",
+            "id": 5689
+        },
+        {
+            "name": "Boss",
+            "url": "http://www.accumetricinc.com/uplimg/boss/MSDS/826%20MSDS.pdf",
+            "id": 5688
+        },
+        {
+            "name": "Green Glue",
+            "url": "http://www.greengluecompany.com/sites/default/files/Noiseproofing%20Sealant%20MSDS%202013_11.pdf",
+            "id": 5687
+        },
+        {
+            "name": "OSI",
+            "url": "http://henkelconsumerinfo.com/products/henkel.datasheets.Search.pdf?BUSAREA=0006&DOCTYPE=MSDS&LANG=EN&COUNTRY=US&VKORG=3450&MATNR=1496542",
+            "id": 5686
+        },
+        {
+            "name": "SpecSeal",
+            "url": "http://files.systems.stifirestop.com/5.%20Safety%20Data%20Sheet/1.%20English/SDS_SNS%20Smoke%20%27N%27%20Sound%20Sealant.pdf",
+            "id": 5685
+        },
+        {
+            "name": "Liquid Nails",
+            "url": "http://www.liquidnails.com/LNDatasheets/MSDS/AS-825",
+            "id": 5684
+        },
+        {
+            "name": "3M SS100",
+            "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xmx_9Oxmeov70k17zHvu9lxtD7SSSSSS--",
+            "id": 5683
+        },
+        {
+            "name": "QuietZone",
+            "url": "http://www.actiocms.com/VIEW_MSDS/AuthorDisplay_V402/msdsdisplaycode_author_new_MASTER.cfm?edit_msds_id=508&dbname=production&Hide_Section_Numbers=N&formatcode=14&language=1&noprint_label_fax_email=N",
+            "id": 5682
+        },
+        {
+            "name": "Titebond",
+            "url": "http://www.franklininternational.com/msds/2892.018i0fao0020.pdf",
+            "id": 5681
+        },
+        {
+            "name": "QuietSeal Pro",
+            "url": "https://pharosproject.net/uploads/files/sources/1238/abb0e5adaf8901133e29d3fb0c6a8be62ae6b02f.pdf",
+            "id": 5680
+        },
+        {
+            "name": "SheetRock SS",
+            "url": "http://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/sheetrock-acoustical-sealant-submittal-J678.pdf",
+            "id": 5679
+        },
+        {
+            "name": "SheetRock",
+            "url": "http://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-sheetrock-acoustical-sealant-sds-en-61000040001.pdf",
+            "id": 5678
+        }
+    ]
+}

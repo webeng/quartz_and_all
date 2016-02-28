@@ -1,0 +1,1768 @@
+{
+    "CPID": "CP172",
+    "timestamp": 1452102159851,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 9701,
+            "name": "Polyester Surface Veil",
+            "CASRN": "",
+            "massPct": 0.01141,
+            "function": "uv protection, improved appearance",
+            "hazards": {},
+            "components": [
+                {
+                    "recId": 9702,
+                    "name": "Polyester Polymer",
+                    "CASRN": "25038-59-9",
+                    "massPct": 1,
+                    "function": "",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "SPEA",
+                            "url": "http://www.speautomotive.com/SPEA_CD/SPEA2003/pdf/a05.pdf",
+                            "id": 9682
+                        },
+                        {
+                            "name": "Helwig patent",
+                            "url": "https://www.google.com/patents/US20050032452",
+                            "id": 9697
+                        },
+                        {
+                            "name": "SLA 45",
+                            "url": "http://chmcomposites.com/wp-content/uploads/2015/05/SLA-45-info-sheet.pdf",
+                            "id": 9677
+                        },
+                        {
+                            "name": "Nexus",
+                            "url": "http://www.nexusveil.com/Documents/NEXUS06212013.pdf",
+                            "id": 9678
+                        },
+                        {
+                            "name": "AOC patent",
+                            "url": "https://www.google.com/patents/US8188166",
+                            "id": 9686
+                        },
+                        {
+                            "name": "Handbook",
+                            "url": "https://books.google.com/books?id=HY8kBAAAQBAJ&pg=PA91&lpg=PA91&dq=pultrusion+surface+veil&source=bl&ots=jJGlFeK9tG&sig=qnRW5mRsKVN_STvPOKyVPg5sc9E&hl=en&sa=X&ved=0CFoQ6AEwBjgKahUKEwjKz5O1lqTHAhWUFpIKHXGfBvI#v=onepage&q&f=false",
+                            "id": 9683
+                        },
+                        {
+                            "name": "CP brochure",
+                            "url": "http://www.creativepultrusions.com/default/assets/File/Flooring%20Prod%20Broch%20%28CPM115-1211_1C%29.pdf",
+                            "id": 9669
+                        },
+                        {
+                            "name": "CP Design",
+                            "url": "http://www.creativepultrusions.com/index.cfm/products-solutions/fiberglass-standard-structural-profiles/pultexc2ae-pultrusion-design-manual/",
+                            "id": 9671
+                        },
+                        {
+                            "name": "Composites",
+                            "url": "https://books.google.com/books?id=lB2mTpDtUoAC&pg=PA65&lpg=PA65&dq=pultrusion+surface+veil&source=bl&ots=7kIGuKx9JJ&sig=9r8AqN1CK_74_tqFyjCPaDd10Gg&hl=en&sa=X&ved=0CEkQ6AEwAjgKahUKEwjKz5O1lqTHAhWUFpIKHXGfBvI#v=onepage&q=pultrusion%20surface%20veil&f=false",
+                            "id": 9680
+                        }
+                    ],
+                    "notes": "This CASRN is for a representative polyester polymer. There will be variation of the exact polyester polymer used between manufacturers. Polyester surface veil literature describes the veil as 100% polyester. No further information on the polymer was found. A patent for a hybrid glass/polyester veil indicated the preferred polyester was poly(ethylene terephthalate). The CAS for PET is given here as representative.",
+                    "lca": "",
+                    "massPctOfTotal": 0.01141
+                }
+            ],
+            "sources": [
+                {
+                    "name": "SPEA",
+                    "url": "http://www.speautomotive.com/SPEA_CD/SPEA2003/pdf/a05.pdf",
+                    "id": 9682
+                },
+                {
+                    "name": "AOC patent",
+                    "url": "https://www.google.com/patents/US8188166",
+                    "id": 9686
+                },
+                {
+                    "name": "Handbook",
+                    "url": "https://books.google.com/books?id=HY8kBAAAQBAJ&pg=PA91&lpg=PA91&dq=pultrusion+surface+veil&source=bl&ots=jJGlFeK9tG&sig=qnRW5mRsKVN_STvPOKyVPg5sc9E&hl=en&sa=X&ved=0CFoQ6AEwBjgKahUKEwjKz5O1lqTHAhWUFpIKHXGfBvI#v=onepage&q&f=false",
+                    "id": 9683
+                },
+                {
+                    "name": "CP Design",
+                    "url": "http://www.creativepultrusions.com/index.cfm/products-solutions/fiberglass-standard-structural-profiles/pultexc2ae-pultrusion-design-manual/",
+                    "id": 9671
+                },
+                {
+                    "name": "Composites",
+                    "url": "https://books.google.com/books?id=lB2mTpDtUoAC&pg=PA65&lpg=PA65&dq=pultrusion+surface+veil&source=bl&ots=7kIGuKx9JJ&sig=9r8AqN1CK_74_tqFyjCPaDd10Gg&hl=en&sa=X&ved=0CEkQ6AEwAjgKahUKEwjKz5O1lqTHAhWUFpIKHXGfBvI#v=onepage&q=pultrusion%20surface%20veil&f=false",
+                    "id": 9680
+                },
+                {
+                    "name": "StrongDek Spec",
+                    "url": "http://www.strongwell.com/wp-content/uploads/2014/12/FRP-Architectural-Decking-Specification.pdf",
+                    "id": 9664
+                },
+                {
+                    "name": "CP brochure",
+                    "url": "http://www.creativepultrusions.com/default/assets/File/Flooring%20Prod%20Broch%20%28CPM115-1211_1C%29.pdf",
+                    "id": 9669
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.01141
+        },
+        {
+            "recId": 9698,
+            "name": "Polyester Resin",
+            "CASRN": "",
+            "massPct": 0.40218,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": 0.01406,
+                        "contributors": [
+                            {
+                                "recId": 1531,
+                                "massPct": 0.01406,
+                                "childrenIds": [
+                                    1531
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "unknown": [
+                    {
+                        "hazardId": "unknown-11424",
+                        "type": "unknown",
+                        "name": "Unknown",
+                        "massPct": 0.98293,
+                        "contributors": [
+                            {
+                                "recId": 9699,
+                                "massPct": 0.98293,
+                                "childrenIds": [
+                                    9699
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 6262,
+                    "name": "Phenol, 2-(5-chloro-2H-benzotriazole-2-yl)-6-(1,1-dimethylethyl)-4-methyl",
+                    "CASRN": "3896-11-5",
+                    "massPct": 0.00301,
+                    "function": "UV stabilizer",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Tinuvin 326",
+                            "url": "http://www.shanghaiguanan.com/pic/2014916154624916.pdf",
+                            "id": 9696
+                        },
+                        {
+                            "name": "Nexus patent",
+                            "url": "https://www.google.com/patents/US5935498",
+                            "id": 9679
+                        },
+                        {
+                            "name": "Ashland 2",
+                            "url": "http://www.ashland.com/Ashland/Static/Documents/APM/DRKFabTipsFullVersion.pdf",
+                            "id": 9694
+                        },
+                        {
+                            "name": "Ashland",
+                            "url": "http://www.ashland.com/Ashland/Static/Documents/APM/HETRON_fab_guide.pdf",
+                            "id": 9685
+                        },
+                        {
+                            "name": "CP Design",
+                            "url": "http://www.creativepultrusions.com/index.cfm/products-solutions/fiberglass-standard-structural-profiles/pultexc2ae-pultrusion-design-manual/",
+                            "id": 9671
+                        },
+                        {
+                            "name": "StrongDek Spec",
+                            "url": "http://www.strongwell.com/wp-content/uploads/2014/12/FRP-Architectural-Decking-Specification.pdf",
+                            "id": 9664
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0012105618
+                },
+                {
+                    "recId": 1531,
+                    "name": "Zinc Stearate",
+                    "CASRN": "557-05-1",
+                    "massPct": 0.01406,
+                    "function": "mold release agent",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "OleMiss",
+                            "url": "http://www.olemiss.edu/depts/compmatl/fall00_%20newsletter.pdf",
+                            "id": 9681
+                        },
+                        {
+                            "name": "Composites",
+                            "url": "https://books.google.com/books?id=lB2mTpDtUoAC&pg=PA65&lpg=PA65&dq=pultrusion+surface+veil&source=bl&ots=7kIGuKx9JJ&sig=9r8AqN1CK_74_tqFyjCPaDd10Gg&hl=en&sa=X&ved=0CEkQ6AEwAjgKahUKEwjKz5O1lqTHAhWUFpIKHXGfBvI#v=onepage&q=pultrusion%20surface%20veil&f=false",
+                            "id": 9680
+                        },
+                        {
+                            "name": "Brenntag",
+                            "url": "http://www.brenntagspecialties.com/en/downloads/Products/Multi_Market_Principals/BSI_Stearates/PDS_Stearate_Zinc_2310_G.pdf",
+                            "id": 9695
+                        },
+                        {
+                            "name": "Technology book",
+                            "url": "https://books.google.com/books?id=LQO3AgAAQBAJ&pg=PT200&lpg=PT200&dq=polyester+glass+fiber+Antimony+trioxide&source=bl&ots=hsMKufJc1N&sig=oiGurT4g8RDujl9A97oIfekQs4U&hl=en&sa=X&ved=0CCQQ6AEwAmoVChMIhO6Ll8rbxwIVjH-SCh2qog66#v=onepage&q=polyester%20glass%20fiber%20Antimony%20trioxide&f=false",
+                            "id": 9684
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.005654650799999999
+                },
+                {
+                    "recId": 9699,
+                    "name": "Crosslinked Polyester Polymer",
+                    "CASRN": "unknown",
+                    "massPct": 0.98293,
+                    "function": "binder",
+                    "hazards": {
+                        "unknown": [
+                            {
+                                "hazardId": "unknown-11424",
+                                "type": "unknown",
+                                "name": "Unknown",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "CP1500",
+                            "url": "http://www.creativepultrusions.com/index.cfm/connect-with-us/finished-product-msds/fiberglass-reinforced-polymer-frp-1500-series-resin/",
+                            "id": 9670
+                        },
+                        {
+                            "name": "Bedford PE",
+                            "url": "http://bedfordreinforced.com/wp-content/uploads/2015/05/SDS-polyester-2015.pdf",
+                            "id": 9668
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.3953147874
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.40218
+        },
+        {
+            "recId": 1313,
+            "name": "Fiberglass (E-Glass)",
+            "CASRN": "65997-17-3",
+            "massPct": 0.58641,
+            "function": "reinforcement",
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": 0.5597,
+                        "contributors": [
+                            {
+                                "recId": 3606,
+                                "massPct": 0.5562,
+                                "childrenIds": [
+                                    3606
+                                ]
+                            },
+                            {
+                                "recId": 2766,
+                                "massPct": 0.0035,
+                                "childrenIds": [
+                                    2766
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": 0.0554,
+                        "contributors": [
+                            {
+                                "recId": 9377,
+                                "massPct": 0.0554,
+                                "childrenIds": [
+                                    9377
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental",
+                        "massPct": 0.0554,
+                        "contributors": [
+                            {
+                                "recId": 9377,
+                                "massPct": 0.0554,
+                                "childrenIds": [
+                                    9377
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation",
+                        "massPct": 0.21610000000000001,
+                        "contributors": [
+                            {
+                                "recId": 2795,
+                                "massPct": 0.2116,
+                                "childrenIds": [
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 9378,
+                                "massPct": 0.0045,
+                                "childrenIds": [
+                                    9378
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.3435,
+                        "contributors": [
+                            {
+                                "recId": 2795,
+                                "massPct": 0.2116,
+                                "childrenIds": [
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 9378,
+                                "massPct": 0.0045,
+                                "childrenIds": [
+                                    9378
+                                ]
+                            },
+                            {
+                                "recId": 2766,
+                                "massPct": 0.0035,
+                                "childrenIds": [
+                                    2766
+                                ]
+                            },
+                            {
+                                "recId": 2794,
+                                "massPct": 0.1209,
+                                "childrenIds": [
+                                    2794
+                                ]
+                            },
+                            {
+                                "recId": 3334,
+                                "massPct": 0.003,
+                                "childrenIds": [
+                                    3334
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": 0.2146,
+                        "contributors": [
+                            {
+                                "recId": 2795,
+                                "massPct": 0.2116,
+                                "childrenIds": [
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 3334,
+                                "massPct": 0.003,
+                                "childrenIds": [
+                                    3334
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.2519,
+                        "contributors": [
+                            {
+                                "recId": 2795,
+                                "massPct": 0.2116,
+                                "childrenIds": [
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 2796,
+                                "massPct": 0.0403,
+                                "childrenIds": [
+                                    2796
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": 0.0045,
+                        "contributors": [
+                            {
+                                "recId": 9378,
+                                "massPct": 0.0045,
+                                "childrenIds": [
+                                    9378
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.1209,
+                        "contributors": [
+                            {
+                                "recId": 2794,
+                                "massPct": 0.1209,
+                                "childrenIds": [
+                                    2794
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": 0.003,
+                        "contributors": [
+                            {
+                                "recId": 3334,
+                                "massPct": 0.003,
+                                "childrenIds": [
+                                    3334
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 3749,
+                    "name": "Sodium Oxide",
+                    "CASRN": "1313-59-3",
+                    "massPct": 0.003,
+                    "function": "fiber glass component",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Mortensen",
+                            "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+                            "id": 8640
+                        },
+                        {
+                            "name": "Ceramics",
+                            "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                            "id": 8638
+                        },
+                        {
+                            "name": "ASM",
+                            "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                            "id": 8639
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00175923
+                },
+                {
+                    "recId": 3606,
+                    "name": "Silica, amorphous",
+                    "CASRN": "7631-86-9",
+                    "massPct": 0.5562,
+                    "function": "fiber glass component",
+                    "hazards": {
+                        "red": [
+                            {
+                                "hazardId": "red-7911",
+                                "type": "red",
+                                "name": "Cancer (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Mortensen",
+                            "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+                            "id": 8640
+                        },
+                        {
+                            "name": "Ceramics",
+                            "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                            "id": 8638
+                        },
+                        {
+                            "name": "ASM",
+                            "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                            "id": 8639
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.326161242
+                },
+                {
+                    "recId": 2795,
+                    "name": "Calcium Oxide",
+                    "CASRN": "1305-78-8",
+                    "massPct": 0.2116,
+                    "function": "fiber glass component",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-576",
+                                "type": "orange",
+                                "name": "Skin Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-575",
+                                "type": "orange",
+                                "name": "Eye Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Mortensen",
+                            "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+                            "id": 8640
+                        },
+                        {
+                            "name": "Ceramics",
+                            "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                            "id": 8638
+                        },
+                        {
+                            "name": "ASM",
+                            "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                            "id": 8639
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.124084356
+                },
+                {
+                    "recId": 9378,
+                    "name": "Fluorine",
+                    "CASRN": "7782-41-4",
+                    "massPct": 0.0045,
+                    "function": "fiber glass component",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-576",
+                                "type": "orange",
+                                "name": "Skin Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Ceramics",
+                            "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                            "id": 8638
+                        },
+                        {
+                            "name": "ASM",
+                            "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                            "id": 8639
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.002638845
+                },
+                {
+                    "recId": 2766,
+                    "name": "Titanium Dioxide",
+                    "CASRN": "13463-67-7",
+                    "massPct": 0.0035,
+                    "function": "fiber glass component",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-7911",
+                                "type": "red",
+                                "name": "Cancer (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Ceramics",
+                            "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                            "id": 8638
+                        },
+                        {
+                            "name": "ASM",
+                            "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                            "id": 8639
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.002052435
+                },
+                {
+                    "recId": 2796,
+                    "name": "Magnesium Oxide",
+                    "CASRN": "1309-48-4",
+                    "massPct": 0.0403,
+                    "function": "fiber glass component",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Mortensen",
+                            "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+                            "id": 8640
+                        },
+                        {
+                            "name": "Ceramics",
+                            "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                            "id": 8638
+                        },
+                        {
+                            "name": "ASM",
+                            "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                            "id": 8639
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.023632323
+                },
+                {
+                    "recId": 9377,
+                    "name": "Boric Oxide",
+                    "CASRN": "1303-86-2",
+                    "massPct": 0.0554,
+                    "function": "fiber glass component",
+                    "hazards": {
+                        "red": [
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "red-568",
+                                "type": "red",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Ceramics",
+                            "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                            "id": 8638
+                        },
+                        {
+                            "name": "ASM",
+                            "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                            "id": 8639
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.032487114
+                },
+                {
+                    "recId": 2794,
+                    "name": "Aluminum Oxide",
+                    "CASRN": "1344-28-1",
+                    "massPct": 0.1209,
+                    "function": "fiber glass component",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Mortensen",
+                            "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+                            "id": 8640
+                        },
+                        {
+                            "name": "Ceramics",
+                            "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                            "id": 8638
+                        },
+                        {
+                            "name": "ASM",
+                            "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                            "id": 8639
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.07089696899999999
+                },
+                {
+                    "recId": 3334,
+                    "name": "Ferric Oxide",
+                    "CASRN": "1309-37-1",
+                    "massPct": 0.003,
+                    "function": "fiber glass component",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-575",
+                                "type": "orange",
+                                "name": "Eye Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-567",
+                                "type": "orange",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Ceramics",
+                            "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                            "id": 8638
+                        },
+                        {
+                            "name": "ASM",
+                            "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                            "id": 8639
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00175923
+                }
+            ],
+            "sources": [
+                {
+                    "name": "CP1500",
+                    "url": "http://www.creativepultrusions.com/index.cfm/connect-with-us/finished-product-msds/fiberglass-reinforced-polymer-frp-1500-series-resin/",
+                    "id": 9670
+                },
+                {
+                    "name": "Bedford PE",
+                    "url": "http://bedfordreinforced.com/wp-content/uploads/2015/05/SDS-polyester-2015.pdf",
+                    "id": 9668
+                }
+            ],
+            "notes": "E-glass is most commonly used for GFRP.",
+            "lca": "yes",
+            "massPctOfTotal": 0.58641
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Zinc Oxide",
+            "CASRN": "1314-13-2",
+            "massPct": null,
+            "function": "polyester surface veil residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Styrene",
+            "CASRN": "100-42-5",
+            "massPct": 0.002,
+            "function": "polyester resin residual",
+            "sources": [
+                {
+                    "name": "Ashland 2",
+                    "url": "http://www.ashland.com/Ashland/Static/Documents/APM/DRKFabTipsFullVersion.pdf",
+                    "id": 9694
+                },
+                {
+                    "name": "Fiberline",
+                    "url": "http://fiberline.com/material-safety-data-sheet-group-6",
+                    "id": 9662
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Gamma-Aminopropyltriethoxysilane",
+            "CASRN": "919-30-2",
+            "massPct": null,
+            "function": "glass fiber coupling agent",
+            "sources": [
+                {
+                    "name": "Momentive",
+                    "url": "https://www.momentive.com/products/showtechnicaldatasheet.aspx?id=10044",
+                    "id": 9692
+                },
+                {
+                    "name": "Michelman",
+                    "url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCwQFjABahUKEwjOxJGknujHAhVXGpIKHa5qAXI&url=http%3A%2F%2Fwww.researchgate.net%2Fpublictopics.PublicPostFileLoader.html%3Fid%3D54623f82d5a3f2bb448b45dc%26key%3D8a3e56df-955f-41be-9a58-b99591c524be&usg=AFQjCNH9f-jI1NMI6spEFAJvS7NftYtc-A&sig2=UFLBvkSKj-cB8gZ2rIvD2Q",
+                    "id": 9690
+                },
+                {
+                    "name": "Bayer Sizing",
+                    "url": "http://www.google.com/patents/US6833182",
+                    "id": 9691
+                },
+                {
+                    "name": "Sizings",
+                    "url": "http://www.compositesworld.com/articles/sizing-up-fiber-sizings",
+                    "id": 9689
+                },
+                {
+                    "name": "Pella patent",
+                    "url": "https://www.google.com/patents/US8025754",
+                    "id": 9687
+                },
+                {
+                    "name": "Fibers",
+                    "url": "http://onlinelibrary.wiley.com/doi/10.1002/14356007.a11_001/abstract",
+                    "id": 9657
+                },
+                {
+                    "name": "AGY2",
+                    "url": "http://www.agy.com/wp-content/uploads/2014/03/High_Strength_Glass_Fibers-Technical.pdf",
+                    "id": 9661
+                },
+                {
+                    "name": "Composites",
+                    "url": "https://books.google.com/books?id=lB2mTpDtUoAC&pg=PA65&lpg=PA65&dq=pultrusion+surface+veil&source=bl&ots=7kIGuKx9JJ&sig=9r8AqN1CK_74_tqFyjCPaDd10Gg&hl=en&sa=X&ved=0CEkQ6AEwAjgKahUKEwjKz5O1lqTHAhWUFpIKHXGfBvI#v=onepage&q=pultrusion%20surface%20veil&f=false",
+                    "id": 9680
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Sodium Hydroxide",
+            "CASRN": "1310-73-2",
+            "massPct": null,
+            "function": "sodium oxide residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.005654650799999999,
+                    "contributors": [
+                        {
+                            "recId": 9698,
+                            "massPct": 0.005654650799999999,
+                            "childrenIds": [
+                                9698,
+                                1531
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-576",
+                    "type": "orange",
+                    "name": "Skin Irritation",
+                    "massPct": 0.126723201,
+                    "contributors": [
+                        {
+                            "recId": 1313,
+                            "massPct": 0.124084356,
+                            "childrenIds": [
+                                1313,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 1313,
+                            "massPct": 0.002638845,
+                            "childrenIds": [
+                                1313,
+                                9378
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.201431835,
+                    "contributors": [
+                        {
+                            "recId": 1313,
+                            "massPct": 0.124084356,
+                            "childrenIds": [
+                                1313,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 1313,
+                            "massPct": 0.002638845,
+                            "childrenIds": [
+                                1313,
+                                9378
+                            ]
+                        },
+                        {
+                            "recId": 1313,
+                            "massPct": 0.002052435,
+                            "childrenIds": [
+                                1313,
+                                2766
+                            ]
+                        },
+                        {
+                            "recId": 1313,
+                            "massPct": 0.07089696899999999,
+                            "childrenIds": [
+                                1313,
+                                2794
+                            ]
+                        },
+                        {
+                            "recId": 1313,
+                            "massPct": 0.00175923,
+                            "childrenIds": [
+                                1313,
+                                3334
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-575",
+                    "type": "orange",
+                    "name": "Eye Irritation",
+                    "massPct": 0.125843586,
+                    "contributors": [
+                        {
+                            "recId": 1313,
+                            "massPct": 0.124084356,
+                            "childrenIds": [
+                                1313,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 1313,
+                            "massPct": 0.00175923,
+                            "childrenIds": [
+                                1313,
+                                3334
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.14771667900000002,
+                    "contributors": [
+                        {
+                            "recId": 1313,
+                            "massPct": 0.124084356,
+                            "childrenIds": [
+                                1313,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 1313,
+                            "massPct": 0.023632323,
+                            "childrenIds": [
+                                1313,
+                                2796
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-569",
+                    "type": "orange",
+                    "name": "Reproductive",
+                    "massPct": 0.002638845,
+                    "contributors": [
+                        {
+                            "recId": 1313,
+                            "massPct": 0.002638845,
+                            "childrenIds": [
+                                1313,
+                                9378
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.07089696899999999,
+                    "contributors": [
+                        {
+                            "recId": 1313,
+                            "massPct": 0.07089696899999999,
+                            "childrenIds": [
+                                1313,
+                                2794
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-567",
+                    "type": "orange",
+                    "name": "Cancer",
+                    "massPct": 0.00175923,
+                    "contributors": [
+                        {
+                            "recId": 1313,
+                            "massPct": 0.00175923,
+                            "childrenIds": [
+                                1313,
+                                3334
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "unknown": [
+                {
+                    "hazardId": "unknown-11424",
+                    "type": "unknown",
+                    "name": "Unknown",
+                    "massPct": 0.3953147874,
+                    "contributors": [
+                        {
+                            "recId": 9698,
+                            "massPct": 0.3953147874,
+                            "childrenIds": [
+                                9698,
+                                9699
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.32821367700000004,
+                    "contributors": [
+                        {
+                            "recId": 1313,
+                            "massPct": 0.326161242,
+                            "childrenIds": [
+                                1313,
+                                3606
+                            ]
+                        },
+                        {
+                            "recId": 1313,
+                            "massPct": 0.002052435,
+                            "childrenIds": [
+                                1313,
+                                2766
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.032487114,
+                    "contributors": [
+                        {
+                            "recId": 1313,
+                            "massPct": 0.032487114,
+                            "childrenIds": [
+                                1313,
+                                9377
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-568",
+                    "type": "red",
+                    "name": "Developmental",
+                    "massPct": 0.032487114,
+                    "contributors": [
+                        {
+                            "recId": 1313,
+                            "massPct": 0.032487114,
+                            "childrenIds": [
+                                1313,
+                                9377
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system is defined as cradle-to-gate and ends with the finished product at the factory gate. Includes all upstream raw material production, energy extraction, and transportation. Manufacuturing includes granulate compounding and pulltrusion of the composite material and polyester veil. Packaging is excluded. ",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "US: Landfilling of plastic waste"
+            },
+            {
+                "name": "US: Aliphatic/aromatic copolyester"
+            },
+            {
+                "name": "US: Lubricants at refinery"
+            },
+            {
+                "name": "US: Municipal waste water treatment (mix)"
+            },
+            {
+                "name": "GLO: Compounding (plastics)"
+            },
+            {
+                "name": "GLO: Compressed air 7 bar (medium power consumption)"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "GLO: Plastic Film (PE, PP, PVC)"
+            },
+            {
+                "name": "DE: Sulfenamide (N-Cyclohexyl-2-benzothiazolsulfenamid) (estimation)"
+            },
+            {
+                "name": "EU-27: Zinc stearate (stabilizer, estimation)"
+            },
+            {
+                "name": "US: Glass fibres"
+            },
+            {
+                "name": "US: Thermal energy from natural gas (eGrid)"
+            },
+            {
+                "name": "US: Polyester resin (carboxyl) (estimation)"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% to landfill (58.64% to glass/inert, 41.4% to plastic) Because of current challenges with recycling of glass fiber reinforced polymers, a worst case scenario of 100% to landfill was assumed. As commercial scale recycling of GFRP becomes feasible, this assumption should be revised. ",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "1.35E-02"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "7.86E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "3.66E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "6.08E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.97E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "7.20E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "4.35E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.19E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.98E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.13E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "5.46E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.19E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP172",
+    "name": "Glass Fiber Reinforced Polymer Decking",
+    "altNames": [
+        "Fiberglass reinforced plastic decking,Fiberglass reinforced polyester decking,Glass fiber reinforced polyester decking"
+    ],
+    "uniformats": [
+        {
+            "id": "B2080",
+            "name": "Exterior Wall Appurtenances"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "06-82-00",
+            "name": "Glass-Fiber-Reinforced Plastic"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Glass fiber reinforced polymer (GFRP) parts can be used for a variety of construction applications.  This CP focuses on decking material, but due to a lack of information for this specific product, some of the information comes from literature for GFRP parts in general.  Different types of resins can be used depending on the application requirements.  This CP considers unsaturated polyester resin.  Vinyl esters are also common; see CP 176 for information on vinyl ester resins.  For certain applications of GFRP requiring fire ratings, halogenated polyesters and/or mineral flame retardants like antimony oxide and alumina trihydrate may be used; however, they were not found to be common for standard decking materials.  GFRP decking is produced using a pultrusion process.  This is a continuous process used to produce composite parts with a constant cross-sectional profile.  The equipment feeds glass rovings and continuous strand mats into a resin bath.  A surfacing veil is also applied and the pultrusion is pulled through forming/curing dies where polymerization takes place.  At the end of the line, the profile is cut to desired length.  Styrene is generally used as a crosslinking monomer as part of the resin bath.  Some pultruders are making efforts to decrease styrene emission during manufacturing by using lower styrene resins or vapor supressed resins.  This emissions in this CP are based on standard styrene content without vapor suppression.  Residual styrene content in the finished product is very dependent on manufacturing conditions and may vary widely.",
+    "sources": [
+        {
+            "name": "Fibers",
+            "url": "http://onlinelibrary.wiley.com/doi/10.1002/14356007.a11_001/abstract",
+            "id": 9657
+        },
+        {
+            "name": "AQMD",
+            "url": "http://www.aqmd.gov/docs/default-source/planning/annual-emission-reporting/guidelines-for-calculating-emissions-from-polyester-resin-operations.pdf?sfvrsn=6",
+            "id": 9658
+        },
+        {
+            "name": "ECRM",
+            "url": "http://www.ecrminc.com/page7.html",
+            "id": 9659
+        },
+        {
+            "name": "EPA",
+            "url": "http://www.epa.gov/ttnchie1/ap42/ch04/final/c04s04.pdf",
+            "id": 9660
+        },
+        {
+            "name": "AGY2",
+            "url": "http://www.agy.com/wp-content/uploads/2014/03/High_Strength_Glass_Fibers-Technical.pdf",
+            "id": 9661
+        },
+        {
+            "name": "Fiberline",
+            "url": "http://fiberline.com/material-safety-data-sheet-group-6",
+            "id": 9662
+        },
+        {
+            "name": "SafDeck",
+            "url": "http://www.strongwell.com/wp-content/uploads/2013/04/SAFPLANK-SAFDECK-Fiberglass-Decking-Systems-Brochure.pdf",
+            "id": 9663
+        },
+        {
+            "name": "StrongDek Spec",
+            "url": "http://www.strongwell.com/wp-content/uploads/2014/12/FRP-Architectural-Decking-Specification.pdf",
+            "id": 9664
+        },
+        {
+            "name": "Pultrusion",
+            "url": "http://www.strongwell.com/about/the-pultrusion-process/",
+            "id": 9665
+        },
+        {
+            "name": "StrongDek MSDS",
+            "url": "https://www.redwoodplastics.com/wp-content/uploads/2015/05/Strongdek-msds.pdf",
+            "id": 9666
+        },
+        {
+            "name": "Bedford",
+            "url": "http://bedfordreinforced.com/wp-content/uploads/2014/05/BRPGEN127_PROForms_Deckboard_Broch_WEB.pdf",
+            "id": 9667
+        },
+        {
+            "name": "Bedford PE",
+            "url": "http://bedfordreinforced.com/wp-content/uploads/2015/05/SDS-polyester-2015.pdf",
+            "id": 9668
+        },
+        {
+            "name": "CP brochure",
+            "url": "http://www.creativepultrusions.com/default/assets/File/Flooring%20Prod%20Broch%20%28CPM115-1211_1C%29.pdf",
+            "id": 9669
+        },
+        {
+            "name": "CP1500",
+            "url": "http://www.creativepultrusions.com/index.cfm/connect-with-us/finished-product-msds/fiberglass-reinforced-polymer-frp-1500-series-resin/",
+            "id": 9670
+        },
+        {
+            "name": "CP Design",
+            "url": "http://www.creativepultrusions.com/index.cfm/products-solutions/fiberglass-standard-structural-profiles/pultexc2ae-pultrusion-design-manual/",
+            "id": 9671
+        },
+        {
+            "name": "COR30-DZ-210",
+            "url": "https://www.b2bcomposites.com/msds/interplastic/508487.pdf",
+            "id": 9672
+        },
+        {
+            "name": "DION 31020-03 TDS",
+            "url": "http://www.reichhold.com/documents/851_DION3102003.pdf",
+            "id": 9673
+        },
+        {
+            "name": "DION 31020-03",
+            "url": "http://www.reichhold.com/docs/msds/EN4429_AGHS.PDF",
+            "id": 9674
+        },
+        {
+            "name": "PIC",
+            "url": "http://www.pultrusionindustry.org/pultrusion-101/what-materials-are-used-to-make-composites/",
+            "id": 9675
+        },
+        {
+            "name": "Pultru P706-101",
+            "url": "http://www.brenntagspecialties.com/en/downloads/Products/Composites/AOC/Polyester_Resins/P706-101_TDS.pdf",
+            "id": 9676
+        },
+        {
+            "name": "SLA 45",
+            "url": "http://chmcomposites.com/wp-content/uploads/2015/05/SLA-45-info-sheet.pdf",
+            "id": 9677
+        },
+        {
+            "name": "Nexus",
+            "url": "http://www.nexusveil.com/Documents/NEXUS06212013.pdf",
+            "id": 9678
+        },
+        {
+            "name": "Nexus patent",
+            "url": "https://www.google.com/patents/US5935498",
+            "id": 9679
+        },
+        {
+            "name": "Composites",
+            "url": "https://books.google.com/books?id=lB2mTpDtUoAC&pg=PA65&lpg=PA65&dq=pultrusion+surface+veil&source=bl&ots=7kIGuKx9JJ&sig=9r8AqN1CK_74_tqFyjCPaDd10Gg&hl=en&sa=X&ved=0CEkQ6AEwAjgKahUKEwjKz5O1lqTHAhWUFpIKHXGfBvI#v=onepage&q=pultrusion%20surface%20veil&f=false",
+            "id": 9680
+        },
+        {
+            "name": "OleMiss",
+            "url": "http://www.olemiss.edu/depts/compmatl/fall00_%20newsletter.pdf",
+            "id": 9681
+        },
+        {
+            "name": "SPEA",
+            "url": "http://www.speautomotive.com/SPEA_CD/SPEA2003/pdf/a05.pdf",
+            "id": 9682
+        },
+        {
+            "name": "Handbook",
+            "url": "https://books.google.com/books?id=HY8kBAAAQBAJ&pg=PA91&lpg=PA91&dq=pultrusion+surface+veil&source=bl&ots=jJGlFeK9tG&sig=qnRW5mRsKVN_STvPOKyVPg5sc9E&hl=en&sa=X&ved=0CFoQ6AEwBjgKahUKEwjKz5O1lqTHAhWUFpIKHXGfBvI#v=onepage&q&f=false",
+            "id": 9683
+        },
+        {
+            "name": "Technology book",
+            "url": "https://books.google.com/books?id=LQO3AgAAQBAJ&pg=PT200&lpg=PT200&dq=polyester+glass+fiber+Antimony+trioxide&source=bl&ots=hsMKufJc1N&sig=oiGurT4g8RDujl9A97oIfekQs4U&hl=en&sa=X&ved=0CCQQ6AEwAmoVChMIhO6Ll8rbxwIVjH-SCh2qog66#v=onepage&q=polyester%20glass%20fiber%20Antimony%20trioxide&f=false",
+            "id": 9684
+        },
+        {
+            "name": "Ashland",
+            "url": "http://www.ashland.com/Ashland/Static/Documents/APM/HETRON_fab_guide.pdf",
+            "id": 9685
+        },
+        {
+            "name": "AOC patent",
+            "url": "https://www.google.com/patents/US8188166",
+            "id": 9686
+        },
+        {
+            "name": "Pella patent",
+            "url": "https://www.google.com/patents/US8025754",
+            "id": 9687
+        },
+        {
+            "name": "Fibers 2012",
+            "url": "http://onlinelibrary.wiley.com/doi/10.1002/14356007.a11_001.pub3/abstract",
+            "id": 9688
+        },
+        {
+            "name": "Sizings",
+            "url": "http://www.compositesworld.com/articles/sizing-up-fiber-sizings",
+            "id": 9689
+        },
+        {
+            "name": "Michelman",
+            "url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCwQFjABahUKEwjOxJGknujHAhVXGpIKHa5qAXI&url=http%3A%2F%2Fwww.researchgate.net%2Fpublictopics.PublicPostFileLoader.html%3Fid%3D54623f82d5a3f2bb448b45dc%26key%3D8a3e56df-955f-41be-9a58-b99591c524be&usg=AFQjCNH9f-jI1NMI6spEFAJvS7NftYtc-A&sig2=UFLBvkSKj-cB8gZ2rIvD2Q",
+            "id": 9690
+        },
+        {
+            "name": "Bayer Sizing",
+            "url": "http://www.google.com/patents/US6833182",
+            "id": 9691
+        },
+        {
+            "name": "Momentive",
+            "url": "https://www.momentive.com/products/showtechnicaldatasheet.aspx?id=10044",
+            "id": 9692
+        },
+        {
+            "name": "MC MSDS",
+            "url": "http://www.advanced-plastics.com/msds/F39_110101.pdf",
+            "id": 9693
+        },
+        {
+            "name": "Ashland 2",
+            "url": "http://www.ashland.com/Ashland/Static/Documents/APM/DRKFabTipsFullVersion.pdf",
+            "id": 9694
+        },
+        {
+            "name": "Brenntag",
+            "url": "http://www.brenntagspecialties.com/en/downloads/Products/Multi_Market_Principals/BSI_Stearates/PDS_Stearate_Zinc_2310_G.pdf",
+            "id": 9695
+        },
+        {
+            "name": "Tinuvin 326",
+            "url": "http://www.shanghaiguanan.com/pic/2014916154624916.pdf",
+            "id": 9696
+        },
+        {
+            "name": "Helwig patent",
+            "url": "https://www.google.com/patents/US20050032452",
+            "id": 9697
+        },
+        {
+            "name": "Ceramics",
+            "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+            "id": 8638
+        },
+        {
+            "name": "ASM",
+            "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+            "id": 8639
+        },
+        {
+            "name": "Mortensen",
+            "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+            "id": 8640
+        }
+    ]
+}

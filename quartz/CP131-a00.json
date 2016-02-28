@@ -1,0 +1,4168 @@
+{
+    "CPID": "CP131",
+    "timestamp": 1452102143586,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 8989,
+            "name": "Mineral Wool Core",
+            "CASRN": "",
+            "massPct": 0.9069,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization",
+                        "massPct": 0.0005,
+                        "contributors": [
+                            {
+                                "recId": 9375,
+                                "massPct": 0.0005,
+                                "childrenIds": [
+                                    9375
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": 0.0005,
+                        "contributors": [
+                            {
+                                "recId": 9375,
+                                "massPct": 0.0005,
+                                "childrenIds": [
+                                    9375
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": 0.0005,
+                        "contributors": [
+                            {
+                                "recId": 9375,
+                                "massPct": 0.0005,
+                                "childrenIds": [
+                                    9375
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.0005,
+                        "contributors": [
+                            {
+                                "recId": 9375,
+                                "massPct": 0.0005,
+                                "childrenIds": [
+                                    9375
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": 0.0012000000000000001,
+                        "contributors": [
+                            {
+                                "recId": 9375,
+                                "massPct": 0.0005,
+                                "childrenIds": [
+                                    9375
+                                ]
+                            },
+                            {
+                                "recId": 8996,
+                                "massPct": 0.0007,
+                                "childrenIds": [
+                                    8996
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.0007,
+                        "contributors": [
+                            {
+                                "recId": 8995,
+                                "massPct": 0.0007,
+                                "childrenIds": [
+                                    8995
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 8992,
+                    "name": "Perlite",
+                    "CASRN": "93763-70-3",
+                    "massPct": 0.2798,
+                    "function": "lightweight aggregate,filler",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Cortega EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72411.pdf",
+                            "id": 8937
+                        },
+                        {
+                            "name": "Cortega APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/88742.pdf",
+                            "id": 8936
+                        },
+                        {
+                            "name": "Fine Fissured EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72347.pdf",
+                            "id": 8934
+                        },
+                        {
+                            "name": "Fine Fissured APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/88741.pdf",
+                            "id": 8933
+                        },
+                        {
+                            "name": "Mesa EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72412.pdf",
+                            "id": 8931
+                        },
+                        {
+                            "name": "Mesa APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85667.pdf",
+                            "id": 8930
+                        },
+                        {
+                            "name": "Dune EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72462.pdf",
+                            "id": 8928
+                        },
+                        {
+                            "name": "Dune APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85668.pdf",
+                            "id": 8927
+                        },
+                        {
+                            "name": "Ultima Ceiling2Ceiling EPD",
+                            "url": "http://www.armstrong.com/pdbupimages/200364.pdf",
+                            "id": 8925
+                        },
+                        {
+                            "name": "Ultima EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72096.pdf",
+                            "id": 8924
+                        },
+                        {
+                            "name": "Ultima APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85666.pdf",
+                            "id": 8923
+                        },
+                        {
+                            "name": "Calla APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85670.pdf",
+                            "id": 8921
+                        },
+                        {
+                            "name": "Cirrus EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72410.pdf",
+                            "id": 8919
+                        },
+                        {
+                            "name": "Cirrus APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85671.pdf",
+                            "id": 8918
+                        },
+                        {
+                            "name": "Armstrong Mineral fiber MSDS",
+                            "url": "http://www.armstrong.com/pdbupimages/208255.pdf",
+                            "id": 8917
+                        },
+                        {
+                            "name": "US8961675",
+                            "url": "https://www.google.com/patents/US8961675",
+                            "id": 8975
+                        },
+                        {
+                            "name": "US7056582",
+                            "url": "https://www.google.com/patents/US7056582",
+                            "id": 8962
+                        },
+                        {
+                            "name": "ACOUSTICAL CEILING INGREDIENTS AND RECYCLING",
+                            "url": "http://www.armstrong.com/commceilingsna/ceiling-recycling-program.html?channelId&channelListId&mediaId=ac02b3fb1feb42709bc2e96d4a0d84bb",
+                            "id": 8957
+                        },
+                        {
+                            "name": "Radar Firecode High CAC/NRC MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-radar-firecode-high-nrc-high-cac-acoustical-panels-sds-en-41999270010.pdf",
+                            "id": 8956
+                        },
+                        {
+                            "name": "Aspen Basic MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-aspen-alpine-olympia-micro-pebbled-saville-row-acoustical-panels-sds-en-41808210001.pdf",
+                            "id": 8955
+                        },
+                        {
+                            "name": "Radar Firecode MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-radar-clean-room-fifth-avenue-fissured-pebbled-rock-face-superpanel-touchstone-firecode-acoustical-panels-sds-en-41999270008.pdf",
+                            "id": 8953
+                        },
+                        {
+                            "name": "Radar Basic MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/usg-radar-adobe-fifth-avenue-fissured-majestic-moonscape-plateau-sierra-stonehurst-basic-ceiling-panels-sds-en-41999270001.pdf",
+                            "id": 8952
+                        },
+                        {
+                            "name": "USG SC2621 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-high-durability,high-cac-ceilings-epd-sc2621.pdf",
+                            "id": 8950
+                        },
+                        {
+                            "name": "USG SC2622 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-high-nrc-high-cac-open-plan-ceilings-epd-en-sc2622.pdf",
+                            "id": 8949
+                        },
+                        {
+                            "name": "USG SC2619 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-ceilings-epd-en-sc2619.pdf",
+                            "id": 8948
+                        },
+                        {
+                            "name": "USG SC2620 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-firecode-climaplus-high-nrc-high-cac-ceilings-epd-en-sc2620.pdf",
+                            "id": 8947
+                        },
+                        {
+                            "name": "USG SC2618 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-ceilings-epd-en-sc2618.pdf",
+                            "id": 8946
+                        },
+                        {
+                            "name": "USG SC2623 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/olympia-micro-climaplus-hrc-60-nrc-ceilings-epd-en-sc2623.pdf",
+                            "id": 8945
+                        },
+                        {
+                            "name": "USG SC2607 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/eclipse-climaplus-hrc-firecode-astro-climaplus-ceilings-epd-en-sc2607.pdf",
+                            "id": 8942
+                        },
+                        {
+                            "name": "VinylShield HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_VinylShield.pdf",
+                            "id": 8905
+                        },
+                        {
+                            "name": "VinylShield C MSDS",
+                            "url": "http://www.certainteed.com/resources/Vinylshield_C_MSDS_2009.pdf",
+                            "id": 8907
+                        },
+                        {
+                            "name": "VinylShield A MSDS",
+                            "url": "http://www.certainteed.com/resources/Vinylshield%20A_MSDS_2009.pdf",
+                            "id": 8906
+                        },
+                        {
+                            "name": "Cashmere EPD",
+                            "url": "http://www.certainteed.com/resources/CTC_Environmental-Product-Declaration_Cashmere.pdf",
+                            "id": 8894
+                        },
+                        {
+                            "name": "Cashmere HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Cashmere.pdf",
+                            "id": 8893
+                        },
+                        {
+                            "name": "Cashmere MSDS",
+                            "url": "http://www.certainteed.com/resources/Cashmere_MSDS_2009.pdf",
+                            "id": 8897
+                        },
+                        {
+                            "name": "Protectone EPD",
+                            "url": "http://www.certainteed.com/resources/CTC_Environmental-Product-Declaration_Protectone.pdf",
+                            "id": 8904
+                        },
+                        {
+                            "name": "Baroque EPD",
+                            "url": "http://www.certainteed.com/resources/CTC_Environmental-Product-Declaration_Baroque.pdf",
+                            "id": 8899
+                        },
+                        {
+                            "name": "Baroque HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Baroque.pdf",
+                            "id": 8898
+                        },
+                        {
+                            "name": "Wet-felted safetone class A/Protectone/Time-rated MSDS",
+                            "url": "http://www.certainteed.com/resources/MineralFiber_MSDS_2010.pdf",
+                            "id": 8902
+                        },
+                        {
+                            "name": "Symphony m EPD",
+                            "url": "http://www.certainteed.com/resources/CTC_Environmental_Product_Declaration_Symphonym.pdf",
+                            "id": 8915
+                        },
+                        {
+                            "name": "Symphony m HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Symphonym.pdf",
+                            "id": 8912
+                        },
+                        {
+                            "name": "Symphony m MSDS",
+                            "url": "http://www.certainteed.com/resources/Symphony%20m%20MSDS_2009.pdf",
+                            "id": 8913
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.25375062
+                },
+                {
+                    "recId": 9375,
+                    "name": "Zinc Pyrithione",
+                    "CASRN": "13463-41-7",
+                    "massPct": 0.0005,
+                    "function": "biocide",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-577",
+                                "type": "orange",
+                                "name": "Skin Sensitization",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-575",
+                                "type": "orange",
+                                "name": "Eye Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Zinc OMADINE ZOE MSDS",
+                            "url": "http://www.kellysolutions.com/erenewals/documentsubmit/KellyData%5COK%5Cpesticide%5CMSDS%5C1258%5C1258-1235%5C1258-1235_Zinc_Omadine_Zoe_Dispersion_Mildewcide_5_2_2006_10_29_11_AM.pdf",
+                            "id": 8966
+                        },
+                        {
+                            "name": "Lonza building product preservatives",
+                            "url": "http://bio.lonza.com/uploads/tx_mwaxmarketingmaterial/Lonza_Brochures_Building_Products_Preservative_Selection_Guide_Global.pdf",
+                            "id": 8967
+                        },
+                        {
+                            "name": "US7056582",
+                            "url": "https://www.google.com/patents/US7056582",
+                            "id": 8962
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.00045345000000000004
+                },
+                {
+                    "recId": 8993,
+                    "name": "Cornstarch",
+                    "CASRN": "9005-84-9",
+                    "massPct": 0.0933,
+                    "function": "binder",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Radar Firecode High CAC/NRC MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-radar-firecode-high-nrc-high-cac-acoustical-panels-sds-en-41999270010.pdf",
+                            "id": 8956
+                        },
+                        {
+                            "name": "US8961675",
+                            "url": "https://www.google.com/patents/US8961675",
+                            "id": 8975
+                        },
+                        {
+                            "name": "US7056582",
+                            "url": "https://www.google.com/patents/US7056582",
+                            "id": 8962
+                        },
+                        {
+                            "name": "US8734613",
+                            "url": "https://www.google.com/patents/US8734613",
+                            "id": 8961
+                        },
+                        {
+                            "name": "Aspen Basic MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-aspen-alpine-olympia-micro-pebbled-saville-row-acoustical-panels-sds-en-41808210001.pdf",
+                            "id": 8955
+                        },
+                        {
+                            "name": "Radar Basic MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/usg-radar-adobe-fifth-avenue-fissured-majestic-moonscape-plateau-sierra-stonehurst-basic-ceiling-panels-sds-en-41999270001.pdf",
+                            "id": 8952
+                        },
+                        {
+                            "name": "Cortega EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72411.pdf",
+                            "id": 8937
+                        },
+                        {
+                            "name": "Cortega APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/88742.pdf",
+                            "id": 8936
+                        },
+                        {
+                            "name": "Fine Fissured EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72347.pdf",
+                            "id": 8934
+                        },
+                        {
+                            "name": "Fine Fissured APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/88741.pdf",
+                            "id": 8933
+                        },
+                        {
+                            "name": "Mesa EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72412.pdf",
+                            "id": 8931
+                        },
+                        {
+                            "name": "Mesa APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85667.pdf",
+                            "id": 8930
+                        },
+                        {
+                            "name": "Dune EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72462.pdf",
+                            "id": 8928
+                        },
+                        {
+                            "name": "Dune APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85668.pdf",
+                            "id": 8927
+                        },
+                        {
+                            "name": "Ultima Ceiling2Ceiling EPD",
+                            "url": "http://www.armstrong.com/pdbupimages/200364.pdf",
+                            "id": 8925
+                        },
+                        {
+                            "name": "Ultima EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72096.pdf",
+                            "id": 8924
+                        },
+                        {
+                            "name": "Ultima APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85666.pdf",
+                            "id": 8923
+                        },
+                        {
+                            "name": "Calla APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85670.pdf",
+                            "id": 8921
+                        },
+                        {
+                            "name": "Cirrus EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72410.pdf",
+                            "id": 8919
+                        },
+                        {
+                            "name": "Cirrus APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85671.pdf",
+                            "id": 8918
+                        },
+                        {
+                            "name": "Armstrong Mineral fiber MSDS",
+                            "url": "http://www.armstrong.com/pdbupimages/208255.pdf",
+                            "id": 8917
+                        },
+                        {
+                            "name": "USG SC2621 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-high-durability,high-cac-ceilings-epd-sc2621.pdf",
+                            "id": 8950
+                        },
+                        {
+                            "name": "USG SC2622 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-high-nrc-high-cac-open-plan-ceilings-epd-en-sc2622.pdf",
+                            "id": 8949
+                        },
+                        {
+                            "name": "USG SC2619 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-ceilings-epd-en-sc2619.pdf",
+                            "id": 8948
+                        },
+                        {
+                            "name": "USG SC2620 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-firecode-climaplus-high-nrc-high-cac-ceilings-epd-en-sc2620.pdf",
+                            "id": 8947
+                        },
+                        {
+                            "name": "USG SC2618 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-ceilings-epd-en-sc2618.pdf",
+                            "id": 8946
+                        },
+                        {
+                            "name": "USG SC2623 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/olympia-micro-climaplus-hrc-60-nrc-ceilings-epd-en-sc2623.pdf",
+                            "id": 8945
+                        },
+                        {
+                            "name": "USG SC2605 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/millennia-climaplus-ceilings-epd-en-sc2605.pdf",
+                            "id": 8944
+                        },
+                        {
+                            "name": "USG SC2608 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/mars-climaplus-hrc-healthcare-nrc-ceilings-epd-en-sc2608.pdf",
+                            "id": 8943
+                        },
+                        {
+                            "name": "USG SC2613 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/glacier-f-fissured-ceilings-epd-en-sc2613.pdf",
+                            "id": 8941
+                        },
+                        {
+                            "name": "USG SC2612 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/frost-sandrift-bria-climaplus-ceilings-epd-en-sc2612.pdf",
+                            "id": 8940
+                        },
+                        {
+                            "name": "USG SC2614 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/frost-sandrift-glacier-firecode-ceilings-epd-en-sc2614.pdf",
+                            "id": 8939
+                        },
+                        {
+                            "name": "VinylShield HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_VinylShield.pdf",
+                            "id": 8905
+                        },
+                        {
+                            "name": "VinylShield C MSDS",
+                            "url": "http://www.certainteed.com/resources/Vinylshield_C_MSDS_2009.pdf",
+                            "id": 8907
+                        },
+                        {
+                            "name": "VinylShield A MSDS",
+                            "url": "http://www.certainteed.com/resources/Vinylshield%20A_MSDS_2009.pdf",
+                            "id": 8906
+                        },
+                        {
+                            "name": "Cashmere EPD",
+                            "url": "http://www.certainteed.com/resources/CTC_Environmental-Product-Declaration_Cashmere.pdf",
+                            "id": 8894
+                        },
+                        {
+                            "name": "Cashmere HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Cashmere.pdf",
+                            "id": 8893
+                        },
+                        {
+                            "name": "Cashmere MSDS",
+                            "url": "http://www.certainteed.com/resources/Cashmere_MSDS_2009.pdf",
+                            "id": 8897
+                        },
+                        {
+                            "name": "Protectone EPD",
+                            "url": "http://www.certainteed.com/resources/CTC_Environmental-Product-Declaration_Protectone.pdf",
+                            "id": 8904
+                        },
+                        {
+                            "name": "Baroque EPD",
+                            "url": "http://www.certainteed.com/resources/CTC_Environmental-Product-Declaration_Baroque.pdf",
+                            "id": 8899
+                        },
+                        {
+                            "name": "Baroque HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Baroque.pdf",
+                            "id": 8898
+                        },
+                        {
+                            "name": "Wet-felted safetone class A/Protectone/Time-rated MSDS",
+                            "url": "http://www.certainteed.com/resources/MineralFiber_MSDS_2010.pdf",
+                            "id": 8902
+                        },
+                        {
+                            "name": "Symphony m EPD",
+                            "url": "http://www.certainteed.com/resources/CTC_Environmental_Product_Declaration_Symphonym.pdf",
+                            "id": 8915
+                        },
+                        {
+                            "name": "Symphony m HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Symphonym.pdf",
+                            "id": 8912
+                        },
+                        {
+                            "name": "Symphony m MSDS",
+                            "url": "http://www.certainteed.com/resources/Symphony%20m%20MSDS_2009.pdf",
+                            "id": 8913
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.08461377
+                },
+                {
+                    "recId": 8995,
+                    "name": "Guar Gum",
+                    "CASRN": "9000-30-0",
+                    "massPct": 0.0007,
+                    "function": "flocculant",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "US6443256",
+                            "url": "https://www.google.com/patents/US6443256",
+                            "id": 8979
+                        },
+                        {
+                            "name": "US8961675",
+                            "url": "https://www.google.com/patents/US8961675",
+                            "id": 8975
+                        },
+                        {
+                            "name": "US7056582",
+                            "url": "https://www.google.com/patents/US7056582",
+                            "id": 8962
+                        },
+                        {
+                            "name": "USG SC2621 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-high-durability,high-cac-ceilings-epd-sc2621.pdf",
+                            "id": 8950
+                        },
+                        {
+                            "name": "USG SC2622 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-high-nrc-high-cac-open-plan-ceilings-epd-en-sc2622.pdf",
+                            "id": 8949
+                        },
+                        {
+                            "name": "USG SC2619 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-ceilings-epd-en-sc2619.pdf",
+                            "id": 8948
+                        },
+                        {
+                            "name": "USG SC2620 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-firecode-climaplus-high-nrc-high-cac-ceilings-epd-en-sc2620.pdf",
+                            "id": 8947
+                        },
+                        {
+                            "name": "USG SC2618 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-ceilings-epd-en-sc2618.pdf",
+                            "id": 8946
+                        },
+                        {
+                            "name": "USG SC2623 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/olympia-micro-climaplus-hrc-60-nrc-ceilings-epd-en-sc2623.pdf",
+                            "id": 8945
+                        },
+                        {
+                            "name": "USG SC2605 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/millennia-climaplus-ceilings-epd-en-sc2605.pdf",
+                            "id": 8944
+                        },
+                        {
+                            "name": "USG SC2608 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/mars-climaplus-hrc-healthcare-nrc-ceilings-epd-en-sc2608.pdf",
+                            "id": 8943
+                        },
+                        {
+                            "name": "USG SC2607 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/eclipse-climaplus-hrc-firecode-astro-climaplus-ceilings-epd-en-sc2607.pdf",
+                            "id": 8942
+                        },
+                        {
+                            "name": "Guar Gum MSDS",
+                            "url": "http://www.orcbs.msu.edu/msds/122204_FJK_036_GUM.PDF",
+                            "id": 8985
+                        },
+                        {
+                            "name": "NIH 9000-30-0",
+                            "url": "http://tools.niehs.nih.gov/cebs3/ntpviews/index.cfm?action=testarticle.properties&cas_number=9000-30-0",
+                            "id": 8984
+                        },
+                        {
+                            "name": "US5558710",
+                            "url": "http://www.google.com/patents/US5558710",
+                            "id": 8981
+                        },
+                        {
+                            "name": "WO1988005096A1",
+                            "url": "http://www.google.com/patents/WO1988005096A1?cl=en",
+                            "id": 8978
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0006348300000000001
+                },
+                {
+                    "recId": 8996,
+                    "name": "Alcohol Ethoxylate",
+                    "CASRN": "68131-39-5",
+                    "massPct": 0.0007,
+                    "function": "surfactant",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-575",
+                                "type": "orange",
+                                "name": "Eye Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "WO1988005096A1",
+                            "url": "http://www.google.com/patents/WO1988005096A1?cl=en",
+                            "id": 8978
+                        },
+                        {
+                            "name": "US7056582",
+                            "url": "https://www.google.com/patents/US7056582",
+                            "id": 8962
+                        },
+                        {
+                            "name": "Neodol 25-3 TDS",
+                            "url": "https://www.shell.com/content/dam/shell/static/chemicals/downloads/products-services/datasheet-neodol253.pdf",
+                            "id": 8983
+                        },
+                        {
+                            "name": "Haz Map 68131-39-5",
+                            "url": "http://hazmap.nlm.nih.gov/category-details?id=11411&table=copytblagents",
+                            "id": 8982
+                        },
+                        {
+                            "name": "US5558710",
+                            "url": "http://www.google.com/patents/US5558710",
+                            "id": 8981
+                        }
+                    ],
+                    "notes": "Representative CAS",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0006348300000000001
+                },
+                {
+                    "recId": 8990,
+                    "name": "Mineral Wool",
+                    "CASRN": "65997-17-3",
+                    "massPct": 0.513,
+                    "function": "fiber",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "US8734613",
+                            "url": "https://www.google.com/patents/US8734613",
+                            "id": 8961
+                        },
+                        {
+                            "name": "Radar Firecode High CAC/NRC MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-radar-firecode-high-nrc-high-cac-acoustical-panels-sds-en-41999270010.pdf",
+                            "id": 8956
+                        },
+                        {
+                            "name": "Symphony m HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Symphonym.pdf",
+                            "id": 8912
+                        },
+                        {
+                            "name": "Symphony m EPD",
+                            "url": "http://www.certainteed.com/resources/CTC_Environmental_Product_Declaration_Symphonym.pdf",
+                            "id": 8915
+                        },
+                        {
+                            "name": "Baroque HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Baroque.pdf",
+                            "id": 8898
+                        },
+                        {
+                            "name": "Baroque EPD",
+                            "url": "http://www.certainteed.com/resources/CTC_Environmental-Product-Declaration_Baroque.pdf",
+                            "id": 8899
+                        },
+                        {
+                            "name": "Protectone EPD",
+                            "url": "http://www.certainteed.com/resources/CTC_Environmental-Product-Declaration_Protectone.pdf",
+                            "id": 8904
+                        },
+                        {
+                            "name": "Cashmere HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Cashmere.pdf",
+                            "id": 8893
+                        },
+                        {
+                            "name": "Cashmere EPD",
+                            "url": "http://www.certainteed.com/resources/CTC_Environmental-Product-Declaration_Cashmere.pdf",
+                            "id": 8894
+                        },
+                        {
+                            "name": "VinylShield HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_VinylShield.pdf",
+                            "id": 8905
+                        },
+                        {
+                            "name": "Cirrus APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85671.pdf",
+                            "id": 8918
+                        },
+                        {
+                            "name": "Cirrus EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72410.pdf",
+                            "id": 8919
+                        },
+                        {
+                            "name": "Armstrong Mineral fiber MSDS",
+                            "url": "http://www.armstrong.com/pdbupimages/208255.pdf",
+                            "id": 8917
+                        },
+                        {
+                            "name": "Calla APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85670.pdf",
+                            "id": 8921
+                        },
+                        {
+                            "name": "Ultima APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85666.pdf",
+                            "id": 8923
+                        },
+                        {
+                            "name": "Ultima EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72096.pdf",
+                            "id": 8924
+                        },
+                        {
+                            "name": "Ultima Ceiling2Ceiling EPD",
+                            "url": "http://www.armstrong.com/pdbupimages/200364.pdf",
+                            "id": 8925
+                        },
+                        {
+                            "name": "Dune APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85668.pdf",
+                            "id": 8927
+                        },
+                        {
+                            "name": "Dune EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72462.pdf",
+                            "id": 8928
+                        },
+                        {
+                            "name": "Mesa APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85667.pdf",
+                            "id": 8930
+                        },
+                        {
+                            "name": "Mesa EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72412.pdf",
+                            "id": 8931
+                        },
+                        {
+                            "name": "Fine Fissured APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/88741.pdf",
+                            "id": 8933
+                        },
+                        {
+                            "name": "Fine Fissured EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72347.pdf",
+                            "id": 8934
+                        },
+                        {
+                            "name": "Cortega APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/88742.pdf",
+                            "id": 8936
+                        },
+                        {
+                            "name": "Cortega EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72411.pdf",
+                            "id": 8937
+                        },
+                        {
+                            "name": "USG SC2614 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/frost-sandrift-glacier-firecode-ceilings-epd-en-sc2614.pdf",
+                            "id": 8939
+                        },
+                        {
+                            "name": "USG SC2612 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/frost-sandrift-bria-climaplus-ceilings-epd-en-sc2612.pdf",
+                            "id": 8940
+                        },
+                        {
+                            "name": "USG SC2613 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/glacier-f-fissured-ceilings-epd-en-sc2613.pdf",
+                            "id": 8941
+                        },
+                        {
+                            "name": "USG SC2607 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/eclipse-climaplus-hrc-firecode-astro-climaplus-ceilings-epd-en-sc2607.pdf",
+                            "id": 8942
+                        },
+                        {
+                            "name": "USG SC2608 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/mars-climaplus-hrc-healthcare-nrc-ceilings-epd-en-sc2608.pdf",
+                            "id": 8943
+                        },
+                        {
+                            "name": "USG SC2605 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/millennia-climaplus-ceilings-epd-en-sc2605.pdf",
+                            "id": 8944
+                        },
+                        {
+                            "name": "USG SC2623 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/olympia-micro-climaplus-hrc-60-nrc-ceilings-epd-en-sc2623.pdf",
+                            "id": 8945
+                        },
+                        {
+                            "name": "USG SC2618 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-ceilings-epd-en-sc2618.pdf",
+                            "id": 8946
+                        },
+                        {
+                            "name": "USG SC2620 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-firecode-climaplus-high-nrc-high-cac-ceilings-epd-en-sc2620.pdf",
+                            "id": 8947
+                        },
+                        {
+                            "name": "USG SC2619 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-ceilings-epd-en-sc2619.pdf",
+                            "id": 8948
+                        },
+                        {
+                            "name": "USG SC2622 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-high-nrc-high-cac-open-plan-ceilings-epd-en-sc2622.pdf",
+                            "id": 8949
+                        },
+                        {
+                            "name": "USG SC2621 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-high-durability,high-cac-ceilings-epd-sc2621.pdf",
+                            "id": 8950
+                        },
+                        {
+                            "name": "ACOUSTICAL CEILING INGREDIENTS AND RECYCLING",
+                            "url": "http://www.armstrong.com/commceilingsna/ceiling-recycling-program.html?channelId&channelListId&mediaId=ac02b3fb1feb42709bc2e96d4a0d84bb",
+                            "id": 8957
+                        },
+                        {
+                            "name": "US7056582",
+                            "url": "https://www.google.com/patents/US7056582",
+                            "id": 8962
+                        },
+                        {
+                            "name": "US8961675",
+                            "url": "https://www.google.com/patents/US8961675",
+                            "id": 8975
+                        },
+                        {
+                            "name": "Symphony m MSDS",
+                            "url": "http://www.certainteed.com/resources/Symphony%20m%20MSDS_2009.pdf",
+                            "id": 8913
+                        },
+                        {
+                            "name": "Wet-felted safetone class A/Protectone/Time-rated MSDS",
+                            "url": "http://www.certainteed.com/resources/MineralFiber_MSDS_2010.pdf",
+                            "id": 8902
+                        },
+                        {
+                            "name": "Cashmere MSDS",
+                            "url": "http://www.certainteed.com/resources/Cashmere_MSDS_2009.pdf",
+                            "id": 8897
+                        },
+                        {
+                            "name": "VinylShield A MSDS",
+                            "url": "http://www.certainteed.com/resources/Vinylshield%20A_MSDS_2009.pdf",
+                            "id": 8906
+                        },
+                        {
+                            "name": "VinylShield C MSDS",
+                            "url": "http://www.certainteed.com/resources/Vinylshield_C_MSDS_2009.pdf",
+                            "id": 8907
+                        },
+                        {
+                            "name": "Eclipse MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-eclipse-luna-mars-millennia-acoustical-panels-sds-en-41263320001.pdf",
+                            "id": 8951
+                        },
+                        {
+                            "name": "Radar Basic MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/usg-radar-adobe-fifth-avenue-fissured-majestic-moonscape-plateau-sierra-stonehurst-basic-ceiling-panels-sds-en-41999270001.pdf",
+                            "id": 8952
+                        },
+                        {
+                            "name": "Radar Firecode MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-radar-clean-room-fifth-avenue-fissured-pebbled-rock-face-superpanel-touchstone-firecode-acoustical-panels-sds-en-41999270008.pdf",
+                            "id": 8953
+                        },
+                        {
+                            "name": "Glacier Basic MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-glacier-cheyenne-frost-f-fissured-sandrift-basic-acoustical-panels-sds-en-41281160001.pdf",
+                            "id": 8954
+                        },
+                        {
+                            "name": "Aspen Basic MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-aspen-alpine-olympia-micro-pebbled-saville-row-acoustical-panels-sds-en-41808210001.pdf",
+                            "id": 8955
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.46523970000000003
+                },
+                {
+                    "recId": 1323,
+                    "name": "Cellulose",
+                    "CASRN": "9004-34-6",
+                    "massPct": 0.1119,
+                    "function": "fiber",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "US8961675",
+                            "url": "https://www.google.com/patents/US8961675",
+                            "id": 8975
+                        },
+                        {
+                            "name": "US7056582",
+                            "url": "https://www.google.com/patents/US7056582",
+                            "id": 8962
+                        },
+                        {
+                            "name": "ACOUSTICAL CEILING INGREDIENTS AND RECYCLING",
+                            "url": "http://www.armstrong.com/commceilingsna/ceiling-recycling-program.html?channelId&channelListId&mediaId=ac02b3fb1feb42709bc2e96d4a0d84bb",
+                            "id": 8957
+                        },
+                        {
+                            "name": "Radar Firecode High CAC/NRC MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-radar-firecode-high-nrc-high-cac-acoustical-panels-sds-en-41999270010.pdf",
+                            "id": 8956
+                        },
+                        {
+                            "name": "Aspen Basic MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-aspen-alpine-olympia-micro-pebbled-saville-row-acoustical-panels-sds-en-41808210001.pdf",
+                            "id": 8955
+                        },
+                        {
+                            "name": "Radar Firecode MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-radar-clean-room-fifth-avenue-fissured-pebbled-rock-face-superpanel-touchstone-firecode-acoustical-panels-sds-en-41999270008.pdf",
+                            "id": 8953
+                        },
+                        {
+                            "name": "Radar Basic MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/usg-radar-adobe-fifth-avenue-fissured-majestic-moonscape-plateau-sierra-stonehurst-basic-ceiling-panels-sds-en-41999270001.pdf",
+                            "id": 8952
+                        },
+                        {
+                            "name": "USG SC2621 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-high-durability,high-cac-ceilings-epd-sc2621.pdf",
+                            "id": 8950
+                        },
+                        {
+                            "name": "USG SC2622 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-high-nrc-high-cac-open-plan-ceilings-epd-en-sc2622.pdf",
+                            "id": 8949
+                        },
+                        {
+                            "name": "USG SC2619 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-ceilings-epd-en-sc2619.pdf",
+                            "id": 8948
+                        },
+                        {
+                            "name": "USG SC2620 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-firecode-climaplus-high-nrc-high-cac-ceilings-epd-en-sc2620.pdf",
+                            "id": 8947
+                        },
+                        {
+                            "name": "USG SC2618 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-ceilings-epd-en-sc2618.pdf",
+                            "id": 8946
+                        },
+                        {
+                            "name": "USG SC2623 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/olympia-micro-climaplus-hrc-60-nrc-ceilings-epd-en-sc2623.pdf",
+                            "id": 8945
+                        },
+                        {
+                            "name": "Cortega EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72411.pdf",
+                            "id": 8937
+                        },
+                        {
+                            "name": "Cortega APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/88742.pdf",
+                            "id": 8936
+                        },
+                        {
+                            "name": "Fine Fissured EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72347.pdf",
+                            "id": 8934
+                        },
+                        {
+                            "name": "Fine Fissured APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/88741.pdf",
+                            "id": 8933
+                        },
+                        {
+                            "name": "Mesa EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72412.pdf",
+                            "id": 8931
+                        },
+                        {
+                            "name": "Mesa APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85667.pdf",
+                            "id": 8930
+                        },
+                        {
+                            "name": "Dune EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72462.pdf",
+                            "id": 8928
+                        },
+                        {
+                            "name": "Dune APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85668.pdf",
+                            "id": 8927
+                        },
+                        {
+                            "name": "Ultima Ceiling2Ceiling EPD",
+                            "url": "http://www.armstrong.com/pdbupimages/200364.pdf",
+                            "id": 8925
+                        },
+                        {
+                            "name": "Ultima EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72096.pdf",
+                            "id": 8924
+                        },
+                        {
+                            "name": "Ultima APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85666.pdf",
+                            "id": 8923
+                        },
+                        {
+                            "name": "Calla APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85670.pdf",
+                            "id": 8921
+                        },
+                        {
+                            "name": "Armstrong Mineral fiber MSDS",
+                            "url": "http://www.armstrong.com/pdbupimages/208255.pdf",
+                            "id": 8917
+                        },
+                        {
+                            "name": "Cirrus EPD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/72410.pdf",
+                            "id": 8919
+                        },
+                        {
+                            "name": "Cirrus APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85671.pdf",
+                            "id": 8918
+                        },
+                        {
+                            "name": "VinylShield HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_VinylShield.pdf",
+                            "id": 8905
+                        },
+                        {
+                            "name": "VinylShield C MSDS",
+                            "url": "http://www.certainteed.com/resources/Vinylshield_C_MSDS_2009.pdf",
+                            "id": 8907
+                        },
+                        {
+                            "name": "VinylShield A MSDS",
+                            "url": "http://www.certainteed.com/resources/Vinylshield%20A_MSDS_2009.pdf",
+                            "id": 8906
+                        },
+                        {
+                            "name": "Cashmere EPD",
+                            "url": "http://www.certainteed.com/resources/CTC_Environmental-Product-Declaration_Cashmere.pdf",
+                            "id": 8894
+                        },
+                        {
+                            "name": "Cashmere HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Cashmere.pdf",
+                            "id": 8893
+                        },
+                        {
+                            "name": "Cashmere MSDS",
+                            "url": "http://www.certainteed.com/resources/Cashmere_MSDS_2009.pdf",
+                            "id": 8897
+                        },
+                        {
+                            "name": "Protectone EPD",
+                            "url": "http://www.certainteed.com/resources/CTC_Environmental-Product-Declaration_Protectone.pdf",
+                            "id": 8904
+                        },
+                        {
+                            "name": "Baroque EPD",
+                            "url": "http://www.certainteed.com/resources/CTC_Environmental-Product-Declaration_Baroque.pdf",
+                            "id": 8899
+                        },
+                        {
+                            "name": "Baroque HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Baroque.pdf",
+                            "id": 8898
+                        },
+                        {
+                            "name": "Wet-felted safetone class A/Protectone/Time-rated MSDS",
+                            "url": "http://www.certainteed.com/resources/MineralFiber_MSDS_2010.pdf",
+                            "id": 8902
+                        },
+                        {
+                            "name": "Symphony m EPD",
+                            "url": "http://www.certainteed.com/resources/CTC_Environmental_Product_Declaration_Symphonym.pdf",
+                            "id": 8915
+                        },
+                        {
+                            "name": "Symphony m HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Symphonym.pdf",
+                            "id": 8912
+                        },
+                        {
+                            "name": "Symphony m MSDS",
+                            "url": "http://www.certainteed.com/resources/Symphony%20m%20MSDS_2009.pdf",
+                            "id": 8913
+                        }
+                    ],
+                    "notes": "This is commonly in the form of post-consumer recycled paper, such as newspaper.",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.10148211
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.9069
+        },
+        {
+            "recId": 8997,
+            "name": "Antimicrobial Latex Coatings",
+            "CASRN": "",
+            "massPct": 0.0846,
+            "function": "finish",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.1278,
+                        "contributors": [
+                            {
+                                "recId": 2766,
+                                "massPct": 0.1253,
+                                "childrenIds": [
+                                    2766
+                                ]
+                            },
+                            {
+                                "recId": 9375,
+                                "massPct": 0.0025,
+                                "childrenIds": [
+                                    9375
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": 0.4729,
+                        "contributors": [
+                            {
+                                "recId": 4806,
+                                "massPct": 0.4729,
+                                "childrenIds": [
+                                    4806
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization",
+                        "massPct": 0.0025,
+                        "contributors": [
+                            {
+                                "recId": 9375,
+                                "massPct": 0.0025,
+                                "childrenIds": [
+                                    9375
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": 0.0025,
+                        "contributors": [
+                            {
+                                "recId": 9375,
+                                "massPct": 0.0025,
+                                "childrenIds": [
+                                    9375
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": 0.0025,
+                        "contributors": [
+                            {
+                                "recId": 9375,
+                                "massPct": 0.0025,
+                                "childrenIds": [
+                                    9375
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": 0.0114,
+                        "contributors": [
+                            {
+                                "recId": 9375,
+                                "massPct": 0.0025,
+                                "childrenIds": [
+                                    9375
+                                ]
+                            },
+                            {
+                                "recId": 6981,
+                                "massPct": 0.0089,
+                                "childrenIds": [
+                                    6981
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": 0.1253,
+                        "contributors": [
+                            {
+                                "recId": 2766,
+                                "massPct": 0.1253,
+                                "childrenIds": [
+                                    2766
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 2766,
+                    "name": "Titanium Dioxide",
+                    "CASRN": "13463-67-7",
+                    "massPct": 0.1253,
+                    "function": "pigment",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-7911",
+                                "type": "red",
+                                "name": "Cancer (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "US7056582",
+                            "url": "https://www.google.com/patents/US7056582",
+                            "id": 8962
+                        },
+                        {
+                            "name": "BEES Generic Latex Paint",
+                            "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Latex%20Paint%20Products.pdf",
+                            "id": 8959
+                        },
+                        {
+                            "name": "Radar Firecode High CAC/NRC MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-radar-firecode-high-nrc-high-cac-acoustical-panels-sds-en-41999270010.pdf",
+                            "id": 8956
+                        },
+                        {
+                            "name": "Aspen Basic MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-aspen-alpine-olympia-micro-pebbled-saville-row-acoustical-panels-sds-en-41808210001.pdf",
+                            "id": 8955
+                        },
+                        {
+                            "name": "Glacier Basic MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-glacier-cheyenne-frost-f-fissured-sandrift-basic-acoustical-panels-sds-en-41281160001.pdf",
+                            "id": 8954
+                        },
+                        {
+                            "name": "Radar Firecode MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-radar-clean-room-fifth-avenue-fissured-pebbled-rock-face-superpanel-touchstone-firecode-acoustical-panels-sds-en-41999270008.pdf",
+                            "id": 8953
+                        },
+                        {
+                            "name": "Radar Basic MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/usg-radar-adobe-fifth-avenue-fissured-majestic-moonscape-plateau-sierra-stonehurst-basic-ceiling-panels-sds-en-41999270001.pdf",
+                            "id": 8952
+                        },
+                        {
+                            "name": "Eclipse MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-eclipse-luna-mars-millennia-acoustical-panels-sds-en-41263320001.pdf",
+                            "id": 8951
+                        },
+                        {
+                            "name": "USG SC2621 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-high-durability,high-cac-ceilings-epd-sc2621.pdf",
+                            "id": 8950
+                        },
+                        {
+                            "name": "USG SC2622 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-high-nrc-high-cac-open-plan-ceilings-epd-en-sc2622.pdf",
+                            "id": 8949
+                        },
+                        {
+                            "name": "USG SC2619 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-ceilings-epd-en-sc2619.pdf",
+                            "id": 8948
+                        },
+                        {
+                            "name": "USG SC2620 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-firecode-climaplus-high-nrc-high-cac-ceilings-epd-en-sc2620.pdf",
+                            "id": 8947
+                        },
+                        {
+                            "name": "USG SC2618 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-ceilings-epd-en-sc2618.pdf",
+                            "id": 8946
+                        },
+                        {
+                            "name": "USG SC2623 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/olympia-micro-climaplus-hrc-60-nrc-ceilings-epd-en-sc2623.pdf",
+                            "id": 8945
+                        },
+                        {
+                            "name": "USG SC2605 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/millennia-climaplus-ceilings-epd-en-sc2605.pdf",
+                            "id": 8944
+                        },
+                        {
+                            "name": "USG SC2608 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/mars-climaplus-hrc-healthcare-nrc-ceilings-epd-en-sc2608.pdf",
+                            "id": 8943
+                        },
+                        {
+                            "name": "USG SC2607 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/eclipse-climaplus-hrc-firecode-astro-climaplus-ceilings-epd-en-sc2607.pdf",
+                            "id": 8942
+                        },
+                        {
+                            "name": "USG SC2614 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/frost-sandrift-glacier-firecode-ceilings-epd-en-sc2614.pdf",
+                            "id": 8939
+                        },
+                        {
+                            "name": "USG SC2612 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/frost-sandrift-bria-climaplus-ceilings-epd-en-sc2612.pdf",
+                            "id": 8940
+                        },
+                        {
+                            "name": "USG SC2613 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/glacier-f-fissured-ceilings-epd-en-sc2613.pdf",
+                            "id": 8941
+                        },
+                        {
+                            "name": "Cortega APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/88742.pdf",
+                            "id": 8936
+                        },
+                        {
+                            "name": "Fine Fissured APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/88741.pdf",
+                            "id": 8933
+                        },
+                        {
+                            "name": "Mesa APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85667.pdf",
+                            "id": 8930
+                        },
+                        {
+                            "name": "Dune APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85668.pdf",
+                            "id": 8927
+                        },
+                        {
+                            "name": "Ultima APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85666.pdf",
+                            "id": 8923
+                        },
+                        {
+                            "name": "VinylShield C MSDS",
+                            "url": "http://www.certainteed.com/resources/Vinylshield_C_MSDS_2009.pdf",
+                            "id": 8907
+                        },
+                        {
+                            "name": "Cashmere HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Cashmere.pdf",
+                            "id": 8893
+                        },
+                        {
+                            "name": "Baroque HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Baroque.pdf",
+                            "id": 8898
+                        },
+                        {
+                            "name": "Symphony m HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Symphonym.pdf",
+                            "id": 8912
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.01060038
+                },
+                {
+                    "recId": 4806,
+                    "name": "Kaolin",
+                    "CASRN": "1332-58-7",
+                    "massPct": 0.4729,
+                    "function": "filler",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-567",
+                                "type": "orange",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "US7056582",
+                            "url": "https://www.google.com/patents/US7056582",
+                            "id": 8962
+                        },
+                        {
+                            "name": "USG SC2621 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-high-durability,high-cac-ceilings-epd-sc2621.pdf",
+                            "id": 8950
+                        },
+                        {
+                            "name": "USG SC2622 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-high-nrc-high-cac-open-plan-ceilings-epd-en-sc2622.pdf",
+                            "id": 8949
+                        },
+                        {
+                            "name": "USG SC2619 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-ceilings-epd-en-sc2619.pdf",
+                            "id": 8948
+                        },
+                        {
+                            "name": "USG SC2620 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-firecode-climaplus-high-nrc-high-cac-ceilings-epd-en-sc2620.pdf",
+                            "id": 8947
+                        },
+                        {
+                            "name": "USG SC2618 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-ceilings-epd-en-sc2618.pdf",
+                            "id": 8946
+                        },
+                        {
+                            "name": "USG SC2623 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/olympia-micro-climaplus-hrc-60-nrc-ceilings-epd-en-sc2623.pdf",
+                            "id": 8945
+                        },
+                        {
+                            "name": "USG SC2605 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/millennia-climaplus-ceilings-epd-en-sc2605.pdf",
+                            "id": 8944
+                        },
+                        {
+                            "name": "USG SC2608 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/mars-climaplus-hrc-healthcare-nrc-ceilings-epd-en-sc2608.pdf",
+                            "id": 8943
+                        },
+                        {
+                            "name": "USG SC2607 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/eclipse-climaplus-hrc-firecode-astro-climaplus-ceilings-epd-en-sc2607.pdf",
+                            "id": 8942
+                        },
+                        {
+                            "name": "USG SC2614 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/frost-sandrift-glacier-firecode-ceilings-epd-en-sc2614.pdf",
+                            "id": 8939
+                        },
+                        {
+                            "name": "USG SC2612 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/frost-sandrift-bria-climaplus-ceilings-epd-en-sc2612.pdf",
+                            "id": 8940
+                        },
+                        {
+                            "name": "USG SC2613 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/glacier-f-fissured-ceilings-epd-en-sc2613.pdf",
+                            "id": 8941
+                        },
+                        {
+                            "name": "Cortega APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/88742.pdf",
+                            "id": 8936
+                        },
+                        {
+                            "name": "Fine Fissured APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/88741.pdf",
+                            "id": 8933
+                        },
+                        {
+                            "name": "Mesa APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85667.pdf",
+                            "id": 8930
+                        },
+                        {
+                            "name": "Dune APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85668.pdf",
+                            "id": 8927
+                        },
+                        {
+                            "name": "Ultima APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85666.pdf",
+                            "id": 8923
+                        },
+                        {
+                            "name": "Calla APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85670.pdf",
+                            "id": 8921
+                        },
+                        {
+                            "name": "Cirrus APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85671.pdf",
+                            "id": 8918
+                        },
+                        {
+                            "name": "VinylShield C MSDS",
+                            "url": "http://www.certainteed.com/resources/Vinylshield_C_MSDS_2009.pdf",
+                            "id": 8907
+                        },
+                        {
+                            "name": "Armstrong Mineral fiber MSDS",
+                            "url": "http://www.armstrong.com/pdbupimages/208255.pdf",
+                            "id": 8917
+                        },
+                        {
+                            "name": "Cashmere HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Cashmere.pdf",
+                            "id": 8893
+                        },
+                        {
+                            "name": "Baroque HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Baroque.pdf",
+                            "id": 8898
+                        },
+                        {
+                            "name": "Symphony m HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Symphonym.pdf",
+                            "id": 8912
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.040007339999999995
+                },
+                {
+                    "recId": 9375,
+                    "name": "Zinc Pyrithione",
+                    "CASRN": "13463-41-7",
+                    "massPct": 0.0025,
+                    "function": "biocide",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-577",
+                                "type": "orange",
+                                "name": "Skin Sensitization",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-575",
+                                "type": "orange",
+                                "name": "Eye Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Zinc OMADINE ZOE MSDS",
+                            "url": "http://www.kellysolutions.com/erenewals/documentsubmit/KellyData%5COK%5Cpesticide%5CMSDS%5C1258%5C1258-1235%5C1258-1235_Zinc_Omadine_Zoe_Dispersion_Mildewcide_5_2_2006_10_29_11_AM.pdf",
+                            "id": 8966
+                        },
+                        {
+                            "name": "Lonza building product preservatives",
+                            "url": "http://bio.lonza.com/uploads/tx_mwaxmarketingmaterial/Lonza_Brochures_Building_Products_Preservative_Selection_Guide_Global.pdf",
+                            "id": 8967
+                        },
+                        {
+                            "name": "US7056582",
+                            "url": "https://www.google.com/patents/US7056582",
+                            "id": 8962
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0002115
+                },
+                {
+                    "recId": 6981,
+                    "name": "Tetrasodium Pyrophosphate",
+                    "CASRN": "7722-88-5",
+                    "massPct": 0.0089,
+                    "function": "surfactant",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-575",
+                                "type": "orange",
+                                "name": "Eye Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "US7056582",
+                            "url": "https://www.google.com/patents/US7056582",
+                            "id": 8962
+                        },
+                        {
+                            "name": "Cortega APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/88742.pdf",
+                            "id": 8936
+                        },
+                        {
+                            "name": "Dune APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85668.pdf",
+                            "id": 8927
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0007529399999999999
+                },
+                {
+                    "recId": 2925,
+                    "name": "Synthetic Calcium Carbonate",
+                    "CASRN": "471-34-1",
+                    "massPct": 0.1253,
+                    "function": "filler",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "BEES Generic Latex Paint",
+                            "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Latex%20Paint%20Products.pdf",
+                            "id": 8959
+                        },
+                        {
+                            "name": "Dune APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85668.pdf",
+                            "id": 8927
+                        },
+                        {
+                            "name": "Ultima APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85666.pdf",
+                            "id": 8923
+                        },
+                        {
+                            "name": "Calla APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85670.pdf",
+                            "id": 8921
+                        },
+                        {
+                            "name": "Armstrong Mineral fiber MSDS",
+                            "url": "http://www.armstrong.com/pdbupimages/208255.pdf",
+                            "id": 8917
+                        },
+                        {
+                            "name": "Cirrus APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85671.pdf",
+                            "id": 8918
+                        },
+                        {
+                            "name": "Aspen Basic MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-aspen-alpine-olympia-micro-pebbled-saville-row-acoustical-panels-sds-en-41808210001.pdf",
+                            "id": 8955
+                        },
+                        {
+                            "name": "Radar Firecode MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-radar-clean-room-fifth-avenue-fissured-pebbled-rock-face-superpanel-touchstone-firecode-acoustical-panels-sds-en-41999270008.pdf",
+                            "id": 8953
+                        },
+                        {
+                            "name": "Radar Basic MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/usg-radar-adobe-fifth-avenue-fissured-majestic-moonscape-plateau-sierra-stonehurst-basic-ceiling-panels-sds-en-41999270001.pdf",
+                            "id": 8952
+                        },
+                        {
+                            "name": "Eclipse MSDS",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-eclipse-luna-mars-millennia-acoustical-panels-sds-en-41263320001.pdf",
+                            "id": 8951
+                        },
+                        {
+                            "name": "USG SC2621 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-high-durability,high-cac-ceilings-epd-sc2621.pdf",
+                            "id": 8950
+                        },
+                        {
+                            "name": "USG SC2622 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-high-nrc-high-cac-open-plan-ceilings-epd-en-sc2622.pdf",
+                            "id": 8949
+                        },
+                        {
+                            "name": "USG SC2619 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-ceilings-epd-en-sc2619.pdf",
+                            "id": 8948
+                        },
+                        {
+                            "name": "USG SC2620 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-firecode-climaplus-high-nrc-high-cac-ceilings-epd-en-sc2620.pdf",
+                            "id": 8947
+                        },
+                        {
+                            "name": "USG SC2618 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-ceilings-epd-en-sc2618.pdf",
+                            "id": 8946
+                        },
+                        {
+                            "name": "USG SC2623 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/olympia-micro-climaplus-hrc-60-nrc-ceilings-epd-en-sc2623.pdf",
+                            "id": 8945
+                        },
+                        {
+                            "name": "USG SC2605 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/millennia-climaplus-ceilings-epd-en-sc2605.pdf",
+                            "id": 8944
+                        },
+                        {
+                            "name": "USG SC2608 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/mars-climaplus-hrc-healthcare-nrc-ceilings-epd-en-sc2608.pdf",
+                            "id": 8943
+                        },
+                        {
+                            "name": "USG SC2607 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/eclipse-climaplus-hrc-firecode-astro-climaplus-ceilings-epd-en-sc2607.pdf",
+                            "id": 8942
+                        },
+                        {
+                            "name": "USG SC2614 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/frost-sandrift-glacier-firecode-ceilings-epd-en-sc2614.pdf",
+                            "id": 8939
+                        },
+                        {
+                            "name": "USG SC2612 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/frost-sandrift-bria-climaplus-ceilings-epd-en-sc2612.pdf",
+                            "id": 8940
+                        },
+                        {
+                            "name": "USG SC2613 EPD",
+                            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/glacier-f-fissured-ceilings-epd-en-sc2613.pdf",
+                            "id": 8941
+                        },
+                        {
+                            "name": "Cortega APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/88742.pdf",
+                            "id": 8936
+                        },
+                        {
+                            "name": "Fine Fissured APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/88741.pdf",
+                            "id": 8933
+                        },
+                        {
+                            "name": "Mesa APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85667.pdf",
+                            "id": 8930
+                        },
+                        {
+                            "name": "VinylShield C MSDS",
+                            "url": "http://www.certainteed.com/resources/Vinylshield_C_MSDS_2009.pdf",
+                            "id": 8907
+                        },
+                        {
+                            "name": "Cashmere HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Cashmere.pdf",
+                            "id": 8893
+                        },
+                        {
+                            "name": "Baroque HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Baroque.pdf",
+                            "id": 8898
+                        },
+                        {
+                            "name": "Symphony m HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Symphonym.pdf",
+                            "id": 8912
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.01060038
+                },
+                {
+                    "recId": 9000,
+                    "name": "Hydroxyethyl Starch",
+                    "CASRN": "9005-27-1",
+                    "massPct": 0.0661,
+                    "function": "binder",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "US7056582",
+                            "url": "https://www.google.com/patents/US7056582",
+                            "id": 8962
+                        },
+                        {
+                            "name": "Cortega APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/88742.pdf",
+                            "id": 8936
+                        },
+                        {
+                            "name": "Fine Fissured APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/88741.pdf",
+                            "id": 8933
+                        },
+                        {
+                            "name": "Mesa APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85667.pdf",
+                            "id": 8930
+                        },
+                        {
+                            "name": "Dune APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85668.pdf",
+                            "id": 8927
+                        },
+                        {
+                            "name": "Ultima APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/85666.pdf",
+                            "id": 8923
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.00559206
+                },
+                {
+                    "recId": 8648,
+                    "name": "Ethylene Vinyl Acetate Copolymer",
+                    "CASRN": "24937-78-8",
+                    "massPct": 0.1992,
+                    "function": "resin",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "US7056582",
+                            "url": "https://www.google.com/patents/US7056582",
+                            "id": 8962
+                        },
+                        {
+                            "name": "BEES Generic Latex Paint",
+                            "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Latex%20Paint%20Products.pdf",
+                            "id": 8959
+                        },
+                        {
+                            "name": "US8734613",
+                            "url": "https://www.google.com/patents/US8734613",
+                            "id": 8961
+                        },
+                        {
+                            "name": "Cortega APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/88742.pdf",
+                            "id": 8936
+                        },
+                        {
+                            "name": "Fine Fissured APD",
+                            "url": "http://www.armstrong.com/common/c2002/content/files/88741.pdf",
+                            "id": 8933
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.016852319999999997
+                }
+            ],
+            "sources": [
+                {
+                    "name": "Fine Fissured Lay-in Data Sheet",
+                    "url": "http://www.armstrong.com/pdbupimages/208095.pdf",
+                    "id": 8935
+                },
+                {
+                    "name": "USG SC2621 EPD",
+                    "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-high-durability,high-cac-ceilings-epd-sc2621.pdf",
+                    "id": 8950
+                },
+                {
+                    "name": "USG SC2622 EPD",
+                    "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-high-nrc-high-cac-open-plan-ceilings-epd-en-sc2622.pdf",
+                    "id": 8949
+                },
+                {
+                    "name": "USG SC2619 EPD",
+                    "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-ceilings-epd-en-sc2619.pdf",
+                    "id": 8948
+                },
+                {
+                    "name": "USG SC2620 EPD",
+                    "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-firecode-climaplus-high-nrc-high-cac-ceilings-epd-en-sc2620.pdf",
+                    "id": 8947
+                },
+                {
+                    "name": "USG SC2618 EPD",
+                    "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-ceilings-epd-en-sc2618.pdf",
+                    "id": 8946
+                },
+                {
+                    "name": "USG SC2623 EPD",
+                    "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/olympia-micro-climaplus-hrc-60-nrc-ceilings-epd-en-sc2623.pdf",
+                    "id": 8945
+                },
+                {
+                    "name": "USG SC2605 EPD",
+                    "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/millennia-climaplus-ceilings-epd-en-sc2605.pdf",
+                    "id": 8944
+                },
+                {
+                    "name": "USG SC2608 EPD",
+                    "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/mars-climaplus-hrc-healthcare-nrc-ceilings-epd-en-sc2608.pdf",
+                    "id": 8943
+                },
+                {
+                    "name": "USG SC2607 EPD",
+                    "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/eclipse-climaplus-hrc-firecode-astro-climaplus-ceilings-epd-en-sc2607.pdf",
+                    "id": 8942
+                },
+                {
+                    "name": "USG SC2613 EPD",
+                    "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/glacier-f-fissured-ceilings-epd-en-sc2613.pdf",
+                    "id": 8941
+                },
+                {
+                    "name": "USG SC2612 EPD",
+                    "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/frost-sandrift-bria-climaplus-ceilings-epd-en-sc2612.pdf",
+                    "id": 8940
+                },
+                {
+                    "name": "USG SC2614 EPD",
+                    "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/frost-sandrift-glacier-firecode-ceilings-epd-en-sc2614.pdf",
+                    "id": 8939
+                },
+                {
+                    "name": "Cortega EPD",
+                    "url": "http://www.armstrong.com/common/c2002/content/files/72411.pdf",
+                    "id": 8937
+                },
+                {
+                    "name": "Cortega APD",
+                    "url": "http://www.armstrong.com/common/c2002/content/files/88742.pdf",
+                    "id": 8936
+                },
+                {
+                    "name": "Fine Fissured EPD",
+                    "url": "http://www.armstrong.com/common/c2002/content/files/72347.pdf",
+                    "id": 8934
+                },
+                {
+                    "name": "Fine Fissured APD",
+                    "url": "http://www.armstrong.com/common/c2002/content/files/88741.pdf",
+                    "id": 8933
+                },
+                {
+                    "name": "Mesa Data Sheet",
+                    "url": "http://www.armstrong.com/pdbupimages/208105.pdf",
+                    "id": 8932
+                },
+                {
+                    "name": "Mesa EPD",
+                    "url": "http://www.armstrong.com/common/c2002/content/files/72412.pdf",
+                    "id": 8931
+                },
+                {
+                    "name": "Dune EPD",
+                    "url": "http://www.armstrong.com/common/c2002/content/files/72462.pdf",
+                    "id": 8928
+                },
+                {
+                    "name": "Dune APD",
+                    "url": "http://www.armstrong.com/common/c2002/content/files/85668.pdf",
+                    "id": 8927
+                },
+                {
+                    "name": "Ultima High NRC Lay-in Data Sheet",
+                    "url": "http://www.armstrong.com/pdbupimages/208119.pdf",
+                    "id": 8926
+                },
+                {
+                    "name": "Ultima Ceiling2Ceiling EPD",
+                    "url": "http://www.armstrong.com/pdbupimages/200364.pdf",
+                    "id": 8925
+                },
+                {
+                    "name": "Ultima EPD",
+                    "url": "http://www.armstrong.com/common/c2002/content/files/72096.pdf",
+                    "id": 8924
+                },
+                {
+                    "name": "Calla Data Sheet",
+                    "url": "http://www.armstrong.com/pdbupimages/208080.pdf",
+                    "id": 8922
+                },
+                {
+                    "name": "Ultima APD",
+                    "url": "http://www.armstrong.com/common/c2002/content/files/85666.pdf",
+                    "id": 8923
+                },
+                {
+                    "name": "Calla APD",
+                    "url": "http://www.armstrong.com/common/c2002/content/files/85670.pdf",
+                    "id": 8921
+                },
+                {
+                    "name": "Cirrus Profiles Data sheet",
+                    "url": "http://www.armstrong.com/pdbupimages/208083.pdf",
+                    "id": 8920
+                },
+                {
+                    "name": "Cirrus EPD",
+                    "url": "http://www.armstrong.com/common/c2002/content/files/72410.pdf",
+                    "id": 8919
+                },
+                {
+                    "name": "Baroque HPD",
+                    "url": "http://www.certainteed.com/resources/CTC_HPD_Baroque.pdf",
+                    "id": 8898
+                },
+                {
+                    "name": "Symphony m HPD",
+                    "url": "http://www.certainteed.com/resources/CTC_HPD_Symphonym.pdf",
+                    "id": 8912
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.0846
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Antimony",
+            "CASRN": "7440-36-0",
+            "massPct": 1.09e-8,
+            "function": "slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Nickel",
+            "CASRN": "7440-02-0",
+            "massPct": 0.0000015605,
+            "function": "slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Vanadium",
+            "CASRN": "7440-62-2",
+            "massPct": 0.0000131207,
+            "function": "calcined coke residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Nickel",
+            "CASRN": "7440-02-0",
+            "massPct": 0.000014377,
+            "function": "calcined coke residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Lead",
+            "CASRN": "7439-92-1",
+            "massPct": 1.379e-7,
+            "function": "slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-10360",
+                        "type": "orange",
+                        "name": "Neurotoxicity"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Quartz",
+            "CASRN": "14808-60-7",
+            "massPct": 0.0084595212,
+            "function": "",
+            "sources": [
+                {
+                    "name": "Radar Firecode High CAC/NRC MSDS",
+                    "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-radar-firecode-high-nrc-high-cac-acoustical-panels-sds-en-41999270010.pdf",
+                    "id": 8956
+                },
+                {
+                    "name": "Aspen Basic MSDS",
+                    "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-aspen-alpine-olympia-micro-pebbled-saville-row-acoustical-panels-sds-en-41808210001.pdf",
+                    "id": 8955
+                },
+                {
+                    "name": "Radar Firecode MSDS",
+                    "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-radar-clean-room-fifth-avenue-fissured-pebbled-rock-face-superpanel-touchstone-firecode-acoustical-panels-sds-en-41999270008.pdf",
+                    "id": 8953
+                },
+                {
+                    "name": "Radar Basic MSDS",
+                    "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/usg-radar-adobe-fifth-avenue-fissured-majestic-moonscape-plateau-sierra-stonehurst-basic-ceiling-panels-sds-en-41999270001.pdf",
+                    "id": 8952
+                },
+                {
+                    "name": "Armstrong Mineral fiber MSDS",
+                    "url": "http://www.armstrong.com/pdbupimages/208255.pdf",
+                    "id": 8917
+                },
+                {
+                    "name": "VinylShield C MSDS",
+                    "url": "http://www.certainteed.com/resources/Vinylshield_C_MSDS_2009.pdf",
+                    "id": 8907
+                },
+                {
+                    "name": "VinylShield A MSDS",
+                    "url": "http://www.certainteed.com/resources/Vinylshield%20A_MSDS_2009.pdf",
+                    "id": 8906
+                },
+                {
+                    "name": "Cashmere HPD",
+                    "url": "http://www.certainteed.com/resources/CTC_HPD_Cashmere.pdf",
+                    "id": 8893
+                },
+                {
+                    "name": "Cashmere MSDS",
+                    "url": "http://www.certainteed.com/resources/Cashmere_MSDS_2009.pdf",
+                    "id": 8897
+                },
+                {
+                    "name": "Baroque HPD",
+                    "url": "http://www.certainteed.com/resources/CTC_HPD_Baroque.pdf",
+                    "id": 8898
+                },
+                {
+                    "name": "Wet-felted safetone class A/Protectone/Time-rated MSDS",
+                    "url": "http://www.certainteed.com/resources/MineralFiber_MSDS_2010.pdf",
+                    "id": 8902
+                },
+                {
+                    "name": "Symphony m HPD",
+                    "url": "http://www.certainteed.com/resources/CTC_HPD_Symphonym.pdf",
+                    "id": 8912
+                },
+                {
+                    "name": "Symphony m MSDS",
+                    "url": "http://www.certainteed.com/resources/Symphony%20m%20MSDS_2009.pdf",
+                    "id": 8913
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Anatase Titanium Dioxide",
+            "CASRN": "1317-70-0",
+            "massPct": null,
+            "function": "kaolin clay residual",
+            "sources": [
+                {
+                    "name": "Kogel 2006",
+                    "url": "https://books.google.com/books?id=zNicdkuulE4C&pg=PA558&dq=kaolin+and+its+uses&hl=en&sa=X&ved=0CDkQ6AEwBWoVChMIuv3urd7vxwIVxBU-Ch3_qQuo#v=onepage&q=kaolin&f=false",
+                    "id": 8451
+                },
+                {
+                    "name": "Murray",
+                    "url": "https://books.google.com/books?id=zOsFafN36swC&pg=PA102&dq=kaolin+and+its+uses&hl=en&sa=X&ved=0CDMQ6AEwBGoVChMIuv3urd7vxwIVxBU-Ch3_qQuo#v=onepage&q=kaolin%20and%20its%20uses&f=false",
+                    "id": 8452
+                },
+                {
+                    "name": "Kogel 2009",
+                    "url": "http://ir.nmu.org.ua/bitstream/handle/123456789/144177/b468c8181927c36065977d15a07ad382.pdf?sequence=1",
+                    "id": 8450
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Vanadium",
+            "CASRN": "7440-62-2",
+            "massPct": 0.0000112503,
+            "function": "slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Hexavalent Chromium",
+            "CASRN": "18540-29-9",
+            "massPct": 1.815e-7,
+            "function": "slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Amylase",
+            "CASRN": "9000-92-4",
+            "massPct": null,
+            "function": "starch residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ferric Oxide",
+            "CASRN": "1309-37-1",
+            "massPct": null,
+            "function": "kaolin clay residual",
+            "sources": [
+                {
+                    "name": "Kogel 2006",
+                    "url": "https://books.google.com/books?id=zNicdkuulE4C&pg=PA558&dq=kaolin+and+its+uses&hl=en&sa=X&ved=0CDkQ6AEwBWoVChMIuv3urd7vxwIVxBU-Ch3_qQuo#v=onepage&q=kaolin&f=false",
+                    "id": 8451
+                },
+                {
+                    "name": "Kogel 2009",
+                    "url": "http://ir.nmu.org.ua/bitstream/handle/123456789/144177/b468c8181927c36065977d15a07ad382.pdf?sequence=1",
+                    "id": 8450
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ethylene",
+            "CASRN": "74-85-1",
+            "massPct": null,
+            "function": "ethylene vinyl acetate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Selenium",
+            "CASRN": "7782-49-2",
+            "massPct": 0.0000015242,
+            "function": "slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Hydrogen Peroxide",
+            "CASRN": "7722-84-1",
+            "massPct": null,
+            "function": "ethylene vinyl acetate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Arsenic",
+            "CASRN": "7440-38-2",
+            "massPct": 9.835e-7,
+            "function": "slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-10360",
+                        "type": "orange",
+                        "name": "Neurotoxicity"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Vinyl Acetate",
+            "CASRN": "108-05-4",
+            "massPct": null,
+            "function": "ethylene vinyl acetate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Cadmium",
+            "CASRN": "7440-43-9",
+            "massPct": 1.415e-7,
+            "function": "slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "1,1-Dimethylethyl hydroperoxide",
+            "CASRN": "75-91-2",
+            "massPct": null,
+            "function": "ethylene vinyl acetate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Sodium Persulfate",
+            "CASRN": "7775-27-1",
+            "massPct": null,
+            "function": "ethylene vinyl acetate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Cobalt",
+            "CASRN": "7440-48-4",
+            "massPct": 0.0000036291,
+            "function": "slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Mercury",
+            "CASRN": "7439-97-6",
+            "massPct": 3.6e-9,
+            "function": "slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Manganese",
+            "CASRN": "7439-96-5",
+            "massPct": 0.0011878158,
+            "function": "slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Beryllium",
+            "CASRN": "7440-41-7",
+            "massPct": 0.000003992,
+            "function": "slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-577",
+                    "type": "orange",
+                    "name": "Skin Sensitization",
+                    "massPct": 0.0006649500000000001,
+                    "contributors": [
+                        {
+                            "recId": 8989,
+                            "massPct": 0.00045345000000000004,
+                            "childrenIds": [
+                                8989,
+                                9375
+                            ]
+                        },
+                        {
+                            "recId": 8997,
+                            "massPct": 0.0002115,
+                            "childrenIds": [
+                                8997,
+                                9375
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.0006649500000000001,
+                    "contributors": [
+                        {
+                            "recId": 8989,
+                            "massPct": 0.00045345000000000004,
+                            "childrenIds": [
+                                8989,
+                                9375
+                            ]
+                        },
+                        {
+                            "recId": 8997,
+                            "massPct": 0.0002115,
+                            "childrenIds": [
+                                8997,
+                                9375
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-569",
+                    "type": "orange",
+                    "name": "Reproductive",
+                    "massPct": 0.0006649500000000001,
+                    "contributors": [
+                        {
+                            "recId": 8989,
+                            "massPct": 0.00045345000000000004,
+                            "childrenIds": [
+                                8989,
+                                9375
+                            ]
+                        },
+                        {
+                            "recId": 8997,
+                            "massPct": 0.0002115,
+                            "childrenIds": [
+                                8997,
+                                9375
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.011265329999999999,
+                    "contributors": [
+                        {
+                            "recId": 8989,
+                            "massPct": 0.00045345000000000004,
+                            "childrenIds": [
+                                8989,
+                                9375
+                            ]
+                        },
+                        {
+                            "recId": 8997,
+                            "massPct": 0.01060038,
+                            "childrenIds": [
+                                8997,
+                                2766
+                            ]
+                        },
+                        {
+                            "recId": 8997,
+                            "massPct": 0.0002115,
+                            "childrenIds": [
+                                8997,
+                                9375
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-575",
+                    "type": "orange",
+                    "name": "Eye Irritation",
+                    "massPct": 0.00205272,
+                    "contributors": [
+                        {
+                            "recId": 8989,
+                            "massPct": 0.00045345000000000004,
+                            "childrenIds": [
+                                8989,
+                                9375
+                            ]
+                        },
+                        {
+                            "recId": 8989,
+                            "massPct": 0.0006348300000000001,
+                            "childrenIds": [
+                                8989,
+                                8996
+                            ]
+                        },
+                        {
+                            "recId": 8997,
+                            "massPct": 0.0002115,
+                            "childrenIds": [
+                                8997,
+                                9375
+                            ]
+                        },
+                        {
+                            "recId": 8997,
+                            "massPct": 0.0007529399999999999,
+                            "childrenIds": [
+                                8997,
+                                6981
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.0006348300000000001,
+                    "contributors": [
+                        {
+                            "recId": 8989,
+                            "massPct": 0.0006348300000000001,
+                            "childrenIds": [
+                                8989,
+                                8995
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-567",
+                    "type": "orange",
+                    "name": "Cancer",
+                    "massPct": 0.040007339999999995,
+                    "contributors": [
+                        {
+                            "recId": 8997,
+                            "massPct": 0.040007339999999995,
+                            "childrenIds": [
+                                8997,
+                                4806
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.01060038,
+                    "contributors": [
+                        {
+                            "recId": 8997,
+                            "massPct": 0.01060038,
+                            "childrenIds": [
+                                8997,
+                                2766
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "Includes raw materials acquistion, inbound transport of materials, and manufacturing. Packaging and waste treatment are included in the mineral fiber dataset, but are not included in the formulation as a whole. Background study for mineral fiber attributed zero burden to input of waste slag and excluded the energy required for crushing and sizing slag.  ",
+        "gabiDatasets": [
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "US: Starch (from winter wheat)"
+            },
+            {
+                "name": "US: Water deionized"
+            },
+            {
+                "name": "GLO: Trisodium phosphate"
+            },
+            {
+                "name": "US: Titanium dioxide pigment"
+            },
+            {
+                "name": "US: Kaolin (mining and processing)"
+            },
+            {
+                "name": "US: Limestone flour (1µm)"
+            },
+            {
+                "name": "US: Ethylene Vinylacetate Copolymer (E/VA) (72% Ethylene, 28% Vinylacetate)"
+            },
+            {
+                "name": "US: Alcohol ethoxylate (ethoxylation, estimation)"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "US: Soybean oil (wet mill) (mass allocation)"
+            },
+            {
+                "name": "DE: Fungicide unspecific"
+            },
+            {
+                "name": "US: Dried starch (corn wet mill) (mass allocation)"
+            },
+            {
+                "name": "DE: Perlite (Grain size 0/3) (EN15804 A1-A3)"
+            },
+            {
+                "name": "US: Rock board insulation (light density) NAIMA"
+            },
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%, Slag is post-industrial recycled content (30%)",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% to landfill ",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "7.39E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.27E-03"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "1.14E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.83E-08"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "5.69E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "2.43E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "2.32E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.34E-05"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.98E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.13E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "4.71E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.19E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP131",
+    "name": "Acoustical Ceiling Panels (mineral fiber)",
+    "altNames": [
+        ""
+    ],
+    "uniformats": [
+        {
+            "id": "C1070",
+            "name": "Suspended Ceiling Construction"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "09-51-13",
+            "name": "Acoustical Panel Ceilings"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Mineral Fiber acoustical ceiling panels are commonly specified with painted (ASTM E1264 Type III) or  membrane overlay (ASTM E1264 Type IV) finishes. Ceiling panels are typically sold as 2x2 or 2x4 feet panels 3/4 to 1 inches thick. Raw materials typically include mineral fiber, produced from blast furnace and rock slags and coke, lightweight fillers like perlite, recycled paper, and binder(s) like starch and/or latex.  The raw ingredients are mixed with water and slurry processing additives, such as flocculants, defoaming agents, and surfactants. The mixture is spread on a woven fabric scrim if a wet-felted panel or on a metal sheet if a cast panel and dried. For mold/microbial protection, water-based latex paints and primers are applied to the front and back of the panel. Antimicrobials are commonly used in these coatings and core. For additional fire protection, clay filler may be added to the core slurry, but was not included in this CP. Mineral wool ceiling panels can contain over 80% recycled content in the form of post industrial recycled blast furnace slag, used to manufacture mineral wool, post consumer recycled paper, and post industrial and/or consumer recycled ceiling tiles. Blast furnace slag and recycled paper content were captured in this CP. This CP characterizes an ASTM type III painted mineral fiber panel with antimicrobial.",
+    "sources": [
+        {
+            "name": "ToxStrategies2011",
+            "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+            "id": 11253
+        },
+        {
+            "name": "NAIMA EPD",
+            "url": "http://productguide.ulenvironment.com/productDocuments/1806/15/NAIMA_102.1_EPD_MineralWoolBoard_8Nov2013.pdf",
+            "id": 7291
+        },
+        {
+            "name": "Murray",
+            "url": "https://books.google.com/books?id=zOsFafN36swC&pg=PA102&dq=kaolin+and+its+uses&hl=en&sa=X&ved=0CDMQ6AEwBGoVChMIuv3urd7vxwIVxBU-Ch3_qQuo#v=onepage&q=kaolin%20and%20its%20uses&f=false",
+            "id": 8452
+        },
+        {
+            "name": "Kogel 2006",
+            "url": "https://books.google.com/books?id=zNicdkuulE4C&pg=PA558&dq=kaolin+and+its+uses&hl=en&sa=X&ved=0CDkQ6AEwBWoVChMIuv3urd7vxwIVxBU-Ch3_qQuo#v=onepage&q=kaolin&f=false",
+            "id": 8451
+        },
+        {
+            "name": "Kogel 2009",
+            "url": "http://ir.nmu.org.ua/bitstream/handle/123456789/144177/b468c8181927c36065977d15a07ad382.pdf?sequence=1",
+            "id": 8450
+        },
+        {
+            "name": "API 2007",
+            "url": "http://www.epa.gov/hpv/pubs/summaries/ptrlcoke/c12563rr2.pdf",
+            "id": 8988
+        },
+        {
+            "name": "CRS 2013",
+            "url": "http://www.nam.org/CRSreport/",
+            "id": 8987
+        },
+        {
+            "name": "AFPM Petroleum Coke",
+            "url": "http://education.afpm.org/refining/petroleum-coke/",
+            "id": 8986
+        },
+        {
+            "name": "Siddique",
+            "url": "http://www.sciencedirect.com.weblib.lib.umt.edu:8080/science/article/pii/S0921344912001632",
+            "id": 7289
+        },
+        {
+            "name": "NIST",
+            "url": "https://www-s.nist.gov/srmors/msds/688-MSDS.pdf?CFID=21271033&CFTOKEN=100a0670155d976d-16E73AB8-00E3-C47E-608B5A9FC4B9A182",
+            "id": 7284
+        },
+        {
+            "name": "NIH",
+            "url": "http://www.ncbi.nlm.nih.gov/books/NBK208404/table/ttt00001/?report=objectonly",
+            "id": 7282
+        },
+        {
+            "name": "CDC",
+            "url": "http://www.atsdr.cdc.gov/toxprofiles/tp161-c4.pdf",
+            "id": 7281
+        },
+        {
+            "name": "NAIMA Overview",
+            "url": "http://www.naima.org/publications/N046.PDF",
+            "id": 7290
+        },
+        {
+            "name": "Guar Gum MSDS",
+            "url": "http://www.orcbs.msu.edu/msds/122204_FJK_036_GUM.PDF",
+            "id": 8985
+        },
+        {
+            "name": "NIH 9000-30-0",
+            "url": "http://tools.niehs.nih.gov/cebs3/ntpviews/index.cfm?action=testarticle.properties&cas_number=9000-30-0",
+            "id": 8984
+        },
+        {
+            "name": "Neodol 25-3 TDS",
+            "url": "https://www.shell.com/content/dam/shell/static/chemicals/downloads/products-services/datasheet-neodol253.pdf",
+            "id": 8983
+        },
+        {
+            "name": "Haz Map 68131-39-5",
+            "url": "http://hazmap.nlm.nih.gov/category-details?id=11411&table=copytblagents",
+            "id": 8982
+        },
+        {
+            "name": "US5558710",
+            "url": "http://www.google.com/patents/US5558710",
+            "id": 8981
+        },
+        {
+            "name": "Flocculants",
+            "url": "http://www.flocculants.info/",
+            "id": 8980
+        },
+        {
+            "name": "US6443256",
+            "url": "https://www.google.com/patents/US6443256",
+            "id": 8979
+        },
+        {
+            "name": "WO1988005096A1",
+            "url": "http://www.google.com/patents/WO1988005096A1?cl=en",
+            "id": 8978
+        },
+        {
+            "name": "Bio Shield brochure",
+            "url": "http://www.ecoprotectiveproducts.com/sitebuildercontent/sitebuilderfiles/bio_shield_brochure.pdf",
+            "id": 8977
+        },
+        {
+            "name": "US5964934",
+            "url": "https://www.google.com/patents/US5964934",
+            "id": 8976
+        },
+        {
+            "name": "US8961675",
+            "url": "https://www.google.com/patents/US8961675",
+            "id": 8975
+        },
+        {
+            "name": "Flexbond MSDS",
+            "url": "http://www.grandstage.com/images/msds_rosco/FLEXBOND.PDF",
+            "id": 8974
+        },
+        {
+            "name": "Flexbond 325 TDS",
+            "url": "http://perrychem.com/files/Flexbond325.pdf",
+            "id": 8973
+        },
+        {
+            "name": "NICNAS 1994",
+            "url": "http://www.nicnas.gov.au/__data/assets/pdf_file/0016/9502/NA99FR.PDF",
+            "id": 8972
+        },
+        {
+            "name": "Airflex 4530 MSDS",
+            "url": "http://www.sfm.state.or.us/CR2K_SubDB/MSDS/AIRFLEX_4530.PDF",
+            "id": 8971
+        },
+        {
+            "name": "SYNTHEMUL 40-136 TDS",
+            "url": "http://www.reichhold.com/documents/281_GLK767320100105121820Synthemul401364013600.pdf",
+            "id": 8970
+        },
+        {
+            "name": "Polyco 3103 NP TDS",
+            "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_08a2/0901b803808a2894.pdf?filepath=/pdfs/noreg/811-00006.pdf&fromPage=GetDoc",
+            "id": 8969
+        },
+        {
+            "name": "Acronal 296 D na TDS",
+            "url": "http://worldaccount.basf.com/wa/NAFTA/Catalog/FunctionalPolymers/doc4/BASF/PRD/30244833/.pdf?urn=urn:documentum:eCommerce_sol_EU:09007bb2800c7651.pdf",
+            "id": 8968
+        },
+        {
+            "name": "Lonza building product preservatives",
+            "url": "http://bio.lonza.com/uploads/tx_mwaxmarketingmaterial/Lonza_Brochures_Building_Products_Preservative_Selection_Guide_Global.pdf",
+            "id": 8967
+        },
+        {
+            "name": "Zinc OMADINE ZOE MSDS",
+            "url": "http://www.kellysolutions.com/erenewals/documentsubmit/KellyData%5COK%5Cpesticide%5CMSDS%5C1258%5C1258-1235%5C1258-1235_Zinc_Omadine_Zoe_Dispersion_Mildewcide_5_2_2006_10_29_11_AM.pdf",
+            "id": 8966
+        },
+        {
+            "name": "Metasol D3T-H GoodGuide",
+            "url": "http://scorecard.goodguide.com/chemical-profiles/product.tcl?reg_nr=00170600194&prod_name=METASOL%20D3T-H",
+            "id": 8965
+        },
+        {
+            "name": "Metasol TK-100 TDS",
+            "url": "http://www.kellysolutions.com/erenewals/documentsubmit/KellyData%5CVA%5Cpesticide%5CProduct%20Label%5C39967%5C39967-33%5C39967-33_METASOL_TK_100_11_16_2010_9_45_55_AM.pdf",
+            "id": 8964
+        },
+        {
+            "name": "Dazomet EPA fact sheet",
+            "url": "http://www.epa.gov/pesticides/reregistration/REDs/factsheets/dazomet-fs.pdf",
+            "id": 8963
+        },
+        {
+            "name": "US7056582",
+            "url": "https://www.google.com/patents/US7056582",
+            "id": 8962
+        },
+        {
+            "name": "US8734613",
+            "url": "https://www.google.com/patents/US8734613",
+            "id": 8961
+        },
+        {
+            "name": "Mineral wool manufacturing 1995",
+            "url": "http://www.epa.gov/ttnchie1/ap42/ch11/final/c11s18.pdf",
+            "id": 8960
+        },
+        {
+            "name": "BEES Generic Latex Paint",
+            "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Latex%20Paint%20Products.pdf",
+            "id": 8959
+        },
+        {
+            "name": "Iron and Steel Slag 2013",
+            "url": "http://minerals.usgs.gov/minerals/pubs/commodity/iron_&_steel_slag/myb1-2013-fesla.pdf",
+            "id": 8958
+        },
+        {
+            "name": "ACOUSTICAL CEILING INGREDIENTS AND RECYCLING",
+            "url": "http://www.armstrong.com/commceilingsna/ceiling-recycling-program.html?channelId&channelListId&mediaId=ac02b3fb1feb42709bc2e96d4a0d84bb",
+            "id": 8957
+        },
+        {
+            "name": "Radar Firecode High CAC/NRC MSDS",
+            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-radar-firecode-high-nrc-high-cac-acoustical-panels-sds-en-41999270010.pdf",
+            "id": 8956
+        },
+        {
+            "name": "Aspen Basic MSDS",
+            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-aspen-alpine-olympia-micro-pebbled-saville-row-acoustical-panels-sds-en-41808210001.pdf",
+            "id": 8955
+        },
+        {
+            "name": "Glacier Basic MSDS",
+            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-glacier-cheyenne-frost-f-fissured-sandrift-basic-acoustical-panels-sds-en-41281160001.pdf",
+            "id": 8954
+        },
+        {
+            "name": "Radar Firecode MSDS",
+            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-radar-clean-room-fifth-avenue-fissured-pebbled-rock-face-superpanel-touchstone-firecode-acoustical-panels-sds-en-41999270008.pdf",
+            "id": 8953
+        },
+        {
+            "name": "Radar Basic MSDS",
+            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/usg-radar-adobe-fifth-avenue-fissured-majestic-moonscape-plateau-sierra-stonehurst-basic-ceiling-panels-sds-en-41999270001.pdf",
+            "id": 8952
+        },
+        {
+            "name": "Eclipse MSDS",
+            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-eclipse-luna-mars-millennia-acoustical-panels-sds-en-41263320001.pdf",
+            "id": 8951
+        },
+        {
+            "name": "USG SC2621 EPD",
+            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-high-durability,high-cac-ceilings-epd-sc2621.pdf",
+            "id": 8950
+        },
+        {
+            "name": "USG SC2622 EPD",
+            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-high-nrc-high-cac-open-plan-ceilings-epd-en-sc2622.pdf",
+            "id": 8949
+        },
+        {
+            "name": "USG SC2619 EPD",
+            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-climaplus-ceilings-epd-en-sc2619.pdf",
+            "id": 8948
+        },
+        {
+            "name": "USG SC2620 EPD",
+            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-firecode-climaplus-high-nrc-high-cac-ceilings-epd-en-sc2620.pdf",
+            "id": 8947
+        },
+        {
+            "name": "USG SC2618 EPD",
+            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/radar-ceilings-epd-en-sc2618.pdf",
+            "id": 8946
+        },
+        {
+            "name": "USG SC2623 EPD",
+            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/olympia-micro-climaplus-hrc-60-nrc-ceilings-epd-en-sc2623.pdf",
+            "id": 8945
+        },
+        {
+            "name": "USG SC2605 EPD",
+            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/millennia-climaplus-ceilings-epd-en-sc2605.pdf",
+            "id": 8944
+        },
+        {
+            "name": "USG SC2608 EPD",
+            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/mars-climaplus-hrc-healthcare-nrc-ceilings-epd-en-sc2608.pdf",
+            "id": 8943
+        },
+        {
+            "name": "USG SC2607 EPD",
+            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/eclipse-climaplus-hrc-firecode-astro-climaplus-ceilings-epd-en-sc2607.pdf",
+            "id": 8942
+        },
+        {
+            "name": "USG SC2613 EPD",
+            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/glacier-f-fissured-ceilings-epd-en-sc2613.pdf",
+            "id": 8941
+        },
+        {
+            "name": "USG SC2612 EPD",
+            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/frost-sandrift-bria-climaplus-ceilings-epd-en-sc2612.pdf",
+            "id": 8940
+        },
+        {
+            "name": "CertainTeed Ceilings Full Line Catalog",
+            "url": "http://www.certainteed.com/refsite/docs/CLG_CelingsFullLineCatalog.pdf ",
+            "id": 8578
+        },
+        {
+            "name": "Cashmere HPD",
+            "url": "http://www.certainteed.com/resources/CTC_HPD_Cashmere.pdf",
+            "id": 8893
+        },
+        {
+            "name": "Cashmere EPD",
+            "url": "http://www.certainteed.com/resources/CTC_Environmental-Product-Declaration_Cashmere.pdf",
+            "id": 8894
+        },
+        {
+            "name": "Cashmere 3 part spec",
+            "url": "http://www.certainteed.com/resources/CTC_CashmereHighNRC_3partspec.docx",
+            "id": 8895
+        },
+        {
+            "name": "Cashmere PDS",
+            "url": "http://www.certainteed.com/resources/CTC_Performa_Cashmere_High_NRC.pdf",
+            "id": 8896
+        },
+        {
+            "name": "Cashmere MSDS",
+            "url": "http://www.certainteed.com/resources/Cashmere_MSDS_2009.pdf",
+            "id": 8897
+        },
+        {
+            "name": "Baroque HPD",
+            "url": "http://www.certainteed.com/resources/CTC_HPD_Baroque.pdf",
+            "id": 8898
+        },
+        {
+            "name": "Baroque EPD",
+            "url": "http://www.certainteed.com/resources/CTC_Environmental-Product-Declaration_Baroque.pdf",
+            "id": 8899
+        },
+        {
+            "name": "Baroque PDS",
+            "url": "http://www.certainteed.com/resources/CTC_Performa_Baroque.pdf",
+            "id": 8900
+        },
+        {
+            "name": "Baroque 3 part spec",
+            "url": "http://www.certainteed.com/resources/CTC_Baroque_3partspec.docx",
+            "id": 8901
+        },
+        {
+            "name": "Wet-felted safetone class A/Protectone/Time-rated MSDS",
+            "url": "http://www.certainteed.com/resources/MineralFiber_MSDS_2010.pdf",
+            "id": 8902
+        },
+        {
+            "name": "Protectone HPD",
+            "url": "http://www.certainteed.com/resources/CTC_HPD_Protectone.pdf ",
+            "id": 8903
+        },
+        {
+            "name": "Protectone EPD",
+            "url": "http://www.certainteed.com/resources/CTC_Environmental-Product-Declaration_Protectone.pdf",
+            "id": 8904
+        },
+        {
+            "name": "VinylShield HPD",
+            "url": "http://www.certainteed.com/resources/CTC_HPD_VinylShield.pdf",
+            "id": 8905
+        },
+        {
+            "name": "VinylShield A MSDS",
+            "url": "http://www.certainteed.com/resources/Vinylshield%20A_MSDS_2009.pdf",
+            "id": 8906
+        },
+        {
+            "name": "VinylShield C MSDS",
+            "url": "http://www.certainteed.com/resources/Vinylshield_C_MSDS_2009.pdf",
+            "id": 8907
+        },
+        {
+            "name": "VinylShield A 3 part spec",
+            "url": "http://www.certainteed.com/resources/CTC_VinylShieldA_3partspec.docx",
+            "id": 8908
+        },
+        {
+            "name": "VinylShield C 3 part spec",
+            "url": "http://www.certainteed.com/resources/CTC_VinylShieldC_3partspec.docx",
+            "id": 8909
+        },
+        {
+            "name": "VinylShield A PDS",
+            "url": "http://www.certainteed.com/resources/CTC_Performa_VinylShield_A.pdf",
+            "id": 8910
+        },
+        {
+            "name": "VinylShield C PDS",
+            "url": "http://www.certainteed.com/resources/CTC_Performa_VinylShield_C.pdf",
+            "id": 8911
+        },
+        {
+            "name": "Symphony m HPD",
+            "url": "http://www.certainteed.com/resources/CTC_HPD_Symphonym.pdf",
+            "id": 8912
+        },
+        {
+            "name": "Symphony m MSDS",
+            "url": "http://www.certainteed.com/resources/Symphony%20m%20MSDS_2009.pdf",
+            "id": 8913
+        },
+        {
+            "name": "Symphony m 3 part spec",
+            "url": "http://www.certainteed.com/resources/CTC_SymphonyM_3partspec.docx",
+            "id": 8914
+        },
+        {
+            "name": "Symphony m EPD",
+            "url": "http://www.certainteed.com/resources/CTC_Environmental_Product_Declaration_Symphonym.pdf",
+            "id": 8915
+        },
+        {
+            "name": "Symphony m PDS",
+            "url": "http://www.certainteed.com/resources/CTC_Symphonym_Certa_DataPg.pdf",
+            "id": 8916
+        },
+        {
+            "name": "Armstrong Mineral fiber MSDS",
+            "url": "http://www.armstrong.com/pdbupimages/208255.pdf",
+            "id": 8917
+        },
+        {
+            "name": "Cirrus APD",
+            "url": "http://www.armstrong.com/common/c2002/content/files/85671.pdf",
+            "id": 8918
+        },
+        {
+            "name": "Cirrus EPD",
+            "url": "http://www.armstrong.com/common/c2002/content/files/72410.pdf",
+            "id": 8919
+        },
+        {
+            "name": "Cirrus Profiles Data sheet",
+            "url": "http://www.armstrong.com/pdbupimages/208083.pdf",
+            "id": 8920
+        },
+        {
+            "name": "Calla APD",
+            "url": "http://www.armstrong.com/common/c2002/content/files/85670.pdf",
+            "id": 8921
+        },
+        {
+            "name": "Calla Data Sheet",
+            "url": "http://www.armstrong.com/pdbupimages/208080.pdf",
+            "id": 8922
+        },
+        {
+            "name": "Ultima APD",
+            "url": "http://www.armstrong.com/common/c2002/content/files/85666.pdf",
+            "id": 8923
+        },
+        {
+            "name": "Ultima EPD",
+            "url": "http://www.armstrong.com/common/c2002/content/files/72096.pdf",
+            "id": 8924
+        },
+        {
+            "name": "Ultima Ceiling2Ceiling EPD",
+            "url": "http://www.armstrong.com/pdbupimages/200364.pdf",
+            "id": 8925
+        },
+        {
+            "name": "Ultima High NRC Lay-in Data Sheet",
+            "url": "http://www.armstrong.com/pdbupimages/208119.pdf",
+            "id": 8926
+        },
+        {
+            "name": "Dune APD",
+            "url": "http://www.armstrong.com/common/c2002/content/files/85668.pdf",
+            "id": 8927
+        },
+        {
+            "name": "Dune EPD",
+            "url": "http://www.armstrong.com/common/c2002/content/files/72462.pdf",
+            "id": 8928
+        },
+        {
+            "name": "Dune Data Sheet",
+            "url": "http://www.armstrong.com/pdbupimages/208093.pdf",
+            "id": 8929
+        },
+        {
+            "name": "Mesa APD",
+            "url": "http://www.armstrong.com/common/c2002/content/files/85667.pdf",
+            "id": 8930
+        },
+        {
+            "name": "Mesa EPD",
+            "url": "http://www.armstrong.com/common/c2002/content/files/72412.pdf",
+            "id": 8931
+        },
+        {
+            "name": "Mesa Data Sheet",
+            "url": "http://www.armstrong.com/pdbupimages/208105.pdf",
+            "id": 8932
+        },
+        {
+            "name": "Fine Fissured APD",
+            "url": "http://www.armstrong.com/common/c2002/content/files/88741.pdf",
+            "id": 8933
+        },
+        {
+            "name": "Fine Fissured EPD",
+            "url": "http://www.armstrong.com/common/c2002/content/files/72347.pdf",
+            "id": 8934
+        },
+        {
+            "name": "Fine Fissured Lay-in Data Sheet",
+            "url": "http://www.armstrong.com/pdbupimages/208095.pdf",
+            "id": 8935
+        },
+        {
+            "name": "Cortega APD",
+            "url": "http://www.armstrong.com/common/c2002/content/files/88742.pdf",
+            "id": 8936
+        },
+        {
+            "name": "Cortega EPD",
+            "url": "http://www.armstrong.com/common/c2002/content/files/72411.pdf",
+            "id": 8937
+        },
+        {
+            "name": "Cortega Data Sheet",
+            "url": "http://www.armstrong.com/pdbupimages/208089.pdf",
+            "id": 8938
+        },
+        {
+            "name": "USG SC2614 EPD",
+            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/frost-sandrift-glacier-firecode-ceilings-epd-en-sc2614.pdf",
+            "id": 8939
+        }
+    ]
+}

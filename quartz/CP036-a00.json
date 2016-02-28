@@ -1,0 +1,551 @@
+{
+    "CPID": "CP036",
+    "timestamp": 1452102105564,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 3919,
+            "name": "1,1,1,2-Tetrafluoroethane (HFC 134a)",
+            "CASRN": "811-97-2",
+            "massPct": 0.0955,
+            "function": "blowing agent",
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Dow research",
+                    "url": "http://www.xpsa.com/pdf/CO2%20emissions%20&%20XPS%20insulation4'6'05Final.pdf",
+                    "id": 3901
+                },
+                {
+                    "name": "Certifoam",
+                    "url": "http://www.pharosproject.net/uploads/files/sources/1225/certifoam-msds.pdf",
+                    "id": 3894
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.0955
+        },
+        {
+            "recId": 3920,
+            "name": "Hexabromocyclododecane (HBCD)",
+            "CASRN": "3194-55-6",
+            "massPct": 0.0072,
+            "function": "flame retardant",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "XPSA",
+                    "url": "http://www.xpsa.com/health-and-safety.html",
+                    "id": 3912
+                },
+                {
+                    "name": "HBCD Alts",
+                    "url": "http://www2.epa.gov/sites/production/files/2014-06/documents/hbcd_report.pdf",
+                    "id": 3909
+                },
+                {
+                    "name": "Kingspan",
+                    "url": "http://www.trustgreenguard.com/wp-content/uploads/2014/11/USA-Safety-GreenGuard-Insulation-Board-11-14.pdf",
+                    "id": 3907
+                },
+                {
+                    "name": "EPD",
+                    "url": "http://www2.owenscorning.com/literature/pdfs/foam-product-declaration.pdf",
+                    "id": 3900
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.0072
+        },
+        {
+            "recId": 3918,
+            "name": "Polystyrene",
+            "CASRN": "9003-53-6",
+            "massPct": 0.8974,
+            "function": "polymer",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "XPSA 2",
+                    "url": "http://www.xpsa.com/tech-info-polystyrene.html",
+                    "id": 3913
+                },
+                {
+                    "name": "Dow Pipe",
+                    "url": "https://nebula.wsimg.com/68c2766f6583f57d65ada857f4779388?AccessKeyId=46DAC7D26413B46CC251&disposition=0&alloworigin=1",
+                    "id": 3906
+                },
+                {
+                    "name": "Deckmate",
+                    "url": "http://www.pharosproject.net/uploads/files/sources/20/1375388067.pdf",
+                    "id": 3898
+                },
+                {
+                    "name": "Certifoam",
+                    "url": "http://www.pharosproject.net/uploads/files/sources/1225/certifoam-msds.pdf",
+                    "id": 3894
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.8974
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Styrene",
+            "CASRN": "100-42-5",
+            "massPct": null,
+            "function": "polystyrene residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "red": [
+                {
+                    "hazardId": "red-568",
+                    "type": "red",
+                    "name": "Developmental",
+                    "massPct": 0.1027,
+                    "contributors": [
+                        {
+                            "recId": 3919,
+                            "massPct": 0.0955,
+                            "childrenIds": [
+                                3919
+                            ]
+                        },
+                        {
+                            "recId": 3920,
+                            "massPct": 0.0072,
+                            "childrenIds": [
+                                3920
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "orange": [
+                {
+                    "hazardId": "orange-569",
+                    "type": "orange",
+                    "name": "Reproductive",
+                    "massPct": 0.0072,
+                    "contributors": [
+                        {
+                            "recId": 3920,
+                            "massPct": 0.0072,
+                            "childrenIds": [
+                                3920
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.0072,
+                    "contributors": [
+                        {
+                            "recId": 3920,
+                            "massPct": 0.0072,
+                            "childrenIds": [
+                                3920
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "purple": [
+                {
+                    "hazardId": "purple-955",
+                    "type": "purple",
+                    "name": "PBT",
+                    "massPct": 0.0072,
+                    "contributors": [
+                        {
+                            "recId": 3920,
+                            "massPct": 0.0072,
+                            "childrenIds": [
+                                3920
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "Includes all cradle-to-gate data, including raw materials extraction, energy production, and transportation of ingredients to the plant. Polystyrene extruder foam (extruded polystyrol rigid foam XPS) is fabricated in a continous extrusion process:  polystyrene granulate is melted in an extruder and HCFC-134a is added as a foaming agent and HBCD is added as a flame retardant. The foam is then formed into the respective plastic construction part. The produced foam is homogenous and closed-cell and is offered in the form of plates. Installation and use phase are not included in the system boundary, but would have a significant impact because of the high GWP of the blowing agent. ",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "DE: Polystyrene granulate (PS) mix"
+            },
+            {
+                "name": "DE: Tetrafluoroethane (R134a)"
+            },
+            {
+                "name": "DE: Hexabromododecane (HBCD, 1,2,5,6,9,10-Hexabromododecane)"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "Due to addition of polybrominated flame retardant, assume 90.5% to landfill. Blowing agent (9.5%) released during use stage.",
+        "inUseNotes": "9.5% blowing agent released during install/use as HFC-134a",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "9.76E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "5.12E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "2.48E+01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "2.30E-05"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.35E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.95E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "1.24E+02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "0.00E+00"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "6.56E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "2.43E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.55E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.02E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "5.94E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "7.47E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP036",
+    "name": "XPS Insulation (extruded polystyrene)",
+    "altNames": [
+        "XPS"
+    ],
+    "uniformats": [
+        {
+            "id": "B2010",
+            "name": "Exterior Walls"
+        },
+        {
+            "id": "B1020",
+            "name": "Roof Construction"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "07-24-00",
+            "name": "Exterior Insulation and Finish System"
+        }
+    ],
+    "recordType": "Common",
+    "description": "ASTM C578 defines extruded polystyrene (XPS) thermal insulation as a, \"cellular plastic product manufactured in a one stage process by extrusion and expansion of the base polymer in the presence of blowing agent(s) resulting in a product which is rigid with closed cellular structure.\" XPS foams fall into ASTM C578 Types IV, V, VI, VII, X, XII, and XIII. Rigid XPS foam boards contain flame retardants in quantities sufficient to meet standards outlined in the ASTM standard. This CP describes unfaced, rigid XPS foam insulation boards suitable for a range of insulating applications with a minimum compression strength of 40 psi.",
+    "sources": [
+        {
+            "name": "Certifoam TDS",
+            "url": "http://www.diversifoam.com/cfproperties.htm",
+            "id": 5084
+        },
+        {
+            "name": "C578",
+            "url": "http://www.astm.org/Standards/C578.htm",
+            "id": 4015
+        },
+        {
+            "name": "EPA",
+            "url": "http://www.epa.gov/ozone/snap/emissions/downloads/FoamEmissionProfiles_Part2.pdf; http://foamular.com/assets/0/144/172/174/98cf58e1-c3d2-4b6c-beb5-2063215bea18.pdf",
+            "id": 3917
+        },
+        {
+            "name": "BG",
+            "url": "https://www2.buildinggreen.com/article/epa-ban-several-common-hfc-blowing-agents-refrigerants",
+            "id": 3916
+        },
+        {
+            "name": "Certifoam 2014",
+            "url": "http://www.diversifoam.com/certifoam-msds.pdf",
+            "id": 3915
+        },
+        {
+            "name": "Owens Corning",
+            "url": "http://www.buildsite.com/pdf/owenscorning/PINKCORE-XPS-Rigid-Foam-Insulation-and-Low-Conductivity-Ties-MSDSSDS-149893.pdf",
+            "id": 3914
+        },
+        {
+            "name": "XPSA 2",
+            "url": "http://www.xpsa.com/tech-info-polystyrene.html",
+            "id": 3913
+        },
+        {
+            "name": "XPSA",
+            "url": "http://www.xpsa.com/health-and-safety.html",
+            "id": 3912
+        },
+        {
+            "name": "Europe EPD",
+            "url": "http://www.ursa.it/it-it/products/Documents/EXIBA_EPD_XPS.pdf",
+            "id": 3911
+        },
+        {
+            "name": "HBCD Alts",
+            "url": "http://www2.epa.gov/sites/production/files/2014-06/documents/hbcd_report.pdf",
+            "id": 3909
+        },
+        {
+            "name": "Kingspan TDS",
+            "url": "http://www.trustgreenguard.com/wp-content/uploads/2015/02/PS-PS-TYPE-4-COM.pdf",
+            "id": 3908
+        },
+        {
+            "name": "Kingspan",
+            "url": "http://www.trustgreenguard.com/wp-content/uploads/2014/11/USA-Safety-GreenGuard-Insulation-Board-11-14.pdf",
+            "id": 3907
+        },
+        {
+            "name": "Dow Pipe",
+            "url": "https://nebula.wsimg.com/68c2766f6583f57d65ada857f4779388?AccessKeyId=46DAC7D26413B46CC251&disposition=0&alloworigin=1",
+            "id": 3906
+        },
+        {
+            "name": "Dow Blueguard",
+            "url": "http://inlineco.com/msds/Dow_Corning/http___www.dow.com_PublishedLiterature_dh_006d_0901b8038006d558.pdf_filepath=styrofoam_pdfs_noreg_179-07347.pdf",
+            "id": 3905
+        },
+        {
+            "name": "BASF patent",
+            "url": "http://www.google.com/patents/US20110201662",
+            "id": 3904
+        },
+        {
+            "name": "Dow PR",
+            "url": "http://www.dow.com/news/press-releases/article/?id=6436",
+            "id": 3903
+        },
+        {
+            "name": "Versus",
+            "url": "http://ww3.owenscorning.com/sciencedoesntlie/",
+            "id": 3902
+        },
+        {
+            "name": "Dow research",
+            "url": "http://www.xpsa.com/pdf/CO2%20emissions%20&%20XPS%20insulation4'6'05Final.pdf",
+            "id": 3901
+        },
+        {
+            "name": "EPD",
+            "url": "http://www2.owenscorning.com/literature/pdfs/foam-product-declaration.pdf",
+            "id": 3900
+        },
+        {
+            "name": "Deckmate TDS",
+            "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_08dd/0901b803808dd478.pdf?filepath=styrofoam/pdfs/noreg/179-05488.pdf&fromPage=GetDoc",
+            "id": 3899
+        },
+        {
+            "name": "Deckmate",
+            "url": "http://www.pharosproject.net/uploads/files/sources/20/1375388067.pdf",
+            "id": 3898
+        },
+        {
+            "name": "Sundolitt TDS",
+            "url": "http://www.sundolitt.no/upload_images/D34992BBC830478E9E54B4317317F617.pdf",
+            "id": 3897
+        },
+        {
+            "name": "Sundolitt",
+            "url": "http://www.sundolitt.se/upload_images/8BF5E6A1FFCB428FBC0F24693429DD83.pdf",
+            "id": 3896
+        },
+        {
+            "name": "Certifoam",
+            "url": "http://www.pharosproject.net/uploads/files/sources/1225/certifoam-msds.pdf",
+            "id": 3894
+        },
+        {
+            "name": "Dow Swedish XPS MSDS",
+            "url": "https://www.pharosproject.net/uploads/files/sources/20/1410292787.pdf",
+            "id": 3893
+        }
+    ]
+}

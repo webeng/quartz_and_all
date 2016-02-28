@@ -1,0 +1,801 @@
+{
+    "CPID": "CP051",
+    "timestamp": 1452102111313,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 3610,
+            "name": "Polydimethylsiloxane",
+            "CASRN": "63148-62-9",
+            "massPct": 0.05844535359,
+            "function": "anti-foaming",
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-955",
+                        "type": "red",
+                        "name": "PBT",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "IGS3713",
+                    "url": "http://www.siliconeforbuilding.com/pdf/insulatingglass/MSDS_IGS3713_D1.pdf",
+                    "id": 5147
+                },
+                {
+                    "name": "3-0117 MSDS",
+                    "url": "http://www.dowcorning.com/DataFiles/0902770181157054.pdf",
+                    "id": 5044
+                },
+                {
+                    "name": "CRL IG",
+                    "url": "http://webcache.crlaurence.com/datasheets/msds/PDF/371.PDF",
+                    "id": 3648
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.05844535359
+        },
+        {
+            "recId": 4343,
+            "name": "Octamethylcyclotetrasiloxane",
+            "CASRN": "556-67-2",
+            "massPct": 0.01168907072,
+            "function": "intermediate",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "IGS3103",
+                    "url": "http://www.siliconeforbuilding.com/pdf/insulatingglass/MSDS_IGS3103.pdf",
+                    "id": 5145
+                },
+                {
+                    "name": "Pharos",
+                    "url": "https://www.pharosproject.net/blog/show/149/silicone-sealants",
+                    "id": 3658
+                },
+                {
+                    "name": "NuFlex",
+                    "url": "http://sealants.sealantcentre.com/wp-content/uploads/2014/04/MSDS-319.pdf",
+                    "id": 3652
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.01168907072
+        },
+        {
+            "recId": 3604,
+            "name": "Polydimethyl Siloxane Diol",
+            "CASRN": "70131-67-8",
+            "massPct": 0.7597895967,
+            "function": "polymer",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "IGS3103",
+                    "url": "http://www.siliconeforbuilding.com/pdf/insulatingglass/MSDS_IGS3103.pdf",
+                    "id": 5145
+                },
+                {
+                    "name": "IGS3713",
+                    "url": "http://www.siliconeforbuilding.com/pdf/insulatingglass/MSDS_IGS3713_D1.pdf",
+                    "id": 5147
+                },
+                {
+                    "name": "Pecora",
+                    "url": "http://www.pecora.com/pdfs/Pecora_896-FC_MSDS_7-12.pdf",
+                    "id": 3655
+                },
+                {
+                    "name": "CRL IG",
+                    "url": "http://webcache.crlaurence.com/datasheets/msds/PDF/371.PDF",
+                    "id": 3648
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.7597895967
+        },
+        {
+            "recId": 6032,
+            "name": "Dibutyltin Dilaurate",
+            "CASRN": "77-58-7",
+            "massPct": 0.006428988895,
+            "function": "curing agent",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Momentive",
+                    "url": "http://www.momentive.com/products/showtechnicaldatasheet.aspx?id=20176",
+                    "id": 3657
+                },
+                {
+                    "name": "OSHA",
+                    "url": "https://www.osha.gov/dts/sltc/methods/partial/id218sg/id218sg.html",
+                    "id": 3656
+                },
+                {
+                    "name": "NuFlex",
+                    "url": "http://sealants.sealantcentre.com/wp-content/uploads/2014/04/MSDS-319.pdf",
+                    "id": 3652
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.006428988895
+        },
+        {
+            "recId": 3608,
+            "name": "Methyltriacetoxysilane",
+            "CASRN": "4253−34−3",
+            "massPct": 0.03506721216,
+            "function": "crosslinker",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "IGS3103",
+                    "url": "http://www.siliconeforbuilding.com/pdf/insulatingglass/MSDS_IGS3103.pdf",
+                    "id": 5145
+                },
+                {
+                    "name": "CRL IG",
+                    "url": "http://webcache.crlaurence.com/datasheets/msds/PDF/371.PDF",
+                    "id": 3648
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.03506721216
+        },
+        {
+            "recId": 3606,
+            "name": "Silica, amorphous",
+            "CASRN": "7631-86-9",
+            "massPct": 0.1168907072,
+            "function": "filler",
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Technical Manual",
+                    "url": "https://www.dowcorning.com/content/publishedlit/62-1492-01.pdf",
+                    "id": 5234
+                },
+                {
+                    "name": "NuFlex",
+                    "url": "http://sealants.sealantcentre.com/wp-content/uploads/2014/04/MSDS-319.pdf",
+                    "id": 3652
+                },
+                {
+                    "name": "CRL IG",
+                    "url": "http://webcache.crlaurence.com/datasheets/msds/PDF/371.PDF",
+                    "id": 3648
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.1168907072
+        },
+        {
+            "recId": 1530,
+            "name": "Carbon Black",
+            "CASRN": "1333-86-4",
+            "massPct": 0.01168907072,
+            "function": "pigment",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "3-0117 MSDS",
+                    "url": "http://www.dowcorning.com/DataFiles/0902770181157054.pdf",
+                    "id": 5044
+                },
+                {
+                    "name": "NuFlex",
+                    "url": "http://sealants.sealantcentre.com/wp-content/uploads/2014/04/MSDS-319.pdf",
+                    "id": 3652
+                },
+                {
+                    "name": "CRL IG",
+                    "url": "http://webcache.crlaurence.com/datasheets/msds/PDF/371.PDF",
+                    "id": 3648
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.01168907072
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Polycyclic Aromatic Hydrocarbons",
+            "CASRN": "130498-29-2",
+            "massPct": 0.000002337814144,
+            "function": "carbon black residual",
+            "sources": [
+                {
+                    "name": "SIDS Carbon black",
+                    "url": "webnet.oecd.org/hpv/ui/handler.axd?id=5a53a150-3bb8-4296-9286-ee930e09de8c",
+                    "id": 5081
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Decamethylcyclopentasiloxane (D5)",
+            "CASRN": "541-02-6",
+            "massPct": null,
+            "function": "polydimethylsiloxane residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Acetic Acid, Glacial",
+            "CASRN": "64-19-7",
+            "massPct": 0.001052016365,
+            "function": "methyltriacetoxysilane residual",
+            "sources": [
+                {
+                    "name": "Methyltriacetoxysilane OECD",
+                    "url": "https://pharosproject.net/uploads/files/sources/1/1359594186.pdf",
+                    "id": 3713
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "red": [
+                {
+                    "hazardId": "red-955",
+                    "type": "red",
+                    "name": "PBT",
+                    "massPct": 0.05844535359,
+                    "contributors": [
+                        {
+                            "recId": 3610,
+                            "massPct": 0.05844535359,
+                            "childrenIds": [
+                                3610
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.12857977792,
+                    "contributors": [
+                        {
+                            "recId": 3606,
+                            "massPct": 0.1168907072,
+                            "childrenIds": [
+                                3606
+                            ]
+                        },
+                        {
+                            "recId": 1530,
+                            "massPct": 0.01168907072,
+                            "childrenIds": [
+                                1530
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "orange": [
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.018118059615,
+                    "contributors": [
+                        {
+                            "recId": 4343,
+                            "massPct": 0.01168907072,
+                            "childrenIds": [
+                                4343
+                            ]
+                        },
+                        {
+                            "recId": 6032,
+                            "massPct": 0.006428988895,
+                            "childrenIds": [
+                                6032
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-569",
+                    "type": "orange",
+                    "name": "Reproductive",
+                    "massPct": 0.01168907072,
+                    "contributors": [
+                        {
+                            "recId": 4343,
+                            "massPct": 0.01168907072,
+                            "childrenIds": [
+                                4343
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.006428988895,
+                    "contributors": [
+                        {
+                            "recId": 6032,
+                            "massPct": 0.006428988895,
+                            "childrenIds": [
+                                6032
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.018118059615,
+                    "contributors": [
+                        {
+                            "recId": 6032,
+                            "massPct": 0.006428988895,
+                            "childrenIds": [
+                                6032
+                            ]
+                        },
+                        {
+                            "recId": 1530,
+                            "massPct": 0.01168907072,
+                            "childrenIds": [
+                                1530
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "purple": [
+                {
+                    "hazardId": "purple-955",
+                    "type": "purple",
+                    "name": "PBT",
+                    "massPct": 0.018118059615,
+                    "contributors": [
+                        {
+                            "recId": 4343,
+                            "massPct": 0.01168907072,
+                            "childrenIds": [
+                                4343
+                            ]
+                        },
+                        {
+                            "recId": 6032,
+                            "massPct": 0.006428988895,
+                            "childrenIds": [
+                                6032
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "Includes all cradle-to-gate data, including raw materials extraction and energy production. Manufacturing of IGU silicone sealant occurs by the following process steps: hydrolysis, distillation, and polymerization. In this process appropriated organochlorosilanes are used as precursors (dimethyldichlorosilane, trimethyldichlorosilane and phenylmethylsiloxane). Silicon fluids with low viscosity is the main product and the following products also occur: Linear polyorganiosiloxanes with high viscosity, cyclic polyorganosiloxane/siloxane (cyclic). The impacts of the co-products were allocated by market value.",
+        "gabiDatasets": [
+            {
+                "name": "US: Silicone fluids (low viscous) (from organosilanes) (estimation)"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "Assume 0% recycling rate at end-of-life. 100% to landfill (plastic). ",
+        "inUseNotes": "2.21% released as NMVOC (unspecified)",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "2.52E-02"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.26E-03"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "6.74E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.15E-09"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "3.94E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "1.42E+02"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "6.12E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "0.00E+00"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "7.23E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "2.68E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.98E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.13E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "6.50E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.19E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP051",
+    "name": "IGU Silicone Sealant",
+    "altNames": [
+        ""
+    ],
+    "uniformats": [
+        {
+            "id": "B2010",
+            "name": "Exterior Walls"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "07-92-02",
+            "name": "Elastomeric Joint Sealant"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Silicone sealants are used as a secondary seal in dual seal insulated glass units (IGU). Most commonly single component products that do not require mixing, these sealants are based on a \"siloxane\" chemical structure of silicone and oxygen bonds, that cure to form a hardened but still flexible seal. While the primary seal in the IGU serves to contain the insulating gas/air between the panes of glass, the secondary seal provides structural support, holding the IGU together as a unit.",
+    "sources": [
+        {
+            "name": "SIDS Carbon black",
+            "url": "webnet.oecd.org/hpv/ui/handler.axd?id=5a53a150-3bb8-4296-9286-ee930e09de8c",
+            "id": 5081
+        },
+        {
+            "name": "IGS3713 TDS",
+            "url": "http://www.siliconeforbuilding.com/insulatingglass/silicone-IGS3713",
+            "id": 5148
+        },
+        {
+            "name": "IGS3103",
+            "url": "http://www.siliconeforbuilding.com/pdf/insulatingglass/MSDS_IGS3103.pdf",
+            "id": 5145
+        },
+        {
+            "name": "IGS3713",
+            "url": "http://www.siliconeforbuilding.com/pdf/insulatingglass/MSDS_IGS3713_D1.pdf",
+            "id": 5147
+        },
+        {
+            "name": "IGS3103 TDS",
+            "url": "http://www.siliconeforbuilding.com/insulatingglass/silicone-IGS3103",
+            "id": 5146
+        },
+        {
+            "name": "CRL IG TDS",
+            "url": "http://www.crlaurence.com/DataSheets/SpecData/9542.pdf",
+            "id": 5090
+        },
+        {
+            "name": "Technical Manual",
+            "url": "https://www.dowcorning.com/content/publishedlit/62-1492-01.pdf",
+            "id": 5234
+        },
+        {
+            "name": "3-0117 TDS",
+            "url": "http://www.dowcorning.com/DataFiles/090276fe8018949e.pdf",
+            "id": 5045
+        },
+        {
+            "name": "3-0117 MSDS",
+            "url": "http://www.dowcorning.com/DataFiles/0902770181157054.pdf",
+            "id": 5044
+        },
+        {
+            "name": "Methyltriacetoxysilane OECD",
+            "url": "https://pharosproject.net/uploads/files/sources/1/1359594186.pdf",
+            "id": 3713
+        },
+        {
+            "name": "Pharos",
+            "url": "https://www.pharosproject.net/blog/show/149/silicone-sealants",
+            "id": 3658
+        },
+        {
+            "name": "Momentive",
+            "url": "http://www.momentive.com/products/showtechnicaldatasheet.aspx?id=20176",
+            "id": 3657
+        },
+        {
+            "name": "OSHA",
+            "url": "https://www.osha.gov/dts/sltc/methods/partial/id218sg/id218sg.html",
+            "id": 3656
+        },
+        {
+            "name": "Pecora",
+            "url": "http://www.pecora.com/pdfs/Pecora_896-FC_MSDS_7-12.pdf",
+            "id": 3655
+        },
+        {
+            "name": "Pecora TDS",
+            "url": "http://www.pecora.com/pdfs/896FC%20Datasheet%2012-10-12.pdf",
+            "id": 3654
+        },
+        {
+            "name": "Pecora 896FC",
+            "url": "http://www.pecora.com/pdfs/Pecora_Fenestration_brochure_8-12.pdf",
+            "id": 3653
+        },
+        {
+            "name": "NuFlex TDS",
+            "url": "http://sealants.sealantcentre.com/wp-content/uploads/2014/10/319_TDS.pdf",
+            "id": 3651
+        },
+        {
+            "name": "NuFlex",
+            "url": "http://sealants.sealantcentre.com/wp-content/uploads/2014/04/MSDS-319.pdf",
+            "id": 3652
+        },
+        {
+            "name": "ASI 335",
+            "url": "http://www.americansealantsinc.com/wp-content/files_mf/asi335sds.pdf",
+            "id": 3650
+        },
+        {
+            "name": "ASI 335 TDS",
+            "url": "http://www.americansealantsinc.com/wp-content/files_mf/asi335pds.pdf",
+            "id": 3649
+        },
+        {
+            "name": "CRL IG",
+            "url": "http://webcache.crlaurence.com/datasheets/msds/PDF/371.PDF",
+            "id": 3648
+        }
+    ]
+}

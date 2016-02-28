@@ -1,0 +1,872 @@
+{
+  "CPID": "CP118",
+  "timestamp": 1453510073533,
+  "version": "a01",
+  "components": [
+    {
+      "recId": 4990,
+      "name": "Anti-Sapstain Treatment",
+      "CASRN": "",
+      "massPct": 0.001,
+      "function": "",
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-578",
+            "type": "orange",
+            "name": "Organ Toxicant",
+            "massPct": 0.05,
+            "contributors": [
+              {
+                "recId": 4992,
+                "massPct": 0.05,
+                "childrenIds": [
+                  4992
+                ]
+              }
+            ]
+          },
+          {
+            "hazardId": "orange-575",
+            "type": "orange",
+            "name": "Eye Irritation",
+            "massPct": 0.05,
+            "contributors": [
+              {
+                "recId": 4992,
+                "massPct": 0.05,
+                "childrenIds": [
+                  4992
+                ]
+              }
+            ]
+          },
+          {
+            "hazardId": "orange-577",
+            "type": "orange",
+            "name": "Skin Sensitization",
+            "massPct": 0.05,
+            "contributors": [
+              {
+                "recId": 4992,
+                "massPct": 0.05,
+                "childrenIds": [
+                  4992
+                ]
+              }
+            ]
+          },
+          {
+            "hazardId": "orange-568",
+            "type": "orange",
+            "name": "Developmental",
+            "massPct": 0.05,
+            "contributors": [
+              {
+                "recId": 4992,
+                "massPct": 0.05,
+                "childrenIds": [
+                  4992
+                ]
+              }
+            ]
+          },
+          {
+            "hazardId": "orange-570",
+            "type": "orange",
+            "name": "Endocrine",
+            "massPct": 0.0215,
+            "contributors": [
+              {
+                "recId": 4991,
+                "massPct": 0.0215,
+                "childrenIds": [
+                  4991
+                ]
+              }
+            ]
+          },
+          {
+            "hazardId": "orange-567",
+            "type": "orange",
+            "name": "Cancer",
+            "massPct": 0.075,
+            "contributors": [
+              {
+                "recId": 4993,
+                "massPct": 0.075,
+                "childrenIds": [
+                  4993
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "components": [
+        {
+          "recId": 4992,
+          "name": "3-Iodo-2-propyl-n-butylcarbamate",
+          "CASRN": "55406-53-6",
+          "massPct": 0.05,
+          "function": "biocide",
+          "hazards": {
+            "orange": [
+              {
+                "hazardId": "orange-578",
+                "type": "orange",
+                "name": "Organ Toxicant",
+                "massPct": null,
+                "contributors": [
+                  {}
+                ]
+              },
+              {
+                "hazardId": "orange-575",
+                "type": "orange",
+                "name": "Eye Irritation",
+                "massPct": null,
+                "contributors": [
+                  {}
+                ]
+              },
+              {
+                "hazardId": "orange-577",
+                "type": "orange",
+                "name": "Skin Sensitization",
+                "massPct": null,
+                "contributors": [
+                  {}
+                ]
+              },
+              {
+                "hazardId": "orange-568",
+                "type": "orange",
+                "name": "Developmental",
+                "massPct": null,
+                "contributors": [
+                  {}
+                ]
+              }
+            ]
+          },
+          "sources": [
+            {
+              "name": "Wooddock",
+              "url": "http://wooddoc.org/assets/acs_chapter_formulation.pdf",
+              "id": 4978
+            },
+            {
+              "name": "Quattro",
+              "url": "http://www.kellysolutions.com/erenewals/documentsubmit/KellyData%5COK%5Cpesticide%5CMSDS%5C62190%5C62190-33%5C62190-33_Antiblu_XP_Quattro_1_23_2012_10_54_02_AM.pdf",
+              "id": 4972
+            },
+            {
+              "name": "Bazooka",
+              "url": "http://www.redstagtimber.com/media/10954/Sapstain%20and%20Mounld%20contol%20MSDS.pdf",
+              "id": 4966
+            },
+            {
+              "name": "Sta-brite label",
+              "url": "https://pharosproject.net/uploads/files/sources/1828/1329771178.pdf",
+              "id": 4975
+            },
+            {
+              "name": "NP1",
+              "url": "https://pharosproject.net/uploads/files/sources/1828/1329770800.pdf",
+              "id": 4965
+            }
+          ],
+          "notes": "GADSL requires disclosure of any intentionally added content.",
+          "lca": "yes",
+          "massPctOfTotal": 0.00005
+        },
+        {
+          "recId": 4991,
+          "name": "Propiconazole",
+          "CASRN": "60207-90-1",
+          "massPct": 0.0215,
+          "function": "biocide",
+          "hazards": {
+            "orange": [
+              {
+                "hazardId": "orange-570",
+                "type": "orange",
+                "name": "Endocrine",
+                "massPct": null,
+                "contributors": [
+                  {}
+                ]
+              }
+            ]
+          },
+          "sources": [
+            {
+              "name": "Wolson",
+              "url": "http://www.la-timber.at/asp_service/upload/content/0694_0001.pdf",
+              "id": 4968
+            },
+            {
+              "name": "Wooddock",
+              "url": "http://wooddoc.org/assets/acs_chapter_formulation.pdf",
+              "id": 4978
+            },
+            {
+              "name": "Quattro",
+              "url": "http://www.kellysolutions.com/erenewals/documentsubmit/KellyData%5COK%5Cpesticide%5CMSDS%5C62190%5C62190-33%5C62190-33_Antiblu_XP_Quattro_1_23_2012_10_54_02_AM.pdf",
+              "id": 4972
+            },
+            {
+              "name": "Mycostat",
+              "url": "http://www.sfm.state.or.us/cr2k_subdb/MSDS/MYCOSTAT_P50_PLUS_DIAMULSE_P_DILUTE.PDF",
+              "id": 4979
+            },
+            {
+              "name": "Bazooka",
+              "url": "http://www.redstagtimber.com/media/10954/Sapstain%20and%20Mounld%20contol%20MSDS.pdf",
+              "id": 4966
+            }
+          ],
+          "notes": "GADSL requires disclosure of any intentionally added content.",
+          "lca": "yes",
+          "massPctOfTotal": 0.000021499999999999997
+        },
+        {
+          "recId": 4993,
+          "name": "1,3-Pentanediol, 2,2,4-trimethyl-, monoisobutyrate",
+          "CASRN": "25265-77-4",
+          "massPct": 0.075,
+          "function": "co-solvent",
+          "hazards": {
+            "orange": [
+              {
+                "hazardId": "orange-567",
+                "type": "orange",
+                "name": "Cancer",
+                "massPct": null,
+                "contributors": [
+                  {}
+                ]
+              }
+            ]
+          },
+          "sources": [
+            {
+              "name": "DEVCRYL MSDS",
+              "url": "http://datasheets1.international-coatings.com/msds/DC1440S9500_USA_eng_B1.pdf",
+              "id": 8411
+            },
+            {
+              "name": "RO DTM MSDS",
+              "url": "http://www.rustoleum.com/MSDS/ENGLISH/3192402.PDF",
+              "id": 8443
+            },
+            {
+              "name": "DTM EDS",
+              "url": "http://www.sherwin-williams.com/document/EDS/en/035777181065/",
+              "id": 8418
+            },
+            {
+              "name": "Devflex MSDS",
+              "url": "https://www.gliddenprofessional.com/datasheets/specialorders/msds/4212-0100.aspx",
+              "id": 8413
+            },
+            {
+              "name": "Intercryl MSDS",
+              "url": "http://datasheets1.international-coatings.com/msds/52010_USA_eng_B2.pdf",
+              "id": 8428
+            },
+            {
+              "name": "Armor MSDS",
+              "url": "https://www.pharosproject.net/uploads/files/sources/2709/4b935a3dca68353eb84454634187554c6f2292fa.pdf",
+              "id": 8446
+            }
+          ],
+          "notes": "",
+          "lca": "yes",
+          "massPctOfTotal": 0.000075
+        }
+      ],
+      "sources": [
+        {
+          "name": "Roseburg Lumber MSDS",
+          "url": "http://www.roseburg.com/UserFiles/Library/Roseburg_Landscape_Timbers_AR%5b1%5d.pdf",
+          "id": 4987
+        },
+        {
+          "name": "Mycostat Treated Lumber MSDS",
+          "url": "http://www.hoodindustries.com/pdf/Mycostat_Treated_Lumber_MSDS_033110.pdf",
+          "id": 4986
+        },
+        {
+          "name": "Mycostat Treated Southern Pine Lumber MSDS",
+          "url": "http://www.weyerhaeuser.com/pdfs/msds/488-02.pdf",
+          "id": 4984
+        },
+        {
+          "name": "Mycostat Treated Green Douglas Fir Lumber MSDS",
+          "url": "http://www.weyerhaeuser.com/pdfs/msds/291.pdf",
+          "id": 4983
+        },
+        {
+          "name": "Mold",
+          "url": "http://www.wwpa.org/SPECIESPRODUCTS/MoldandLumber/ControllingMold/tabid/422/Default.aspx",
+          "id": 4970
+        },
+        {
+          "name": "Kop-Coat",
+          "url": "http://www.kop-coat.com/kop_cds/documents/tech_20023.pdf",
+          "id": 4963
+        },
+        {
+          "name": "GP Western",
+          "url": "http://www.buildgp.com/western-softwood-lumber",
+          "id": 4960
+        },
+        {
+          "name": "LB-4021",
+          "url": "http://www.woodbywy.com/lumber/weyerhaeuser-framer-series-lumber/",
+          "id": 4957
+        }
+      ],
+      "notes": "",
+      "lca": "",
+      "massPctOfTotal": 0.001
+    },
+    {
+      "recId": 3329,
+      "name": "Wood",
+      "CASRN": "unknown",
+      "massPct": 0.999,
+      "function": "lumber",
+      "hazards": {
+        "unknown": [
+          {
+            "hazardId": "unknown-11424",
+            "type": "unknown",
+            "name": "Unknown",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "Roseburg Lumber MSDS",
+          "url": "http://www.roseburg.com/UserFiles/Library/Roseburg_Landscape_Timbers_AR%5b1%5d.pdf",
+          "id": 4987
+        },
+        {
+          "name": "Mycostat Treated Southern Pine Lumber MSDS",
+          "url": "http://www.weyerhaeuser.com/pdfs/msds/488-02.pdf",
+          "id": 4984
+        },
+        {
+          "name": "Mycostat Treated Green Douglas Fir Lumber MSDS",
+          "url": "http://www.weyerhaeuser.com/pdfs/msds/291.pdf",
+          "id": 4983
+        },
+        {
+          "name": "Stimson",
+          "url": "http://www.stimsonlumber.com/products/dimension-lumber/dimension/",
+          "id": 4961
+        },
+        {
+          "name": "GP Western",
+          "url": "http://www.buildgp.com/western-softwood-lumber",
+          "id": 4960
+        },
+        {
+          "name": "Western",
+          "url": "http://www.wwpa.org/SpeciesUses/tabid/853/Default.aspx",
+          "id": 4956
+        },
+        {
+          "name": "TFBC",
+          "url": "http://www.timberframe.org/UserFiles/Pages/1abaaa66-7b4c-4674-9702-8094f8248e6e/d811c7a3-6aea-4fe1-9dd4-88eb08e63eb4/Characteristics_of_Common_Timber_Frame_Wood_Species.pdf",
+          "id": 4954
+        }
+      ],
+      "notes": "Many species can be used for framing, however it is most commonly soft wood.  Douglas Fir is very common, especially if sourced from forests in the Western US/Canada.",
+      "lca": "yes",
+      "massPctOfTotal": 0.999
+    }
+  ],
+  "impurities": [
+    {
+      "name": null,
+      "CASRN": null,
+      "massPct": 0,
+      "function": null,
+      "sources": [],
+      "hazards": {}
+    }
+  ],
+  "health": {
+    "hazards": {
+      "orange": [
+        {
+          "hazardId": "orange-578",
+          "type": "orange",
+          "name": "Organ Toxicant",
+          "massPct": 0.00005,
+          "contributors": [
+            {
+              "recId": 4990,
+              "massPct": 0.00005,
+              "childrenIds": [
+                4990,
+                4992
+              ]
+            }
+          ]
+        },
+        {
+          "hazardId": "orange-575",
+          "type": "orange",
+          "name": "Eye Irritation",
+          "massPct": 0.00005,
+          "contributors": [
+            {
+              "recId": 4990,
+              "massPct": 0.00005,
+              "childrenIds": [
+                4990,
+                4992
+              ]
+            }
+          ]
+        },
+        {
+          "hazardId": "orange-577",
+          "type": "orange",
+          "name": "Skin Sensitization",
+          "massPct": 0.00005,
+          "contributors": [
+            {
+              "recId": 4990,
+              "massPct": 0.00005,
+              "childrenIds": [
+                4990,
+                4992
+              ]
+            }
+          ]
+        },
+        {
+          "hazardId": "orange-568",
+          "type": "orange",
+          "name": "Developmental",
+          "massPct": 0.00005,
+          "contributors": [
+            {
+              "recId": 4990,
+              "massPct": 0.00005,
+              "childrenIds": [
+                4990,
+                4992
+              ]
+            }
+          ]
+        },
+        {
+          "hazardId": "orange-570",
+          "type": "orange",
+          "name": "Endocrine",
+          "massPct": 0.000021499999999999997,
+          "contributors": [
+            {
+              "recId": 4990,
+              "massPct": 0.000021499999999999997,
+              "childrenIds": [
+                4990,
+                4991
+              ]
+            }
+          ]
+        },
+        {
+          "hazardId": "orange-567",
+          "type": "orange",
+          "name": "Cancer",
+          "massPct": 0.000075,
+          "contributors": [
+            {
+              "recId": 4990,
+              "massPct": 0.000075,
+              "childrenIds": [
+                4990,
+                4993
+              ]
+            }
+          ]
+        }
+      ],
+      "unknown": [
+        {
+          "hazardId": "unknown-11424",
+          "type": "unknown",
+          "name": "Unknown",
+          "massPct": 0.999,
+          "contributors": [
+            {
+              "recId": 3329,
+              "massPct": 0.999,
+              "childrenIds": [
+                3329
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "environmental": {
+    "systemBoundary": "The system boundary includes upstream forest operations, from planting through harvest, and plywood manufacturing, including upstream transportation, as well as upstream production of anti-sapstain treatment. Dataset represents US-CA industry average (Softwood Lumber EPD) and a density of 433.57 kg/m3 (oven dry).",
+    "gabiDatasets": [
+      {
+        "name": "RNA: Softwood lumber"
+      }
+    ],
+    "foregroundDataSource": "CORRIM 2011",
+    "backforegroundDataSource": "GaBi",
+    "postConsumerRecycledContent": "0%",
+    "referenceCountry": "United States",
+    "referenceYear": "2015",
+    "endOfLifeTreatment": "17.5% incinerated; 17.5% recycled; 65% to landfill",
+    "lcaResults": {
+      "cradleToGate": [
+        {
+          "name": "Acidification Potential",
+          "unit": "kg SO2 eq",
+          "value": "2.41E-03"
+        },
+        {
+          "name": "Eutrophication Potential",
+          "unit": "kg N eq",
+          "value": "1.16E-04"
+        },
+        {
+          "name": "Global Warming Potential",
+          "unit": "kg CO2 eq",
+          "value": "-1.50E+00"
+        },
+        {
+          "name": "Ozone Depletion Potential",
+          "unit": "kg CFC-11 eq",
+          "value": "4.37E-11"
+        },
+        {
+          "name": "Smog Formation Potential",
+          "unit": "kg O3 eq",
+          "value": "4.34E-02"
+        },
+        {
+          "name": "Primary Energy Demand",
+          "unit": "MJ",
+          "value": "1.67E+01"
+        }
+      ],
+      "inUse": [
+        {
+          "name": "Acidification Potential",
+          "unit": "kg SO2 eq"
+        },
+        {
+          "name": "Eutrophication Potential",
+          "unit": "kg N eq"
+        },
+        {
+          "name": "Global Warming Potential",
+          "unit": "kg CO2 eq"
+        },
+        {
+          "name": "Ozone Depletion Potential",
+          "unit": "kg CFC-11 eq"
+        },
+        {
+          "name": "Smog Formation Potential",
+          "unit": "kg O3 eq"
+        },
+        {
+          "name": "Primary Energy Demand",
+          "unit": "MJ"
+        }
+      ],
+      "endOfLife": [
+        {
+          "name": "Acidification Potential",
+          "unit": "kg SO2 eq",
+          "value": "3.42E-04"
+        },
+        {
+          "name": "Eutrophication Potential",
+          "unit": "kg N eq",
+          "value": "3.87E-05"
+        },
+        {
+          "name": "Global Warming Potential",
+          "unit": "kg CO2 eq",
+          "value": "6.74E-01"
+        },
+        {
+          "name": "Ozone Depletion Potential",
+          "unit": "kg CFC-11 eq",
+          "value": "1.55E-12"
+        },
+        {
+          "name": "Smog Formation Potential",
+          "unit": "kg O3 eq",
+          "value": "4.65E-03"
+        },
+        {
+          "name": "Primary Energy Demand",
+          "unit": "MJ",
+          "value": "6.95E-01"
+        }
+      ]
+    }
+  },
+  "id": "CP118",
+  "name": "Wood Framing",
+  "altNames": [
+    "Dimensional Lumber"
+  ],
+  "uniformats": [
+    {
+      "id": "B1020",
+      "name": "Roof Construction"
+    },
+    {
+      "id": "B1010",
+      "name": "Floor Construction"
+    }
+  ],
+  "masterformats": [
+    {
+      "id": "06-11-00",
+      "name": "Wood Framing"
+    }
+  ],
+  "recordType": "Common",
+  "description": "This CP describes sawn lumber intended for light structural framing (wall framing, sill plates, etc.), also known as “dimensional lumber” in the industry.   Boards are cut in standard dimensions: 2x4 or 4x4 inches by 10 feet, are commonly used in framing, for example.  Because the lumber is intended for interior applications, it is not typically pressure treated.  Instead, the lumber is sawn from logs to the appropriate dimensions and air or kiln dried to 19% humidity.  To prevent discoloration, known as sapstain, from forming, dimensional lumber is routinely dipped in a bath, or sprayed with a fungicidal treatment that inhibits the growth of microbes naturally found in freshly cut timber.",
+  "sources": [
+    {
+      "name": "Armor MSDS",
+      "url": "https://www.pharosproject.net/uploads/files/sources/2709/4b935a3dca68353eb84454634187554c6f2292fa.pdf",
+      "id": 8446
+    },
+    {
+      "name": "Intercryl MSDS",
+      "url": "http://datasheets1.international-coatings.com/msds/52010_USA_eng_B2.pdf",
+      "id": 8428
+    },
+    {
+      "name": "Devflex MSDS",
+      "url": "https://www.gliddenprofessional.com/datasheets/specialorders/msds/4212-0100.aspx",
+      "id": 8413
+    },
+    {
+      "name": "DTM EDS",
+      "url": "http://www.sherwin-williams.com/document/EDS/en/035777181065/",
+      "id": 8418
+    },
+    {
+      "name": "RO DTM MSDS",
+      "url": "http://www.rustoleum.com/MSDS/ENGLISH/3192402.PDF",
+      "id": 8443
+    },
+    {
+      "name": "DEVCRYL MSDS",
+      "url": "http://datasheets1.international-coatings.com/msds/DC1440S9500_USA_eng_B1.pdf",
+      "id": 8411
+    },
+    {
+      "name": "Irby",
+      "url": "http://www.fwrc.msstate.edu/pubs/antisapstain.pdf",
+      "id": 4988
+    },
+    {
+      "name": "Roseburg Lumber MSDS",
+      "url": "http://www.roseburg.com/UserFiles/Library/Roseburg_Landscape_Timbers_AR%5b1%5d.pdf",
+      "id": 4987
+    },
+    {
+      "name": "Mycostat Treated Lumber MSDS",
+      "url": "http://www.hoodindustries.com/pdf/Mycostat_Treated_Lumber_MSDS_033110.pdf",
+      "id": 4986
+    },
+    {
+      "name": "Melencion",
+      "url": "http://www.cof.orst.edu/coops/utilpole/pdf/2007melencion.pdf",
+      "id": 4985
+    },
+    {
+      "name": "Mycostat Treated Southern Pine Lumber MSDS",
+      "url": "http://www.weyerhaeuser.com/pdfs/msds/488-02.pdf",
+      "id": 4984
+    },
+    {
+      "name": "Mycostat Treated Green Douglas Fir Lumber MSDS",
+      "url": "http://www.weyerhaeuser.com/pdfs/msds/291.pdf",
+      "id": 4983
+    },
+    {
+      "name": "Mycostat label",
+      "url": "http://www.kellysolutions.com/erenewals/documentsubmit/KellyData%5CWI%5Cpesticide%5CProduct%20Label%5C70227%5C43813-37-70227%5C43813-37-70227_Mycostat_P50_8_8_2013_3_48_03_PM.pdf",
+      "id": 4982
+    },
+    {
+      "name": "Sta-brite TDS",
+      "url": "http://www.loghelp.com/p-1001-sta-brite-p-biocide-5-gal.aspx",
+      "id": 4981
+    },
+    {
+      "name": "Janssen",
+      "url": "www.janssenpmp.com/downloadfile/396",
+      "id": 4980
+    },
+    {
+      "name": "Mycostat",
+      "url": "http://www.sfm.state.or.us/cr2k_subdb/MSDS/MYCOSTAT_P50_PLUS_DIAMULSE_P_DILUTE.PDF",
+      "id": 4979
+    },
+    {
+      "name": "Wooddock",
+      "url": "http://wooddoc.org/assets/acs_chapter_formulation.pdf",
+      "id": 4978
+    },
+    {
+      "name": "Hegarty",
+      "url": "https://www.google.com/patents/EP0381482B1?cl=en&dq=anti+sapstain+lumber&hl=en&sa=X&ei=_akaVeHMDcKnNrvjgMgP&ved=0CB8Q6AEwAA",
+      "id": 4977
+    },
+    {
+      "name": "Sta-brite",
+      "url": "https://pharosproject.net/uploads/files/sources/1828/1329771200.pdf",
+      "id": 4976
+    },
+    {
+      "name": "Sta-brite label",
+      "url": "https://pharosproject.net/uploads/files/sources/1828/1329771178.pdf",
+      "id": 4975
+    },
+    {
+      "name": "Hylite",
+      "url": "http://esvc000127.wic047u.server-web.com/msds/Hylite%20109%20MSDS%20October%202004.pdf",
+      "id": 4974
+    },
+    {
+      "name": "Hylite TDS",
+      "url": "https://pharosproject.net/uploads/files/sources/1828/1351104097.pdf",
+      "id": 4973
+    },
+    {
+      "name": "Quattro",
+      "url": "http://www.kellysolutions.com/erenewals/documentsubmit/KellyData%5COK%5Cpesticide%5CMSDS%5C62190%5C62190-33%5C62190-33_Antiblu_XP_Quattro_1_23_2012_10_54_02_AM.pdf",
+      "id": 4972
+    },
+    {
+      "name": "Quattro TDS",
+      "url": "https://pharosproject.net/uploads/files/sources/1828/1329771895.pdf",
+      "id": 4971
+    },
+    {
+      "name": "Mold",
+      "url": "http://www.wwpa.org/SPECIESPRODUCTS/MoldandLumber/ControllingMold/tabid/422/Default.aspx",
+      "id": 4970
+    },
+    {
+      "name": "Sinesto TDS",
+      "url": "http://www.belander.ee/UserFiles/file/EN-Sinesto.pdf",
+      "id": 4969
+    },
+    {
+      "name": "Wolson",
+      "url": "http://www.la-timber.at/asp_service/upload/content/0694_0001.pdf",
+      "id": 4968
+    },
+    {
+      "name": "BASF",
+      "url": "https://www.wolman.biz/en/wood_preservation/anti_sapstain/index.php",
+      "id": 4967
+    },
+    {
+      "name": "Bazooka",
+      "url": "http://www.redstagtimber.com/media/10954/Sapstain%20and%20Mounld%20contol%20MSDS.pdf",
+      "id": 4966
+    },
+    {
+      "name": "NP1",
+      "url": "https://pharosproject.net/uploads/files/sources/1828/1329770800.pdf",
+      "id": 4965
+    },
+    {
+      "name": "NP1 TDS",
+      "url": "http://www.kop-coat.com/fileshare/product_pds/pds_12484.pdf",
+      "id": 4964
+    },
+    {
+      "name": "Kop-Coat",
+      "url": "http://www.kop-coat.com/kop_cds/documents/tech_20023.pdf",
+      "id": 4963
+    },
+    {
+      "name": "ASLS",
+      "url": "http://stimson_lumber.s3.amazonaws.com/products/literature/American_Softwood_Lumber_Standard_PS20-10.pdf",
+      "id": 4962
+    },
+    {
+      "name": "Stimson",
+      "url": "http://www.stimsonlumber.com/products/dimension-lumber/dimension/",
+      "id": 4961
+    },
+    {
+      "name": "GP Western",
+      "url": "http://www.buildgp.com/western-softwood-lumber",
+      "id": 4960
+    },
+    {
+      "name": "GP",
+      "url": "http://www.buildgp.com/southern-pine-2-inch-dimensional-lumber",
+      "id": 4959
+    },
+    {
+      "name": "Anthony",
+      "url": "http://www.anthonyforest.com/pdfs/MSRMELDesignValuesEffJune12013.pdf",
+      "id": 4958
+    },
+    {
+      "name": "LB-4021",
+      "url": "http://www.woodbywy.com/lumber/weyerhaeuser-framer-series-lumber/",
+      "id": 4957
+    },
+    {
+      "name": "Western",
+      "url": "http://www.wwpa.org/SpeciesUses/tabid/853/Default.aspx",
+      "id": 4956
+    },
+    {
+      "name": "Grades",
+      "url": "http://www.wwpa.org/TECHGUIDE/Grades/tabid/849/Default.aspx",
+      "id": 4955
+    },
+    {
+      "name": "TFBC",
+      "url": "http://www.timberframe.org/UserFiles/Pages/1abaaa66-7b4c-4674-9702-8094f8248e6e/d811c7a3-6aea-4fe1-9dd4-88eb08e63eb4/Characteristics_of_Common_Timber_Frame_Wood_Species.pdf",
+      "id": 4954
+    },
+    {
+      "name": "Woodworks",
+      "url": "http://www.woodworks.org/wp-content/uploads/2012/02/is-building-codes.pdf",
+      "id": 4953
+    },
+    {
+      "name": "AFPA",
+      "url": "http://www.awc.org/pdf/wcd1-300.pdf",
+      "id": 4952
+    }
+  ]
+}

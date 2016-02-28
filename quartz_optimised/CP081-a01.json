@@ -1,0 +1,1486 @@
+{
+  "CPID": "CP081",
+  "timestamp": 1453510046767,
+  "version": "a01",
+  "components": [
+    {
+      "recId": 7574,
+      "name": "Solvent-Dewaxed Heavy Paraffinic Petroleum Distillates",
+      "CASRN": "64742-65-0",
+      "massPct": 0.01654259719,
+      "function": "defoamer",
+      "hazards": {
+        "red": [
+          {
+            "hazardId": "red-567",
+            "type": "red",
+            "name": "Cancer",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "Foamaster",
+          "url": "http://worldaccount.basf.com/wa/NAFTA/Catalog/FunctionalPolymers/doc4/BASF/PRD/30531091/.pdf?title=&asset_type=msds/pdf&language=EN&validArea=CA&urn=urn:documentum:ProductBase_EU:09007af8802679ea.pdf",
+          "id": 7547
+        },
+        {
+          "name": "Cognis",
+          "url": "http://www.carytrad.com.tw/chemical/download/FOAMASTER_r_SA-3_E.pdf",
+          "id": 7546
+        },
+        {
+          "name": "Martin",
+          "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=MSCONS&prodno=MSP203100&doctype=MSDS&lang=E",
+          "id": 7563
+        },
+        {
+          "name": "Foamaster 2",
+          "url": "http://worldaccount.basf.com/wa/NAFTA/Catalog/FunctionalPolymers/doc4/BASF/PRD/30531091/.pdf?title=&asset_type=msds/pdf&language=EN&validArea=US&urn=urn:documentum:ProductBase_EU:09007af8802679eb.pdf",
+          "id": 7562
+        }
+      ],
+      "notes": "",
+      "lca": "yes",
+      "massPctOfTotal": 0.01654259719
+    },
+    {
+      "recId": 7576,
+      "name": "Methylchloroisothiazolinone",
+      "CASRN": "26172-55-4",
+      "massPct": 0.001070403347,
+      "function": "preservative",
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-576",
+            "type": "orange",
+            "name": "Skin Irritation",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          },
+          {
+            "hazardId": "orange-574",
+            "type": "orange",
+            "name": "Mammalian",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          },
+          {
+            "hazardId": "orange-575",
+            "type": "orange",
+            "name": "Eye Irritation",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "Clariant",
+          "url": "http://www.pcimag.com/ext/resources/VirtualBrocAugust2012/Clariant-Additives-1-.pdf?1372100934",
+          "id": 7553
+        },
+        {
+          "name": "Kathon",
+          "url": "http://www.chempoint.com/products/catalog/dow/rohm-and-haas-industrial-microbicides/kathon-lx-1-5-latex-preservative",
+          "id": 7548
+        },
+        {
+          "name": "Rhoplex 200",
+          "url": "http://www.dow.com/assets/attachments/business/pcm/rhoplex_ez_clean/rhoplex_ez_clean_200/tds/rhoplex_ez_clean_200.pdf",
+          "id": 7541
+        },
+        {
+          "name": "Columbia",
+          "url": "https://www.google.com/patents/CA2656899A1?cl=en&dq=acrylic+eggshell+paint+composition&hl=en&sa=X&ei=TFOdVZyzH5a0yASwsLLYBg&ved=0CFwQ6AEwCQ",
+          "id": 7529
+        },
+        {
+          "name": "Imperial",
+          "url": "http://www.declareproducts.com/content/air-pure-paints-interior-wall-paints",
+          "id": 7540
+        },
+        {
+          "name": "Everest HPD",
+          "url": "https://www.pharosproject.net/uploads/files/hpds/501/1403823959.pdf",
+          "id": 7539
+        }
+      ],
+      "notes": "CIT/CMIT",
+      "lca": "yes",
+      "massPctOfTotal": 0.001070403347
+    },
+    {
+      "recId": 7577,
+      "name": "Methylisothiazolinone",
+      "CASRN": "2682-20-4",
+      "massPct": 0.002919281857,
+      "function": "preservative",
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-577",
+            "type": "orange",
+            "name": "Skin Sensitization",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          },
+          {
+            "hazardId": "orange-576",
+            "type": "orange",
+            "name": "Skin Irritation",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          },
+          {
+            "hazardId": "orange-574",
+            "type": "orange",
+            "name": "Mammalian",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "Clariant",
+          "url": "http://www.pcimag.com/ext/resources/VirtualBrocAugust2012/Clariant-Additives-1-.pdf?1372100934",
+          "id": 7553
+        },
+        {
+          "name": "Kathon",
+          "url": "http://www.chempoint.com/products/catalog/dow/rohm-and-haas-industrial-microbicides/kathon-lx-1-5-latex-preservative",
+          "id": 7548
+        },
+        {
+          "name": "Rhoplex 200",
+          "url": "http://www.dow.com/assets/attachments/business/pcm/rhoplex_ez_clean/rhoplex_ez_clean_200/tds/rhoplex_ez_clean_200.pdf",
+          "id": 7541
+        },
+        {
+          "name": "Columbia",
+          "url": "https://www.google.com/patents/CA2656899A1?cl=en&dq=acrylic+eggshell+paint+composition&hl=en&sa=X&ei=TFOdVZyzH5a0yASwsLLYBg&ved=0CFwQ6AEwCQ",
+          "id": 7529
+        },
+        {
+          "name": "Imperial",
+          "url": "http://www.declareproducts.com/content/air-pure-paints-interior-wall-paints",
+          "id": 7540
+        }
+      ],
+      "notes": "MIT",
+      "lca": "yes",
+      "massPctOfTotal": 0.002919281857
+    },
+    {
+      "recId": 3759,
+      "name": "Limestone",
+      "CASRN": "1317-65-3",
+      "massPct": 0.08407531747,
+      "function": "extender",
+      "hazards": {},
+      "sources": [
+        {
+          "name": "Imperial",
+          "url": "http://www.declareproducts.com/content/air-pure-paints-interior-wall-paints",
+          "id": 7540
+        },
+        {
+          "name": "Essential",
+          "url": "http://www.essentialchemicalindustry.org/materials-and-applications/paints.html",
+          "id": 7524
+        },
+        {
+          "name": "Vpro MSDS",
+          "url": "https://d1wg3emhath1s.cloudfront.net/uploads/product/product_msds_sheet/95/330.pdf",
+          "id": 7521
+        },
+        {
+          "name": "Harmony MSDS 2",
+          "url": "http://www.sherwin-williams.com/document/MSDS/en/035777142547/",
+          "id": 7518
+        },
+        {
+          "name": "Harmony MSDS",
+          "url": "http://www.sherwin-williams.com/document/MSDS/en/035777142554/",
+          "id": 7517
+        },
+        {
+          "name": "Mythic MSDS",
+          "url": "https://www.mythicpaint.com/siteAdmin/Upload/MSDS/f53e9b5f-901c-4435-9ea0-6f413c36c127_MP101.pdf",
+          "id": 7514
+        },
+        {
+          "name": "AFM zero MSDS",
+          "url": "http://www.safecoatpaint.com/downloads/tludck1416%20Eggshell%200%20VOC%20msds%202008.pdf",
+          "id": 7507
+        }
+      ],
+      "notes": "",
+      "lca": "yes",
+      "massPctOfTotal": 0.08407531747
+    },
+    {
+      "recId": 2766,
+      "name": "Titanium Dioxide",
+      "CASRN": "13463-67-7",
+      "massPct": 0.1946187904,
+      "function": "pigment",
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-574",
+            "type": "orange",
+            "name": "Mammalian",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          }
+        ],
+        "red": [
+          {
+            "hazardId": "red-7911",
+            "type": "red",
+            "name": "Cancer (occupational only)",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "Imperial",
+          "url": "http://www.declareproducts.com/content/air-pure-paints-interior-wall-paints",
+          "id": 7540
+        },
+        {
+          "name": "Everest HPD",
+          "url": "https://www.pharosproject.net/uploads/files/hpds/501/1403823959.pdf",
+          "id": 7539
+        },
+        {
+          "name": "Murphy",
+          "url": "http://www.aptnw.org/powerpoint/Murphy%20-%20Paint%20Basics%20and%20Corrosion%20in%20Metal.ppt",
+          "id": 7525
+        },
+        {
+          "name": "Essential",
+          "url": "http://www.essentialchemicalindustry.org/materials-and-applications/paints.html",
+          "id": 7524
+        },
+        {
+          "name": "Vpro MSDS",
+          "url": "https://d1wg3emhath1s.cloudfront.net/uploads/product/product_msds_sheet/95/330.pdf",
+          "id": 7521
+        },
+        {
+          "name": "Vista MSDS",
+          "url": "https://d1wg3emhath1s.cloudfront.net/uploads/product/product_msds_sheet/21/8300.pdf",
+          "id": 7519
+        },
+        {
+          "name": "Harmony MSDS 2",
+          "url": "http://www.sherwin-williams.com/document/MSDS/en/035777142547/",
+          "id": 7518
+        },
+        {
+          "name": "Harmony MSDS",
+          "url": "http://www.sherwin-williams.com/document/MSDS/en/035777142554/",
+          "id": 7517
+        },
+        {
+          "name": "Mythic MSDS",
+          "url": "https://www.mythicpaint.com/siteAdmin/Upload/MSDS/f53e9b5f-901c-4435-9ea0-6f413c36c127_MP101.pdf",
+          "id": 7514
+        },
+        {
+          "name": "Natura MSDS",
+          "url": "http://www.benjaminmoore.com/en-us/for-contractors/product-catalog?prod=Natura_Waterborne_Interior_Paint#piSheen=513&tab=3",
+          "id": 7511
+        },
+        {
+          "name": "EcoSpec MSDS",
+          "url": "http://www.benjaminmoore.com/en-us/for-painting-contractors/paint-products/eco-spec-wb-interior-latex-paint?lang=en_US&role=C#advs=0&tab=3",
+          "id": 7509
+        },
+        {
+          "name": "Behr pp MSDS",
+          "url": "http://www.actiocms.com/VIEW_MSDS/AuthorDisplay_V402/msdsdisplaycode_author_new_MASTER.cfm?edit_msds_id=5546&dbname=production&Hide_Section_Numbers=N&formatcode=7&language=1&noprint_label_fax_email=Y",
+          "id": 7508
+        },
+        {
+          "name": "AFM zero MSDS",
+          "url": "http://www.safecoatpaint.com/downloads/tludck1416%20Eggshell%200%20VOC%20msds%202008.pdf",
+          "id": 7507
+        }
+      ],
+      "notes": "",
+      "lca": "yes",
+      "massPctOfTotal": 0.1946187904
+    },
+    {
+      "recId": 7571,
+      "name": "Nepheline Syenite",
+      "CASRN": "37244-96-5",
+      "massPct": 0.1002286771,
+      "function": "durability",
+      "hazards": {},
+      "sources": [
+        {
+          "name": "Everest HPD",
+          "url": "https://www.pharosproject.net/uploads/files/hpds/501/1403823959.pdf",
+          "id": 7539
+        },
+        {
+          "name": "Inspired MSDS",
+          "url": "http://www.colorhousepaint.com/wp-content/uploads/2014/09/Colorhouse-MSDS_v2_Inspired.pdf",
+          "id": 7513
+        },
+        {
+          "name": "Natura MSDS",
+          "url": "http://www.benjaminmoore.com/en-us/for-contractors/product-catalog?prod=Natura_Waterborne_Interior_Paint#piSheen=513&tab=3",
+          "id": 7511
+        },
+        {
+          "name": "EcoSpec MSDS",
+          "url": "http://www.benjaminmoore.com/en-us/for-painting-contractors/paint-products/eco-spec-wb-interior-latex-paint?lang=en_US&role=C#advs=0&tab=3",
+          "id": 7509
+        },
+        {
+          "name": "Behr pp MSDS",
+          "url": "http://www.actiocms.com/VIEW_MSDS/AuthorDisplay_V402/msdsdisplaycode_author_new_MASTER.cfm?edit_msds_id=5546&dbname=production&Hide_Section_Numbers=N&formatcode=7&language=1&noprint_label_fax_email=Y",
+          "id": 7508
+        }
+      ],
+      "notes": "",
+      "lca": "yes",
+      "massPctOfTotal": 0.1002286771
+    },
+    {
+      "recId": 7575,
+      "name": "Nonylphenol Ethoxylates",
+      "CASRN": "9016-45-9",
+      "massPct": 0.009730939522,
+      "function": "surfactant",
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-570",
+            "type": "orange",
+            "name": "Endocrine",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          }
+        ],
+        "red": [
+          {
+            "hazardId": "red-569",
+            "type": "red",
+            "name": "Reproductive",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          },
+          {
+            "hazardId": "red-568",
+            "type": "red",
+            "name": "Developmental",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          }
+        ],
+        "purple": [
+          {
+            "hazardId": "purple-955",
+            "type": "purple",
+            "name": "PBT",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "SW Maine",
+          "url": "https://pharosproject.net/uploads/files/sources/1/4d634f574753f97bcf4537038ceee57c592da82c.xls",
+          "id": 7565
+        },
+        {
+          "name": "BM Maine",
+          "url": "https://pharosproject.net/uploads/files/sources/1/55e9e656497abb90f3d4cdd0cd0c4e3634eaf1c5.xls",
+          "id": 7564
+        },
+        {
+          "name": "Tergitol",
+          "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_00ae/0901b803800ae9c4.pdf?filepath=surfactants/pdfs/noreg/119-01929.pdf&fromPage=GetDoc",
+          "id": 7560
+        },
+        {
+          "name": "Maine",
+          "url": "http://www.preventharm.org/Images/129/bpanpedatareport.pdf",
+          "id": 7559
+        }
+      ],
+      "notes": "NPE",
+      "lca": "yes",
+      "massPctOfTotal": 0.009730939522
+    },
+    {
+      "recId": 1106,
+      "name": "Water",
+      "CASRN": "7732-18-5",
+      "massPct": 0.3629640442,
+      "function": "solvent",
+      "hazards": {},
+      "sources": [
+        {
+          "name": "EcoSpec MSDS",
+          "url": "http://www.benjaminmoore.com/en-us/for-painting-contractors/paint-products/eco-spec-wb-interior-latex-paint?lang=en_US&role=C#advs=0&tab=3",
+          "id": 7509
+        },
+        {
+          "name": "Imperial",
+          "url": "http://www.declareproducts.com/content/air-pure-paints-interior-wall-paints",
+          "id": 7540
+        },
+        {
+          "name": "Everest HPD",
+          "url": "https://www.pharosproject.net/uploads/files/hpds/501/1403823959.pdf",
+          "id": 7539
+        },
+        {
+          "name": "Mythic MSDS",
+          "url": "https://www.mythicpaint.com/siteAdmin/Upload/MSDS/f53e9b5f-901c-4435-9ea0-6f413c36c127_MP101.pdf",
+          "id": 7514
+        },
+        {
+          "name": "Inspired MSDS",
+          "url": "http://www.colorhousepaint.com/wp-content/uploads/2014/09/Colorhouse-MSDS_v2_Inspired.pdf",
+          "id": 7513
+        },
+        {
+          "name": "Natura MSDS",
+          "url": "http://www.benjaminmoore.com/en-us/for-contractors/product-catalog?prod=Natura_Waterborne_Interior_Paint#piSheen=513&tab=3",
+          "id": 7511
+        },
+        {
+          "name": "AFM zero MSDS",
+          "url": "http://www.safecoatpaint.com/downloads/tludck1416%20Eggshell%200%20VOC%20msds%202008.pdf",
+          "id": 7507
+        }
+      ],
+      "notes": "",
+      "lca": "yes",
+      "massPctOfTotal": 0.3629640442
+    },
+    {
+      "recId": 7573,
+      "name": "Functionalized Acrylic Copolymer",
+      "CASRN": "9003-03-6",
+      "massPct": 0.02919281857,
+      "function": "dispersant",
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-572",
+            "type": "orange",
+            "name": "Respiratory",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "BASF2",
+          "url": "http://www.plastic-additives.basf.com/ev/internet/plastic-additives/en/function/conversions:/publish/content/plastic-additives/Download_center/Downloads/Building_Construction.pdf",
+          "id": 6238
+        },
+        {
+          "name": "Imperial",
+          "url": "http://www.declareproducts.com/content/air-pure-paints-interior-wall-paints",
+          "id": 7540
+        },
+        {
+          "name": "Tamol 681",
+          "url": "http://www.dow.com/search#q=00137301&t=MSDS&f:@msdslangname=[english]",
+          "id": 7542
+        },
+        {
+          "name": "Rhoplex 200",
+          "url": "http://www.dow.com/assets/attachments/business/pcm/rhoplex_ez_clean/rhoplex_ez_clean_200/tds/rhoplex_ez_clean_200.pdf",
+          "id": 7541
+        },
+        {
+          "name": "Dispersogen",
+          "url": "https://www.clariant.com/en/Solutions/Products/2013/12/09/18/26/Dispersogen-UDN?ref=dropdown",
+          "id": 7554
+        }
+      ],
+      "notes": "This CASRN is for a representative polymer. There will be variation of the exact polymer used between manufacturers.",
+      "lca": "yes",
+      "massPctOfTotal": 0.02919281857
+    },
+    {
+      "recId": 7572,
+      "name": "Polyurethane Based Associative Thickener",
+      "CASRN": "undisclosed",
+      "massPct": 0.004038339902,
+      "function": "thickener",
+      "hazards": {},
+      "sources": [
+        {
+          "name": "Borchi",
+          "url": "http://www.borchers.com/fileadmin/datasheets/en/borchi-gel-0435_en.pdf",
+          "id": 7557
+        },
+        {
+          "name": "Acrysol 2020",
+          "url": "http://doc.ccc-group.com/msds/english/113296.pdf",
+          "id": 7551
+        },
+        {
+          "name": "Rhoplex 200",
+          "url": "http://www.dow.com/assets/attachments/business/pcm/rhoplex_ez_clean/rhoplex_ez_clean_200/tds/rhoplex_ez_clean_200.pdf",
+          "id": 7541
+        }
+      ],
+      "notes": "",
+      "lca": "yes",
+      "massPctOfTotal": 0.004038339902
+    },
+    {
+      "recId": 7570,
+      "name": "Acrylic Resin",
+      "CASRN": "25133-97-5",
+      "massPct": 0.1946187904,
+      "function": "polymer",
+      "hazards": {},
+      "sources": [
+        {
+          "name": "EPA",
+          "url": "http://www.epa.gov/ttnatw01/hlthef/methylme.html",
+          "id": 7550
+        },
+        {
+          "name": "Lucite",
+          "url": "http://lucitepartners.com/external/acryww55.nsf/ByCountryWEB/E94F51515313A6E886257DDB00601EF3/$File/GHS_ELVACITE_ACRYLIC_RESIN_-_POLY(MMA-EA-MAA)_BASED(GHS_-_US)-USA_(ENGLISH).PDF",
+          "id": 7549
+        },
+        {
+          "name": "Mythic MSDS",
+          "url": "https://www.mythicpaint.com/siteAdmin/Upload/MSDS/f53e9b5f-901c-4435-9ea0-6f413c36c127_MP101.pdf",
+          "id": 7514
+        },
+        {
+          "name": "Inspired MSDS",
+          "url": "http://www.colorhousepaint.com/wp-content/uploads/2014/09/Colorhouse-MSDS_v2_Inspired.pdf",
+          "id": 7513
+        },
+        {
+          "name": "AFM zero MSDS",
+          "url": "http://www.safecoatpaint.com/downloads/tludck1416%20Eggshell%200%20VOC%20msds%202008.pdf",
+          "id": 7507
+        },
+        {
+          "name": "Columbia",
+          "url": "https://www.google.com/patents/CA2656899A1?cl=en&dq=acrylic+eggshell+paint+composition&hl=en&sa=X&ei=TFOdVZyzH5a0yASwsLLYBg&ved=0CFwQ6AEwCQ",
+          "id": 7529
+        },
+        {
+          "name": "Essential",
+          "url": "http://www.essentialchemicalindustry.org/materials-and-applications/paints.html",
+          "id": 7524
+        }
+      ],
+      "notes": "This CASRN is for a representative acrylic polymer. There will be variation of the exact acrylic polymer used between manufacturers.",
+      "lca": "yes",
+      "massPctOfTotal": 0.1946187904
+    }
+  ],
+  "impurities": [
+    {
+      "name": "Ethyl Acrylate",
+      "CASRN": "140-88-5",
+      "massPct": null,
+      "function": "acrylic resin residual",
+      "sources": [],
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-577",
+            "type": "orange",
+            "name": "Skin Sensitization"
+          },
+          {
+            "hazardId": "orange-571",
+            "type": "orange",
+            "name": "Mutagenicity"
+          },
+          {
+            "hazardId": "orange-568",
+            "type": "orange",
+            "name": "Developmental"
+          }
+        ],
+        "red": [
+          {
+            "hazardId": "red-567",
+            "type": "red",
+            "name": "Cancer"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Methyl Methacrylate",
+      "CASRN": "80-62-6",
+      "massPct": null,
+      "function": "acrylic resin residual",
+      "sources": [],
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-577",
+            "type": "orange",
+            "name": "Skin Sensitization"
+          },
+          {
+            "hazardId": "orange-574",
+            "type": "orange",
+            "name": "Mammalian"
+          },
+          {
+            "hazardId": "orange-572",
+            "type": "orange",
+            "name": "Respiratory"
+          },
+          {
+            "hazardId": "orange-569",
+            "type": "orange",
+            "name": "Reproductive"
+          },
+          {
+            "hazardId": "orange-568",
+            "type": "orange",
+            "name": "Developmental"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Methacrylic Acid",
+      "CASRN": "79-41-4",
+      "massPct": null,
+      "function": "acrylic resin residual",
+      "sources": [],
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-576",
+            "type": "orange",
+            "name": "Skin Irritation"
+          },
+          {
+            "hazardId": "orange-575",
+            "type": "orange",
+            "name": "Eye Irritation"
+          },
+          {
+            "hazardId": "orange-568",
+            "type": "orange",
+            "name": "Developmental"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Quartz",
+      "CASRN": "14808-60-7",
+      "massPct": 0.0008407531747,
+      "function": "limestone residual",
+      "sources": [],
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-578",
+            "type": "orange",
+            "name": "Organ Toxicant"
+          },
+          {
+            "hazardId": "orange-574",
+            "type": "orange",
+            "name": "Mammalian"
+          }
+        ],
+        "red": [
+          {
+            "hazardId": "red-567",
+            "type": "red",
+            "name": "Cancer"
+          }
+        ]
+      }
+    }
+  ],
+  "health": {
+    "hazards": {
+      "red": [
+        {
+          "hazardId": "red-567",
+          "type": "red",
+          "name": "Cancer",
+          "massPct": 0.01654259719,
+          "contributors": [
+            {
+              "recId": 7574,
+              "massPct": 0.01654259719,
+              "childrenIds": [
+                7574
+              ]
+            }
+          ]
+        },
+        {
+          "hazardId": "red-7911",
+          "type": "red",
+          "name": "Cancer (occupational only)",
+          "massPct": 0.1946187904,
+          "contributors": [
+            {
+              "recId": 2766,
+              "massPct": 0.1946187904,
+              "childrenIds": [
+                2766
+              ]
+            }
+          ]
+        },
+        {
+          "hazardId": "red-569",
+          "type": "red",
+          "name": "Reproductive",
+          "massPct": 0.009730939522,
+          "contributors": [
+            {
+              "recId": 7575,
+              "massPct": 0.009730939522,
+              "childrenIds": [
+                7575
+              ]
+            }
+          ]
+        },
+        {
+          "hazardId": "red-568",
+          "type": "red",
+          "name": "Developmental",
+          "massPct": 0.009730939522,
+          "contributors": [
+            {
+              "recId": 7575,
+              "massPct": 0.009730939522,
+              "childrenIds": [
+                7575
+              ]
+            }
+          ]
+        }
+      ],
+      "orange": [
+        {
+          "hazardId": "orange-576",
+          "type": "orange",
+          "name": "Skin Irritation",
+          "massPct": 0.003989685204000001,
+          "contributors": [
+            {
+              "recId": 7576,
+              "massPct": 0.001070403347,
+              "childrenIds": [
+                7576
+              ]
+            },
+            {
+              "recId": 7577,
+              "massPct": 0.002919281857,
+              "childrenIds": [
+                7577
+              ]
+            }
+          ]
+        },
+        {
+          "hazardId": "orange-574",
+          "type": "orange",
+          "name": "Mammalian",
+          "massPct": 0.198608475604,
+          "contributors": [
+            {
+              "recId": 7576,
+              "massPct": 0.001070403347,
+              "childrenIds": [
+                7576
+              ]
+            },
+            {
+              "recId": 7577,
+              "massPct": 0.002919281857,
+              "childrenIds": [
+                7577
+              ]
+            },
+            {
+              "recId": 2766,
+              "massPct": 0.1946187904,
+              "childrenIds": [
+                2766
+              ]
+            }
+          ]
+        },
+        {
+          "hazardId": "orange-575",
+          "type": "orange",
+          "name": "Eye Irritation",
+          "massPct": 0.001070403347,
+          "contributors": [
+            {
+              "recId": 7576,
+              "massPct": 0.001070403347,
+              "childrenIds": [
+                7576
+              ]
+            }
+          ]
+        },
+        {
+          "hazardId": "orange-577",
+          "type": "orange",
+          "name": "Skin Sensitization",
+          "massPct": 0.002919281857,
+          "contributors": [
+            {
+              "recId": 7577,
+              "massPct": 0.002919281857,
+              "childrenIds": [
+                7577
+              ]
+            }
+          ]
+        },
+        {
+          "hazardId": "orange-570",
+          "type": "orange",
+          "name": "Endocrine",
+          "massPct": 0.009730939522,
+          "contributors": [
+            {
+              "recId": 7575,
+              "massPct": 0.009730939522,
+              "childrenIds": [
+                7575
+              ]
+            }
+          ]
+        },
+        {
+          "hazardId": "orange-572",
+          "type": "orange",
+          "name": "Respiratory",
+          "massPct": 0.02919281857,
+          "contributors": [
+            {
+              "recId": 7573,
+              "massPct": 0.02919281857,
+              "childrenIds": [
+                7573
+              ]
+            }
+          ]
+        }
+      ],
+      "purple": [
+        {
+          "hazardId": "purple-955",
+          "type": "purple",
+          "name": "PBT",
+          "massPct": 0.009730939522,
+          "contributors": [
+            {
+              "recId": 7575,
+              "massPct": 0.009730939522,
+              "childrenIds": [
+                7575
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "environmental": {
+    "systemBoundary": "The system is defined as cradle-to-gate and ends with the finished product at the factory gate. Includes all upstream raw material production, energy extraction, manufacturing, and inbound transportation. Packaging is excluded. ",
+    "gabiDatasets": [
+      {
+        "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+      },
+      {
+        "name": "DE: Thiazole (2-Mercaptobenzothiazol, C7H5NS2)"
+      },
+      {
+        "name": "US: Phenol (from cumene)"
+      },
+      {
+        "name": "US: Nonene"
+      },
+      {
+        "name": "US: Alcohol ethoxylate (ethoxylation, estimation)"
+      },
+      {
+        "name": "US: Naphtha at refinery"
+      },
+      {
+        "name": "DE: Polyacrylate dispersion (solid content)"
+      },
+      {
+        "name": "US: Thermoplastic polyurethane (TPU, TPE-U) adhesive"
+      },
+      {
+        "name": "US: Limestone flour (5mm)"
+      },
+      {
+        "name": "US: Nepheline Production"
+      },
+      {
+        "name": "US: Titanium dioxide pigment"
+      },
+      {
+        "name": "US: Water deionized"
+      },
+      {
+        "name": "US: Thermal energy from natural gas (eGrid)"
+      },
+      {
+        "name": "US: Electricity grid mix"
+      },
+      {
+        "name": "US: Alkyd resin (LM-system) (estimation)"
+      },
+      {
+        "name": "GLO: Hazardous waste (non-specific) (c rich, worst scenario)"
+      },
+      {
+        "name": "US: Diesel mix at refinery"
+      },
+      {
+        "name": "DE: Coating water-based (industry, white)"
+      }
+    ],
+    "foregroundDataSource": "GaBi",
+    "backforegroundDataSource": "GaBi",
+    "postConsumerRecycledContent": "0%",
+    "referenceCountry": "United States",
+    "referenceYear": "2015",
+    "endOfLifeTreatment": "100% to landfill (inert; plastic)",
+    "inUseNotes": "0.08% released as NMVOC (unspecified); 36.3% released as water vapor",
+    "lcaResults": {
+      "cradleToGate": [
+        {
+          "name": "Acidification Potential",
+          "unit": "kg SO2 eq",
+          "value": "1.01E-02"
+        },
+        {
+          "name": "Eutrophication Potential",
+          "unit": "kg N eq",
+          "value": "3.57E-04"
+        },
+        {
+          "name": "Global Warming Potential",
+          "unit": "kg CO2 eq",
+          "value": "1.93E+00"
+        },
+        {
+          "name": "Ozone Depletion Potential",
+          "unit": "kg CFC-11 eq",
+          "value": "2.27E-10"
+        },
+        {
+          "name": "Smog Formation Potential",
+          "unit": "kg O3 eq",
+          "value": "1.12E-01"
+        },
+        {
+          "name": "Primary Energy Demand",
+          "unit": "MJ",
+          "value": "3.78E+01"
+        }
+      ],
+      "inUse": [
+        {
+          "name": "Acidification Potential",
+          "unit": "kg SO2 eq",
+          "value": "0.00E+00"
+        },
+        {
+          "name": "Eutrophication Potential",
+          "unit": "kg N eq",
+          "value": "0.00E+00"
+        },
+        {
+          "name": "Global Warming Potential",
+          "unit": "kg CO2 eq",
+          "value": "0.00E+00"
+        },
+        {
+          "name": "Ozone Depletion Potential",
+          "unit": "kg CFC-11 eq",
+          "value": "0.00E+00"
+        },
+        {
+          "name": "Smog Formation Potential",
+          "unit": "kg O3 eq",
+          "value": "2.22E-03"
+        },
+        {
+          "name": "Primary Energy Demand",
+          "unit": "MJ",
+          "value": "0.00E+00"
+        }
+      ],
+      "endOfLife": [
+        {
+          "name": "Acidification Potential",
+          "unit": "kg SO2 eq",
+          "value": "2.73E-04"
+        },
+        {
+          "name": "Eutrophication Potential",
+          "unit": "kg N eq",
+          "value": "7.08E-05"
+        },
+        {
+          "name": "Global Warming Potential",
+          "unit": "kg CO2 eq",
+          "value": "3.34E-02"
+        },
+        {
+          "name": "Ozone Depletion Potential",
+          "unit": "kg CFC-11 eq",
+          "value": "7.32E-13"
+        },
+        {
+          "name": "Smog Formation Potential",
+          "unit": "kg O3 eq",
+          "value": "3.64E-03"
+        },
+        {
+          "name": "Primary Energy Demand",
+          "unit": "MJ",
+          "value": "5.46E-01"
+        }
+      ]
+    }
+  },
+  "id": "CP081",
+  "name": "Acrylic paint",
+  "altNames": [
+    "Latex Paint",
+    "Acrylic Latex Paint"
+  ],
+  "uniformats": [
+    {
+      "id": "C2050",
+      "name": "Ceiling Finishes"
+    },
+    {
+      "id": "C2010",
+      "name": "Wall Finishes"
+    }
+  ],
+  "masterformats": [
+    {
+      "id": "09-91-23",
+      "name": "Interior Painting"
+    }
+  ],
+  "recordType": "Common",
+  "description": "Acrylic paints can be used for both exterior and interior applications. “Acrylic” is a broad term that describes several polymers, and acrylic paint formulations vary from 100% acrylic, to a mixture of acrylic and PVC or styrene polymers. This CP describes a white, low-VOC acrylic paint, with a medium sheen (approximately Eggshell), that could be used for coating interior or exterior surfaces. The catalog of paint products reviewed for this CP was taken from the South Coast Air Quality Management District, which makes product recommendations with an eye toward preserving outdoor air quality. This CP does not include any tinting compounds that would be added to the paint before its application.",
+  "sources": [
+    {
+      "name": "BASF2",
+      "url": "http://www.plastic-additives.basf.com/ev/internet/plastic-additives/en/function/conversions:/publish/content/plastic-additives/Download_center/Downloads/Building_Construction.pdf",
+      "id": 6238
+    },
+    {
+      "name": "Tamol 1124",
+      "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_08ea/0901b803808eae03.pdf?filepath=coatings/pdfs/noreg/884-00207.pdf&fromPage=GetDoc",
+      "id": 7569
+    },
+    {
+      "name": "BASF 2",
+      "url": "http://www2.basf.us/Acronal/downloads_2/AO130-booklet.pdf",
+      "id": 7568
+    },
+    {
+      "name": "Lamberti",
+      "url": "http://www.google.com/patents/WO2007048766A2?cl=en",
+      "id": 7567
+    },
+    {
+      "name": "Rohm",
+      "url": "http://www.google.com/patents/US4079028",
+      "id": 7566
+    },
+    {
+      "name": "SW Maine",
+      "url": "https://pharosproject.net/uploads/files/sources/1/4d634f574753f97bcf4537038ceee57c592da82c.xls",
+      "id": 7565
+    },
+    {
+      "name": "BM Maine",
+      "url": "https://pharosproject.net/uploads/files/sources/1/55e9e656497abb90f3d4cdd0cd0c4e3634eaf1c5.xls",
+      "id": 7564
+    },
+    {
+      "name": "Martin",
+      "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=MSCONS&prodno=MSP203100&doctype=MSDS&lang=E",
+      "id": 7563
+    },
+    {
+      "name": "Foamaster 2",
+      "url": "http://worldaccount.basf.com/wa/NAFTA/Catalog/FunctionalPolymers/doc4/BASF/PRD/30531091/.pdf?title=&asset_type=msds/pdf&language=EN&validArea=US&urn=urn:documentum:ProductBase_EU:09007af8802679eb.pdf",
+      "id": 7562
+    },
+    {
+      "name": "Dow",
+      "url": "http://www.dow.com/coating/surfactants/pdfs/surfactants_guide_products_performance.pdf",
+      "id": 7561
+    },
+    {
+      "name": "Tergitol",
+      "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_00ae/0901b803800ae9c4.pdf?filepath=surfactants/pdfs/noreg/119-01929.pdf&fromPage=GetDoc",
+      "id": 7560
+    },
+    {
+      "name": "Maine",
+      "url": "http://www.preventharm.org/Images/129/bpanpedatareport.pdf",
+      "id": 7559
+    },
+    {
+      "name": "Borshi 2",
+      "url": "https://wercs.omgi.com//msds/wv2.asp?A=putHTM%00&RID=F_PDF%5C%27EN%27%5C%271020%27%5C%27133445%27%5C%27EU%27%5C%27DCB%27%5C%7Bts+%272014-03-03+08%3A38%3A54%27%7D",
+      "id": 7558
+    },
+    {
+      "name": "Borchi",
+      "url": "http://www.borchers.com/fileadmin/datasheets/en/borchi-gel-0435_en.pdf",
+      "id": 7557
+    },
+    {
+      "name": "Flood",
+      "url": "http://www.flood.com/MSDS/664761.pdf",
+      "id": 7556
+    },
+    {
+      "name": "Keith",
+      "url": "https://www.google.com/patents/US7273842?dq=dispersant+acrylic+paint+low+VOC&hl=en&sa=X&ei=vPWfVc-vCoH2oATPr5moBg&ved=0CB0Q6AEwAA",
+      "id": 7555
+    },
+    {
+      "name": "Dispersogen",
+      "url": "https://www.clariant.com/en/Solutions/Products/2013/12/09/18/26/Dispersogen-UDN?ref=dropdown",
+      "id": 7554
+    },
+    {
+      "name": "Clariant",
+      "url": "http://www.pcimag.com/ext/resources/VirtualBrocAugust2012/Clariant-Additives-1-.pdf?1372100934",
+      "id": 7553
+    },
+    {
+      "name": "Dunn",
+      "url": "https://www.dunnedwards.com/colors/specs/posts/whats-in-your-paint",
+      "id": 7552
+    },
+    {
+      "name": "Acrysol 2020",
+      "url": "http://doc.ccc-group.com/msds/english/113296.pdf",
+      "id": 7551
+    },
+    {
+      "name": "Conversions",
+      "url": "http://www.thecalculatorsite.com/conversions/liquidvolume/liters-to-gallons-(us).php",
+      "id": 7501
+    },
+    {
+      "name": "Conversions 2",
+      "url": "http://www.convertunits.com/from/lb/to/gram",
+      "id": 7502
+    },
+    {
+      "name": "Paint Index",
+      "url": "http://www.paintcenter.org/rj/sep06d.cfm",
+      "id": 7503
+    },
+    {
+      "name": "MPI spec",
+      "url": "http://www.paintinfo.com/mpi/guide/fullspecREV.pdf",
+      "id": 7504
+    },
+    {
+      "name": "Super Compliant",
+      "url": "http://www.aqmd.gov/home/regulations/compliance/architectural-coatings/super-compliant-coatings",
+      "id": 7505
+    },
+    {
+      "name": "AFM zero TDS",
+      "url": "http://www.afmsafecoat.com/downloads/cyxdpy1416%20Eggshell%20Zero%20VOC%20data%2008.pdf",
+      "id": 7506
+    },
+    {
+      "name": "AFM zero MSDS",
+      "url": "http://www.safecoatpaint.com/downloads/tludck1416%20Eggshell%200%20VOC%20msds%202008.pdf",
+      "id": 7507
+    },
+    {
+      "name": "Behr pp MSDS",
+      "url": "http://www.actiocms.com/VIEW_MSDS/AuthorDisplay_V402/msdsdisplaycode_author_new_MASTER.cfm?edit_msds_id=5546&dbname=production&Hide_Section_Numbers=N&formatcode=7&language=1&noprint_label_fax_email=Y",
+      "id": 7508
+    },
+    {
+      "name": "EcoSpec MSDS",
+      "url": "http://www.benjaminmoore.com/en-us/for-painting-contractors/paint-products/eco-spec-wb-interior-latex-paint?lang=en_US&role=C#advs=0&tab=3",
+      "id": 7509
+    },
+    {
+      "name": "Natura TDS",
+      "url": "http://www.benjaminmoore.com/en-us/for-contractors/product-catalog?prod=Natura_Waterborne_Interior_Paint#piSheen=513&tab=3",
+      "id": 7510
+    },
+    {
+      "name": "Natura MSDS",
+      "url": "http://www.benjaminmoore.com/en-us/for-contractors/product-catalog?prod=Natura_Waterborne_Interior_Paint#piSheen=513&tab=3",
+      "id": 7511
+    },
+    {
+      "name": "Inspired TDS",
+      "url": "http://www.colorhousepaint.com/wp-content/uploads/2014/09/Colorhouse-All-Sheen-PDS_v1_Inspired.pdf",
+      "id": 7512
+    },
+    {
+      "name": "Inspired MSDS",
+      "url": "http://www.colorhousepaint.com/wp-content/uploads/2014/09/Colorhouse-MSDS_v2_Inspired.pdf",
+      "id": 7513
+    },
+    {
+      "name": "Mythic MSDS",
+      "url": "https://www.mythicpaint.com/siteAdmin/Upload/MSDS/f53e9b5f-901c-4435-9ea0-6f413c36c127_MP101.pdf",
+      "id": 7514
+    },
+    {
+      "name": "Mythic TDS",
+      "url": "https://www.mythicpaint.com/siteAdmin/Upload/TDS/9e4c6fe5-54be-4248-b753-26f2a12da71d_Classic_INTERIOR_TDS.pdf",
+      "id": 7515
+    },
+    {
+      "name": "Harmony TDS",
+      "url": "http://www.sherwin-williams.com/document/PDS/en/035777142554/",
+      "id": 7516
+    },
+    {
+      "name": "Harmony MSDS",
+      "url": "http://www.sherwin-williams.com/document/MSDS/en/035777142554/",
+      "id": 7517
+    },
+    {
+      "name": "Harmony MSDS 2",
+      "url": "http://www.sherwin-williams.com/document/MSDS/en/035777142547/",
+      "id": 7518
+    },
+    {
+      "name": "Vista MSDS",
+      "url": "https://d1wg3emhath1s.cloudfront.net/uploads/product/product_msds_sheet/21/8300.pdf",
+      "id": 7519
+    },
+    {
+      "name": "Vista TDS",
+      "url": "https://d1wg3emhath1s.cloudfront.net/uploads/product/product_pi_sheet/21/8300.pdf",
+      "id": 7520
+    },
+    {
+      "name": "Vpro MSDS",
+      "url": "https://d1wg3emhath1s.cloudfront.net/uploads/product/product_msds_sheet/95/330.pdf",
+      "id": 7521
+    },
+    {
+      "name": "Vpro TDS",
+      "url": "https://d1wg3emhath1s.cloudfront.net/uploads/product/product_pi_sheet/95/330.pdf",
+      "id": 7522
+    },
+    {
+      "name": "Rule 1113",
+      "url": "http://www.aqmd.gov/docs/default-source/rule-book/reg-xi/r1113.pdf?sfvrsn=15",
+      "id": 7523
+    },
+    {
+      "name": "Essential",
+      "url": "http://www.essentialchemicalindustry.org/materials-and-applications/paints.html",
+      "id": 7524
+    },
+    {
+      "name": "Murphy",
+      "url": "http://www.aptnw.org/powerpoint/Murphy%20-%20Paint%20Basics%20and%20Corrosion%20in%20Metal.ppt",
+      "id": 7525
+    },
+    {
+      "name": "Vanderbuilt",
+      "url": "http://www.vanderbiltminerals.com/ee_content/Documents/Technical/PPT_Mineral_Fillers_Paints_Coatings_Web.pdf",
+      "id": 7526
+    },
+    {
+      "name": "BASF",
+      "url": "https://www.google.com/patents/US5942570?dq=acrylic+paint+composition&hl=en&sa=X&ei=SVKdVaPYL9GdyAT6_72wBg&ved=0CCsQ6AEwAg",
+      "id": 7527
+    },
+    {
+      "name": "3M",
+      "url": "https://www.google.com/patents/US7041727?dq=acrylic+eggshell+paint+composition&hl=en&sa=X&ei=TFOdVZyzH5a0yASwsLLYBg&ved=0CE4Q6AEwBw",
+      "id": 7528
+    },
+    {
+      "name": "Columbia",
+      "url": "https://www.google.com/patents/CA2656899A1?cl=en&dq=acrylic+eggshell+paint+composition&hl=en&sa=X&ei=TFOdVZyzH5a0yASwsLLYBg&ved=0CFwQ6AEwCQ",
+      "id": 7529
+    },
+    {
+      "name": "Angus",
+      "url": "http://www.vimalagencies.net/images/dow-chemical/AMP/AMP%2095/AMP95_TDS.pdf",
+      "id": 7530
+    },
+    {
+      "name": "Monson",
+      "url": "http://monsonco.com/amp-95-voc-exemption-granted-epa/",
+      "id": 7531
+    },
+    {
+      "name": "Biocides",
+      "url": "http://www.bencide.co.kr/data/KATHON%20LX.pdf",
+      "id": 7532
+    },
+    {
+      "name": "BYK tds",
+      "url": "http://www.byk.com/en/additives/additives-by-name/byk-024.php",
+      "id": 7533
+    },
+    {
+      "name": "Wonderwet",
+      "url": "http://www.gellnerindustrial.com/resources/Wonderwet/TDS-WONDERWET-IV.pdf",
+      "id": 7535
+    },
+    {
+      "name": "Wonderwet MSDS",
+      "url": "http://www.gellnerindustrial.com/resources/Wonderwet/SDS-Wonderwet-IV.pdf",
+      "id": 7536
+    },
+    {
+      "name": "Valspar",
+      "url": "https://www.google.com/patents/WO2006102011A1?cl=en&dq=low+voc+acrylic+paint&hl=en&sa=X&ei=h3WdVcuSLcWcyAS8243wBw&sqi=2&pjf=1&ved=0CDsQ6AEwBA",
+      "id": 7537
+    },
+    {
+      "name": "Emerald",
+      "url": "https://www.google.com/patents/US20130274396?dq=low+voc+acrylic+paint&ei=h3WdVcuSLcWcyAS8243wBw&cl=en",
+      "id": 7538
+    },
+    {
+      "name": "Everest HPD",
+      "url": "https://www.pharosproject.net/uploads/files/hpds/501/1403823959.pdf",
+      "id": 7539
+    },
+    {
+      "name": "Imperial",
+      "url": "http://www.declareproducts.com/content/air-pure-paints-interior-wall-paints",
+      "id": 7540
+    },
+    {
+      "name": "Rhoplex 200",
+      "url": "http://www.dow.com/assets/attachments/business/pcm/rhoplex_ez_clean/rhoplex_ez_clean_200/tds/rhoplex_ez_clean_200.pdf",
+      "id": 7541
+    },
+    {
+      "name": "Tamol 681",
+      "url": "http://www.dow.com/search#q=00137301&t=MSDS&f:@msdslangname=[english]",
+      "id": 7542
+    },
+    {
+      "name": "Tamol TDS",
+      "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_08eb/0901b803808eb6c4.pdf?filepath=coatings/pdfs/noreg/884-00212.pdf&fromPage=GetDoc",
+      "id": 7543
+    },
+    {
+      "name": "Carbowet",
+      "url": "http://www.airproducts.com/~/media/downloads/c/carbowet-ga100/data-sheets/en-carbowet-ga-100-datasheet.pdf?tradeName=Carbowet-106&C",
+      "id": 7544
+    },
+    {
+      "name": "Carbowet 211",
+      "url": "https://apdirect.airproducts.com/msds/Default.aspx",
+      "id": 7545
+    },
+    {
+      "name": "Cognis",
+      "url": "http://www.carytrad.com.tw/chemical/download/FOAMASTER_r_SA-3_E.pdf",
+      "id": 7546
+    },
+    {
+      "name": "Foamaster",
+      "url": "http://worldaccount.basf.com/wa/NAFTA/Catalog/FunctionalPolymers/doc4/BASF/PRD/30531091/.pdf?title=&asset_type=msds/pdf&language=EN&validArea=CA&urn=urn:documentum:ProductBase_EU:09007af8802679ea.pdf",
+      "id": 7547
+    },
+    {
+      "name": "Kathon",
+      "url": "http://www.chempoint.com/products/catalog/dow/rohm-and-haas-industrial-microbicides/kathon-lx-1-5-latex-preservative",
+      "id": 7548
+    },
+    {
+      "name": "Lucite",
+      "url": "http://lucitepartners.com/external/acryww55.nsf/ByCountryWEB/E94F51515313A6E886257DDB00601EF3/$File/GHS_ELVACITE_ACRYLIC_RESIN_-_POLY(MMA-EA-MAA)_BASED(GHS_-_US)-USA_(ENGLISH).PDF",
+      "id": 7549
+    },
+    {
+      "name": "EPA",
+      "url": "http://www.epa.gov/ttnatw01/hlthef/methylme.html",
+      "id": 7550
+    }
+  ]
+}

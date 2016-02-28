@@ -1,0 +1,1234 @@
+{
+    "CPID": "CP025",
+    "timestamp": 1452102099657,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 11008,
+            "name": "Wood Adhesive",
+            "CASRN": "",
+            "massPct": 0.071462967,
+            "function": "binder",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": 0.524475524,
+                        "contributors": [
+                            {
+                                "recId": 7230,
+                                "massPct": 0.524475524,
+                                "childrenIds": [
+                                    7230
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.524475524,
+                        "contributors": [
+                            {
+                                "recId": 7230,
+                                "massPct": 0.524475524,
+                                "childrenIds": [
+                                    7230
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.524475524,
+                        "contributors": [
+                            {
+                                "recId": 7230,
+                                "massPct": 0.524475524,
+                                "childrenIds": [
+                                    7230
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.524475524,
+                        "contributors": [
+                            {
+                                "recId": 7230,
+                                "massPct": 0.524475524,
+                                "childrenIds": [
+                                    7230
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": 0.524475524,
+                        "contributors": [
+                            {
+                                "recId": 7230,
+                                "massPct": 0.524475524,
+                                "childrenIds": [
+                                    7230
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 7230,
+                    "name": "Polymethylene Polyphenyl Isocyanate",
+                    "CASRN": "9016-87-9",
+                    "massPct": 0.524475524,
+                    "function": "binder resin",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-567",
+                                "type": "orange",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Weyerhaeuser Edge and Edge Gold MSDS",
+                            "url": "http://www.weyerhaeuser.com/pdfs/msds/203.pdf",
+                            "id": 3957
+                        },
+                        {
+                            "name": "SBA Generic MSDS",
+                            "url": "http://osbguide.tecotested.com/pdfs/en/tb115.pdf",
+                            "id": 3953
+                        },
+                        {
+                            "name": "SBA Binders & Waxes",
+                            "url": "http://osbguide.tecotested.com/pdfs/en/tb114.pdf",
+                            "id": 3952
+                        },
+                        {
+                            "name": "SBA Formaldehyde TB",
+                            "url": "http://osbguide.tecotested.com/pdfs/en/tb102.pdf",
+                            "id": 3951
+                        },
+                        {
+                            "name": "ROM OSB MSDS",
+                            "url": "https://products.royomartin.com/sites/default/files/productdocs/msdsosb.pdf",
+                            "id": 3949
+                        },
+                        {
+                            "name": "LP OSB MSDS",
+                            "url": "http://www.lpcorp.com/media/1304/lp-osb-sheathing-msds-english.pdf",
+                            "id": 3942
+                        },
+                        {
+                            "name": "AdvanTech MSDS",
+                            "url": "http://www.huberwood.com/assets/user/library/AdvanTech_MSDS_2013.pdf",
+                            "id": 3931
+                        },
+                        {
+                            "name": "Norbord MSDS",
+                            "url": "http://www.norbord.com/na/cms/wp-content/uploads/MSDS-OSB-Eng-2013.pdf",
+                            "id": 3935
+                        },
+                        {
+                            "name": "OSB EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1197/15/14680.pdf",
+                            "id": 3937
+                        },
+                        {
+                            "name": "Glunz OSB EPD",
+                            "url": "http://construction-environment.com/download/CY524faa69X13d7d151650XY5be3/EPD_GLU_2010211_E.pdf?ITServ=CY39ad6642X14c3250ae26X813",
+                            "id": 3938
+                        },
+                        {
+                            "name": "Kronoply OSB EPD",
+                            "url": "http://construction-environment.com/download/CY411b0ee5X14236013e47X6be2/EPD_KRO_2009111_E.pdf",
+                            "id": 3939
+                        },
+                        {
+                            "name": "Egger OSB EPD",
+                            "url": "http://construction-environment.com/download/C106821b4X1499f056b92X2e26/EPD_EHW_2012113_EN.pdf",
+                            "id": 3940
+                        },
+                        {
+                            "name": "CORRIM OSB",
+                            "url": "http://www.corrim.org/pubs/reports/2013/phase1_updates/SE%20OSB%20LCA%20May%202013%20final.pdf",
+                            "id": 3941
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.037480577063919704
+                },
+                {
+                    "recId": 3330,
+                    "name": "Phenol Formaldehyde Polymer",
+                    "CASRN": "9003-35-4",
+                    "massPct": 0.475524476,
+                    "function": "binder resin",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Momentive letter",
+                            "url": "https://products.royomartin.com/sites/default/files/productdocs/low-emitting_material_documentation_0.pdf",
+                            "id": 3948
+                        },
+                        {
+                            "name": "Weyerhaeuser Edge and Edge Gold MSDS",
+                            "url": "http://www.weyerhaeuser.com/pdfs/msds/203.pdf",
+                            "id": 3957
+                        },
+                        {
+                            "name": "SBA Generic MSDS",
+                            "url": "http://osbguide.tecotested.com/pdfs/en/tb115.pdf",
+                            "id": 3953
+                        },
+                        {
+                            "name": "SBA Binders & Waxes",
+                            "url": "http://osbguide.tecotested.com/pdfs/en/tb114.pdf",
+                            "id": 3952
+                        },
+                        {
+                            "name": "SBA Formaldehyde TB",
+                            "url": "http://osbguide.tecotested.com/pdfs/en/tb102.pdf",
+                            "id": 3951
+                        },
+                        {
+                            "name": "ROM OSB MSDS",
+                            "url": "https://products.royomartin.com/sites/default/files/productdocs/msdsosb.pdf",
+                            "id": 3949
+                        },
+                        {
+                            "name": "Huber Blue Sheathing",
+                            "url": "http://www.huberwood.com/assets/user/library/HuberBlueSheathingFeaturesBenefits.pdf",
+                            "id": 3947
+                        },
+                        {
+                            "name": "Blue Ribbon OSB Spec",
+                            "url": "http://www.buildgp.com/DocumentViewer.aspx?elementid=3188",
+                            "id": 3946
+                        },
+                        {
+                            "name": "LP OSB MSDS",
+                            "url": "http://www.lpcorp.com/media/1304/lp-osb-sheathing-msds-english.pdf",
+                            "id": 3942
+                        },
+                        {
+                            "name": "AdvanTech MSDS",
+                            "url": "http://www.huberwood.com/assets/user/library/AdvanTech_MSDS_2013.pdf",
+                            "id": 3931
+                        },
+                        {
+                            "name": "Norbord MSDS",
+                            "url": "http://www.norbord.com/na/cms/wp-content/uploads/MSDS-OSB-Eng-2013.pdf",
+                            "id": 3935
+                        },
+                        {
+                            "name": "OSB EPD",
+                            "url": "http://productguide.ulenvironment.com/productDocuments/1197/15/14680.pdf",
+                            "id": 3937
+                        },
+                        {
+                            "name": "CORRIM OSB",
+                            "url": "http://www.corrim.org/pubs/reports/2013/phase1_updates/SE%20OSB%20LCA%20May%202013%20final.pdf",
+                            "id": 3941
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.03398238993608029
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.071462967
+        },
+        {
+            "recId": 3329,
+            "name": "Wood",
+            "CASRN": "unknown",
+            "massPct": 0.913026853,
+            "function": "fibers",
+            "hazards": {
+                "unknown": [
+                    {
+                        "hazardId": "unknown-11424",
+                        "type": "unknown",
+                        "name": "Unknown",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Weyerhaeuser Edge and Edge Gold MSDS",
+                    "url": "http://www.weyerhaeuser.com/pdfs/msds/203.pdf",
+                    "id": 3957
+                },
+                {
+                    "name": "SBA Generic MSDS",
+                    "url": "http://osbguide.tecotested.com/pdfs/en/tb115.pdf",
+                    "id": 3953
+                },
+                {
+                    "name": "ROM OSB MSDS",
+                    "url": "https://products.royomartin.com/sites/default/files/productdocs/msdsosb.pdf",
+                    "id": 3949
+                },
+                {
+                    "name": "GP MSDS",
+                    "url": "http://msds.gp.com/msdsinternet/LatestMSDS.aspx?msdsid=31&LangCode=E",
+                    "id": 3312
+                },
+                {
+                    "name": "AdvanTech MSDS",
+                    "url": "http://www.huberwood.com/assets/user/library/AdvanTech_MSDS_2013.pdf",
+                    "id": 3931
+                },
+                {
+                    "name": "Norbord MSDS",
+                    "url": "http://www.norbord.com/na/cms/wp-content/uploads/MSDS-OSB-Eng-2013.pdf",
+                    "id": 3935
+                },
+                {
+                    "name": "OSB EPD",
+                    "url": "http://productguide.ulenvironment.com/productDocuments/1197/15/14680.pdf",
+                    "id": 3937
+                },
+                {
+                    "name": "Glunz OSB EPD",
+                    "url": "http://construction-environment.com/download/CY524faa69X13d7d151650XY5be3/EPD_GLU_2010211_E.pdf?ITServ=CY39ad6642X14c3250ae26X813",
+                    "id": 3938
+                },
+                {
+                    "name": "Kronoply OSB EPD",
+                    "url": "http://construction-environment.com/download/CY411b0ee5X14236013e47X6be2/EPD_KRO_2009111_E.pdf",
+                    "id": 3939
+                }
+            ],
+            "notes": "OSB may be offered in a variety of wood species. Softwood species such as fir and pine are the most commonly specified species for underlayment and sheathing.",
+            "lca": "",
+            "massPctOfTotal": 0.913026853
+        },
+        {
+            "recId": 2921,
+            "name": "Paraffin Wax",
+            "CASRN": "8002-74-2",
+            "massPct": 0.014992231,
+            "function": "moisture resistance",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "US4897291",
+                    "url": "https://www.google.com/patents/US4897291",
+                    "id": 3980
+                },
+                {
+                    "name": "CA2519489A1",
+                    "url": "https://www.google.com/patents/CA2519489A1",
+                    "id": 3973
+                },
+                {
+                    "name": "CA2314394C",
+                    "url": "https://www.google.com/patents/CA2314394C",
+                    "id": 3960
+                },
+                {
+                    "name": "CA2156989C",
+                    "url": "https://www.google.com/patents/CA2156989C",
+                    "id": 3959
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.014992231
+        },
+        {
+            "recId": 3984,
+            "name": "Edge Sealant",
+            "CASRN": "",
+            "massPct": 0.00051795,
+            "function": "moisture resistant coating",
+            "hazards": {},
+            "components": [
+                {
+                    "recId": 3985,
+                    "name": "2-Propenoic acid, butyl ester, polymer with ethenylbenzene",
+                    "CASRN": "25767-47-9",
+                    "massPct": 0.4824,
+                    "function": "polymer",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "US4897291",
+                            "url": "https://www.google.com/patents/US4897291",
+                            "id": 3980
+                        },
+                        {
+                            "name": "CA2519489A1",
+                            "url": "https://www.google.com/patents/CA2519489A1",
+                            "id": 3973
+                        },
+                        {
+                            "name": "CA2314394C",
+                            "url": "https://www.google.com/patents/CA2314394C",
+                            "id": 3960
+                        },
+                        {
+                            "name": "CA2156989C",
+                            "url": "https://www.google.com/patents/CA2156989C",
+                            "id": 3959
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00024985908
+                },
+                {
+                    "recId": 2921,
+                    "name": "Paraffin Wax",
+                    "CASRN": "8002-74-2",
+                    "massPct": 0.5176,
+                    "function": "hydrophobic filler",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "US4897291",
+                            "url": "https://www.google.com/patents/US4897291",
+                            "id": 3980
+                        },
+                        {
+                            "name": "CA2519489A1",
+                            "url": "https://www.google.com/patents/CA2519489A1",
+                            "id": 3973
+                        },
+                        {
+                            "name": "CA2314394C",
+                            "url": "https://www.google.com/patents/CA2314394C",
+                            "id": 3960
+                        },
+                        {
+                            "name": "CA2156989C",
+                            "url": "https://www.google.com/patents/CA2156989C",
+                            "id": 3959
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00026809091999999997
+                }
+            ],
+            "sources": [
+                {
+                    "name": "LP OSB Spec",
+                    "url": "http://www.lpcorp.com/Resources/Literature/OSB_Sheathing/Specifications/LP_OSB_Sheathing_Specifications/",
+                    "id": 3944
+                },
+                {
+                    "name": "Blue Ribbon OSB Spec",
+                    "url": "http://www.buildgp.com/DocumentViewer.aspx?elementid=3188",
+                    "id": 3946
+                },
+                {
+                    "name": "Weyerhaeuser Sheathing",
+                    "url": "http://www.woodbywy.com/document/osb-4030/",
+                    "id": 3956
+                },
+                {
+                    "name": "APA OSB product guide",
+                    "url": "http://www.apawood.org/SearchResults.aspx?q=W410&tid=1",
+                    "id": 3955
+                },
+                {
+                    "name": "SBA Humidity TB",
+                    "url": "http://osbguide.tecotested.com/pdfs/en/el812.pdf",
+                    "id": 3950
+                },
+                {
+                    "name": "ROM OSB MSDS",
+                    "url": "https://products.royomartin.com/sites/default/files/productdocs/msdsosb.pdf",
+                    "id": 3949
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.00051795
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Formaldehyde",
+            "CASRN": "50-00-0",
+            "massPct": 0.0001,
+            "function": "binder residual",
+            "sources": [
+                {
+                    "name": "Weyerhaeuser Edge and Edge Gold MSDS",
+                    "url": "http://www.weyerhaeuser.com/pdfs/msds/203.pdf",
+                    "id": 3957
+                },
+                {
+                    "name": "SBA Generic MSDS",
+                    "url": "http://osbguide.tecotested.com/pdfs/en/tb115.pdf",
+                    "id": 3953
+                },
+                {
+                    "name": "LP OSB MSDS",
+                    "url": "http://www.lpcorp.com/media/1304/lp-osb-sheathing-msds-english.pdf",
+                    "id": 3942
+                },
+                {
+                    "name": "AdvanTech MSDS",
+                    "url": "http://www.huberwood.com/assets/user/library/AdvanTech_MSDS_2013.pdf",
+                    "id": 3931
+                },
+                {
+                    "name": "Norbord MSDS",
+                    "url": "http://www.norbord.com/na/cms/wp-content/uploads/MSDS-OSB-Eng-2013.pdf",
+                    "id": 3935
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ferric Oxide",
+            "CASRN": "1309-37-1",
+            "massPct": null,
+            "function": "phenol formaldehyde residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Phenol",
+            "CASRN": "108-95-2",
+            "massPct": null,
+            "function": "phenol formaldehyde residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Styrene",
+            "CASRN": "100-42-5",
+            "massPct": null,
+            "function": "2-propenoic acid, butyl ester, polymer with ethenylbenzene residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Butyl Acrylate",
+            "CASRN": "141-32-2",
+            "massPct": null,
+            "function": "2-propenoic acid, butyl ester, polymer with ethenylbenzene residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.037480577063919704,
+                    "contributors": [
+                        {
+                            "recId": 11008,
+                            "massPct": 0.037480577063919704,
+                            "childrenIds": [
+                                11008,
+                                7230
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.037480577063919704,
+                    "contributors": [
+                        {
+                            "recId": 11008,
+                            "massPct": 0.037480577063919704,
+                            "childrenIds": [
+                                11008,
+                                7230
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.037480577063919704,
+                    "contributors": [
+                        {
+                            "recId": 11008,
+                            "massPct": 0.037480577063919704,
+                            "childrenIds": [
+                                11008,
+                                7230
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.037480577063919704,
+                    "contributors": [
+                        {
+                            "recId": 11008,
+                            "massPct": 0.037480577063919704,
+                            "childrenIds": [
+                                11008,
+                                7230
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-567",
+                    "type": "orange",
+                    "name": "Cancer",
+                    "massPct": 0.037480577063919704,
+                    "contributors": [
+                        {
+                            "recId": 11008,
+                            "massPct": 0.037480577063919704,
+                            "childrenIds": [
+                                11008,
+                                7230
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "unknown": [
+                {
+                    "hazardId": "unknown-11424",
+                    "type": "unknown",
+                    "name": "Unknown",
+                    "massPct": 0.913026853,
+                    "contributors": [
+                        {
+                            "recId": 3329,
+                            "massPct": 0.913026853,
+                            "childrenIds": [
+                                3329
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundary includes upstream forest operations, from planting through harvest, and plywood manufacturing, including upstream transportation. Dataset represents US-CA industry average (OSB EPD) and has a phenol formaldehyde resin content of 3.4%, a methylene diphenyl di-isocyanate (MDI) resin content of 0.5%, a slack wax content of 1.6%, and density of 633.84 kg/m3 (oven dry).",
+        "gabiDatasets": [
+            {
+                "name": "RNA: Oriented strandboard (OSB)"
+            }
+        ],
+        "foregroundDataSource": "CORRIM 2011",
+        "backforegroundDataSource": "CORRIM/USLCI",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "17.5% incinerated; 17.5% recycled; 65% to landfill",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "3.94E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.62E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "-1.34E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "6.96E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "5.43E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "2.03E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "3.34E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "3.83E-05"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "6.52E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.55E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "4.62E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "6.93E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP025",
+    "name": "Oriented strand board",
+    "altNames": [
+        "OSB"
+    ],
+    "uniformats": [
+        {
+            "id": "C2030",
+            "name": "Flooring"
+        },
+        {
+            "id": "B1020",
+            "name": "Roof Construction"
+        },
+        {
+            "id": "B1010",
+            "name": "Floor Construction"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "06-16-33",
+            "name": "Wood Board Sheathing"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Oriented Strand Board (OSB) is a structural wood panel product typically used for sheathing (roof, wall and floor), I-joists and rim boards. OSB is manufactured by debarking and cutting wood logs into strands, which are then dried and arranged in layers of alternating orientation. The strands are then glued together with waterproof adhesives, typically a combination of phenol formaldehyde and polymeric methylene diphenyl isocyanate, and cured under heat and pressure. Panels are typically constricted in three layers with the central layer oriented at a 90 degree angle to outer layers. Panels are dried and treated with a sealant along the edges for moisture resistance.",
+    "sources": [
+        {
+            "name": "GP MSDS",
+            "url": "http://msds.gp.com/msdsinternet/LatestMSDS.aspx?msdsid=31&LangCode=E",
+            "id": 3312
+        },
+        {
+            "name": "Dow Corning 772 MSDS",
+            "url": "http://www.dowcorning.com/DataFiles/0902770181dd741a.pdf",
+            "id": 3981
+        },
+        {
+            "name": "AdvanTech MSDS",
+            "url": "http://www.huberwood.com/assets/user/library/AdvanTech_MSDS_2013.pdf",
+            "id": 3931
+        },
+        {
+            "name": "AdvanTech Mill Spec",
+            "url": "http://www.huberwood.com/assets/user/library/AdvanTech_Mill_Specifications.pdf",
+            "id": 3932
+        },
+        {
+            "name": "AvanTech 3-part Spec",
+            "url": "http://www.huberwood.com/assets/user/library/AdvanTech_3-part_Spec_(MasterSpec_2004_formatting)v3-04192013114624.zip",
+            "id": 3933
+        },
+        {
+            "name": "AvanTech Brochure",
+            "url": "http://www.huberwood.com/assets/user/media/AdvanTech_BrandBrochure-2014-02.pdf",
+            "id": 3934
+        },
+        {
+            "name": "Norbord MSDS",
+            "url": "http://www.norbord.com/na/cms/wp-content/uploads/MSDS-OSB-Eng-2013.pdf",
+            "id": 3935
+        },
+        {
+            "name": "Smartply OSB3",
+            "url": "http://www.smartply.com/images/uploads/product_downloads/SmartPly_OSB3_datasheet_v2.pdf",
+            "id": 3936
+        },
+        {
+            "name": "OSB EPD",
+            "url": "http://productguide.ulenvironment.com/productDocuments/1197/15/14680.pdf",
+            "id": 3937
+        },
+        {
+            "name": "Glunz OSB EPD",
+            "url": "http://construction-environment.com/download/CY524faa69X13d7d151650XY5be3/EPD_GLU_2010211_E.pdf?ITServ=CY39ad6642X14c3250ae26X813",
+            "id": 3938
+        },
+        {
+            "name": "Kronoply OSB EPD",
+            "url": "http://construction-environment.com/download/CY411b0ee5X14236013e47X6be2/EPD_KRO_2009111_E.pdf",
+            "id": 3939
+        },
+        {
+            "name": "Egger OSB EPD",
+            "url": "http://construction-environment.com/download/C106821b4X1499f056b92X2e26/EPD_EHW_2012113_EN.pdf",
+            "id": 3940
+        },
+        {
+            "name": "CORRIM OSB",
+            "url": "http://www.corrim.org/pubs/reports/2013/phase1_updates/SE%20OSB%20LCA%20May%202013%20final.pdf",
+            "id": 3941
+        },
+        {
+            "name": "LP OSB MSDS",
+            "url": "http://www.lpcorp.com/media/1304/lp-osb-sheathing-msds-english.pdf",
+            "id": 3942
+        },
+        {
+            "name": "How It's Made",
+            "url": "http://www.lpcorp.com/Resources/Literature/OSB_Sheathing/Brochures_and_Sales_Sheets/OSB__How_It_Is_Made/",
+            "id": 3943
+        },
+        {
+            "name": "LP OSB Spec",
+            "url": "http://www.lpcorp.com/Resources/Literature/OSB_Sheathing/Specifications/LP_OSB_Sheathing_Specifications/",
+            "id": 3944
+        },
+        {
+            "name": "Blue Ribbon OSB Spec",
+            "url": "http://www.buildgp.com/DocumentViewer.aspx?elementid=3188",
+            "id": 3946
+        },
+        {
+            "name": "Huber Blue Sheathing",
+            "url": "http://www.huberwood.com/assets/user/library/HuberBlueSheathingFeaturesBenefits.pdf",
+            "id": 3947
+        },
+        {
+            "name": "Momentive letter",
+            "url": "https://products.royomartin.com/sites/default/files/productdocs/low-emitting_material_documentation_0.pdf",
+            "id": 3948
+        },
+        {
+            "name": "ROM OSB MSDS",
+            "url": "https://products.royomartin.com/sites/default/files/productdocs/msdsosb.pdf",
+            "id": 3949
+        },
+        {
+            "name": "SBA Humidity TB",
+            "url": "http://osbguide.tecotested.com/pdfs/en/el812.pdf",
+            "id": 3950
+        },
+        {
+            "name": "SBA Formaldehyde TB",
+            "url": "http://osbguide.tecotested.com/pdfs/en/tb102.pdf",
+            "id": 3951
+        },
+        {
+            "name": "SBA Binders & Waxes",
+            "url": "http://osbguide.tecotested.com/pdfs/en/tb114.pdf",
+            "id": 3952
+        },
+        {
+            "name": "SBA Generic MSDS",
+            "url": "http://osbguide.tecotested.com/pdfs/en/tb115.pdf",
+            "id": 3953
+        },
+        {
+            "name": "SBA OSB",
+            "url": "http://osbguide.tecotested.com/pdfs/en/tm420.pdf",
+            "id": 3954
+        },
+        {
+            "name": "APA OSB product guide",
+            "url": "http://www.apawood.org/SearchResults.aspx?q=W410&tid=1",
+            "id": 3955
+        },
+        {
+            "name": "Weyerhaeuser Sheathing",
+            "url": "http://www.woodbywy.com/document/osb-4030/",
+            "id": 3956
+        },
+        {
+            "name": "Weyerhaeuser Edge and Edge Gold MSDS",
+            "url": "http://www.weyerhaeuser.com/pdfs/msds/203.pdf",
+            "id": 3957
+        },
+        {
+            "name": "CBS TDS",
+            "url": "http://www.wilvaco.com/SecureFiles/MediaRoom/CBS-general%20product%20TDS.pdf",
+            "id": 3958
+        },
+        {
+            "name": "CA2156989C",
+            "url": "https://www.google.com/patents/CA2156989C",
+            "id": 3959
+        },
+        {
+            "name": "CA2314394C",
+            "url": "https://www.google.com/patents/CA2314394C",
+            "id": 3960
+        },
+        {
+            "name": "CC 25767-47-9",
+            "url": "http://commonchemistry.org/ChemicalDetail.aspx?ref=25767-47-9",
+            "id": 3961
+        },
+        {
+            "name": "Rhoplex CS-4000 MSDS",
+            "url": "http://doc.ccc-group.com/msds/english/774366.pdf",
+            "id": 3962
+        },
+        {
+            "name": "Rhoplex CS-4000 TDS",
+            "url": "http://www.dow.com/assets/attachments/business/consumer_and_industrial_specialties/rhoplex_floor_sealer_polymers/rhoplex_cs-4000/tds/rhoplex_cs-4000.pdf",
+            "id": 3963
+        },
+        {
+            "name": "Surfynol 104PA MSDS",
+            "url": "https://apdirect.airproducts.com/msds/DisplayPDF.aspx?docid=87224",
+            "id": 3964
+        },
+        {
+            "name": "Natrosol MSDS",
+            "url": "http://www.sfm.state.or.us/cr2k_subdb/MSDS/NATROSOL_250_GR.PDF",
+            "id": 3965
+        },
+        {
+            "name": "Yellow 12 pigment",
+            "url": "http://www.dyestuffintermediates.com/pigment-dye/pigment-yellow-12.html",
+            "id": 3966
+        },
+        {
+            "name": "Blue 15 pigment",
+            "url": "http://www.dyestuffintermediates.com/pigment-dye/pigment-blue-15.html",
+            "id": 3967
+        },
+        {
+            "name": "Sunsperse Blue 15 MSDS",
+            "url": "http://www.sfm.state.or.us/CR2K_SubDB/MSDS/SUNSPERSE_COLORANT.PDF",
+            "id": 3968
+        },
+        {
+            "name": "Hydrogenated Tallow Fatty Acid MSDS",
+            "url": "http://www.acme-hardesty.com/wp-content/uploads/2014/03/Hydrogenated-Tallow-Fatty-Acid-MSDS.pdf",
+            "id": 3969
+        },
+        {
+            "name": "Pristerene TDS",
+            "url": "http://www.wavy.nl/02/pristerene.pdf",
+            "id": 3970
+        },
+        {
+            "name": "Blue Edgeseal MSDS",
+            "url": "http://www.walkerind.com/wp-content/uploads/2013/12/Blue-Edgeseal-PF6016.27.pdf",
+            "id": 3971
+        },
+        {
+            "name": "Green Edgeseal MSDS",
+            "url": "http://www.walkerind.com/wp-content/uploads/2013/12/Green-Edgeseal-PF6014.34.pdf",
+            "id": 3972
+        },
+        {
+            "name": "CA2519489A1",
+            "url": "https://www.google.com/patents/CA2519489A1",
+            "id": 3973
+        },
+        {
+            "name": "Carbowax PEG 600 TDS",
+            "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_0887/0901b80380887904.pdf?filepath=polyglycols/pdfs/noreg/118-01800.pdf&fromPage=GetDoc",
+            "id": 3974
+        },
+        {
+            "name": "Carbowax PEG 600 MSDS",
+            "url": "http://www.metlabcorp.com/msds/CUTTINGFLUIDS.pdf",
+            "id": 3975
+        },
+        {
+            "name": "EURENCO",
+            "url": "http://www.vaucluse.gouv.fr/IMG/pdf/EURENCO_Annexe_III_a_APC_2013217-0001_du_05-08-13_liste_produits__cle27fb25.pdf",
+            "id": 3976
+        },
+        {
+            "name": "Acrysol ASE-60 MSDS",
+            "url": "http://talasonline.com/photos/msds/ACRYSOL_ASE-60_MSDS.pdf",
+            "id": 3977
+        },
+        {
+            "name": "CC  25852-37-3",
+            "url": "http://commonchemistry.org/ChemicalDetail.aspx?ref=25852-37-3",
+            "id": 3978
+        },
+        {
+            "name": "Biosperse 295 MSDS",
+            "url": "https://intranet.ssp.ulaval.ca/cgpc/fsss/fichiers/Biosperse%20295.pdf",
+            "id": 3979
+        },
+        {
+            "name": "US4897291",
+            "url": "https://www.google.com/patents/US4897291",
+            "id": 3980
+        }
+    ]
+}

@@ -1,0 +1,1297 @@
+{
+    "CPID": "CP006",
+    "timestamp": 1452102094646,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 5804,
+            "name": "Mica",
+            "CASRN": "12001-26-2",
+            "massPct": 0.04526832801,
+            "function": "filler",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "NG patent",
+                    "url": "https://www.google.com/patents/US6200380",
+                    "id": 5802
+                },
+                {
+                    "name": "National Starch",
+                    "url": "http://www.google.com/patents/US4845152?cl=en",
+                    "id": 5801
+                },
+                {
+                    "name": "Finish Line",
+                    "url": "http://www.finishline-products.com/downloads/MSDS_Finish_Line_Joint_Compounds.pdf",
+                    "id": 5800
+                },
+                {
+                    "name": "Continental",
+                    "url": "http://www.continental-bp.com/uploads/resources/MSDS/CBP_Joint_Compound_Ready_Mixed_MSDS_DEC_2014.pdf",
+                    "id": 5799
+                },
+                {
+                    "name": "GP",
+                    "url": "http://www.technogips.bg/modules/downloadResource.php?resource=897&hash=dd5d343314f774f357ddf92639ea6483",
+                    "id": 5798
+                },
+                {
+                    "name": "Hamilton",
+                    "url": "http://www.hamiltonnw.com/MSDS/HDP%20Ready%20Mix.pdf",
+                    "id": 5797
+                },
+                {
+                    "name": "Lafarge",
+                    "url": "https://www.menards.com/msds/110140_001.pdf",
+                    "id": 5796
+                },
+                {
+                    "name": "Westpac",
+                    "url": "http://www.westpac.bz/MSDS/Westpac%20MSDS%20ReadyMixedJointCompounds.pdf",
+                    "id": 5795
+                },
+                {
+                    "name": "Magnum",
+                    "url": "http://www.magnum-products.com/documents/MSDSJointCompound.pdf",
+                    "id": 5793
+                },
+                {
+                    "name": "DAP",
+                    "url": "http://www.dap.com/docs/msds/00070288001_english.pdf",
+                    "id": 5790
+                },
+                {
+                    "name": "SheetRock",
+                    "url": "http://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-sheetrock-all-purpose-joint-compound-ready-mixed-sds-en-61000010001.pdf",
+                    "id": 5789
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.04526832801
+        },
+        {
+            "recId": 5807,
+            "name": "Triazinetriethanol",
+            "CASRN": "4719-04-4",
+            "massPct": 0.0004753174442,
+            "function": "preservative",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Continental",
+                    "url": "http://www.continental-bp.com/uploads/resources/MSDS/CBP_Joint_Compound_Ready_Mixed_MSDS_DEC_2014.pdf",
+                    "id": 5799
+                },
+                {
+                    "name": "Lafarge",
+                    "url": "https://www.menards.com/msds/110140_001.pdf",
+                    "id": 5796
+                },
+                {
+                    "name": "USG patent",
+                    "url": "https://www.google.com/patents/US8822566",
+                    "id": 5803
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.0004753174442
+        },
+        {
+            "recId": 1203,
+            "name": "Starch",
+            "CASRN": "9005-25-8",
+            "massPct": 0.01810733121,
+            "function": "rheology modifier",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Finish Line",
+                    "url": "http://www.finishline-products.com/downloads/MSDS_Finish_Line_Joint_Compounds.pdf",
+                    "id": 5800
+                },
+                {
+                    "name": "Continental",
+                    "url": "http://www.continental-bp.com/uploads/resources/MSDS/CBP_Joint_Compound_Ready_Mixed_MSDS_DEC_2014.pdf",
+                    "id": 5799
+                },
+                {
+                    "name": "Hamilton",
+                    "url": "http://www.hamiltonnw.com/MSDS/HDP%20Ready%20Mix.pdf",
+                    "id": 5797
+                },
+                {
+                    "name": "Lafarge",
+                    "url": "https://www.menards.com/msds/110140_001.pdf",
+                    "id": 5796
+                },
+                {
+                    "name": "Westpac",
+                    "url": "http://www.westpac.bz/MSDS/Westpac%20MSDS%20ReadyMixedJointCompounds.pdf",
+                    "id": 5795
+                },
+                {
+                    "name": "Ruco",
+                    "url": "http://www.ruco.com/productinfo/MSDSRUCOJointTreatment.pdf",
+                    "id": 5794
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.01810733121
+        },
+        {
+            "recId": 5806,
+            "name": "Polyvinyl Acetate",
+            "CASRN": "9003-20-7",
+            "massPct": 0.02625563025,
+            "function": "binder",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "NG patent",
+                    "url": "https://www.google.com/patents/US6200380",
+                    "id": 5802
+                },
+                {
+                    "name": "USG patent",
+                    "url": "https://www.google.com/patents/US8822566",
+                    "id": 5803
+                },
+                {
+                    "name": "Proform",
+                    "url": "http://nationalgypsum.com/products/..%5CFile%5Cmsds05002.pdf",
+                    "id": 5791
+                },
+                {
+                    "name": "Finish Line",
+                    "url": "http://www.finishline-products.com/downloads/MSDS_Finish_Line_Joint_Compounds.pdf",
+                    "id": 5800
+                },
+                {
+                    "name": "Lafarge",
+                    "url": "https://www.menards.com/msds/110140_001.pdf",
+                    "id": 5796
+                },
+                {
+                    "name": "Ruco",
+                    "url": "http://www.ruco.com/productinfo/MSDSRUCOJointTreatment.pdf",
+                    "id": 5794
+                },
+                {
+                    "name": "Hamilton",
+                    "url": "http://www.hamiltonnw.com/MSDS/HDP%20Ready%20Mix.pdf",
+                    "id": 5797
+                },
+                {
+                    "name": "Westpac",
+                    "url": "http://www.westpac.bz/MSDS/Westpac%20MSDS%20ReadyMixedJointCompounds.pdf",
+                    "id": 5795
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.02625563025
+        },
+        {
+            "recId": 1703,
+            "name": "Attapulgite",
+            "CASRN": "12174-11-7",
+            "massPct": 0.02716099681,
+            "function": "non-leveling agent",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "NG patent",
+                    "url": "https://www.google.com/patents/US6200380",
+                    "id": 5802
+                },
+                {
+                    "name": "National Starch",
+                    "url": "http://www.google.com/patents/US4845152?cl=en",
+                    "id": 5801
+                },
+                {
+                    "name": "USG patent",
+                    "url": "https://www.google.com/patents/US8822566",
+                    "id": 5803
+                },
+                {
+                    "name": "Finish Line",
+                    "url": "http://www.finishline-products.com/downloads/MSDS_Finish_Line_Joint_Compounds.pdf",
+                    "id": 5800
+                },
+                {
+                    "name": "Continental",
+                    "url": "http://www.continental-bp.com/uploads/resources/MSDS/CBP_Joint_Compound_Ready_Mixed_MSDS_DEC_2014.pdf",
+                    "id": 5799
+                },
+                {
+                    "name": "GP",
+                    "url": "http://www.technogips.bg/modules/downloadResource.php?resource=897&hash=dd5d343314f774f357ddf92639ea6483",
+                    "id": 5798
+                },
+                {
+                    "name": "Hamilton",
+                    "url": "http://www.hamiltonnw.com/MSDS/HDP%20Ready%20Mix.pdf",
+                    "id": 5797
+                },
+                {
+                    "name": "Lafarge",
+                    "url": "https://www.menards.com/msds/110140_001.pdf",
+                    "id": 5796
+                },
+                {
+                    "name": "Westpac",
+                    "url": "http://www.westpac.bz/MSDS/Westpac%20MSDS%20ReadyMixedJointCompounds.pdf",
+                    "id": 5795
+                },
+                {
+                    "name": "Ruco",
+                    "url": "http://www.ruco.com/productinfo/MSDSRUCOJointTreatment.pdf",
+                    "id": 5794
+                },
+                {
+                    "name": "Magnum",
+                    "url": "http://www.magnum-products.com/documents/MSDSJointCompound.pdf",
+                    "id": 5793
+                },
+                {
+                    "name": "Certainteed",
+                    "url": "http://www.certainteed.com/resources/CTG_CT1-01_Ready-Mix_MSDS_Eng.pdf",
+                    "id": 5792
+                },
+                {
+                    "name": "Proform",
+                    "url": "http://nationalgypsum.com/products/..%5CFile%5Cmsds05002.pdf",
+                    "id": 5791
+                },
+                {
+                    "name": "DAP",
+                    "url": "http://www.dap.com/docs/msds/00070288001_english.pdf",
+                    "id": 5790
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.02716099681
+        },
+        {
+            "recId": 3759,
+            "name": "Limestone",
+            "CASRN": "1317-65-3",
+            "massPct": 0.5523,
+            "function": "filler",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "NG patent",
+                    "url": "https://www.google.com/patents/US6200380",
+                    "id": 5802
+                },
+                {
+                    "name": "National Starch",
+                    "url": "http://www.google.com/patents/US4845152?cl=en",
+                    "id": 5801
+                },
+                {
+                    "name": "USG patent",
+                    "url": "https://www.google.com/patents/US8822566",
+                    "id": 5803
+                },
+                {
+                    "name": "Finish Line",
+                    "url": "http://www.finishline-products.com/downloads/MSDS_Finish_Line_Joint_Compounds.pdf",
+                    "id": 5800
+                },
+                {
+                    "name": "Continental",
+                    "url": "http://www.continental-bp.com/uploads/resources/MSDS/CBP_Joint_Compound_Ready_Mixed_MSDS_DEC_2014.pdf",
+                    "id": 5799
+                },
+                {
+                    "name": "GP",
+                    "url": "http://www.technogips.bg/modules/downloadResource.php?resource=897&hash=dd5d343314f774f357ddf92639ea6483",
+                    "id": 5798
+                },
+                {
+                    "name": "Hamilton",
+                    "url": "http://www.hamiltonnw.com/MSDS/HDP%20Ready%20Mix.pdf",
+                    "id": 5797
+                },
+                {
+                    "name": "Lafarge",
+                    "url": "https://www.menards.com/msds/110140_001.pdf",
+                    "id": 5796
+                },
+                {
+                    "name": "Westpac",
+                    "url": "http://www.westpac.bz/MSDS/Westpac%20MSDS%20ReadyMixedJointCompounds.pdf",
+                    "id": 5795
+                },
+                {
+                    "name": "Ruco",
+                    "url": "http://www.ruco.com/productinfo/MSDSRUCOJointTreatment.pdf",
+                    "id": 5794
+                },
+                {
+                    "name": "Magnum",
+                    "url": "http://www.magnum-products.com/documents/MSDSJointCompound.pdf",
+                    "id": 5793
+                },
+                {
+                    "name": "Certainteed",
+                    "url": "http://www.certainteed.com/resources/CTG_CT1-01_Ready-Mix_MSDS_Eng.pdf",
+                    "id": 5792
+                },
+                {
+                    "name": "DAP",
+                    "url": "http://www.dap.com/docs/msds/00070288001_english.pdf",
+                    "id": 5790
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.5523
+        },
+        {
+            "recId": 5695,
+            "name": "Ethylene Glycol",
+            "CASRN": "107-21-1",
+            "massPct": 0.003621466241,
+            "function": "humectant/anti-freeze",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "NG patent",
+                    "url": "https://www.google.com/patents/US6200380",
+                    "id": 5802
+                },
+                {
+                    "name": "Certainteed",
+                    "url": "http://www.certainteed.com/resources/CTG_CT1-01_Ready-Mix_MSDS_Eng.pdf",
+                    "id": 5792
+                },
+                {
+                    "name": "DAP",
+                    "url": "http://www.dap.com/docs/msds/00070288001_english.pdf",
+                    "id": 5790
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.003621466241
+        },
+        {
+            "recId": 1106,
+            "name": "Water",
+            "CASRN": "7732-18-5",
+            "massPct": 0.3,
+            "function": "solvent",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "NG patent",
+                    "url": "https://www.google.com/patents/US6200380",
+                    "id": 5802
+                },
+                {
+                    "name": "National Starch",
+                    "url": "http://www.google.com/patents/US4845152?cl=en",
+                    "id": 5801
+                },
+                {
+                    "name": "USG patent",
+                    "url": "https://www.google.com/patents/US8822566",
+                    "id": 5803
+                },
+                {
+                    "name": "DAP",
+                    "url": "http://www.dap.com/docs/msds/00070288001_english.pdf",
+                    "id": 5790
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.3
+        },
+        {
+            "recId": 1535,
+            "name": "Talc",
+            "CASRN": "14807-96-6",
+            "massPct": 0.03621466241,
+            "function": "filler",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "NG patent",
+                    "url": "https://www.google.com/patents/US6200380",
+                    "id": 5802
+                },
+                {
+                    "name": "Finish Line",
+                    "url": "http://www.finishline-products.com/downloads/MSDS_Finish_Line_Joint_Compounds.pdf",
+                    "id": 5800
+                },
+                {
+                    "name": "Continental",
+                    "url": "http://www.continental-bp.com/uploads/resources/MSDS/CBP_Joint_Compound_Ready_Mixed_MSDS_DEC_2014.pdf",
+                    "id": 5799
+                },
+                {
+                    "name": "GP",
+                    "url": "http://www.technogips.bg/modules/downloadResource.php?resource=897&hash=dd5d343314f774f357ddf92639ea6483",
+                    "id": 5798
+                },
+                {
+                    "name": "Hamilton",
+                    "url": "http://www.hamiltonnw.com/MSDS/HDP%20Ready%20Mix.pdf",
+                    "id": 5797
+                },
+                {
+                    "name": "Lafarge",
+                    "url": "https://www.menards.com/msds/110140_001.pdf",
+                    "id": 5796
+                },
+                {
+                    "name": "Westpac",
+                    "url": "http://www.westpac.bz/MSDS/Westpac%20MSDS%20ReadyMixedJointCompounds.pdf",
+                    "id": 5795
+                },
+                {
+                    "name": "Certainteed",
+                    "url": "http://www.certainteed.com/resources/CTG_CT1-01_Ready-Mix_MSDS_Eng.pdf",
+                    "id": 5792
+                },
+                {
+                    "name": "SheetRock",
+                    "url": "http://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-sheetrock-all-purpose-joint-compound-ready-mixed-sds-en-61000010001.pdf",
+                    "id": 5789
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.03621466241
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Vinyl Acetate",
+            "CASRN": "108-05-4",
+            "massPct": 0.000905,
+            "function": "pva residual",
+            "sources": [
+                {
+                    "name": "Continental",
+                    "url": "http://www.continental-bp.com/uploads/resources/MSDS/CBP_Joint_Compound_Ready_Mixed_MSDS_DEC_2014.pdf",
+                    "id": 5799
+                },
+                {
+                    "name": "Hamilton",
+                    "url": "http://www.hamiltonnw.com/MSDS/HDP%20Ready%20Mix.pdf",
+                    "id": 5797
+                },
+                {
+                    "name": "Westpac",
+                    "url": "http://www.westpac.bz/MSDS/Westpac%20MSDS%20ReadyMixedJointCompounds.pdf",
+                    "id": 5795
+                },
+                {
+                    "name": "Magnum",
+                    "url": "http://www.magnum-products.com/documents/MSDSJointCompound.pdf",
+                    "id": 5793
+                },
+                {
+                    "name": "SheetRock",
+                    "url": "http://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-sheetrock-all-purpose-joint-compound-ready-mixed-sds-en-61000010001.pdf",
+                    "id": 5789
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ethylene",
+            "CASRN": "74-85-1",
+            "massPct": null,
+            "function": "pva residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Sodium Hydroxide",
+            "CASRN": "1310-73-2",
+            "massPct": null,
+            "function": "pva residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Potassium Hydroxide",
+            "CASRN": "1310-58-3",
+            "massPct": null,
+            "function": "pva residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Quartz",
+            "CASRN": "14808-60-7",
+            "massPct": 0.009054,
+            "function": "limestone, attapulgite clay, and talc residual",
+            "sources": [
+                {
+                    "name": "Finish Line",
+                    "url": "http://www.finishline-products.com/downloads/MSDS_Finish_Line_Joint_Compounds.pdf",
+                    "id": 5800
+                },
+                {
+                    "name": "Continental",
+                    "url": "http://www.continental-bp.com/uploads/resources/MSDS/CBP_Joint_Compound_Ready_Mixed_MSDS_DEC_2014.pdf",
+                    "id": 5799
+                },
+                {
+                    "name": "GP",
+                    "url": "http://www.technogips.bg/modules/downloadResource.php?resource=897&hash=dd5d343314f774f357ddf92639ea6483",
+                    "id": 5798
+                },
+                {
+                    "name": "Hamilton",
+                    "url": "http://www.hamiltonnw.com/MSDS/HDP%20Ready%20Mix.pdf",
+                    "id": 5797
+                },
+                {
+                    "name": "Lafarge",
+                    "url": "https://www.menards.com/msds/110140_001.pdf",
+                    "id": 5796
+                },
+                {
+                    "name": "Westpac",
+                    "url": "http://www.westpac.bz/MSDS/Westpac%20MSDS%20ReadyMixedJointCompounds.pdf",
+                    "id": 5795
+                },
+                {
+                    "name": "Ruco",
+                    "url": "http://www.ruco.com/productinfo/MSDSRUCOJointTreatment.pdf",
+                    "id": 5794
+                },
+                {
+                    "name": "Magnum",
+                    "url": "http://www.magnum-products.com/documents/MSDSJointCompound.pdf",
+                    "id": 5793
+                },
+                {
+                    "name": "Certainteed",
+                    "url": "http://www.certainteed.com/resources/CTG_CT1-01_Ready-Mix_MSDS_Eng.pdf",
+                    "id": 5792
+                },
+                {
+                    "name": "Proform",
+                    "url": "http://nationalgypsum.com/products/..%5CFile%5Cmsds05002.pdf",
+                    "id": 5791
+                },
+                {
+                    "name": "DAP",
+                    "url": "http://www.dap.com/docs/msds/00070288001_english.pdf",
+                    "id": 5790
+                },
+                {
+                    "name": "SheetRock",
+                    "url": "http://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-sheetrock-all-purpose-joint-compound-ready-mixed-sds-en-61000010001.pdf",
+                    "id": 5789
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "1,1-Dimethylethyl hydroperoxide",
+            "CASRN": "75-91-2",
+            "massPct": null,
+            "function": "pva residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Hydrogen Peroxide",
+            "CASRN": "7722-84-1",
+            "massPct": null,
+            "function": "pva residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Sodium Persulfate",
+            "CASRN": "7775-27-1",
+            "massPct": null,
+            "function": "pva residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-575",
+                    "type": "orange",
+                    "name": "Eye Irritation",
+                    "massPct": 0.0276363142542,
+                    "contributors": [
+                        {
+                            "recId": 5807,
+                            "massPct": 0.0004753174442,
+                            "childrenIds": [
+                                5807
+                            ]
+                        },
+                        {
+                            "recId": 1703,
+                            "massPct": 0.02716099681,
+                            "childrenIds": [
+                                1703
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-577",
+                    "type": "orange",
+                    "name": "Skin Sensitization",
+                    "massPct": 0.0004753174442,
+                    "contributors": [
+                        {
+                            "recId": 5807,
+                            "massPct": 0.0004753174442,
+                            "childrenIds": [
+                                5807
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.02716099681,
+                    "contributors": [
+                        {
+                            "recId": 1703,
+                            "massPct": 0.02716099681,
+                            "childrenIds": [
+                                1703
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.003621466241,
+                    "contributors": [
+                        {
+                            "recId": 5695,
+                            "massPct": 0.003621466241,
+                            "childrenIds": [
+                                5695
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.003621466241,
+                    "contributors": [
+                        {
+                            "recId": 5695,
+                            "massPct": 0.003621466241,
+                            "childrenIds": [
+                                5695
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-567",
+                    "type": "orange",
+                    "name": "Cancer",
+                    "massPct": 0.03621466241,
+                    "contributors": [
+                        {
+                            "recId": 1535,
+                            "massPct": 0.03621466241,
+                            "childrenIds": [
+                                1535
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-567",
+                    "type": "red",
+                    "name": "Cancer",
+                    "massPct": 0.02716099681,
+                    "contributors": [
+                        {
+                            "recId": 1703,
+                            "massPct": 0.02716099681,
+                            "childrenIds": [
+                                1703
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-568",
+                    "type": "red",
+                    "name": "Developmental",
+                    "massPct": 0.003621466241,
+                    "contributors": [
+                        {
+                            "recId": 5695,
+                            "massPct": 0.003621466241,
+                            "childrenIds": [
+                                5695
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundary is defined as cradle-to-gate and ends with the finished product at the factory gate. The dry raw materials are pre-mixed in a dry blender. The premix is fed via weigh hopper and screw conveyor into wet blenders, either a paddle- or continuous-ribbon-type. Liquid ingredients are distributed through a piping system. Following blending, finished drywall joint compound is transferred into holding tanks by gravity or using pumps de-aerated under vacuum. Upstream data includes chemicals production, mineral extraction, and energy production. Inbound transportation of upstream materials is included.",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Tap water from groundwater"
+            },
+            {
+                "name": "US: Triethanolamine (TEA)"
+            },
+            {
+                "name": "US: Starch (from winter wheat)"
+            },
+            {
+                "name": "DE: Polyvinyl acetate (PVAC) (estimation)"
+            },
+            {
+                "name": "US: Aluminium silicate (zeolite type A)"
+            },
+            {
+                "name": "DE: Potassium silicate (K2O4SiO2) piece glass"
+            },
+            {
+                "name": "EU-27: Talcum powder (filler)"
+            },
+            {
+                "name": "US: Limestone flour (5mm)"
+            },
+            {
+                "name": "US: Natural gas mix"
+            },
+            {
+                "name": "US: Crude oil mix"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            }
+        ],
+        "foregroundDataSource": "Athena (1997)",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0% post-consumer recycled content. ",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "30% water vapour; 70% landfilled (65.6% inert material, 2.63% plastic waste, 1.81% biodegradable material)",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "9.82E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "4.88E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "2.60E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "3.81E-11"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.79E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "5.61E+00"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "2.38E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "4.81E-05"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.55E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "8.00E-13"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "3.59E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "5.93E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP006",
+    "name": "Drywall Joint Compound",
+    "altNames": [
+        "Joint compound",
+        "mud",
+        "joint cement",
+        "finishing compound"
+    ],
+    "uniformats": [
+        {
+            "id": "C2050",
+            "name": "Ceiling Finishes"
+        },
+        {
+            "id": "C1070",
+            "name": "Suspended Ceiling Construction"
+        },
+        {
+            "id": "C1010",
+            "name": "Interior Partitions"
+        },
+        {
+            "id": "B3080",
+            "name": "Overhead Exterior Enclosures"
+        },
+        {
+            "id": "B2010",
+            "name": "Exterior Walls"
+        },
+        {
+            "id": "B1080",
+            "name": "Stairs"
+        },
+        {
+            "id": "A2010",
+            "name": "Walls for Subgrade Enclosures"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "09-23-00",
+            "name": "Gypsum Plastering"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Drywall joint compound is used, along with drywall joint tape, to fill the seams between drywall panels.  It is also used to cover fastener heads and patch damage to drywall panels in order to create a smooth, uniform surface on walls and ceilings.  There are two types of joint compound: setting type and drying type.  Setting type (hot mud) is supplied as a powder and mixed with water on site.  It is a reactive plaster which limits the application time but decreases the time between coats.  Drying type is most usually supplied in \"Ready-Mix\" form, where it is already combined with water and must only be mixed prior to application.  This ready-mix, drying type of joint compound appears to be the most commonly used so is presented in this CP.  There are also many variations in the ready-mix category: all-purpose standard weight, light-weight, mid-weight, taping compound, topping compound, etc.  This CP is primarily focused on the all-purpose standard compound.  \t\t\t\t",
+    "sources": [
+        {
+            "name": "USG patent",
+            "url": "https://www.google.com/patents/US8822566",
+            "id": 5803
+        },
+        {
+            "name": "NG patent",
+            "url": "https://www.google.com/patents/US6200380",
+            "id": 5802
+        },
+        {
+            "name": "National Starch",
+            "url": "http://www.google.com/patents/US4845152?cl=en",
+            "id": 5801
+        },
+        {
+            "name": "Finish Line",
+            "url": "http://www.finishline-products.com/downloads/MSDS_Finish_Line_Joint_Compounds.pdf",
+            "id": 5800
+        },
+        {
+            "name": "Continental",
+            "url": "http://www.continental-bp.com/uploads/resources/MSDS/CBP_Joint_Compound_Ready_Mixed_MSDS_DEC_2014.pdf",
+            "id": 5799
+        },
+        {
+            "name": "GP",
+            "url": "http://www.technogips.bg/modules/downloadResource.php?resource=897&hash=dd5d343314f774f357ddf92639ea6483",
+            "id": 5798
+        },
+        {
+            "name": "Hamilton",
+            "url": "http://www.hamiltonnw.com/MSDS/HDP%20Ready%20Mix.pdf",
+            "id": 5797
+        },
+        {
+            "name": "Lafarge",
+            "url": "https://www.menards.com/msds/110140_001.pdf",
+            "id": 5796
+        },
+        {
+            "name": "Westpac",
+            "url": "http://www.westpac.bz/MSDS/Westpac%20MSDS%20ReadyMixedJointCompounds.pdf",
+            "id": 5795
+        },
+        {
+            "name": "Ruco",
+            "url": "http://www.ruco.com/productinfo/MSDSRUCOJointTreatment.pdf",
+            "id": 5794
+        },
+        {
+            "name": "Magnum",
+            "url": "http://www.magnum-products.com/documents/MSDSJointCompound.pdf",
+            "id": 5793
+        },
+        {
+            "name": "Certainteed",
+            "url": "http://www.certainteed.com/resources/CTG_CT1-01_Ready-Mix_MSDS_Eng.pdf",
+            "id": 5792
+        },
+        {
+            "name": "Proform",
+            "url": "http://nationalgypsum.com/products/..%5CFile%5Cmsds05002.pdf",
+            "id": 5791
+        },
+        {
+            "name": "DAP",
+            "url": "http://www.dap.com/docs/msds/00070288001_english.pdf",
+            "id": 5790
+        },
+        {
+            "name": "SheetRock",
+            "url": "http://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-sheetrock-all-purpose-joint-compound-ready-mixed-sds-en-61000010001.pdf",
+            "id": 5789
+        }
+    ]
+}

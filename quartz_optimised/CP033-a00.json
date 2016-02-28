@@ -1,0 +1,1036 @@
+{
+    "CPID": "CP033",
+    "timestamp": 1452102104838,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 2766,
+            "name": "Titanium Dioxide",
+            "CASRN": "13463-67-7",
+            "massPct": 0.008116883117,
+            "function": "pigment",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Firecode",
+                    "url": "http://www.buildsite.com/pdf/usg/FIRECODE-Brand-Acrylic-Firestop-Spray-Sealant-Type-SA-MSDSSDS-B7762.pdf",
+                    "id": 4660
+                },
+                {
+                    "name": "Tremstop C",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/905874_805_C.pdf",
+                    "id": 4659
+                },
+                {
+                    "name": "SpecSeal AS",
+                    "url": "http://files.systems.stifirestop.com/5.%20Safety%20Data%20Sheet/1.%20English/SDS_AS200%20Elastomeric%20Spray.pdf",
+                    "id": 4654
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.008116883117
+        },
+        {
+            "recId": 1106,
+            "name": "Water",
+            "CASRN": "7732-18-5",
+            "massPct": 0.3246753247,
+            "function": "solvent",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Metacaulk TDS",
+                    "url": "http://www.rectorseal.com/web-media/data1200.pdf",
+                    "id": 4662
+                },
+                {
+                    "name": "Grabber",
+                    "url": "http://www.grabberman.com/Media/TechnicalData/469.pdf",
+                    "id": 4661
+                },
+                {
+                    "name": "Firecode",
+                    "url": "http://www.buildsite.com/pdf/usg/FIRECODE-Brand-Acrylic-Firestop-Spray-Sealant-Type-SA-MSDSSDS-B7762.pdf",
+                    "id": 4660
+                },
+                {
+                    "name": "Tremstop",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/905874_805_U.pdf",
+                    "id": 4658
+                },
+                {
+                    "name": "FireDam",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM82U5x_14v70k17zHvu9lxtD7SSSSSS--",
+                    "id": 4656
+                },
+                {
+                    "name": "Hilti TDS",
+                    "url": "https://www.us.hilti.com/medias/sys_master/documents/h04/9078319480862/Product_Data_Sheet_for_CFS-SP_WB_Firestop_Joint_Spray_Technical_information_ASSET_DOC_LOC_1540926.pdf",
+                    "id": 4652
+                },
+                {
+                    "name": "SpecSeal TDS",
+                    "url": "http://files.systems.stifirestop.com/4.%20Product%20Data%20Sheets/1.%20English/PDS_AS200%20Elastomeric%20Spray.pdf",
+                    "id": 4655
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.3246753247
+        },
+        {
+            "recId": 4665,
+            "name": "Acrylic Polymer",
+            "CASRN": "52640-81-0",
+            "massPct": 0.3652597403,
+            "function": "binder",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Hilti HPD",
+                    "url": "https://tool.hpdcollaborative.org/uploads/files/hpds/866/2892-20150128171531.pdf",
+                    "id": 4653
+                },
+                {
+                    "name": "FSC3",
+                    "url": "http://www.emersonindustrial.com/en-us/documentcenter/EGSElectricalGroup/products_documents/fitting/haz_loc_fitting/haz_loc_cable_cord_fitting/firestop-coatings-compounds/nelson_firestop_fsc3_nsds_05-2006.pdf",
+                    "id": 4663
+                },
+                {
+                    "name": "Firecode",
+                    "url": "http://www.buildsite.com/pdf/usg/FIRECODE-Brand-Acrylic-Firestop-Spray-Sealant-Type-SA-MSDSSDS-B7762.pdf",
+                    "id": 4660
+                },
+                {
+                    "name": "Tremstop",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/905874_805_U.pdf",
+                    "id": 4658
+                },
+                {
+                    "name": "SpecSeal AS",
+                    "url": "http://files.systems.stifirestop.com/5.%20Safety%20Data%20Sheet/1.%20English/SDS_AS200%20Elastomeric%20Spray.pdf",
+                    "id": 4654
+                }
+            ],
+            "notes": "This CASRN is for a representative acrylic polymer. There will be variation of the exact acrylic polymer used between manufacturers.",
+            "lca": "yes",
+            "massPctOfTotal": 0.3652597403
+        },
+        {
+            "recId": 3334,
+            "name": "Ferric Oxide",
+            "CASRN": "1309-37-1",
+            "massPct": 0.02435064935,
+            "function": "pigment",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Grabber",
+                    "url": "http://www.grabberman.com/Media/TechnicalData/469.pdf",
+                    "id": 4661
+                },
+                {
+                    "name": "Firecode",
+                    "url": "http://www.buildsite.com/pdf/usg/FIRECODE-Brand-Acrylic-Firestop-Spray-Sealant-Type-SA-MSDSSDS-B7762.pdf",
+                    "id": 4660
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.02435064935
+        },
+        {
+            "recId": 3759,
+            "name": "Limestone",
+            "CASRN": "1317-65-3",
+            "massPct": 0.2029220779,
+            "function": "filler",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "FSC3",
+                    "url": "http://www.emersonindustrial.com/en-us/documentcenter/EGSElectricalGroup/products_documents/fitting/haz_loc_fitting/haz_loc_cable_cord_fitting/firestop-coatings-compounds/nelson_firestop_fsc3_nsds_05-2006.pdf",
+                    "id": 4663
+                },
+                {
+                    "name": "Grabber",
+                    "url": "http://www.grabberman.com/Media/TechnicalData/469.pdf",
+                    "id": 4661
+                },
+                {
+                    "name": "FireDam",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM82U5x_14v70k17zHvu9lxtD7SSSSSS--",
+                    "id": 4656
+                },
+                {
+                    "name": "Hilti HPD",
+                    "url": "https://tool.hpdcollaborative.org/uploads/files/hpds/866/2892-20150128171531.pdf",
+                    "id": 4653
+                },
+                {
+                    "name": "SpecSeal AS",
+                    "url": "http://files.systems.stifirestop.com/5.%20Safety%20Data%20Sheet/1.%20English/SDS_AS200%20Elastomeric%20Spray.pdf",
+                    "id": 4654
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.2029220779
+        },
+        {
+            "recId": 4668,
+            "name": "Chlorothalonil",
+            "CASRN": "1897-45-6",
+            "massPct": 0.001623376623,
+            "function": "biocide",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Metacaulk TDS",
+                    "url": "http://www.rectorseal.com/web-media/data1200.pdf",
+                    "id": 4662
+                },
+                {
+                    "name": "FSC3",
+                    "url": "http://www.emersonindustrial.com/en-us/documentcenter/EGSElectricalGroup/products_documents/fitting/haz_loc_fitting/haz_loc_cable_cord_fitting/firestop-coatings-compounds/nelson_firestop_fsc3_nsds_05-2006.pdf",
+                    "id": 4663
+                },
+                {
+                    "name": "Firecode",
+                    "url": "http://www.buildsite.com/pdf/usg/FIRECODE-Brand-Acrylic-Firestop-Spray-Sealant-Type-SA-MSDSSDS-B7762.pdf",
+                    "id": 4660
+                },
+                {
+                    "name": "Tremstop C",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/905874_805_C.pdf",
+                    "id": 4659
+                },
+                {
+                    "name": "Tremstop",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/905874_805_U.pdf",
+                    "id": 4658
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.001623376623
+        },
+        {
+            "recId": 6615,
+            "name": "Alumina Trihydrate",
+            "CASRN": "21645-51-2",
+            "massPct": 0.07305194805,
+            "function": "flame retardant",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "FireDam",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM82U5x_14v70k17zHvu9lxtD7SSSSSS--",
+                    "id": 4656
+                },
+                {
+                    "name": "SpecSeal AS",
+                    "url": "http://files.systems.stifirestop.com/5.%20Safety%20Data%20Sheet/1.%20English/SDS_AS200%20Elastomeric%20Spray.pdf",
+                    "id": 4654
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.07305194805
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Formaldehyde",
+            "CASRN": "50-00-0",
+            "massPct": 0.00066,
+            "function": "polymer residual",
+            "sources": [
+                {
+                    "name": "FSC3",
+                    "url": "http://www.emersonindustrial.com/en-us/documentcenter/EGSElectricalGroup/products_documents/fitting/haz_loc_fitting/haz_loc_cable_cord_fitting/firestop-coatings-compounds/nelson_firestop_fsc3_nsds_05-2006.pdf",
+                    "id": 4663
+                },
+                {
+                    "name": "Firecode",
+                    "url": "http://www.buildsite.com/pdf/usg/FIRECODE-Brand-Acrylic-Firestop-Spray-Sealant-Type-SA-MSDSSDS-B7762.pdf",
+                    "id": 4660
+                },
+                {
+                    "name": "Tremstop",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/905874_805_U.pdf",
+                    "id": 4658
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Acrylic Acid",
+            "CASRN": "79-10-7",
+            "massPct": null,
+            "function": "residual of exemplary acrylic polymer",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Acrylonitrile",
+            "CASRN": "107-13-1",
+            "massPct": 0.0000048,
+            "function": "residual of exemplary acrylic polymer",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Quartz",
+            "CASRN": "14808-60-7",
+            "massPct": 0.00236461039,
+            "function": "calcium carbonate residual",
+            "sources": [
+                {
+                    "name": "Pharos",
+                    "url": "https://www.pharosproject.net/material/show/2008925",
+                    "id": 4664
+                },
+                {
+                    "name": "FSC3",
+                    "url": "http://www.emersonindustrial.com/en-us/documentcenter/EGSElectricalGroup/products_documents/fitting/haz_loc_fitting/haz_loc_cable_cord_fitting/firestop-coatings-compounds/nelson_firestop_fsc3_nsds_05-2006.pdf",
+                    "id": 4663
+                },
+                {
+                    "name": "Firecode",
+                    "url": "http://www.buildsite.com/pdf/usg/FIRECODE-Brand-Acrylic-Firestop-Spray-Sealant-Type-SA-MSDSSDS-B7762.pdf",
+                    "id": 4660
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "2-Ethylhexyl Acrylate",
+            "CASRN": "103-11-7",
+            "massPct": null,
+            "function": "residual of exemplary acrylic polymer",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ethyl Acrylate",
+            "CASRN": "140-88-5",
+            "massPct": 0.0000384,
+            "function": "residual of exemplary acrylic polymer",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "N-(Hydroxymethyl)-2-propenamide",
+            "CASRN": "924-42-5",
+            "massPct": null,
+            "function": "residual of exemplary acrylic polymer",
+            "sources": [],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.03409090909,
+                    "contributors": [
+                        {
+                            "recId": 2766,
+                            "massPct": 0.008116883117,
+                            "childrenIds": [
+                                2766
+                            ]
+                        },
+                        {
+                            "recId": 3334,
+                            "massPct": 0.02435064935,
+                            "childrenIds": [
+                                3334
+                            ]
+                        },
+                        {
+                            "recId": 4668,
+                            "massPct": 0.001623376623,
+                            "childrenIds": [
+                                4668
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-575",
+                    "type": "orange",
+                    "name": "Eye Irritation",
+                    "massPct": 0.025974025973,
+                    "contributors": [
+                        {
+                            "recId": 3334,
+                            "massPct": 0.02435064935,
+                            "childrenIds": [
+                                3334
+                            ]
+                        },
+                        {
+                            "recId": 4668,
+                            "massPct": 0.001623376623,
+                            "childrenIds": [
+                                4668
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-567",
+                    "type": "orange",
+                    "name": "Cancer",
+                    "massPct": 0.02435064935,
+                    "contributors": [
+                        {
+                            "recId": 3334,
+                            "massPct": 0.02435064935,
+                            "childrenIds": [
+                                3334
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-577",
+                    "type": "orange",
+                    "name": "Skin Sensitization",
+                    "massPct": 0.001623376623,
+                    "contributors": [
+                        {
+                            "recId": 4668,
+                            "massPct": 0.001623376623,
+                            "childrenIds": [
+                                4668
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.001623376623,
+                    "contributors": [
+                        {
+                            "recId": 4668,
+                            "massPct": 0.001623376623,
+                            "childrenIds": [
+                                4668
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-569",
+                    "type": "orange",
+                    "name": "Reproductive",
+                    "massPct": 0.001623376623,
+                    "contributors": [
+                        {
+                            "recId": 4668,
+                            "massPct": 0.001623376623,
+                            "childrenIds": [
+                                4668
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.001623376623,
+                    "contributors": [
+                        {
+                            "recId": 4668,
+                            "massPct": 0.001623376623,
+                            "childrenIds": [
+                                4668
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.07305194805,
+                    "contributors": [
+                        {
+                            "recId": 6615,
+                            "massPct": 0.07305194805,
+                            "childrenIds": [
+                                6615
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.008116883117,
+                    "contributors": [
+                        {
+                            "recId": 2766,
+                            "massPct": 0.008116883117,
+                            "childrenIds": [
+                                2766
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-567",
+                    "type": "red",
+                    "name": "Cancer",
+                    "massPct": 0.001623376623,
+                    "contributors": [
+                        {
+                            "recId": 4668,
+                            "massPct": 0.001623376623,
+                            "childrenIds": [
+                                4668
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundary is defined as cradle-to-gate and ends with the finished product at the factory gate. Manfacturing includes the mixing of sealant materials. Upstream data includes chemicals and energy production. Inbound transportation of upstream materials is included. Packaging and application are not included. ",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "DE: Insecticide unspecific (Carbamate 1)"
+            },
+            {
+                "name": "DE: Iron oxide (Fe2O3) from iron ore"
+            },
+            {
+                "name": "US: Titanium dioxide pigment"
+            },
+            {
+                "name": "US: Limestone flour (5mm)"
+            },
+            {
+                "name": "DE: Aluminium hydroxide"
+            },
+            {
+                "name": "US: Water deionized"
+            },
+            {
+                "name": "DE: Polymethylmethacrylate granulate (PMMA) mix"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% to landfill (30% water vapour; 70% plastic landfill)",
+        "inUseNotes": "2.40% released as NMVOC (unspecified); 32.5% released as water vapor",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "8.02E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "3.98E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "2.46E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "2.83E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "9.50E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "5.36E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "6.65E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "0.00E+00"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "4.09E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.35E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "3.61E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "7.95E-13"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "4.34E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "5.90E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP033",
+    "name": "Firestop joint spray",
+    "altNames": [
+        "Sprayable Fire-Rated Mastic",
+        "Elastomeric Firestop Spray",
+        "Acrylic Firestop Spray"
+    ],
+    "uniformats": [
+        {
+            "id": "B3010",
+            "name": "Roofing"
+        },
+        {
+            "id": "B2010",
+            "name": "Exterior Walls"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "07-84-53",
+            "name": "Building Perimeter Firestopping"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Firestop joint spray is used as a fire-rated sealant in wall to wall, floor to wall, floor to floor, head of wall, curtain wall perimeter, and other construction joint applications.  The dried firestop material remains elastomeric to accomodate use in both static and dynamic joints.  Generally, mineral wool is packed into the gaps and the spray coating is applied at 1/8\" wet thickness over the insulation and adjacent substrates.  The most common product type, water-based acrylic, is outlined in this CP.\t\t\t\t",
+    "sources": [
+        {
+            "name": "Pharos",
+            "url": "https://www.pharosproject.net/material/show/2008925",
+            "id": 4664
+        },
+        {
+            "name": "FSC3",
+            "url": "http://www.emersonindustrial.com/en-us/documentcenter/EGSElectricalGroup/products_documents/fitting/haz_loc_fitting/haz_loc_cable_cord_fitting/firestop-coatings-compounds/nelson_firestop_fsc3_nsds_05-2006.pdf",
+            "id": 4663
+        },
+        {
+            "name": "Metacaulk TDS",
+            "url": "http://www.rectorseal.com/web-media/data1200.pdf",
+            "id": 4662
+        },
+        {
+            "name": "Grabber",
+            "url": "http://www.grabberman.com/Media/TechnicalData/469.pdf",
+            "id": 4661
+        },
+        {
+            "name": "Firecode",
+            "url": "http://www.buildsite.com/pdf/usg/FIRECODE-Brand-Acrylic-Firestop-Spray-Sealant-Type-SA-MSDSSDS-B7762.pdf",
+            "id": 4660
+        },
+        {
+            "name": "Tremstop C",
+            "url": "http://www.tremcosealants.com/fileshare/msds/905874_805_C.pdf",
+            "id": 4659
+        },
+        {
+            "name": "Tremstop",
+            "url": "http://www.tremcosealants.com/fileshare/msds/905874_805_U.pdf",
+            "id": 4658
+        },
+        {
+            "name": "FireDam",
+            "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM82U5x_14v70k17zHvu9lxtD7SSSSSS--",
+            "id": 4656
+        },
+        {
+            "name": "SpecSeal TDS",
+            "url": "http://files.systems.stifirestop.com/4.%20Product%20Data%20Sheets/1.%20English/PDS_AS200%20Elastomeric%20Spray.pdf",
+            "id": 4655
+        },
+        {
+            "name": "SpecSeal AS",
+            "url": "http://files.systems.stifirestop.com/5.%20Safety%20Data%20Sheet/1.%20English/SDS_AS200%20Elastomeric%20Spray.pdf",
+            "id": 4654
+        },
+        {
+            "name": "Hilti HPD",
+            "url": "https://tool.hpdcollaborative.org/uploads/files/hpds/866/2892-20150128171531.pdf",
+            "id": 4653
+        },
+        {
+            "name": "Hilti TDS",
+            "url": "https://www.us.hilti.com/medias/sys_master/documents/h04/9078319480862/Product_Data_Sheet_for_CFS-SP_WB_Firestop_Joint_Spray_Technical_information_ASSET_DOC_LOC_1540926.pdf",
+            "id": 4652
+        }
+    ]
+}

@@ -1,0 +1,1366 @@
+{
+    "CPID": "CP174",
+    "timestamp": 1452102161270,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 9819,
+            "name": "Zinc-Aluminum Alloy Coating",
+            "CASRN": "",
+            "massPct": 0.02258,
+            "function": "anti-corrosive coating",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.06187,
+                        "contributors": [
+                            {
+                                "recId": 784,
+                                "massPct": 0.06187,
+                                "childrenIds": [
+                                    784
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.06187,
+                        "contributors": [
+                            {
+                                "recId": 784,
+                                "massPct": 0.06187,
+                                "childrenIds": [
+                                    784
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.06187,
+                        "contributors": [
+                            {
+                                "recId": 784,
+                                "massPct": 0.06187,
+                                "childrenIds": [
+                                    784
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": 0.93803,
+                        "contributors": [
+                            {
+                                "recId": 782,
+                                "massPct": 0.93803,
+                                "childrenIds": [
+                                    782
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 784,
+                    "name": "Aluminum",
+                    "CASRN": "7429-90-5",
+                    "massPct": 0.06187,
+                    "function": "zinc-aluminum alloy coating component",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Nyrstar",
+                            "url": "http://www.nyrstar.com/products/Documents/Galfan.pdf",
+                            "id": 9800
+                        },
+                        {
+                            "name": "Gabion",
+                            "url": "http://www.geofabrics.co.nz/media/2139/gabionmaterial-safety-datasheet.pdf",
+                            "id": 9816
+                        },
+                        {
+                            "name": "McElroy",
+                            "url": "http://www.mcelroymetal.com/elements/files/GalvalumeASTMCoatingWeights.pdf",
+                            "id": 9815
+                        },
+                        {
+                            "name": "E Alloys",
+                            "url": "http://www.eazall.com/Steel-Coating-Alloys",
+                            "id": 9814
+                        }
+                    ],
+                    "notes": "commonly known as Galfan coating",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0013970246
+                },
+                {
+                    "recId": 782,
+                    "name": "Zinc",
+                    "CASRN": "7440-66-6",
+                    "massPct": 0.93803,
+                    "function": "zinc-aluminum alloy coating component",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Crown Gold",
+                            "url": "http://aervoe.com/msds/Cold%20Galvanize%20Coating%20Zinc%20Rich%207007%20-%20US.pdf",
+                            "id": 9809
+                        },
+                        {
+                            "name": "Rustoleum",
+                            "url": "http://www.rustoleum.com/MSDS/ENGLISH/7785830.PDF",
+                            "id": 9808
+                        },
+                        {
+                            "name": "Trugalv",
+                            "url": "http://content.cdn.hubindustrial.com/media/mconnect_uploadfiles/0/6/065-017-015_sds.pdf",
+                            "id": 9807
+                        },
+                        {
+                            "name": "ZRC 221",
+                            "url": "http://www.zrcworldwide.com/images/pdfs/msds/SDS_US_ZRC221_0114.pdf",
+                            "id": 9806
+                        },
+                        {
+                            "name": "Sprayon",
+                            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=SO&doctype=MSDS&prodno=S74101000&lang=2",
+                            "id": 9805
+                        },
+                        {
+                            "name": "Galvax",
+                            "url": "http://www.alvinproducts.com/Portals/0/PropertyAgent/380/Files/69/50103%20msds%202014.pdf",
+                            "id": 9804
+                        }
+                    ],
+                    "notes": "commonly known as Galfan coating",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0211807174
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.02258
+        },
+        {
+            "recId": 9818,
+            "name": "Carbon Steel Wire",
+            "CASRN": "",
+            "massPct": 0.92475,
+            "function": "wire strand",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.00749,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.00749,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.00749,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.00749,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.00989,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.00749,
+                                "childrenIds": [
+                                    760
+                                ]
+                            },
+                            {
+                                "recId": 766,
+                                "massPct": 0.002,
+                                "childrenIds": [
+                                    766
+                                ]
+                            },
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0004,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.00989,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.00749,
+                                "childrenIds": [
+                                    760
+                                ]
+                            },
+                            {
+                                "recId": 766,
+                                "massPct": 0.002,
+                                "childrenIds": [
+                                    766
+                                ]
+                            },
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0004,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": 0.0004,
+                        "contributors": [
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0004,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": 0.00749,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.00749,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity",
+                        "massPct": 0.002,
+                        "contributors": [
+                            {
+                                "recId": 766,
+                                "massPct": 0.002,
+                                "childrenIds": [
+                                    766
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 758,
+                    "name": "Iron",
+                    "CASRN": "7439-89-6",
+                    "massPct": 0.98303,
+                    "function": "steel component",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Bjorhovde",
+                            "url": "https://books.google.com/books?id=16WtZFBXF9YC&pg=PA27&lpg=PA27&dq=chemical+composition+of+structural+steel&source=bl&ots=l9h2tv82VH&sig=OX9xkhKmf-qJuk-eeueW25hv-7s&hl=en&sa=X&ved=0CGcQ6AEwC2oVChMIwemC-vrExwIVx3s-Ch1JhQpm#v=onepage&q=chemical%20composition%20of%20structural%20steel&f=false",
+                            "id": 9813
+                        },
+                        {
+                            "name": "Steel ASTM",
+                            "url": "https://law.resource.org/pub/us/cfr/ibr/003/astm.a36.1977.pdf",
+                            "id": 9812
+                        },
+                        {
+                            "name": "AISI",
+                            "url": "http://www.azom.com/article.aspx?ArticleID=6130#2",
+                            "id": 9811
+                        },
+                        {
+                            "name": "Oneal",
+                            "url": "http://www.onealsteel.com/carbon-and-alloy-steel.html",
+                            "id": 9810
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.9090569924999999
+                },
+                {
+                    "recId": 760,
+                    "name": "Manganese",
+                    "CASRN": "7439-96-5",
+                    "massPct": 0.00749,
+                    "function": "steel component",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Bjorhovde",
+                            "url": "https://books.google.com/books?id=16WtZFBXF9YC&pg=PA27&lpg=PA27&dq=chemical+composition+of+structural+steel&source=bl&ots=l9h2tv82VH&sig=OX9xkhKmf-qJuk-eeueW25hv-7s&hl=en&sa=X&ved=0CGcQ6AEwC2oVChMIwemC-vrExwIVx3s-Ch1JhQpm#v=onepage&q=chemical%20composition%20of%20structural%20steel&f=false",
+                            "id": 9813
+                        },
+                        {
+                            "name": "Steel ASTM",
+                            "url": "https://law.resource.org/pub/us/cfr/ibr/003/astm.a36.1977.pdf",
+                            "id": 9812
+                        },
+                        {
+                            "name": "AISI",
+                            "url": "http://www.azom.com/article.aspx?ArticleID=6130#2",
+                            "id": 9811
+                        },
+                        {
+                            "name": "Oneal",
+                            "url": "http://www.onealsteel.com/carbon-and-alloy-steel.html",
+                            "id": 9810
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0069263775
+                },
+                {
+                    "recId": 836,
+                    "name": "Silicon",
+                    "CASRN": "7440-21-3",
+                    "massPct": 0.00399,
+                    "function": "steel component",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Bjorhovde",
+                            "url": "https://books.google.com/books?id=16WtZFBXF9YC&pg=PA27&lpg=PA27&dq=chemical+composition+of+structural+steel&source=bl&ots=l9h2tv82VH&sig=OX9xkhKmf-qJuk-eeueW25hv-7s&hl=en&sa=X&ved=0CGcQ6AEwC2oVChMIwemC-vrExwIVx3s-Ch1JhQpm#v=onepage&q=chemical%20composition%20of%20structural%20steel&f=false",
+                            "id": 9813
+                        },
+                        {
+                            "name": "Steel ASTM",
+                            "url": "https://law.resource.org/pub/us/cfr/ibr/003/astm.a36.1977.pdf",
+                            "id": 9812
+                        },
+                        {
+                            "name": "Oneal",
+                            "url": "http://www.onealsteel.com/carbon-and-alloy-steel.html",
+                            "id": 9810
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0036897524999999994
+                },
+                {
+                    "recId": 766,
+                    "name": "Copper",
+                    "CASRN": "7440-50-8",
+                    "massPct": 0.002,
+                    "function": "steel component",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-571",
+                                "type": "red",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Bjorhovde",
+                            "url": "https://books.google.com/books?id=16WtZFBXF9YC&pg=PA27&lpg=PA27&dq=chemical+composition+of+structural+steel&source=bl&ots=l9h2tv82VH&sig=OX9xkhKmf-qJuk-eeueW25hv-7s&hl=en&sa=X&ved=0CGcQ6AEwC2oVChMIwemC-vrExwIVx3s-Ch1JhQpm#v=onepage&q=chemical%20composition%20of%20structural%20steel&f=false",
+                            "id": 9813
+                        },
+                        {
+                            "name": "Steel ASTM",
+                            "url": "https://law.resource.org/pub/us/cfr/ibr/003/astm.a36.1977.pdf",
+                            "id": 9812
+                        },
+                        {
+                            "name": "Oneal",
+                            "url": "http://www.onealsteel.com/carbon-and-alloy-steel.html",
+                            "id": 9810
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0018495
+                },
+                {
+                    "recId": 774,
+                    "name": "Sulfur",
+                    "CASRN": "7704-34-9",
+                    "massPct": 0.0005,
+                    "function": "steel component",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Bjorhovde",
+                            "url": "https://books.google.com/books?id=16WtZFBXF9YC&pg=PA27&lpg=PA27&dq=chemical+composition+of+structural+steel&source=bl&ots=l9h2tv82VH&sig=OX9xkhKmf-qJuk-eeueW25hv-7s&hl=en&sa=X&ved=0CGcQ6AEwC2oVChMIwemC-vrExwIVx3s-Ch1JhQpm#v=onepage&q=chemical%20composition%20of%20structural%20steel&f=false",
+                            "id": 9813
+                        },
+                        {
+                            "name": "Steel ASTM",
+                            "url": "https://law.resource.org/pub/us/cfr/ibr/003/astm.a36.1977.pdf",
+                            "id": 9812
+                        },
+                        {
+                            "name": "AISI",
+                            "url": "http://www.azom.com/article.aspx?ArticleID=6130#2",
+                            "id": 9811
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.000462375
+                },
+                {
+                    "recId": 9900,
+                    "name": "Phosphorus",
+                    "CASRN": "7723-14-0",
+                    "massPct": 0.0004,
+                    "function": "steel component",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Bjorhovde",
+                            "url": "https://books.google.com/books?id=16WtZFBXF9YC&pg=PA27&lpg=PA27&dq=chemical+composition+of+structural+steel&source=bl&ots=l9h2tv82VH&sig=OX9xkhKmf-qJuk-eeueW25hv-7s&hl=en&sa=X&ved=0CGcQ6AEwC2oVChMIwemC-vrExwIVx3s-Ch1JhQpm#v=onepage&q=chemical%20composition%20of%20structural%20steel&f=false",
+                            "id": 9813
+                        },
+                        {
+                            "name": "Steel ASTM",
+                            "url": "https://law.resource.org/pub/us/cfr/ibr/003/astm.a36.1977.pdf",
+                            "id": 9812
+                        },
+                        {
+                            "name": "AISI",
+                            "url": "http://www.azom.com/article.aspx?ArticleID=6130#2",
+                            "id": 9811
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0003699
+                },
+                {
+                    "recId": 762,
+                    "name": "Carbon",
+                    "CASRN": "7440-44-0",
+                    "massPct": 0.0026,
+                    "function": "steel component",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Bjorhovde",
+                            "url": "https://books.google.com/books?id=16WtZFBXF9YC&pg=PA27&lpg=PA27&dq=chemical+composition+of+structural+steel&source=bl&ots=l9h2tv82VH&sig=OX9xkhKmf-qJuk-eeueW25hv-7s&hl=en&sa=X&ved=0CGcQ6AEwC2oVChMIwemC-vrExwIVx3s-Ch1JhQpm#v=onepage&q=chemical%20composition%20of%20structural%20steel&f=false",
+                            "id": 9813
+                        },
+                        {
+                            "name": "Steel ASTM",
+                            "url": "https://law.resource.org/pub/us/cfr/ibr/003/astm.a36.1977.pdf",
+                            "id": 9812
+                        },
+                        {
+                            "name": "AISI",
+                            "url": "http://www.azom.com/article.aspx?ArticleID=6130#2",
+                            "id": 9811
+                        },
+                        {
+                            "name": "Oneal",
+                            "url": "http://www.onealsteel.com/carbon-and-alloy-steel.html",
+                            "id": 9810
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00240435
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.92475
+        },
+        {
+            "recId": 9820,
+            "name": "Zinc-Rich Blocking Compound",
+            "CASRN": "",
+            "massPct": 0.05266,
+            "function": "corrosion protection",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": 1,
+                        "contributors": [
+                            {
+                                "recId": 782,
+                                "massPct": 1,
+                                "childrenIds": [
+                                    782
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 782,
+                    "name": "Zinc",
+                    "CASRN": "7440-66-6",
+                    "massPct": 1,
+                    "function": "corrosion inhibitor",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Crown Gold",
+                            "url": "http://aervoe.com/msds/Cold%20Galvanize%20Coating%20Zinc%20Rich%207007%20-%20US.pdf",
+                            "id": 9809
+                        },
+                        {
+                            "name": "Rustoleum",
+                            "url": "http://www.rustoleum.com/MSDS/ENGLISH/7785830.PDF",
+                            "id": 9808
+                        },
+                        {
+                            "name": "Trugalv",
+                            "url": "http://content.cdn.hubindustrial.com/media/mconnect_uploadfiles/0/6/065-017-015_sds.pdf",
+                            "id": 9807
+                        },
+                        {
+                            "name": "ZRC 221",
+                            "url": "http://www.zrcworldwide.com/images/pdfs/msds/SDS_US_ZRC221_0114.pdf",
+                            "id": 9806
+                        },
+                        {
+                            "name": "Sprayon",
+                            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=SO&doctype=MSDS&prodno=S74101000&lang=2",
+                            "id": 9805
+                        },
+                        {
+                            "name": "Galvax",
+                            "url": "http://www.alvinproducts.com/Portals/0/PropertyAgent/380/Files/69/50103%20msds%202014.pdf",
+                            "id": 9804
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.05266
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.05266
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Solvent Naphtha (Petroleum), medium aliphatic",
+            "CASRN": "64742-88-7",
+            "massPct": null,
+            "function": "blocking compound residual",
+            "sources": [
+                {
+                    "name": "Rustoleum",
+                    "url": "http://www.rustoleum.com/MSDS/ENGLISH/7785830.PDF",
+                    "id": 9808
+                },
+                {
+                    "name": "ZRC 221",
+                    "url": "http://www.zrcworldwide.com/images/pdfs/msds/SDS_US_ZRC221_0114.pdf",
+                    "id": 9806
+                },
+                {
+                    "name": "Galvax",
+                    "url": "http://www.alvinproducts.com/Portals/0/PropertyAgent/380/Files/69/50103%20msds%202014.pdf",
+                    "id": 9804
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Light Aliphatic Hydrocarbon Solvent",
+            "CASRN": "64742-89-8",
+            "massPct": null,
+            "function": "blocking compound residual",
+            "sources": [
+                {
+                    "name": "Crown Gold",
+                    "url": "http://aervoe.com/msds/Cold%20Galvanize%20Coating%20Zinc%20Rich%207007%20-%20US.pdf",
+                    "id": 9809
+                },
+                {
+                    "name": "Rustoleum",
+                    "url": "http://www.rustoleum.com/MSDS/ENGLISH/7785830.PDF",
+                    "id": 9808
+                },
+                {
+                    "name": "ZRC 221",
+                    "url": "http://www.zrcworldwide.com/images/pdfs/msds/SDS_US_ZRC221_0114.pdf",
+                    "id": 9806
+                },
+                {
+                    "name": "Galvax",
+                    "url": "http://www.alvinproducts.com/Portals/0/PropertyAgent/380/Files/69/50103%20msds%202014.pdf",
+                    "id": 9804
+                },
+                {
+                    "name": "Trugalv",
+                    "url": "http://content.cdn.hubindustrial.com/media/mconnect_uploadfiles/0/6/065-017-015_sds.pdf",
+                    "id": 9807
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.0105428021,
+                    "contributors": [
+                        {
+                            "recId": 9819,
+                            "massPct": 0.0013970246,
+                            "childrenIds": [
+                                9819,
+                                784
+                            ]
+                        },
+                        {
+                            "recId": 9818,
+                            "massPct": 0.0069263775,
+                            "childrenIds": [
+                                9818,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 9818,
+                            "massPct": 0.0018495,
+                            "childrenIds": [
+                                9818,
+                                766
+                            ]
+                        },
+                        {
+                            "recId": 9818,
+                            "massPct": 0.0003699,
+                            "childrenIds": [
+                                9818,
+                                9900
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.0083234021,
+                    "contributors": [
+                        {
+                            "recId": 9819,
+                            "massPct": 0.0013970246,
+                            "childrenIds": [
+                                9819,
+                                784
+                            ]
+                        },
+                        {
+                            "recId": 9818,
+                            "massPct": 0.0069263775,
+                            "childrenIds": [
+                                9818,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.0083234021,
+                    "contributors": [
+                        {
+                            "recId": 9819,
+                            "massPct": 0.0013970246,
+                            "childrenIds": [
+                                9819,
+                                784
+                            ]
+                        },
+                        {
+                            "recId": 9818,
+                            "massPct": 0.0069263775,
+                            "childrenIds": [
+                                9818,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.0738407174,
+                    "contributors": [
+                        {
+                            "recId": 9819,
+                            "massPct": 0.0211807174,
+                            "childrenIds": [
+                                9819,
+                                782
+                            ]
+                        },
+                        {
+                            "recId": 9820,
+                            "massPct": 0.05266,
+                            "childrenIds": [
+                                9820,
+                                782
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.009145777499999999,
+                    "contributors": [
+                        {
+                            "recId": 9818,
+                            "massPct": 0.0069263775,
+                            "childrenIds": [
+                                9818,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 9818,
+                            "massPct": 0.0018495,
+                            "childrenIds": [
+                                9818,
+                                766
+                            ]
+                        },
+                        {
+                            "recId": 9818,
+                            "massPct": 0.0003699,
+                            "childrenIds": [
+                                9818,
+                                9900
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.0003699,
+                    "contributors": [
+                        {
+                            "recId": 9818,
+                            "massPct": 0.0003699,
+                            "childrenIds": [
+                                9818,
+                                9900
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.0069263775,
+                    "contributors": [
+                        {
+                            "recId": 9818,
+                            "massPct": 0.0069263775,
+                            "childrenIds": [
+                                9818,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-571",
+                    "type": "red",
+                    "name": "Mutagenicity",
+                    "massPct": 0.0018495,
+                    "contributors": [
+                        {
+                            "recId": 9818,
+                            "massPct": 0.0018495,
+                            "childrenIds": [
+                                9818,
+                                766
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "System boundary includes upstream material production, energy generation, and inbound transport. Production includes hot dip galvanization of steel, spray application of zinc-rich blocking compound, and wire twisting. Packaging is excluded.",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "NA: Primary Aluminum Ingot AA/PE"
+            },
+            {
+                "name": "GLO: Zinc mix"
+            },
+            {
+                "name": "GLO: Steel wire rod worldsteel"
+            },
+            {
+                "name": "US: Steel sheet hot dip galvanized (estimation)"
+            },
+            {
+                "name": "US: Heavy fuel oil at refinery (0.3wt.% S)"
+            },
+            {
+                "name": "DE: Application base coat (automobile)"
+            },
+            {
+                "name": "US: Naphtha at refinery"
+            },
+            {
+                "name": "GLO: Zinc powder"
+            },
+            {
+                "name": "US: Landfilling of Municipal Solid Waste"
+            },
+            {
+                "name": "US: Tap water from groundwater"
+            },
+            {
+                "name": "US: Water deionized"
+            },
+            {
+                "name": "US: Thermal energy from natural gas (eGrid)"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "DE: Coagulant mix"
+            },
+            {
+                "name": "GLO: Treated surface"
+            },
+            {
+                "name": "DE: Rinsing-agent (23% solvents)"
+            },
+            {
+                "name": "GLO: Compressed air 7 bar (low power consumption)"
+            }
+        ],
+        "foregroundDataSource": "GaBi;worldsteel",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "24%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "97.5% recycled (product has 24% steel scrap input; the remainder of steel scrap is processed and credited as avoided burden; no credit is given for the recycling of zinc/aluminum coating); 2.5% to landfill (ferro metal).",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "8.17E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "3.71E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "2.65E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.07E-08"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.09E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "3.34E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "-2.37E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "-1.14E-05"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "-1.00E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "3.51E-08"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "-2.16E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "-8.68E+00"
+                }
+            ]
+        }
+    },
+    "id": "CP174",
+    "name": "Structural Steel Cables",
+    "altNames": [
+        "Wire rope",
+        "full locked coil strands",
+        "full locked strands",
+        "structural strand"
+    ],
+    "uniformats": [
+        {
+            "id": "B1020",
+            "name": "Roof Construction"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "05-15-16",
+            "name": "Steel Wire Rope Assemblies"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Structural steel cables can be used for a number of architectural and engineering purposes. They hold up glazed walls and roofs, tensile fabric architecture, suspension bridges, and other architectural features. This survey focused on full-locked structural steel cables; this type of structural steel cable is less flexible than open spiral strand steel cables, but allows for higher loads. The base of full-locked structural steel cables is a round inner core comprising of multiple Galfan-coated carbon steel wires. Outside the inner core Galfan-coated z-profile wires are stranded together to form layers of interlocking wires. As the inner core wires are stranded together during the manufacturing process, a zinc-rich blocking compound or a petrochemical lubricant (and sometimes both) may be used to keep the wires from scraping against each other and as an anti-corrosive agent. For this survey, zinc-rich blocking compounds were found to be more commonly used than petrochemical lubricants. For full-locked cables, \"dry-stranding\" (stranding together the Galfan-coated z-profile wires without lubricant or blocking compound) of the exterior layers was found to be most common.",
+    "sources": [
+        {
+            "name": "Metal Hose",
+            "url": "http://www.china-metalhose.com/pdf3.html",
+            "id": 9817
+        },
+        {
+            "name": "Gabion",
+            "url": "http://www.geofabrics.co.nz/media/2139/gabionmaterial-safety-datasheet.pdf",
+            "id": 9816
+        },
+        {
+            "name": "McElroy",
+            "url": "http://www.mcelroymetal.com/elements/files/GalvalumeASTMCoatingWeights.pdf",
+            "id": 9815
+        },
+        {
+            "name": "E Alloys",
+            "url": "http://www.eazall.com/Steel-Coating-Alloys",
+            "id": 9814
+        },
+        {
+            "name": "Bjorhovde",
+            "url": "https://books.google.com/books?id=16WtZFBXF9YC&pg=PA27&lpg=PA27&dq=chemical+composition+of+structural+steel&source=bl&ots=l9h2tv82VH&sig=OX9xkhKmf-qJuk-eeueW25hv-7s&hl=en&sa=X&ved=0CGcQ6AEwC2oVChMIwemC-vrExwIVx3s-Ch1JhQpm#v=onepage&q=chemical%20composition%20of%20structural%20steel&f=false",
+            "id": 9813
+        },
+        {
+            "name": "Steel ASTM",
+            "url": "https://law.resource.org/pub/us/cfr/ibr/003/astm.a36.1977.pdf",
+            "id": 9812
+        },
+        {
+            "name": "AISI",
+            "url": "http://www.azom.com/article.aspx?ArticleID=6130#2",
+            "id": 9811
+        },
+        {
+            "name": "Oneal",
+            "url": "http://www.onealsteel.com/carbon-and-alloy-steel.html",
+            "id": 9810
+        },
+        {
+            "name": "Crown Gold",
+            "url": "http://aervoe.com/msds/Cold%20Galvanize%20Coating%20Zinc%20Rich%207007%20-%20US.pdf",
+            "id": 9809
+        },
+        {
+            "name": "Rustoleum",
+            "url": "http://www.rustoleum.com/MSDS/ENGLISH/7785830.PDF",
+            "id": 9808
+        },
+        {
+            "name": "Trugalv",
+            "url": "http://content.cdn.hubindustrial.com/media/mconnect_uploadfiles/0/6/065-017-015_sds.pdf",
+            "id": 9807
+        },
+        {
+            "name": "ZRC 221",
+            "url": "http://www.zrcworldwide.com/images/pdfs/msds/SDS_US_ZRC221_0114.pdf",
+            "id": 9806
+        },
+        {
+            "name": "Sprayon",
+            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=SO&doctype=MSDS&prodno=S74101000&lang=2",
+            "id": 9805
+        },
+        {
+            "name": "Galvax",
+            "url": "http://www.alvinproducts.com/Portals/0/PropertyAgent/380/Files/69/50103%20msds%202014.pdf",
+            "id": 9804
+        },
+        {
+            "name": "Halox",
+            "url": "http://www.halox.com/products/files/HALOX%20SZP-391_SDS_US_4.pdf",
+            "id": 9803
+        },
+        {
+            "name": "E Alloys 2",
+            "url": "http://www.mbastuds.com/system/user_files/Documents/MSDS_ZA_Galfan.pdf",
+            "id": 9802
+        },
+        {
+            "name": "Eijnsbergen",
+            "url": "https://books.google.com/books?id=mFwBLCb7LMgC&pg=PA52&lpg=PA52&dq=galfan+density&source=bl&ots=bpjLz1eu0-&sig=aTW-3lbfJyjYIHzY__AkWWD6AJ8&hl=en&sa=X&ved=0CCoQ6AEwAjgKahUKEwjfntb0ycnHAhXGVT4KHcTxDmw#v=onepage&q=galfan%20density&f=false",
+            "id": 9801
+        },
+        {
+            "name": "Nyrstar",
+            "url": "http://www.nyrstar.com/products/Documents/Galfan.pdf",
+            "id": 9800
+        },
+        {
+            "name": "Efunda",
+            "url": "http://www.efunda.com/materials/alloys/alloy_home/steels_properties.cfm",
+            "id": 9799
+        },
+        {
+            "name": "Toolbox",
+            "url": "http://www.engineeringtoolbox.com/metal-alloys-densities-d_50.html",
+            "id": 9798
+        },
+        {
+            "name": "ASTM A855",
+            "url": "http://www.astm.org/DATABASE.CART/HISTORICAL/A855A855M-98.htm",
+            "id": 9797
+        },
+        {
+            "name": "Redaelli",
+            "url": "http://www.redaelli.com/en/products/ropes/full-locked-coil-strands/full-locked-coil-strands/",
+            "id": 9796
+        },
+        {
+            "name": "Fatzer",
+            "url": "http://www.steelwirerope.com/WireRopes/Structural/fully-locked-coil-ropes.html#.Vd4FBNNVhBc",
+            "id": 9795
+        },
+        {
+            "name": "Bethlehem",
+            "url": "http://www.wwwrope.com/WWstrucCAT.pdf",
+            "id": 9794
+        },
+        {
+            "name": "Ronstant",
+            "url": "http://www.ronstantensilearch.com/wp-content/uploads/2015/07/RPA112-Structural-Cable-Catalogue-Ronstan-Tensile-Architecture-V2-280715.pdf",
+            "id": 9793
+        }
+    ]
+}

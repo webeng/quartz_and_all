@@ -1,0 +1,852 @@
+{
+    "CPID": "CP031",
+    "timestamp": 1452102103401,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 6074,
+            "name": "Cork Granules",
+            "CASRN": "unknown",
+            "massPct": 0.7,
+            "function": "resiliency",
+            "hazards": {
+                "unknown": [
+                    {
+                        "hazardId": "unknown-11424",
+                        "type": "unknown",
+                        "name": "Unknown",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "RightPointe",
+                    "url": "http://www.rightpointe.com/MSDS/Expansion_Joints_MSDS/MSDS_CorkStandardExpansionJoint.pdf",
+                    "id": 6071
+                },
+                {
+                    "name": "Gil",
+                    "url": "http://www.mdpi.com/1996-1944/2/3/776/pdf",
+                    "id": 6063
+                },
+                {
+                    "name": "Armstrong Patent",
+                    "url": "https://www.google.com/patents/US2240787?dq=cork+concrete+expansion+joint&hl=en&sa=X&ei=anNLVcDTCMjtsAXh-YCQCQ&ved=0CCsQ6AEwAg",
+                    "id": 6062
+                },
+                {
+                    "name": "Bond Patent",
+                    "url": "https://www.google.com/patents/US1974327?dq=cork+expansion+joint&hl=en&sa=X&ei=gGhLVbKGKse-sAW1wYDYCw&ved=0CCsQ6AEwAg",
+                    "id": 6061
+                },
+                {
+                    "name": "Tamms",
+                    "url": "http://www.dpproducts.com/products/tamms/hnexpjt.pdf",
+                    "id": 6060
+                },
+                {
+                    "name": "SE-2",
+                    "url": "http://www.h-b.com/images/msds/Cork.pdf",
+                    "id": 6059
+                },
+                {
+                    "name": "Meadows",
+                    "url": "http://www.wrmeadows.com/data/Expansion-Joints-BR-18.pdf",
+                    "id": 6057
+                },
+                {
+                    "name": "APS",
+                    "url": "http://www.apscork.com/apscork/standardcork.shtml",
+                    "id": 6056
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.7
+        },
+        {
+            "recId": 6075,
+            "name": "Phenolic Resin",
+            "CASRN": "",
+            "massPct": 0.3,
+            "function": "binder",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": 0.481887,
+                        "contributors": [
+                            {
+                                "recId": 5695,
+                                "massPct": 0.481887,
+                                "childrenIds": [
+                                    5695
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.481887,
+                        "contributors": [
+                            {
+                                "recId": 5695,
+                                "massPct": 0.481887,
+                                "childrenIds": [
+                                    5695
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation",
+                        "massPct": 0.016921,
+                        "contributors": [
+                            {
+                                "recId": 3806,
+                                "massPct": 0.016921,
+                                "childrenIds": [
+                                    3806
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.016921,
+                        "contributors": [
+                            {
+                                "recId": 3806,
+                                "massPct": 0.016921,
+                                "childrenIds": [
+                                    3806
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": 0.016921,
+                        "contributors": [
+                            {
+                                "recId": 3806,
+                                "massPct": 0.016921,
+                                "childrenIds": [
+                                    3806
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental",
+                        "massPct": 0.481887,
+                        "contributors": [
+                            {
+                                "recId": 5695,
+                                "massPct": 0.481887,
+                                "childrenIds": [
+                                    5695
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 2923,
+                    "name": "Calcium Stearate",
+                    "CASRN": "1592-23-0",
+                    "massPct": 0.160271,
+                    "function": "lubricant",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Struktol",
+                            "url": "http://www.struktol.com/pdfs/TD%20Calcium%20Stearate.pdf",
+                            "id": 6070
+                        },
+                        {
+                            "name": "Mais",
+                            "url": "http://www.google.tl/patents/US4184972",
+                            "id": 6069
+                        },
+                        {
+                            "name": "Groten",
+                            "url": "https://www.google.com/patents/US2387256",
+                            "id": 6068
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0480813
+                },
+                {
+                    "recId": 3330,
+                    "name": "Phenol Formaldehyde Polymer",
+                    "CASRN": "9003-35-4",
+                    "massPct": 0.340921,
+                    "function": "polymer",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Characterization",
+                            "url": "http://www.iccm-central.org/Proceedings/ICCM12proceedings/site/papers/pap1285.pdf",
+                            "id": 6065
+                        },
+                        {
+                            "name": "Phenolic Resins",
+                            "url": "http://wpage.unina.it/avitabil/testi/PheForm.pdf",
+                            "id": 6064
+                        },
+                        {
+                            "name": "Armstrong Patent",
+                            "url": "https://www.google.com/patents/US2240787?dq=cork+concrete+expansion+joint&hl=en&sa=X&ei=anNLVcDTCMjtsAXh-YCQCQ&ved=0CCsQ6AEwAg",
+                            "id": 6062
+                        },
+                        {
+                            "name": "Bond Patent",
+                            "url": "https://www.google.com/patents/US1974327?dq=cork+expansion+joint&hl=en&sa=X&ei=gGhLVbKGKse-sAW1wYDYCw&ved=0CCsQ6AEwAg",
+                            "id": 6061
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.10227629999999999
+                },
+                {
+                    "recId": 5695,
+                    "name": "Ethylene Glycol",
+                    "CASRN": "107-21-1",
+                    "massPct": 0.481887,
+                    "function": "plasticizer",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-568",
+                                "type": "red",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Huntsman",
+                            "url": "http://www.huntsman.com/performance_products/Media%20Library/a_MC348531CFA3EA9A2E040EBCD2B6B7B06/Products_MC348531D0B9FA9A2E040EBCD2B6B7B06/Glycols_MC348531D11A3A9A2E040EBCD2B6B7B06/files/eg_upr_1_09.pdf",
+                            "id": 6067
+                        },
+                        {
+                            "name": "Bond Patent",
+                            "url": "https://www.google.com/patents/US1974327?dq=cork+expansion+joint&hl=en&sa=X&ei=gGhLVbKGKse-sAW1wYDYCw&ved=0CCsQ6AEwAg",
+                            "id": 6061
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.1445661
+                },
+                {
+                    "recId": 3806,
+                    "name": "Sodium Hydroxide",
+                    "CASRN": "1310-73-2",
+                    "massPct": 0.016921,
+                    "function": "catalyst",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-576",
+                                "type": "orange",
+                                "name": "Skin Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-575",
+                                "type": "orange",
+                                "name": "Eye Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Applied Polymer Science",
+                            "url": "http://onlinelibrary.wiley.com/doi/10.1002/app.24017/abstract",
+                            "id": 6066
+                        },
+                        {
+                            "name": "Characterization",
+                            "url": "http://www.iccm-central.org/Proceedings/ICCM12proceedings/site/papers/pap1285.pdf",
+                            "id": 6065
+                        },
+                        {
+                            "name": "Armstrong Patent",
+                            "url": "https://www.google.com/patents/US2240787?dq=cork+concrete+expansion+joint&hl=en&sa=X&ei=anNLVcDTCMjtsAXh-YCQCQ&ved=0CCsQ6AEwAg",
+                            "id": 6062
+                        },
+                        {
+                            "name": "Bond Patent",
+                            "url": "https://www.google.com/patents/US1974327?dq=cork+expansion+joint&hl=en&sa=X&ei=gGhLVbKGKse-sAW1wYDYCw&ved=0CCsQ6AEwAg",
+                            "id": 6061
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0050763
+                }
+            ],
+            "sources": [
+                {
+                    "name": "RightPoint 2",
+                    "url": "http://www.rightpointe.com/cork_standard_expansion_joint.html",
+                    "id": 6072
+                },
+                {
+                    "name": "RightPointe",
+                    "url": "http://www.rightpointe.com/MSDS/Expansion_Joints_MSDS/MSDS_CorkStandardExpansionJoint.pdf",
+                    "id": 6071
+                },
+                {
+                    "name": "Armstrong Patent",
+                    "url": "https://www.google.com/patents/US2240787?dq=cork+concrete+expansion+joint&hl=en&sa=X&ei=anNLVcDTCMjtsAXh-YCQCQ&ved=0CCsQ6AEwAg",
+                    "id": 6062
+                },
+                {
+                    "name": "Bond Patent",
+                    "url": "https://www.google.com/patents/US1974327?dq=cork+expansion+joint&hl=en&sa=X&ei=gGhLVbKGKse-sAW1wYDYCw&ved=0CCsQ6AEwAg",
+                    "id": 6061
+                },
+                {
+                    "name": "Tamms",
+                    "url": "http://www.dpproducts.com/products/tamms/hnexpjt.pdf",
+                    "id": 6060
+                },
+                {
+                    "name": "Meadows",
+                    "url": "http://www.wrmeadows.com/data/Expansion-Joints-BR-18.pdf",
+                    "id": 6057
+                },
+                {
+                    "name": "APS",
+                    "url": "http://www.apscork.com/apscork/standardcork.shtml",
+                    "id": 6056
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.3
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Phenol",
+            "CASRN": "108-95-2",
+            "massPct": null,
+            "function": "phenol formaldehyde residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Formaldehyde",
+            "CASRN": "50-00-0",
+            "massPct": null,
+            "function": "phenol formaldehyde residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "unknown": [
+                {
+                    "hazardId": "unknown-11424",
+                    "type": "unknown",
+                    "name": "Unknown",
+                    "massPct": 0.7,
+                    "contributors": [
+                        {
+                            "recId": 6074,
+                            "massPct": 0.7,
+                            "childrenIds": [
+                                6074
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "orange": [
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.1445661,
+                    "contributors": [
+                        {
+                            "recId": 6075,
+                            "massPct": 0.1445661,
+                            "childrenIds": [
+                                6075,
+                                5695
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.1445661,
+                    "contributors": [
+                        {
+                            "recId": 6075,
+                            "massPct": 0.1445661,
+                            "childrenIds": [
+                                6075,
+                                5695
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-576",
+                    "type": "orange",
+                    "name": "Skin Irritation",
+                    "massPct": 0.0050763,
+                    "contributors": [
+                        {
+                            "recId": 6075,
+                            "massPct": 0.0050763,
+                            "childrenIds": [
+                                6075,
+                                3806
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.0050763,
+                    "contributors": [
+                        {
+                            "recId": 6075,
+                            "massPct": 0.0050763,
+                            "childrenIds": [
+                                6075,
+                                3806
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-575",
+                    "type": "orange",
+                    "name": "Eye Irritation",
+                    "massPct": 0.0050763,
+                    "contributors": [
+                        {
+                            "recId": 6075,
+                            "massPct": 0.0050763,
+                            "childrenIds": [
+                                6075,
+                                3806
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-568",
+                    "type": "red",
+                    "name": "Developmental",
+                    "massPct": 0.1445661,
+                    "contributors": [
+                        {
+                            "recId": 6075,
+                            "massPct": 0.1445661,
+                            "childrenIds": [
+                                6075,
+                                5695
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The cradle-to-gate system boundary includes production of cork flour from forest in Portugal, including cleaning, cooking, drying, shredding, and sorting, transport of the cork to the manufacturing facility; upstream production of auxillary inputs, fuel extraction, and manufacturing. ",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "US: Thermal energy from natural gas (eGrid)"
+            },
+            {
+                "name": "US: Phenolic resin (45% concentration)"
+            },
+            {
+                "name": "US: Cork flour (estimation)"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% of waste is sent to landfill (70% landfill of wood products; 30% landfill of plastic products) ",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "3.19E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "3.22E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "-3.14E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "4.12E-11"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "6.98E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "4.09E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "5.01E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.17E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "7.98E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.00E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "5.30E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.10E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP031",
+    "name": "Concrete cork expansion joint",
+    "altNames": [
+        "Standard Cork Expansion Joint"
+    ],
+    "uniformats": [
+        {
+            "id": "B2010",
+            "name": "Exterior Walls"
+        },
+        {
+            "id": "A4010",
+            "name": "Standard Slabs-on-Grade"
+        },
+        {
+            "id": "A1010",
+            "name": "Standard Foundations"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "07-95-00",
+            "name": "Expansion Control"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Expansion joints are added to concrete construction to absorb the small expansions and contractions that occur when concrete is exposed to changes in temperature.  Without expansion joints, the concrete would stress, crack, and lose structural integrity.  Cork expansion joints are one type of expansion joint.  Described by ASTM D1752 as Type II, they are made of “composition cork,” or small cork granules amalgamated and bound together with a phenolic resin, and treated with heat and pressure.  The joints are placed against concrete forms at predetermined intervals prior to pouring the concrete.  Cork expansion joints are recommended where a high level of resiliency is needed, and can be sealed with various expansion joint sealant products after the surrounding concrete has cured.",
+    "sources": [
+        {
+            "name": "Plenco",
+            "url": "https://www.plenco.com/phenolic-novolac-resol-resins.htm",
+            "id": 6073
+        },
+        {
+            "name": "RightPoint 2",
+            "url": "http://www.rightpointe.com/cork_standard_expansion_joint.html",
+            "id": 6072
+        },
+        {
+            "name": "RightPointe",
+            "url": "http://www.rightpointe.com/MSDS/Expansion_Joints_MSDS/MSDS_CorkStandardExpansionJoint.pdf",
+            "id": 6071
+        },
+        {
+            "name": "Struktol",
+            "url": "http://www.struktol.com/pdfs/TD%20Calcium%20Stearate.pdf",
+            "id": 6070
+        },
+        {
+            "name": "Mais",
+            "url": "http://www.google.tl/patents/US4184972",
+            "id": 6069
+        },
+        {
+            "name": "Groten",
+            "url": "https://www.google.com/patents/US2387256",
+            "id": 6068
+        },
+        {
+            "name": "Huntsman",
+            "url": "http://www.huntsman.com/performance_products/Media%20Library/a_MC348531CFA3EA9A2E040EBCD2B6B7B06/Products_MC348531D0B9FA9A2E040EBCD2B6B7B06/Glycols_MC348531D11A3A9A2E040EBCD2B6B7B06/files/eg_upr_1_09.pdf",
+            "id": 6067
+        },
+        {
+            "name": "Applied Polymer Science",
+            "url": "http://onlinelibrary.wiley.com/doi/10.1002/app.24017/abstract",
+            "id": 6066
+        },
+        {
+            "name": "Characterization",
+            "url": "http://www.iccm-central.org/Proceedings/ICCM12proceedings/site/papers/pap1285.pdf",
+            "id": 6065
+        },
+        {
+            "name": "Phenolic Resins",
+            "url": "http://wpage.unina.it/avitabil/testi/PheForm.pdf",
+            "id": 6064
+        },
+        {
+            "name": "Gil",
+            "url": "http://www.mdpi.com/1996-1944/2/3/776/pdf",
+            "id": 6063
+        },
+        {
+            "name": "Armstrong Patent",
+            "url": "https://www.google.com/patents/US2240787?dq=cork+concrete+expansion+joint&hl=en&sa=X&ei=anNLVcDTCMjtsAXh-YCQCQ&ved=0CCsQ6AEwAg",
+            "id": 6062
+        },
+        {
+            "name": "Bond Patent",
+            "url": "https://www.google.com/patents/US1974327?dq=cork+expansion+joint&hl=en&sa=X&ei=gGhLVbKGKse-sAW1wYDYCw&ved=0CCsQ6AEwAg",
+            "id": 6061
+        },
+        {
+            "name": "Tamms",
+            "url": "http://www.dpproducts.com/products/tamms/hnexpjt.pdf",
+            "id": 6060
+        },
+        {
+            "name": "SE-2",
+            "url": "http://www.h-b.com/images/msds/Cork.pdf",
+            "id": 6059
+        },
+        {
+            "name": "ASTM D1752",
+            "url": "http://www.astm.org/Standards/D1752.htm",
+            "id": 6058
+        },
+        {
+            "name": "Meadows",
+            "url": "http://www.wrmeadows.com/data/Expansion-Joints-BR-18.pdf",
+            "id": 6057
+        },
+        {
+            "name": "APS",
+            "url": "http://www.apscork.com/apscork/standardcork.shtml",
+            "id": 6056
+        }
+    ]
+}

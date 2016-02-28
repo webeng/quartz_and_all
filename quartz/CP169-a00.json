@@ -1,0 +1,4026 @@
+{
+    "CPID": "CP169",
+    "timestamp": 1452102157570,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 1140,
+            "name": "Type Is Portland-Blast Furnace Slag Blended Cement",
+            "CASRN": "",
+            "massPct": 0.1531,
+            "function": "binder",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": 0.32717250000000003,
+                        "contributors": [
+                            {
+                                "recId": 902,
+                                "massPct": 0.3,
+                                "childrenIds": [
+                                    902
+                                ]
+                            },
+                            {
+                                "recId": 902,
+                                "massPct": 0.024652499999999994,
+                                "childrenIds": [
+                                    902,
+                                    918,
+                                    7924
+                                ]
+                            },
+                            {
+                                "recId": 980,
+                                "massPct": 0.0025199999999999997,
+                                "childrenIds": [
+                                    980,
+                                    7297
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.024652499999999994,
+                        "contributors": [
+                            {
+                                "recId": 902,
+                                "massPct": 0.024652499999999994,
+                                "childrenIds": [
+                                    902,
+                                    918,
+                                    7924
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.4163145,
+                        "contributors": [
+                            {
+                                "recId": 902,
+                                "massPct": 0.024652499999999994,
+                                "childrenIds": [
+                                    902,
+                                    918,
+                                    7924
+                                ]
+                            },
+                            {
+                                "recId": 902,
+                                "massPct": 0.0054719999999999994,
+                                "childrenIds": [
+                                    902,
+                                    918,
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 980,
+                                "massPct": 0.30134999999999995,
+                                "childrenIds": [
+                                    980,
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 980,
+                                "massPct": 0.08316,
+                                "childrenIds": [
+                                    980,
+                                    2794
+                                ]
+                            },
+                            {
+                                "recId": 980,
+                                "massPct": 0.0016799999999999999,
+                                "childrenIds": [
+                                    980,
+                                    985
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.10781249999999999,
+                        "contributors": [
+                            {
+                                "recId": 902,
+                                "massPct": 0.024652499999999994,
+                                "childrenIds": [
+                                    902,
+                                    918,
+                                    7924
+                                ]
+                            },
+                            {
+                                "recId": 980,
+                                "massPct": 0.08316,
+                                "childrenIds": [
+                                    980,
+                                    2794
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.37547449999999993,
+                        "contributors": [
+                            {
+                                "recId": 902,
+                                "massPct": 0.010972499999999998,
+                                "childrenIds": [
+                                    902,
+                                    918,
+                                    2796
+                                ]
+                            },
+                            {
+                                "recId": 902,
+                                "massPct": 0.0054719999999999994,
+                                "childrenIds": [
+                                    902,
+                                    918,
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 980,
+                                "massPct": 0.30134999999999995,
+                                "childrenIds": [
+                                    980,
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 980,
+                                "massPct": 0.057679999999999995,
+                                "childrenIds": [
+                                    980,
+                                    2796
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation",
+                        "massPct": 0.30682199999999993,
+                        "contributors": [
+                            {
+                                "recId": 902,
+                                "massPct": 0.0054719999999999994,
+                                "childrenIds": [
+                                    902,
+                                    918,
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 980,
+                                "massPct": 0.30134999999999995,
+                                "childrenIds": [
+                                    980,
+                                    2795
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": 0.30682199999999993,
+                        "contributors": [
+                            {
+                                "recId": 902,
+                                "massPct": 0.0054719999999999994,
+                                "childrenIds": [
+                                    902,
+                                    918,
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 980,
+                                "massPct": 0.30134999999999995,
+                                "childrenIds": [
+                                    980,
+                                    2795
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "unknown": [
+                    {
+                        "hazardId": "unknown-11424",
+                        "type": "unknown",
+                        "name": "Unknown",
+                        "massPct": 0.015,
+                        "contributors": [
+                            {
+                                "recId": 902,
+                                "massPct": 0.015,
+                                "childrenIds": [
+                                    902,
+                                    925
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": 0.25361,
+                        "contributors": [
+                            {
+                                "recId": 980,
+                                "massPct": 0.25361,
+                                "childrenIds": [
+                                    980,
+                                    3606
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 902,
+                    "name": "Portland Cement",
+                    "CASRN": null,
+                    "massPct": 0.3,
+                    "function": "component of type is cement",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-567",
+                                "type": "orange",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {},
+                                    {
+                                        "recId": 918,
+                                        "massPct": 0.08217499999999998,
+                                        "childrenIds": [
+                                            918,
+                                            7924
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": 0.08217499999999998,
+                                "contributors": [
+                                    {
+                                        "recId": 918,
+                                        "massPct": 0.08217499999999998,
+                                        "childrenIds": [
+                                            918,
+                                            7924
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": 0.10041499999999998,
+                                "contributors": [
+                                    {
+                                        "recId": 918,
+                                        "massPct": 0.08217499999999998,
+                                        "childrenIds": [
+                                            918,
+                                            7924
+                                        ]
+                                    },
+                                    {
+                                        "recId": 918,
+                                        "massPct": 0.01824,
+                                        "childrenIds": [
+                                            918,
+                                            2795
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": 0.08217499999999998,
+                                "contributors": [
+                                    {
+                                        "recId": 918,
+                                        "massPct": 0.08217499999999998,
+                                        "childrenIds": [
+                                            918,
+                                            7924
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": 0.054814999999999996,
+                                "contributors": [
+                                    {
+                                        "recId": 918,
+                                        "massPct": 0.036574999999999996,
+                                        "childrenIds": [
+                                            918,
+                                            2796
+                                        ]
+                                    },
+                                    {
+                                        "recId": 918,
+                                        "massPct": 0.01824,
+                                        "childrenIds": [
+                                            918,
+                                            2795
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-576",
+                                "type": "orange",
+                                "name": "Skin Irritation",
+                                "massPct": 0.01824,
+                                "contributors": [
+                                    {
+                                        "recId": 918,
+                                        "massPct": 0.01824,
+                                        "childrenIds": [
+                                            918,
+                                            2795
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-575",
+                                "type": "orange",
+                                "name": "Eye Irritation",
+                                "massPct": 0.01824,
+                                "contributors": [
+                                    {
+                                        "recId": 918,
+                                        "massPct": 0.01824,
+                                        "childrenIds": [
+                                            918,
+                                            2795
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "unknown": [
+                            {
+                                "hazardId": "unknown-11424",
+                                "type": "unknown",
+                                "name": "Unknown",
+                                "massPct": 0.05,
+                                "contributors": [
+                                    {
+                                        "recId": 925,
+                                        "massPct": 0.05,
+                                        "childrenIds": [
+                                            925
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "components": [
+                        {
+                            "recId": 925,
+                            "name": "FGD Synthetic Gypsum",
+                            "CASRN": "unknown",
+                            "massPct": 0.05,
+                            "function": "",
+                            "hazards": {
+                                "unknown": [
+                                    {
+                                        "hazardId": "unknown-11424",
+                                        "type": "unknown",
+                                        "name": "Unknown",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "ACAA 2012",
+                                    "url": "http://www.acaa-usa.org/Portals/9/Files/PDFs/revisedFINAL2012CCPSurveyReport.pdf",
+                                    "id": 914
+                                },
+                                {
+                                    "name": "ACAA 2005",
+                                    "url": "http://www.acaa-usa.org/Portals/9/Files/PDFs/2005%20CCP%20Survey%20(09-19-06)Corrected-11-09-07.pdf",
+                                    "id": 913
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.0022965000000000004
+                        },
+                        {
+                            "recId": 918,
+                            "name": "Clinker",
+                            "CASRN": "65997-15-1",
+                            "massPct": 0.95,
+                            "function": "",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-570",
+                                        "type": "orange",
+                                        "name": "Endocrine",
+                                        "massPct": 0.0865,
+                                        "contributors": [
+                                            {
+                                                "recId": 7924,
+                                                "massPct": 0.0865,
+                                                "childrenIds": [
+                                                    7924
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-567",
+                                        "type": "orange",
+                                        "name": "Cancer",
+                                        "massPct": 0.0865,
+                                        "contributors": [
+                                            {
+                                                "recId": 7924,
+                                                "massPct": 0.0865,
+                                                "childrenIds": [
+                                                    7924
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": 0.10569999999999999,
+                                        "contributors": [
+                                            {
+                                                "recId": 7924,
+                                                "massPct": 0.0865,
+                                                "childrenIds": [
+                                                    7924
+                                                ]
+                                            },
+                                            {
+                                                "recId": 2795,
+                                                "massPct": 0.0192,
+                                                "childrenIds": [
+                                                    2795
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-572",
+                                        "type": "orange",
+                                        "name": "Respiratory",
+                                        "massPct": 0.0865,
+                                        "contributors": [
+                                            {
+                                                "recId": 7924,
+                                                "massPct": 0.0865,
+                                                "childrenIds": [
+                                                    7924
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-568",
+                                        "type": "orange",
+                                        "name": "Developmental",
+                                        "massPct": 0.0577,
+                                        "contributors": [
+                                            {
+                                                "recId": 2796,
+                                                "massPct": 0.0385,
+                                                "childrenIds": [
+                                                    2796
+                                                ]
+                                            },
+                                            {
+                                                "recId": 2795,
+                                                "massPct": 0.0192,
+                                                "childrenIds": [
+                                                    2795
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-576",
+                                        "type": "orange",
+                                        "name": "Skin Irritation",
+                                        "massPct": 0.0192,
+                                        "contributors": [
+                                            {
+                                                "recId": 2795,
+                                                "massPct": 0.0192,
+                                                "childrenIds": [
+                                                    2795
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-575",
+                                        "type": "orange",
+                                        "name": "Eye Irritation",
+                                        "massPct": 0.0192,
+                                        "contributors": [
+                                            {
+                                                "recId": 2795,
+                                                "massPct": 0.0192,
+                                                "childrenIds": [
+                                                    2795
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "components": [
+                                {
+                                    "recId": 7924,
+                                    "name": "Tetracalcium Aluminoferrite",
+                                    "CASRN": "12068-35-8",
+                                    "massPct": 0.0865,
+                                    "function": "",
+                                    "hazards": {
+                                        "orange": [
+                                            {
+                                                "hazardId": "orange-570",
+                                                "type": "orange",
+                                                "name": "Endocrine",
+                                                "massPct": null,
+                                                "contributors": [
+                                                    {}
+                                                ]
+                                            },
+                                            {
+                                                "hazardId": "orange-567",
+                                                "type": "orange",
+                                                "name": "Cancer",
+                                                "massPct": null,
+                                                "contributors": [
+                                                    {}
+                                                ]
+                                            },
+                                            {
+                                                "hazardId": "orange-574",
+                                                "type": "orange",
+                                                "name": "Mammalian",
+                                                "massPct": null,
+                                                "contributors": [
+                                                    {}
+                                                ]
+                                            },
+                                            {
+                                                "hazardId": "orange-572",
+                                                "type": "orange",
+                                                "name": "Respiratory",
+                                                "massPct": null,
+                                                "contributors": [
+                                                    {}
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    "sources": [
+                                        {
+                                            "name": "Portland Clinker",
+                                            "url": "http://www.cementkilns.co.uk/ckr_phase.html",
+                                            "id": 911
+                                        },
+                                        {
+                                            "name": "Understanding Cement",
+                                            "url": "http://www.understanding-cement.com/clinker.html",
+                                            "id": 909
+                                        },
+                                        {
+                                            "name": "EPA Appendix",
+                                            "url": "http://www.epa.gov/waste/conserve/tools/cpg/pdf/app-a.pdf",
+                                            "id": 908
+                                        },
+                                        {
+                                            "name": "Holcim",
+                                            "url": "http://www.powdertechnologyinc.com/wp-content/uploads/msds/20msdsHolcimPortlandCement.pdf",
+                                            "id": 907
+                                        }
+                                    ],
+                                    "notes": "",
+                                    "lca": "",
+                                    "massPctOfTotal": 0.0037742977500000003
+                                },
+                                {
+                                    "recId": 7923,
+                                    "name": "Tricalcium Aluminate",
+                                    "CASRN": "12042-78-3",
+                                    "massPct": 0.0673,
+                                    "function": "",
+                                    "hazards": {},
+                                    "sources": [
+                                        {
+                                            "name": "Portland Clinker",
+                                            "url": "http://www.cementkilns.co.uk/ckr_phase.html",
+                                            "id": 911
+                                        },
+                                        {
+                                            "name": "Understanding Cement",
+                                            "url": "http://www.understanding-cement.com/clinker.html",
+                                            "id": 909
+                                        },
+                                        {
+                                            "name": "EPA Appendix",
+                                            "url": "http://www.epa.gov/waste/conserve/tools/cpg/pdf/app-a.pdf",
+                                            "id": 908
+                                        },
+                                        {
+                                            "name": "Holcim",
+                                            "url": "http://www.powdertechnologyinc.com/wp-content/uploads/msds/20msdsHolcimPortlandCement.pdf",
+                                            "id": 907
+                                        }
+                                    ],
+                                    "notes": "",
+                                    "lca": "",
+                                    "massPctOfTotal": 0.00293653455
+                                },
+                                {
+                                    "recId": 7922,
+                                    "name": "Dicalcium Silicate (\"Belite\")",
+                                    "CASRN": "10034-77-2",
+                                    "massPct": 0.1154,
+                                    "function": "",
+                                    "hazards": {},
+                                    "sources": [
+                                        {
+                                            "name": "EPA Appendix",
+                                            "url": "http://www.epa.gov/waste/conserve/tools/cpg/pdf/app-a.pdf",
+                                            "id": 908
+                                        },
+                                        {
+                                            "name": "Portland Clinker",
+                                            "url": "http://www.cementkilns.co.uk/ckr_phase.html",
+                                            "id": 911
+                                        },
+                                        {
+                                            "name": "Holcim",
+                                            "url": "http://www.powdertechnologyinc.com/wp-content/uploads/msds/20msdsHolcimPortlandCement.pdf",
+                                            "id": 907
+                                        },
+                                        {
+                                            "name": "Understanding Cement",
+                                            "url": "http://www.understanding-cement.com/clinker.html",
+                                            "id": 909
+                                        },
+                                        {
+                                            "name": "Ashgrove",
+                                            "url": "http://www.ashgrove.com/pdf/msds/Clinker%20-%20May%202007.pdf",
+                                            "id": 906
+                                        }
+                                    ],
+                                    "notes": "",
+                                    "lca": "",
+                                    "massPctOfTotal": 0.005035305900000001
+                                },
+                                {
+                                    "recId": 2796,
+                                    "name": "Magnesium Oxide",
+                                    "CASRN": "1309-48-4",
+                                    "massPct": 0.0385,
+                                    "function": "",
+                                    "hazards": {
+                                        "orange": [
+                                            {
+                                                "hazardId": "orange-568",
+                                                "type": "orange",
+                                                "name": "Developmental",
+                                                "massPct": null,
+                                                "contributors": [
+                                                    {}
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    "sources": [
+                                        {
+                                            "name": "Holcim",
+                                            "url": "http://www.powdertechnologyinc.com/wp-content/uploads/msds/20msdsHolcimPortlandCement.pdf",
+                                            "id": 907
+                                        },
+                                        {
+                                            "name": "Lafarge",
+                                            "url": "https://www.menards.com/msds/110140_001.pdf",
+                                            "id": 5796
+                                        },
+                                        {
+                                            "name": "Titan",
+                                            "url": "http://www.titanamerica.com/uploads/rcc_clinker.pdf",
+                                            "id": 910
+                                        }
+                                    ],
+                                    "notes": "",
+                                    "lca": "",
+                                    "massPctOfTotal": 0.0016798897500000002
+                                },
+                                {
+                                    "recId": 7925,
+                                    "name": "Tricalcium Silicate (\"Alite\")",
+                                    "CASRN": "12168-85-3",
+                                    "massPct": 0.6731,
+                                    "function": "",
+                                    "hazards": {},
+                                    "sources": [
+                                        {
+                                            "name": "Portland Clinker",
+                                            "url": "http://www.cementkilns.co.uk/ckr_phase.html",
+                                            "id": 911
+                                        },
+                                        {
+                                            "name": "Understanding Cement",
+                                            "url": "http://www.understanding-cement.com/clinker.html",
+                                            "id": 909
+                                        },
+                                        {
+                                            "name": "EPA Appendix",
+                                            "url": "http://www.epa.gov/waste/conserve/tools/cpg/pdf/app-a.pdf",
+                                            "id": 908
+                                        },
+                                        {
+                                            "name": "Holcim",
+                                            "url": "http://www.powdertechnologyinc.com/wp-content/uploads/msds/20msdsHolcimPortlandCement.pdf",
+                                            "id": 907
+                                        }
+                                    ],
+                                    "notes": "",
+                                    "lca": "",
+                                    "massPctOfTotal": 0.029369708850000006
+                                },
+                                {
+                                    "recId": 2795,
+                                    "name": "Calcium Oxide",
+                                    "CASRN": "1305-78-8",
+                                    "massPct": 0.0192,
+                                    "function": "",
+                                    "hazards": {
+                                        "orange": [
+                                            {
+                                                "hazardId": "orange-576",
+                                                "type": "orange",
+                                                "name": "Skin Irritation",
+                                                "massPct": null,
+                                                "contributors": [
+                                                    {}
+                                                ]
+                                            },
+                                            {
+                                                "hazardId": "orange-574",
+                                                "type": "orange",
+                                                "name": "Mammalian",
+                                                "massPct": null,
+                                                "contributors": [
+                                                    {}
+                                                ]
+                                            },
+                                            {
+                                                "hazardId": "orange-575",
+                                                "type": "orange",
+                                                "name": "Eye Irritation",
+                                                "massPct": null,
+                                                "contributors": [
+                                                    {}
+                                                ]
+                                            },
+                                            {
+                                                "hazardId": "orange-568",
+                                                "type": "orange",
+                                                "name": "Developmental",
+                                                "massPct": null,
+                                                "contributors": [
+                                                    {}
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    "sources": [
+                                        {
+                                            "name": "Holcim",
+                                            "url": "http://www.powdertechnologyinc.com/wp-content/uploads/msds/20msdsHolcimPortlandCement.pdf",
+                                            "id": 907
+                                        },
+                                        {
+                                            "name": "Portland Clinker",
+                                            "url": "http://www.cementkilns.co.uk/ckr_phase.html",
+                                            "id": 911
+                                        },
+                                        {
+                                            "name": "Australia",
+                                            "url": "http://www.cementaustralia.com.au/wps/wcm/connect/website/cement/resources/8fc10b0045f9331780f58e6685a73cbc/CA003+Portland+Cement+Clinker.pdf",
+                                            "id": 915
+                                        }
+                                    ],
+                                    "notes": "",
+                                    "lca": "",
+                                    "massPctOfTotal": 0.0008377632
+                                }
+                            ],
+                            "sources": [
+                                {
+                                    "name": "JCP",
+                                    "url": "http://www.sciencedirect.com/science/article/pii/S0959652609004089",
+                                    "id": 904
+                                },
+                                {
+                                    "name": "SINTEF",
+                                    "url": "https://drive.google.com/file/d/0B71Vlbvg_lECckgwVzFxNzhFTTA/view",
+                                    "id": 905
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.043633500000000006
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "name": "ASTM C595",
+                            "url": "http://www.astm.org/Standards/C595.htm",
+                            "id": 1035
+                        },
+                        {
+                            "name": "ACI",
+                            "url": "see hard copy ACI 211.1-91",
+                            "id": 1019
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.045930000000000006
+                },
+                {
+                    "recId": 980,
+                    "name": "Ground Granulated Blast Furnace Slag",
+                    "CASRN": "65996-69-2",
+                    "massPct": 0.7,
+                    "function": "component of type is cement",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-567",
+                                "type": "orange",
+                                "name": "Cancer",
+                                "massPct": 0.0036,
+                                "contributors": [
+                                    {
+                                        "recId": 7297,
+                                        "massPct": 0.0036,
+                                        "childrenIds": [
+                                            7297
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-576",
+                                "type": "orange",
+                                "name": "Skin Irritation",
+                                "massPct": 0.4305,
+                                "contributors": [
+                                    {
+                                        "recId": 2795,
+                                        "massPct": 0.4305,
+                                        "childrenIds": [
+                                            2795
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": 0.5517,
+                                "contributors": [
+                                    {
+                                        "recId": 2795,
+                                        "massPct": 0.4305,
+                                        "childrenIds": [
+                                            2795
+                                        ]
+                                    },
+                                    {
+                                        "recId": 2794,
+                                        "massPct": 0.1188,
+                                        "childrenIds": [
+                                            2794
+                                        ]
+                                    },
+                                    {
+                                        "recId": 985,
+                                        "massPct": 0.0024,
+                                        "childrenIds": [
+                                            985
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-575",
+                                "type": "orange",
+                                "name": "Eye Irritation",
+                                "massPct": 0.4305,
+                                "contributors": [
+                                    {
+                                        "recId": 2795,
+                                        "massPct": 0.4305,
+                                        "childrenIds": [
+                                            2795
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": 0.5129,
+                                "contributors": [
+                                    {
+                                        "recId": 2795,
+                                        "massPct": 0.4305,
+                                        "childrenIds": [
+                                            2795
+                                        ]
+                                    },
+                                    {
+                                        "recId": 2796,
+                                        "massPct": 0.0824,
+                                        "childrenIds": [
+                                            2796
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": 0.1188,
+                                "contributors": [
+                                    {
+                                        "recId": 2794,
+                                        "massPct": 0.1188,
+                                        "childrenIds": [
+                                            2794
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-7911",
+                                "type": "red",
+                                "name": "Cancer (occupational only)",
+                                "massPct": 0.3623,
+                                "contributors": [
+                                    {
+                                        "recId": 3606,
+                                        "massPct": 0.3623,
+                                        "childrenIds": [
+                                            3606
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "components": [
+                        {
+                            "recId": 7297,
+                            "name": "Ferrous Oxide",
+                            "CASRN": "1345-25-1",
+                            "massPct": 0.0036,
+                            "function": "component of ggbfs",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-567",
+                                        "type": "orange",
+                                        "name": "Cancer",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Siddique",
+                                    "url": "http://books.google.com/books?id=djvSzSRqtQIC&lpg=PA53&ots=n8nRuTKWZN&dq=%22sodium%20aluminosilicate%22%20grout%20OR%20mortar&pg=PA3#v=onepage&q&f=false",
+                                    "id": 998
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.00038581199999999997
+                        },
+                        {
+                            "recId": 2795,
+                            "name": "Calcium Oxide",
+                            "CASRN": "1305-78-8",
+                            "massPct": 0.4305,
+                            "function": "component of ggbfs",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-576",
+                                        "type": "orange",
+                                        "name": "Skin Irritation",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-575",
+                                        "type": "orange",
+                                        "name": "Eye Irritation",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-568",
+                                        "type": "orange",
+                                        "name": "Developmental",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Holcim",
+                                    "url": "http://www.powdertechnologyinc.com/wp-content/uploads/msds/20msdsHolcimPortlandCement.pdf",
+                                    "id": 907
+                                },
+                                {
+                                    "name": "Portland Clinker",
+                                    "url": "http://www.cementkilns.co.uk/ckr_phase.html",
+                                    "id": 911
+                                },
+                                {
+                                    "name": "Australia",
+                                    "url": "http://www.cementaustralia.com.au/wps/wcm/connect/website/cement/resources/8fc10b0045f9331780f58e6685a73cbc/CA003+Portland+Cement+Clinker.pdf",
+                                    "id": 915
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.046136685
+                        },
+                        {
+                            "recId": 2796,
+                            "name": "Magnesium Oxide",
+                            "CASRN": "1309-48-4",
+                            "massPct": 0.0824,
+                            "function": "component of ggbfs",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-568",
+                                        "type": "orange",
+                                        "name": "Developmental",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Holcim",
+                                    "url": "http://www.powdertechnologyinc.com/wp-content/uploads/msds/20msdsHolcimPortlandCement.pdf",
+                                    "id": 907
+                                },
+                                {
+                                    "name": "Lafarge",
+                                    "url": "https://www.menards.com/msds/110140_001.pdf",
+                                    "id": 5796
+                                },
+                                {
+                                    "name": "Titan",
+                                    "url": "http://www.titanamerica.com/uploads/rcc_clinker.pdf",
+                                    "id": 910
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.008830808
+                        },
+                        {
+                            "recId": 2794,
+                            "name": "Aluminum Oxide",
+                            "CASRN": "1344-28-1",
+                            "massPct": 0.1188,
+                            "function": "component of ggbfs",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-572",
+                                        "type": "orange",
+                                        "name": "Respiratory",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Siddique",
+                                    "url": "http://books.google.com/books?id=djvSzSRqtQIC&lpg=PA53&ots=n8nRuTKWZN&dq=%22sodium%20aluminosilicate%22%20grout%20OR%20mortar&pg=PA3#v=onepage&q&f=false",
+                                    "id": 998
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.012731796
+                        },
+                        {
+                            "recId": 985,
+                            "name": "Sulfur Trioxide",
+                            "CASRN": "7446-11-9",
+                            "massPct": 0.0024,
+                            "function": "component of ggbfs",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Siddique",
+                                    "url": "http://books.google.com/books?id=djvSzSRqtQIC&lpg=PA53&ots=n8nRuTKWZN&dq=%22sodium%20aluminosilicate%22%20grout%20OR%20mortar&pg=PA3#v=onepage&q&f=false",
+                                    "id": 998
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.000257208
+                        },
+                        {
+                            "recId": 3606,
+                            "name": "Silica, amorphous",
+                            "CASRN": "7631-86-9",
+                            "massPct": 0.3623,
+                            "function": "component of ggbfs",
+                            "hazards": {
+                                "red": [
+                                    {
+                                        "hazardId": "red-7911",
+                                        "type": "red",
+                                        "name": "Cancer (occupational only)",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Siddique",
+                                    "url": "http://books.google.com/books?id=djvSzSRqtQIC&lpg=PA53&ots=n8nRuTKWZN&dq=%22sodium%20aluminosilicate%22%20grout%20OR%20mortar&pg=PA3#v=onepage&q&f=false",
+                                    "id": 998
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.038827691000000004
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "name": "ASTM C595",
+                            "url": "http://www.astm.org/Standards/C595.htm",
+                            "id": 1035
+                        },
+                        {
+                            "name": "ACI",
+                            "url": "see hard copy ACI 211.1-91",
+                            "id": 1019
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.10717
+                }
+            ],
+            "sources": [],
+            "notes": "Secondary cementitious material (SCM)",
+            "lca": "yes",
+            "massPctOfTotal": 0.1531
+        },
+        {
+            "recId": 7926,
+            "name": "Admixtures",
+            "CASRN": "",
+            "massPct": 0,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0,
+                        "contributors": [
+                            {
+                                "recId": 1117,
+                                "massPct": 0,
+                                "childrenIds": [
+                                    1117,
+                                    7928
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 1115,
+                    "name": "Type C: Accelerating Admix (chlorinated)",
+                    "CASRN": "",
+                    "massPct": 0,
+                    "function": "",
+                    "hazards": {},
+                    "components": [
+                        {
+                            "recId": 7927,
+                            "name": "Calcium Chloride",
+                            "CASRN": "10043-52-4",
+                            "massPct": 0,
+                            "function": "",
+                            "hazards": {},
+                            "sources": [
+                                {
+                                    "name": "Hill Brothers",
+                                    "url": "http://hillbrothers.com/pdf/downloads/msds/calcium-chloride-liq.pdf",
+                                    "id": 1072
+                                },
+                                {
+                                    "name": "Accelguard",
+                                    "url": "http://euclidchemical.com/fileshare/ProductFiles/msds/025_99_U.pdf",
+                                    "id": 1017
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "name": "Hill Brothers",
+                            "url": "http://hillbrothers.com/pdf/downloads/msds/calcium-chloride-liq.pdf",
+                            "id": 1072
+                        },
+                        {
+                            "name": "Accelguard",
+                            "url": "http://euclidchemical.com/fileshare/ProductFiles/msds/025_99_U.pdf",
+                            "id": 1017
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0
+                },
+                {
+                    "recId": 7955,
+                    "name": "Type B: Retarding Admix",
+                    "CASRN": "",
+                    "massPct": 0,
+                    "function": null,
+                    "hazards": {},
+                    "components": [
+                        {
+                            "recId": 1114,
+                            "name": "Sodium Gluconate",
+                            "CASRN": "537-07-1",
+                            "massPct": 0,
+                            "function": "",
+                            "hazards": {},
+                            "sources": [
+                                {
+                                    "name": "Retarder 75",
+                                    "url": "http://euclidchemical.com/fileshare/ProductFiles/msds/023_99_U.pdf",
+                                    "id": 1122
+                                },
+                                {
+                                    "name": "Eucon HC",
+                                    "url": "http://euclidchemical.com/fileshare/ProductFiles/msds/715_99_U.pdf",
+                                    "id": 1065
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "name": "Retarder 75",
+                            "url": "http://euclidchemical.com/fileshare/ProductFiles/msds/023_99_U.pdf",
+                            "id": 1122
+                        },
+                        {
+                            "name": "Eucon HC",
+                            "url": "http://euclidchemical.com/fileshare/ProductFiles/msds/715_99_U.pdf",
+                            "id": 1065
+                        }
+                    ],
+                    "notes": null,
+                    "lca": null,
+                    "massPctOfTotal": 0
+                },
+                {
+                    "recId": 1119,
+                    "name": "Type D: Water Reducing & Retarding Admix",
+                    "CASRN": "",
+                    "massPct": 0,
+                    "function": "",
+                    "hazards": {},
+                    "components": [
+                        {
+                            "recId": 7929,
+                            "name": "Calcium Lignosulfonate",
+                            "CASRN": "8061-52-7",
+                            "massPct": 0,
+                            "function": "",
+                            "hazards": {},
+                            "sources": [
+                                {
+                                    "name": "Eucon LR",
+                                    "url": "https://fdotwp1.dot.state.fl.us/ApprovedProductList/Resources/cf164619-d17e-4464-badc-7aa48cb3ab43.pdf",
+                                    "id": 1067
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "name": "Eucon LR",
+                            "url": "https://fdotwp1.dot.state.fl.us/ApprovedProductList/Resources/cf164619-d17e-4464-badc-7aa48cb3ab43.pdf",
+                            "id": 1067
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0
+                },
+                {
+                    "recId": 1117,
+                    "name": "Type C: Accelerating Admix (non-chlorinated)",
+                    "CASRN": "",
+                    "massPct": 0,
+                    "function": "",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": 0,
+                                "contributors": [
+                                    {
+                                        "recId": 7928,
+                                        "massPct": 0,
+                                        "childrenIds": [
+                                            7928
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "components": [
+                        {
+                            "recId": 7928,
+                            "name": "Calcium Nitrate",
+                            "CASRN": "10124-37-5",
+                            "massPct": 0,
+                            "function": "",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Pozzutec 20",
+                                    "url": "http://www.prairie.com/pdfs/MSDS_pozzutec20.pdf",
+                                    "id": 1091
+                                },
+                                {
+                                    "name": "Accelguard 80",
+                                    "url": "http://euclidchemical.com/fileshare/ProductFiles/msds/019_99_U.pdf",
+                                    "id": 1018
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "name": "Pozzutec 20",
+                            "url": "http://www.prairie.com/pdfs/MSDS_pozzutec20.pdf",
+                            "id": 1091
+                        },
+                        {
+                            "name": "Accelguard 80",
+                            "url": "http://euclidchemical.com/fileshare/ProductFiles/msds/019_99_U.pdf",
+                            "id": 1018
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0
+        },
+        {
+            "recId": 962,
+            "name": "Coarse Aggregate",
+            "CASRN": null,
+            "massPct": 0.4593,
+            "function": "aggregate",
+            "hazards": {},
+            "sources": [],
+            "notes": "These percentages for base concrete do not take into account any additional admixtures.",
+            "lca": "yes",
+            "massPctOfTotal": 0.4593
+        },
+        {
+            "recId": 1470,
+            "name": "Sand",
+            "CASRN": "14808-60-7",
+            "massPct": 0.3062,
+            "function": "aggregate",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [],
+            "notes": "These percentages for base concrete do not take into account any additional admixtures.",
+            "lca": "yes",
+            "massPctOfTotal": 0.3062
+        },
+        {
+            "recId": 1106,
+            "name": "Water",
+            "CASRN": "7732-18-5",
+            "massPct": 0.0813,
+            "function": "solvent, catalyst",
+            "hazards": {},
+            "sources": [],
+            "notes": "These percentages for base concrete do not take into account any additional admixtures.",
+            "lca": "yes",
+            "massPctOfTotal": 0.0813
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Cobalt",
+            "CASRN": "7440-48-4",
+            "massPct": 0.000001,
+            "function": "FGD residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Manganese",
+            "CASRN": "7439-96-5",
+            "massPct": 0.000047,
+            "function": "FGD residual",
+            "sources": [
+                {
+                    "name": "EPRI2010",
+                    "url": "http://www.epri.com/search/Pages/results.aspx?k=Comparison%20of%20Coal%20Combustion%20Products%20to%20Other%20Common%20Materials",
+                    "id": 916
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Vanadium",
+            "CASRN": "7440-62-2",
+            "massPct": 0.0000041,
+            "function": "FGD residual",
+            "sources": [
+                {
+                    "name": "EPRI2010",
+                    "url": "http://www.epri.com/search/Pages/results.aspx?k=Comparison%20of%20Coal%20Combustion%20Products%20to%20Other%20Common%20Materials",
+                    "id": 916
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Selenium",
+            "CASRN": "7782-49-2",
+            "massPct": 0.000024,
+            "function": "FGD residual",
+            "sources": [
+                {
+                    "name": "EPRI2010",
+                    "url": "http://www.epri.com/search/Pages/results.aspx?k=Comparison%20of%20Coal%20Combustion%20Products%20to%20Other%20Common%20Materials",
+                    "id": 916
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Beryllium",
+            "CASRN": "7440-41-7",
+            "massPct": 1e-7,
+            "function": "FGD residual",
+            "sources": [
+                {
+                    "name": "EPRI2010",
+                    "url": "http://www.epri.com/search/Pages/results.aspx?k=Comparison%20of%20Coal%20Combustion%20Products%20to%20Other%20Common%20Materials",
+                    "id": 916
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Antimony",
+            "CASRN": "7440-36-0",
+            "massPct": 4e-7,
+            "function": "FGD residual",
+            "sources": [
+                {
+                    "name": "EPRI2010",
+                    "url": "http://www.epri.com/search/Pages/results.aspx?k=Comparison%20of%20Coal%20Combustion%20Products%20to%20Other%20Common%20Materials",
+                    "id": 916
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Beryllium",
+            "CASRN": "7440-41-7",
+            "massPct": 0.000011,
+            "function": "GGBFS residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Mercury",
+            "CASRN": "7439-97-6",
+            "massPct": 0.000002,
+            "function": "gravel residual",
+            "sources": [
+                {
+                    "name": "EPRI2010",
+                    "url": "http://www.epri.com/search/Pages/results.aspx?k=Comparison%20of%20Coal%20Combustion%20Products%20to%20Other%20Common%20Materials",
+                    "id": 916
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Nickel",
+            "CASRN": "7440-02-0",
+            "massPct": 0.0000021,
+            "function": "FGD residual",
+            "sources": [
+                {
+                    "name": "EPRI2010",
+                    "url": "http://www.epri.com/search/Pages/results.aspx?k=Comparison%20of%20Coal%20Combustion%20Products%20to%20Other%20Common%20Materials",
+                    "id": 916
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Vanadium",
+            "CASRN": "7440-62-2",
+            "massPct": 0.000232,
+            "function": "gravel residual",
+            "sources": [
+                {
+                    "name": "EPRI2010",
+                    "url": "http://www.epri.com/search/Pages/results.aspx?k=Comparison%20of%20Coal%20Combustion%20Products%20to%20Other%20Common%20Materials",
+                    "id": 916
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Nickel",
+            "CASRN": "7440-02-0",
+            "massPct": 0.00022,
+            "function": "gravel residual",
+            "sources": [
+                {
+                    "name": "EPRI2010",
+                    "url": "http://www.epri.com/search/Pages/results.aspx?k=Comparison%20of%20Coal%20Combustion%20Products%20to%20Other%20Common%20Materials",
+                    "id": 916
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Mercury",
+            "CASRN": "7439-97-6",
+            "massPct": 1e-8,
+            "function": "GGBFS residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Chromium Compounds",
+            "CASRN": "",
+            "massPct": 0.000021819,
+            "function": "clinker residual",
+            "sources": [
+                {
+                    "name": "Titan",
+                    "url": "http://www.titanamerica.com/uploads/rcc_clinker.pdf",
+                    "id": 910
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Mercury",
+            "CASRN": "7439-97-6",
+            "massPct": 8e-7,
+            "function": "FGD residual",
+            "sources": [
+                {
+                    "name": "EERC",
+                    "url": "http://www.osti.gov/scitech/servlets/purl/981821-iUiWfT/",
+                    "id": 7968
+                },
+                {
+                    "name": "USG",
+                    "url": "https://www.netl.doe.gov/File%20Library/Research/Coal/ewr/42080FinalRpt20080624.pdf",
+                    "id": 8063
+                },
+                {
+                    "name": "EPA 2009a",
+                    "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1006B0B.PDF?Dockey=P1006B0B.PDF",
+                    "id": 5814
+                },
+                {
+                    "name": "EPRI2010",
+                    "url": "http://www.epri.com/search/Pages/results.aspx?k=Comparison%20of%20Coal%20Combustion%20Products%20to%20Other%20Common%20Materials",
+                    "id": 916
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Lead",
+            "CASRN": "7439-92-1",
+            "massPct": 3.8e-7,
+            "function": "GGBFS residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-10360",
+                        "type": "orange",
+                        "name": "Neurotoxicity"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Vanadium",
+            "CASRN": "7440-62-2",
+            "massPct": 0.000031,
+            "function": "GGBFS residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Antimony",
+            "CASRN": "7440-36-0",
+            "massPct": 0.0000018,
+            "function": "gravel residual",
+            "sources": [
+                {
+                    "name": "EPRI2010",
+                    "url": "http://www.epri.com/search/Pages/results.aspx?k=Comparison%20of%20Coal%20Combustion%20Products%20to%20Other%20Common%20Materials",
+                    "id": 916
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Arsenic",
+            "CASRN": "7440-38-2",
+            "massPct": 0.000014,
+            "function": "gravel residual",
+            "sources": [
+                {
+                    "name": "EPRI2010",
+                    "url": "http://www.epri.com/search/Pages/results.aspx?k=Comparison%20of%20Coal%20Combustion%20Products%20to%20Other%20Common%20Materials",
+                    "id": 916
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-10360",
+                        "type": "orange",
+                        "name": "Neurotoxicity"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Cadmium",
+            "CASRN": "7440-43-9",
+            "massPct": 2.1e-7,
+            "function": "FGD residual",
+            "sources": [
+                {
+                    "name": "EPRI2010",
+                    "url": "http://www.epri.com/search/Pages/results.aspx?k=Comparison%20of%20Coal%20Combustion%20Products%20to%20Other%20Common%20Materials",
+                    "id": 916
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Selenium",
+            "CASRN": "7782-49-2",
+            "massPct": 0.0000049,
+            "function": "gravel residual",
+            "sources": [
+                {
+                    "name": "EPRI2010",
+                    "url": "http://www.epri.com/search/Pages/results.aspx?k=Comparison%20of%20Coal%20Combustion%20Products%20to%20Other%20Common%20Materials",
+                    "id": 916
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Cobalt",
+            "CASRN": "7440-48-4",
+            "massPct": 0.000053,
+            "function": "gravel residual",
+            "sources": [
+                {
+                    "name": "EPRI2010",
+                    "url": "http://www.epri.com/search/Pages/results.aspx?k=Comparison%20of%20Coal%20Combustion%20Products%20to%20Other%20Common%20Materials",
+                    "id": 916
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Arsenic",
+            "CASRN": "7440-38-2",
+            "massPct": 0.0000059,
+            "function": "FGD residual",
+            "sources": [
+                {
+                    "name": "EPA 2009a",
+                    "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1006B0B.PDF?Dockey=P1006B0B.PDF",
+                    "id": 5814
+                },
+                {
+                    "name": "EPRI2010",
+                    "url": "http://www.epri.com/search/Pages/results.aspx?k=Comparison%20of%20Coal%20Combustion%20Products%20to%20Other%20Common%20Materials",
+                    "id": 916
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-10360",
+                        "type": "orange",
+                        "name": "Neurotoxicity"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Manganese",
+            "CASRN": "7439-96-5",
+            "massPct": 0.003273,
+            "function": "GGBFS residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Manganese",
+            "CASRN": "7439-96-5",
+            "massPct": 0.00174,
+            "function": "gravel residual",
+            "sources": [
+                {
+                    "name": "EPRI2010",
+                    "url": "http://www.epri.com/search/Pages/results.aspx?k=Comparison%20of%20Coal%20Combustion%20Products%20to%20Other%20Common%20Materials",
+                    "id": 916
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Cadmium",
+            "CASRN": "7440-43-9",
+            "massPct": 0.0000036,
+            "function": "gravel residual",
+            "sources": [
+                {
+                    "name": "EPRI2010",
+                    "url": "http://www.epri.com/search/Pages/results.aspx?k=Comparison%20of%20Coal%20Combustion%20Products%20to%20Other%20Common%20Materials",
+                    "id": 916
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Lead",
+            "CASRN": "7439-92-1",
+            "massPct": 0.000001,
+            "function": "FGD residual",
+            "sources": [
+                {
+                    "name": "EPRI2010",
+                    "url": "http://www.epri.com/search/Pages/results.aspx?k=Comparison%20of%20Coal%20Combustion%20Products%20to%20Other%20Common%20Materials",
+                    "id": 916
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-10360",
+                        "type": "orange",
+                        "name": "Neurotoxicity"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Nickel",
+            "CASRN": "7440-02-0",
+            "massPct": 0.0000043,
+            "function": "GGBFS residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Cadmium",
+            "CASRN": "7440-43-9",
+            "massPct": 3.9e-7,
+            "function": "GGBFS residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Hexavalent Chromium",
+            "CASRN": "18540-29-9",
+            "massPct": 0.00002,
+            "function": "clinker residual",
+            "sources": [
+                {
+                    "name": "Holcim",
+                    "url": "http://www.powdertechnologyinc.com/wp-content/uploads/msds/20msdsHolcimPortlandCement.pdf",
+                    "id": 907
+                },
+                {
+                    "name": "Australia",
+                    "url": "http://www.cementaustralia.com.au/wps/wcm/connect/website/cement/resources/8fc10b0045f9331780f58e6685a73cbc/CA003+Portland+Cement+Clinker.pdf",
+                    "id": 915
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Lead",
+            "CASRN": "7439-92-1",
+            "massPct": 0.000044,
+            "function": "gravel residual",
+            "sources": [
+                {
+                    "name": "EPRI2010",
+                    "url": "http://www.epri.com/search/Pages/results.aspx?k=Comparison%20of%20Coal%20Combustion%20Products%20to%20Other%20Common%20Materials",
+                    "id": 916
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-10360",
+                        "type": "orange",
+                        "name": "Neurotoxicity"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Arsenic",
+            "CASRN": "7440-38-2",
+            "massPct": 0.00000271,
+            "function": "GGBFS residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-10360",
+                        "type": "orange",
+                        "name": "Neurotoxicity"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Hexavalent Chromium",
+            "CASRN": "18540-29-9",
+            "massPct": 5e-7,
+            "function": "GGBFS residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Selenium",
+            "CASRN": "7782-49-2",
+            "massPct": 0.0000042,
+            "function": "GGBFS residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Antimony",
+            "CASRN": "7440-36-0",
+            "massPct": 3e-8,
+            "function": "GGBFS residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Cobalt",
+            "CASRN": "7440-48-4",
+            "massPct": 0.00001,
+            "function": "GGBFS residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Beryllium",
+            "CASRN": "7440-41-7",
+            "massPct": 0.0000044,
+            "function": "gravel residual",
+            "sources": [
+                {
+                    "name": "EPRI2010",
+                    "url": "http://www.epri.com/search/Pages/results.aspx?k=Comparison%20of%20Coal%20Combustion%20Products%20to%20Other%20Common%20Materials",
+                    "id": 916
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-567",
+                    "type": "orange",
+                    "name": "Cancer",
+                    "massPct": 0.05009010975000001,
+                    "contributors": [
+                        {
+                            "recId": 1140,
+                            "massPct": 0.045930000000000006,
+                            "childrenIds": [
+                                1140,
+                                902
+                            ]
+                        },
+                        {
+                            "recId": 1140,
+                            "massPct": 0.0037742977499999994,
+                            "childrenIds": [
+                                1140,
+                                902,
+                                918,
+                                7924
+                            ]
+                        },
+                        {
+                            "recId": 1140,
+                            "massPct": 0.00038581199999999997,
+                            "childrenIds": [
+                                1140,
+                                980,
+                                7297
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.0037742977499999994,
+                    "contributors": [
+                        {
+                            "recId": 1140,
+                            "massPct": 0.0037742977499999994,
+                            "childrenIds": [
+                                1140,
+                                902,
+                                918,
+                                7924
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.36993774995,
+                    "contributors": [
+                        {
+                            "recId": 1140,
+                            "massPct": 0.0037742977499999994,
+                            "childrenIds": [
+                                1140,
+                                902,
+                                918,
+                                7924
+                            ]
+                        },
+                        {
+                            "recId": 1140,
+                            "massPct": 0.0008377632,
+                            "childrenIds": [
+                                1140,
+                                902,
+                                918,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 1140,
+                            "massPct": 0.046136685,
+                            "childrenIds": [
+                                1140,
+                                980,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 1140,
+                            "massPct": 0.012731796,
+                            "childrenIds": [
+                                1140,
+                                980,
+                                2794
+                            ]
+                        },
+                        {
+                            "recId": 1140,
+                            "massPct": 0.000257208,
+                            "childrenIds": [
+                                1140,
+                                980,
+                                985
+                            ]
+                        },
+                        {
+                            "recId": 7926,
+                            "massPct": 0,
+                            "childrenIds": [
+                                7926,
+                                1117,
+                                7928
+                            ]
+                        },
+                        {
+                            "recId": 1470,
+                            "massPct": 0.3062,
+                            "childrenIds": [
+                                1470
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.01650609375,
+                    "contributors": [
+                        {
+                            "recId": 1140,
+                            "massPct": 0.0037742977499999994,
+                            "childrenIds": [
+                                1140,
+                                902,
+                                918,
+                                7924
+                            ]
+                        },
+                        {
+                            "recId": 1140,
+                            "massPct": 0.012731796,
+                            "childrenIds": [
+                                1140,
+                                980,
+                                2794
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.05748514595,
+                    "contributors": [
+                        {
+                            "recId": 1140,
+                            "massPct": 0.0016798897499999998,
+                            "childrenIds": [
+                                1140,
+                                902,
+                                918,
+                                2796
+                            ]
+                        },
+                        {
+                            "recId": 1140,
+                            "massPct": 0.0008377632,
+                            "childrenIds": [
+                                1140,
+                                902,
+                                918,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 1140,
+                            "massPct": 0.046136685,
+                            "childrenIds": [
+                                1140,
+                                980,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 1140,
+                            "massPct": 0.008830808,
+                            "childrenIds": [
+                                1140,
+                                980,
+                                2796
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-576",
+                    "type": "orange",
+                    "name": "Skin Irritation",
+                    "massPct": 0.0469744482,
+                    "contributors": [
+                        {
+                            "recId": 1140,
+                            "massPct": 0.0008377632,
+                            "childrenIds": [
+                                1140,
+                                902,
+                                918,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 1140,
+                            "massPct": 0.046136685,
+                            "childrenIds": [
+                                1140,
+                                980,
+                                2795
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-575",
+                    "type": "orange",
+                    "name": "Eye Irritation",
+                    "massPct": 0.0469744482,
+                    "contributors": [
+                        {
+                            "recId": 1140,
+                            "massPct": 0.0008377632,
+                            "childrenIds": [
+                                1140,
+                                902,
+                                918,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 1140,
+                            "massPct": 0.046136685,
+                            "childrenIds": [
+                                1140,
+                                980,
+                                2795
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.3062,
+                    "contributors": [
+                        {
+                            "recId": 1470,
+                            "massPct": 0.3062,
+                            "childrenIds": [
+                                1470
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "unknown": [
+                {
+                    "hazardId": "unknown-11424",
+                    "type": "unknown",
+                    "name": "Unknown",
+                    "massPct": 0.0022965,
+                    "contributors": [
+                        {
+                            "recId": 1140,
+                            "massPct": 0.0022965,
+                            "childrenIds": [
+                                1140,
+                                902,
+                                925
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.038827691000000004,
+                    "contributors": [
+                        {
+                            "recId": 1140,
+                            "massPct": 0.038827691000000004,
+                            "childrenIds": [
+                                1140,
+                                980,
+                                3606
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-567",
+                    "type": "red",
+                    "name": "Cancer",
+                    "massPct": 0.3062,
+                    "contributors": [
+                        {
+                            "recId": 1470,
+                            "massPct": 0.3062,
+                            "childrenIds": [
+                                1470
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "70% GGBFS mix. Includes all cradle-to-gate data, including raw materials extraction, transportation of ingredients to the concrete mixing plant, and plant operations. Transportation taken from averages, based on NRMCA report/survey (Athena 2014). Admixtures are not included. Dataset does not include any steel reinforcing or formwork. Slag is modeled from BF steel manufacturing using economic allocation.",
+        "gabiDatasets": [
+            {
+                "name": "US: Portland cement, at plant"
+            },
+            {
+                "name": "US: Diesel, combusted in industrial equipment"
+            },
+            {
+                "name": "US: Thermal energy from natural gas (eGrid)"
+            },
+            {
+                "name": "DE: Sodium ligninsulfonate (condenser)"
+            },
+            {
+                "name": "DE: Sodium gluconate (estimation gluconic acid via adipic acid)"
+            },
+            {
+                "name": "DE: Calcium chloride"
+            },
+            {
+                "name": "US: Electricity grid mix US: Calcium ammonium nitrate (CAN, solution)"
+            },
+            {
+                "name": "US: Tap water from groundwater"
+            },
+            {
+                "name": "US: Silica sand (Excavation and processing)"
+            },
+            {
+                "name": "EU-27: Crushed stone 16/32"
+            },
+            {
+                "name": "DE: Blast furnace slag from BF steel (price allocated)"
+            }
+        ],
+        "foregroundDataSource": "NRMCA; GaBi; primary research",
+        "backforegroundDataSource": "GaBi; USLCI",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "55% for recovery; 45% landfilled (inert material)",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "5.94E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "3.66E-05"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "1.42E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "2.36E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "9.48E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "1.28E+00"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "1.20E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "7.60E-06"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "2.65E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "5.41E-13"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "2.62E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "4.26E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP169",
+    "name": "Ready Mix Concrete (BF Slag) (3,000 - 4,000 psi)",
+    "altNames": [
+        "Concrete",
+        "NWC",
+        "Ready Mixed Concrete"
+    ],
+    "uniformats": [
+        {
+            "id": "C1010",
+            "name": "Interior Partitions"
+        },
+        {
+            "id": "B2010",
+            "name": "Exterior Walls"
+        },
+        {
+            "id": "B1020",
+            "name": "Roof Construction"
+        },
+        {
+            "id": "B1010",
+            "name": "Floor Construction"
+        },
+        {
+            "id": "A4010",
+            "name": "Standard Slabs-on-Grade"
+        },
+        {
+            "id": "A1010",
+            "name": "Standard Foundations"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "03-30-00",
+            "name": "Cast-in-Place Concrete"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Concrete is a common construction material, used in many structural applications, and is highly customizable in composition. Concrete is made by mixing cement, water, sand, and gravel, and can include chemical admixes, alone or in combination, to provide improved strength, durability, or other desired characteristic. This Common Product profile describes an in-situ/ready mix concrete composition likely to be used to produce normal weight 3,000 – 4,000 psi concrete for construction in the San Francisco Bay area, where a Portland-blast furnace slag blended cement (described as Type IS in ASTM C595/C595M) is used in place of a “straight mix”. The exact amounts of all ingredients in concrete will likely vary to some degree based on the contractor, concrete supplier, and the materials used by the supplier to mix the concrete ordered.\n\nThe LCA excludes the environmental impacts associated with the use of admixtures, due to the high variation in the amount and type used across concrete mixes. To assess the potential influence this exclusion could have on the impact of the concrete, a scenario analysis was conducted with median amounts of four categories of admixtures: retarding, accelarating (chlorinated), accelerating (non-chlorinated), and water reducing/retarding. Results showed that despite the small contribution by mass (<1%), use of admixtures could increase the environmental burden. Eutrophication potential in paticular was affected, increasing the burden of concrete by as much as 17%. Primary energy demand also increased significantly, up to 7%, while global warming potential showed increases up to 4%.",
+    "sources": [
+        {
+            "name": "ToxStrategies2011",
+            "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+            "id": 11253
+        },
+        {
+            "name": "USG",
+            "url": "https://www.netl.doe.gov/File%20Library/Research/Coal/ewr/42080FinalRpt20080624.pdf",
+            "id": 8063
+        },
+        {
+            "name": "EERC",
+            "url": "http://www.osti.gov/scitech/servlets/purl/981821-iUiWfT/",
+            "id": 7968
+        },
+        {
+            "name": "ASTM C150/150M",
+            "url": "http://www.astm.org/Standards/C150.htm",
+            "id": 903
+        },
+        {
+            "name": "EPRI2010",
+            "url": "http://www.epri.com/search/Pages/results.aspx?k=Comparison%20of%20Coal%20Combustion%20Products%20to%20Other%20Common%20Materials",
+            "id": 916
+        },
+        {
+            "name": "Drake MSDS",
+            "url": "http://www.drakecement.com/media/16184/msds.pdf",
+            "id": 917
+        },
+        {
+            "name": "Lafarge patent",
+            "url": "https://www.google.com/patents/EP1349818A4?cl=en&dq=gypsum+edge+paste&hl=en&sa=X&ei=cdYIVMOMMYWqyATG_oLIBg&ved=0CB8Q6AEwAA",
+            "id": 1344
+        },
+        {
+            "name": "MasterFlow MSDS",
+            "url": "http://www.brockwhite.com/files/Resource/MSDS/0336703MSDS.pdf",
+            "id": 1473
+        },
+        {
+            "name": "CG-86",
+            "url": "http://www.wrmeadows.com/MSDS-PDF/8020000.pdf",
+            "id": 1475
+        },
+        {
+            "name": "K-301",
+            "url": "http://www.ardexamericas.com/en-us/Documents/MSDS_En_K301.pdf",
+            "id": 1610
+        },
+        {
+            "name": "SINTEF",
+            "url": "https://drive.google.com/file/d/0B71Vlbvg_lECckgwVzFxNzhFTTA/view",
+            "id": 905
+        },
+        {
+            "name": "JCP",
+            "url": "http://www.sciencedirect.com/science/article/pii/S0959652609004089",
+            "id": 904
+        },
+        {
+            "name": "Ashgrove",
+            "url": "http://www.ashgrove.com/pdf/msds/Clinker%20-%20May%202007.pdf",
+            "id": 906
+        },
+        {
+            "name": "EPA Appendix",
+            "url": "http://www.epa.gov/waste/conserve/tools/cpg/pdf/app-a.pdf",
+            "id": 908
+        },
+        {
+            "name": "Understanding Cement",
+            "url": "http://www.understanding-cement.com/clinker.html",
+            "id": 909
+        },
+        {
+            "name": "Australia",
+            "url": "http://www.cementaustralia.com.au/wps/wcm/connect/website/cement/resources/8fc10b0045f9331780f58e6685a73cbc/CA003+Portland+Cement+Clinker.pdf",
+            "id": 915
+        },
+        {
+            "name": "Portland Clinker",
+            "url": "http://www.cementkilns.co.uk/ckr_phase.html",
+            "id": 911
+        },
+        {
+            "name": "Titan",
+            "url": "http://www.titanamerica.com/uploads/rcc_clinker.pdf",
+            "id": 910
+        },
+        {
+            "name": "Lafarge",
+            "url": "https://www.menards.com/msds/110140_001.pdf",
+            "id": 5796
+        },
+        {
+            "name": "Holcim",
+            "url": "http://www.powdertechnologyinc.com/wp-content/uploads/msds/20msdsHolcimPortlandCement.pdf",
+            "id": 907
+        },
+        {
+            "name": "ACAA 2005",
+            "url": "http://www.acaa-usa.org/Portals/9/Files/PDFs/2005%20CCP%20Survey%20(09-19-06)Corrected-11-09-07.pdf",
+            "id": 913
+        },
+        {
+            "name": "ACAA 2012",
+            "url": "http://www.acaa-usa.org/Portals/9/Files/PDFs/revisedFINAL2012CCPSurveyReport.pdf",
+            "id": 914
+        },
+        {
+            "name": "ACI",
+            "url": "see hard copy ACI 211.1-91",
+            "id": 1019
+        },
+        {
+            "name": "ASTM C595",
+            "url": "http://www.astm.org/Standards/C595.htm",
+            "id": 1035
+        },
+        {
+            "name": "Siddique",
+            "url": "http://books.google.com/books?id=djvSzSRqtQIC&lpg=PA53&ots=n8nRuTKWZN&dq=%22sodium%20aluminosilicate%22%20grout%20OR%20mortar&pg=PA3#v=onepage&q&f=false",
+            "id": 998
+        },
+        {
+            "name": "Eucon HC",
+            "url": "http://euclidchemical.com/fileshare/ProductFiles/msds/715_99_U.pdf",
+            "id": 1065
+        },
+        {
+            "name": "Retarder 75",
+            "url": "http://euclidchemical.com/fileshare/ProductFiles/msds/023_99_U.pdf",
+            "id": 1122
+        },
+        {
+            "name": "Accelguard",
+            "url": "http://euclidchemical.com/fileshare/ProductFiles/msds/025_99_U.pdf",
+            "id": 1017
+        },
+        {
+            "name": "Hill Brothers",
+            "url": "http://hillbrothers.com/pdf/downloads/msds/calcium-chloride-liq.pdf",
+            "id": 1072
+        },
+        {
+            "name": "Accelguard 80",
+            "url": "http://euclidchemical.com/fileshare/ProductFiles/msds/019_99_U.pdf",
+            "id": 1018
+        },
+        {
+            "name": "Pozzutec 20",
+            "url": "http://www.prairie.com/pdfs/MSDS_pozzutec20.pdf",
+            "id": 1091
+        },
+        {
+            "name": "Eucon LR",
+            "url": "https://fdotwp1.dot.state.fl.us/ApprovedProductList/Resources/cf164619-d17e-4464-badc-7aa48cb3ab43.pdf",
+            "id": 1067
+        },
+        {
+            "name": "EPA 2009a",
+            "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1006B0B.PDF?Dockey=P1006B0B.PDF",
+            "id": 5814
+        }
+    ]
+}

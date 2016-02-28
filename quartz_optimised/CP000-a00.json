@@ -1,0 +1,775 @@
+{
+    "CPID": "CP000",
+    "timestamp": 1452102092301,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 1775,
+            "name": "Plain Carbon Steel (ASTM A615)",
+            "CASRN": "",
+            "massPct": 1,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.01,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.01,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.01,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.01,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.0106,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.01,
+                                "childrenIds": [
+                                    760
+                                ]
+                            },
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0006,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.0106,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.01,
+                                "childrenIds": [
+                                    760
+                                ]
+                            },
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0006,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": 0.0006,
+                        "contributors": [
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0006,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": 0.01,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.01,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 760,
+                    "name": "Manganese",
+                    "CASRN": "7439-96-5",
+                    "massPct": 0.01,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Sumo Gold",
+                            "url": "http://www.sumogoldtmx.com/steel-tmt-bars/",
+                            "id": 1729
+                        },
+                        {
+                            "name": "Emirates Steel",
+                            "url": "http://www.emiratessteel.com/docs/Rebar%20in%20Coil%20Qualities%20and%20Certifications.pdf",
+                            "id": 1720
+                        },
+                        {
+                            "name": "Qatar Steel",
+                            "url": "http://www.qatarsteel.com.qa/Products/Specification/SitePages/bars.aspx",
+                            "id": 1727
+                        },
+                        {
+                            "name": "ASTM A615-79",
+                            "url": "https://law.resource.org/pub/us/cfr/ibr/003/astm.a615.1979.pdf",
+                            "id": 1715
+                        },
+                        {
+                            "name": "ASTM A615",
+                            "url": "http://www.astm.org/Standards/A615.htm",
+                            "id": 1714
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.01
+                },
+                {
+                    "recId": 774,
+                    "name": "Sulfur",
+                    "CASRN": "7704-34-9",
+                    "massPct": 0.0005,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Sumo Gold",
+                            "url": "http://www.sumogoldtmx.com/steel-tmt-bars/",
+                            "id": 1729
+                        },
+                        {
+                            "name": "Emirates Steel",
+                            "url": "http://www.emiratessteel.com/docs/Rebar%20in%20Coil%20Qualities%20and%20Certifications.pdf",
+                            "id": 1720
+                        },
+                        {
+                            "name": "Qatar Steel",
+                            "url": "http://www.qatarsteel.com.qa/Products/Specification/SitePages/bars.aspx",
+                            "id": 1727
+                        },
+                        {
+                            "name": "ASTM A615-79",
+                            "url": "https://law.resource.org/pub/us/cfr/ibr/003/astm.a615.1979.pdf",
+                            "id": 1715
+                        },
+                        {
+                            "name": "ASTM A615",
+                            "url": "http://www.astm.org/Standards/A615.htm",
+                            "id": 1714
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0005
+                },
+                {
+                    "recId": 9900,
+                    "name": "Phosphorus",
+                    "CASRN": "7723-14-0",
+                    "massPct": 0.0006,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Sumo Gold",
+                            "url": "http://www.sumogoldtmx.com/steel-tmt-bars/",
+                            "id": 1729
+                        },
+                        {
+                            "name": "Emirates Steel",
+                            "url": "http://www.emiratessteel.com/docs/Rebar%20in%20Coil%20Qualities%20and%20Certifications.pdf",
+                            "id": 1720
+                        },
+                        {
+                            "name": "Qatar Steel",
+                            "url": "http://www.qatarsteel.com.qa/Products/Specification/SitePages/bars.aspx",
+                            "id": 1727
+                        },
+                        {
+                            "name": "Dayton Superior",
+                            "url": "http://www.daytonsuperior.com/docs/default-source/handbooks/ds_rebar_splicing_hb.pdf?sfvrsn=6",
+                            "id": 1719
+                        },
+                        {
+                            "name": "Nucor Steel",
+                            "url": "https://www.nucorbar.com/files/File_2102.pdf",
+                            "id": 1726
+                        },
+                        {
+                            "name": "Cascade",
+                            "url": "http://www.cascadesteel.com/documents/mill/cert_of_compliance_rebar_astm_dual_grade.pdf",
+                            "id": 1717
+                        },
+                        {
+                            "name": "ASTM A615-79",
+                            "url": "https://law.resource.org/pub/us/cfr/ibr/003/astm.a615.1979.pdf",
+                            "id": 1715
+                        },
+                        {
+                            "name": "ASTM A615",
+                            "url": "http://www.astm.org/Standards/A615.htm",
+                            "id": 1714
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0006
+                },
+                {
+                    "recId": 762,
+                    "name": "Carbon",
+                    "CASRN": "7440-44-0",
+                    "massPct": 0.003,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Sumo Gold",
+                            "url": "http://www.sumogoldtmx.com/steel-tmt-bars/",
+                            "id": 1729
+                        },
+                        {
+                            "name": "Emirates Steel",
+                            "url": "http://www.emiratessteel.com/docs/Rebar%20in%20Coil%20Qualities%20and%20Certifications.pdf",
+                            "id": 1720
+                        },
+                        {
+                            "name": "ASTM A615-79",
+                            "url": "https://law.resource.org/pub/us/cfr/ibr/003/astm.a615.1979.pdf",
+                            "id": 1715
+                        },
+                        {
+                            "name": "ASTM A615",
+                            "url": "http://www.astm.org/Standards/A615.htm",
+                            "id": 1714
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.003
+                },
+                {
+                    "recId": 758,
+                    "name": "Iron",
+                    "CASRN": "7439-89-6",
+                    "massPct": 0.9859,
+                    "function": "base metal",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "MaterialGrades-40",
+                            "url": "http://www.materialgrades.com/astm-a615-reinforcement-bar-a615-40-grade-steel-935.html",
+                            "id": 1722
+                        },
+                        {
+                            "name": "MaterialGrades-75",
+                            "url": "http://www.materialgrades.com/astm-a615-reinforcement-bar-a615-75-grade-steel-942.html",
+                            "id": 1724
+                        },
+                        {
+                            "name": "MaterialGrades-60",
+                            "url": "http://www.materialgrades.com/astm-a615-reinforcement-bar-a615-60-grade-steel-939.html",
+                            "id": 1723
+                        },
+                        {
+                            "name": "Bre",
+                            "url": "http://www.ukcares.com/downloads/general/CARES_Sector_Average_EPD_Report_for_Constructional_Steel.pdf",
+                            "id": 1716
+                        },
+                        {
+                            "name": "ASTM A615-79",
+                            "url": "https://law.resource.org/pub/us/cfr/ibr/003/astm.a615.1979.pdf",
+                            "id": 1715
+                        },
+                        {
+                            "name": "ASTM A615",
+                            "url": "http://www.astm.org/Standards/A615.htm",
+                            "id": 1714
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.9859
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 1
+        }
+    ],
+    "impurities": [
+        {
+            "name": null,
+            "CASRN": null,
+            "massPct": 0,
+            "function": null,
+            "sources": [],
+            "hazards": {}
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.01,
+                    "contributors": [
+                        {
+                            "recId": 1775,
+                            "massPct": 0.01,
+                            "childrenIds": [
+                                1775,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.01,
+                    "contributors": [
+                        {
+                            "recId": 1775,
+                            "massPct": 0.01,
+                            "childrenIds": [
+                                1775,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.0106,
+                    "contributors": [
+                        {
+                            "recId": 1775,
+                            "massPct": 0.01,
+                            "childrenIds": [
+                                1775,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 1775,
+                            "massPct": 0.0006,
+                            "childrenIds": [
+                                1775,
+                                9900
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.0106,
+                    "contributors": [
+                        {
+                            "recId": 1775,
+                            "massPct": 0.01,
+                            "childrenIds": [
+                                1775,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 1775,
+                            "massPct": 0.0006,
+                            "childrenIds": [
+                                1775,
+                                9900
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.0006,
+                    "contributors": [
+                        {
+                            "recId": 1775,
+                            "massPct": 0.0006,
+                            "childrenIds": [
+                                1775,
+                                9900
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.01,
+                    "contributors": [
+                        {
+                            "recId": 1775,
+                            "massPct": 0.01,
+                            "childrenIds": [
+                                1775,
+                                760
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "Cradle-to-gate. Combination of electric arc furnace (EAF) / blast furnace averaged route. Includes all upstream manufacturing and transportation to the gate of the structual steel fabricator.",
+        "gabiDatasets": [
+            {
+                "name": "GLO: Steel rebar"
+            }
+        ],
+        "foregroundDataSource": "worldsteel",
+        "backforegroundDataSource": "n/a",
+        "postConsumerRecycledContent": "70%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "72% recycled (product has 70% scrap input, difference in mass results in EoL burden); 28% to landfill (ferro metal)",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "3.53E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.63E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "1.26E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.21E-08"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "4.43E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "1.64E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "-1.37E-05"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "3.38E-06"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "-1.93E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.16E-09"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "6.01E-04"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "-5.83E-02"
+                }
+            ]
+        }
+    },
+    "id": "CP000",
+    "name": "Rebar (40,60,75,80 Grade Steel)",
+    "altNames": [
+        "Reinforcement Bar",
+        "Concrete Reinforcement"
+    ],
+    "uniformats": [
+        {
+            "id": "B2010",
+            "name": "Exterior Walls"
+        },
+        {
+            "id": "B1020",
+            "name": "Roof Construction"
+        },
+        {
+            "id": "B1010",
+            "name": "Floor Construction"
+        },
+        {
+            "id": "A1010",
+            "name": "Standard Foundations"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "03-21-00",
+            "name": "Reinforcing-Steel"
+        }
+    ],
+    "recordType": "Common",
+    "description": "ASTM A615 describes grades 40, 60, 75 and 80 steel rebar made with low-carbon alloy steel.  Like all rebar, ASTM A615 bars can be made to be plain (smooth), or deformed (texturized to give the concrete more surface area to adhere to).  The standard allows for rebar to be manufactured in any process where resulting product meets minimum standards for composition and tensile properties.  Steel rebar is made from upwards of 95% recycled content.",
+    "sources": [
+        {
+            "name": "Video",
+            "url": "http://www.crsi.org/index.cfm/about/pbs",
+            "id": 1730
+        },
+        {
+            "name": "Sumo Gold",
+            "url": "http://www.sumogoldtmx.com/steel-tmt-bars/",
+            "id": 1729
+        },
+        {
+            "name": "Recycle",
+            "url": "http://www.crsi.org/index.cfm/steel/recycling",
+            "id": 1728
+        },
+        {
+            "name": "Qatar Steel",
+            "url": "http://www.qatarsteel.com.qa/Products/Specification/SitePages/bars.aspx",
+            "id": 1727
+        },
+        {
+            "name": "Nucor Steel",
+            "url": "https://www.nucorbar.com/files/File_2102.pdf",
+            "id": 1726
+        },
+        {
+            "name": "Mill",
+            "url": "http://www.crsi.org/index.cfm/steel/mill",
+            "id": 1725
+        },
+        {
+            "name": "MaterialGrades-75",
+            "url": "http://www.materialgrades.com/astm-a615-reinforcement-bar-a615-75-grade-steel-942.html",
+            "id": 1724
+        },
+        {
+            "name": "MaterialGrades-60",
+            "url": "http://www.materialgrades.com/astm-a615-reinforcement-bar-a615-60-grade-steel-939.html",
+            "id": 1723
+        },
+        {
+            "name": "MaterialGrades-40",
+            "url": "http://www.materialgrades.com/astm-a615-reinforcement-bar-a615-40-grade-steel-935.html",
+            "id": 1722
+        },
+        {
+            "name": "Identification",
+            "url": "http://www.crsi.org/index.cfm/steel/identification",
+            "id": 1721
+        },
+        {
+            "name": "Emirates Steel",
+            "url": "http://www.emiratessteel.com/docs/Rebar%20in%20Coil%20Qualities%20and%20Certifications.pdf",
+            "id": 1720
+        },
+        {
+            "name": "Dayton Superior",
+            "url": "http://www.daytonsuperior.com/docs/default-source/handbooks/ds_rebar_splicing_hb.pdf?sfvrsn=6",
+            "id": 1719
+        },
+        {
+            "name": "CRSI",
+            "url": "http://crsi.org/index.cfm/steel/about",
+            "id": 1718
+        },
+        {
+            "name": "Cascade",
+            "url": "http://www.cascadesteel.com/documents/mill/cert_of_compliance_rebar_astm_dual_grade.pdf",
+            "id": 1717
+        },
+        {
+            "name": "Bre",
+            "url": "http://www.ukcares.com/downloads/general/CARES_Sector_Average_EPD_Report_for_Constructional_Steel.pdf",
+            "id": 1716
+        },
+        {
+            "name": "ASTM A615-79",
+            "url": "https://law.resource.org/pub/us/cfr/ibr/003/astm.a615.1979.pdf",
+            "id": 1715
+        },
+        {
+            "name": "ASTM A615",
+            "url": "http://www.astm.org/Standards/A615.htm",
+            "id": 1714
+        },
+        {
+            "name": "ASTM A706",
+            "url": "http://www.astm.org/Standards/A706.htm",
+            "id": 1713
+        }
+    ]
+}

@@ -1,0 +1,983 @@
+{
+    "CPID": "CP149",
+    "timestamp": 1452102148780,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 9081,
+            "name": "Jute",
+            "CASRN": "9004-34-6",
+            "massPct": 0.08279,
+            "function": "backing",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "NIST",
+                    "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Linoleum%20Flooring.pdf",
+                    "id": 9066
+                },
+                {
+                    "name": "Dovetail",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/2135/1335146069.pdf",
+                    "id": 9062
+                },
+                {
+                    "name": "Tarkett EPD",
+                    "url": "http://www.johnsonite.com/Portals/8/linoleumEPD.pdf",
+                    "id": 9070
+                },
+                {
+                    "name": "Decibel EPD",
+                    "url": "https://forbo.blob.core.windows.net/forbodocuments/13133/FORBO%20115.1%20EPD%20MarmoleumDecibel.pdf",
+                    "id": 9061
+                },
+                {
+                    "name": "Marmoleum EPD",
+                    "url": "http://forbo.blob.core.windows.net/forbodocuments/314/FORBO_101.1_EPD_Marmoleum2.0_and_2.5mm.pdf",
+                    "id": 9064
+                },
+                {
+                    "name": "Armstrong EPD",
+                    "url": "http://www.astm.org/CERTIFICATION/DOCS/149.F8973_CommFlooring_EPD_LINO_614_V10.pdf",
+                    "id": 9057
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.08279
+        },
+        {
+            "recId": 9080,
+            "name": "Linseed Oil",
+            "CASRN": "8001-26-1",
+            "massPct": 0.23081,
+            "function": "binder",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "NIST",
+                    "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Linoleum%20Flooring.pdf",
+                    "id": 9066
+                },
+                {
+                    "name": "Dovetail",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/2135/1335146069.pdf",
+                    "id": 9062
+                },
+                {
+                    "name": "Tarkett EPD",
+                    "url": "http://www.johnsonite.com/Portals/8/linoleumEPD.pdf",
+                    "id": 9070
+                },
+                {
+                    "name": "Tile EPD",
+                    "url": "https://forbo.blob.core.windows.net/forbodocuments/13130/FORBO%20102.1%20EPD%20MarmoleumTile2.0and2.5mm.pdf",
+                    "id": 9072
+                },
+                {
+                    "name": "Decibel EPD",
+                    "url": "https://forbo.blob.core.windows.net/forbodocuments/13133/FORBO%20115.1%20EPD%20MarmoleumDecibel.pdf",
+                    "id": 9061
+                },
+                {
+                    "name": "Marmoleum EPD",
+                    "url": "http://forbo.blob.core.windows.net/forbodocuments/314/FORBO_101.1_EPD_Marmoleum2.0_and_2.5mm.pdf",
+                    "id": 9064
+                },
+                {
+                    "name": "Armstrong EPD",
+                    "url": "http://www.astm.org/CERTIFICATION/DOCS/149.F8973_CommFlooring_EPD_LINO_614_V10.pdf",
+                    "id": 9057
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.23081
+        },
+        {
+            "recId": 2766,
+            "name": "Titanium Dioxide",
+            "CASRN": "13463-67-7",
+            "massPct": 0.03562,
+            "function": "pigment",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "NIST",
+                    "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Linoleum%20Flooring.pdf",
+                    "id": 9066
+                },
+                {
+                    "name": "Tarkett EPD",
+                    "url": "http://www.johnsonite.com/Portals/8/linoleumEPD.pdf",
+                    "id": 9070
+                },
+                {
+                    "name": "Tile EPD",
+                    "url": "https://forbo.blob.core.windows.net/forbodocuments/13130/FORBO%20102.1%20EPD%20MarmoleumTile2.0and2.5mm.pdf",
+                    "id": 9072
+                },
+                {
+                    "name": "Decibel EPD",
+                    "url": "https://forbo.blob.core.windows.net/forbodocuments/13133/FORBO%20115.1%20EPD%20MarmoleumDecibel.pdf",
+                    "id": 9061
+                },
+                {
+                    "name": "Marmoleum EPD",
+                    "url": "http://forbo.blob.core.windows.net/forbodocuments/314/FORBO_101.1_EPD_Marmoleum2.0_and_2.5mm.pdf",
+                    "id": 9064
+                },
+                {
+                    "name": "Armstrong EPD",
+                    "url": "http://www.astm.org/CERTIFICATION/DOCS/149.F8973_CommFlooring_EPD_LINO_614_V10.pdf",
+                    "id": 9057
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.03562
+        },
+        {
+            "recId": 8554,
+            "name": "Gum Rosin",
+            "CASRN": "8050-09-7",
+            "massPct": 0.03161,
+            "function": "binder",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "NIST",
+                    "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Linoleum%20Flooring.pdf",
+                    "id": 9066
+                },
+                {
+                    "name": "Tarkett EPD",
+                    "url": "http://www.johnsonite.com/Portals/8/linoleumEPD.pdf",
+                    "id": 9070
+                },
+                {
+                    "name": "Tile EPD",
+                    "url": "https://forbo.blob.core.windows.net/forbodocuments/13130/FORBO%20102.1%20EPD%20MarmoleumTile2.0and2.5mm.pdf",
+                    "id": 9072
+                },
+                {
+                    "name": "Decibel EPD",
+                    "url": "https://forbo.blob.core.windows.net/forbodocuments/13133/FORBO%20115.1%20EPD%20MarmoleumDecibel.pdf",
+                    "id": 9061
+                },
+                {
+                    "name": "Marmoleum EPD",
+                    "url": "http://forbo.blob.core.windows.net/forbodocuments/314/FORBO_101.1_EPD_Marmoleum2.0_and_2.5mm.pdf",
+                    "id": 9064
+                },
+                {
+                    "name": "Armstrong EPD",
+                    "url": "http://www.astm.org/CERTIFICATION/DOCS/149.F8973_CommFlooring_EPD_LINO_614_V10.pdf",
+                    "id": 9057
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.03161
+        },
+        {
+            "recId": 6615,
+            "name": "Alumina Trihydrate",
+            "CASRN": "21645-51-2",
+            "massPct": 0.04767,
+            "function": "flame retardent",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "EU EPD",
+                    "url": "http://construction-environment.com/download/Cffb648dX13dea6483bcX24d6/EPD_ERF_2013811_E.pdf",
+                    "id": 9063
+                },
+                {
+                    "name": "Armstrong EPD",
+                    "url": "http://www.astm.org/CERTIFICATION/DOCS/149.F8973_CommFlooring_EPD_LINO_614_V10.pdf",
+                    "id": 9057
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.04767
+        },
+        {
+            "recId": 9082,
+            "name": "Crosslinked Urethane Acrylate Resin",
+            "CASRN": "unknown",
+            "massPct": 0.00853,
+            "function": "lacquer",
+            "hazards": {
+                "unknown": [
+                    {
+                        "hazardId": "unknown-11424",
+                        "type": "unknown",
+                        "name": "Unknown",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "NIST",
+                    "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Linoleum%20Flooring.pdf",
+                    "id": 9066
+                },
+                {
+                    "name": "Dovetail",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/2135/1335146069.pdf",
+                    "id": 9062
+                },
+                {
+                    "name": "EU EPD",
+                    "url": "http://construction-environment.com/download/Cffb648dX13dea6483bcX24d6/EPD_ERF_2013811_E.pdf",
+                    "id": 9063
+                },
+                {
+                    "name": "Tile EPD",
+                    "url": "https://forbo.blob.core.windows.net/forbodocuments/13130/FORBO%20102.1%20EPD%20MarmoleumTile2.0and2.5mm.pdf",
+                    "id": 9072
+                },
+                {
+                    "name": "Decibel EPD",
+                    "url": "https://forbo.blob.core.windows.net/forbodocuments/13133/FORBO%20115.1%20EPD%20MarmoleumDecibel.pdf",
+                    "id": 9061
+                },
+                {
+                    "name": "Armstrong EPD",
+                    "url": "http://www.astm.org/CERTIFICATION/DOCS/149.F8973_CommFlooring_EPD_LINO_614_V10.pdf",
+                    "id": 9057
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.00853
+        },
+        {
+            "recId": 9078,
+            "name": "Wood Flour",
+            "CASRN": "",
+            "massPct": 0.29353,
+            "function": "filler",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Tarkett EPD",
+                    "url": "http://www.johnsonite.com/Portals/8/linoleumEPD.pdf",
+                    "id": 9070
+                },
+                {
+                    "name": "Armstrong EPD",
+                    "url": "http://www.astm.org/CERTIFICATION/DOCS/149.F8973_CommFlooring_EPD_LINO_614_V10.pdf",
+                    "id": 9057
+                },
+                {
+                    "name": "NIST",
+                    "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Linoleum%20Flooring.pdf",
+                    "id": 9066
+                },
+                {
+                    "name": "Dovetail",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/2135/1335146069.pdf",
+                    "id": 9062
+                },
+                {
+                    "name": "Tile EPD",
+                    "url": "https://forbo.blob.core.windows.net/forbodocuments/13130/FORBO%20102.1%20EPD%20MarmoleumTile2.0and2.5mm.pdf",
+                    "id": 9072
+                },
+                {
+                    "name": "Decibel EPD",
+                    "url": "https://forbo.blob.core.windows.net/forbodocuments/13133/FORBO%20115.1%20EPD%20MarmoleumDecibel.pdf",
+                    "id": 9061
+                },
+                {
+                    "name": "Marmoleum EPD",
+                    "url": "http://forbo.blob.core.windows.net/forbodocuments/314/FORBO_101.1_EPD_Marmoleum2.0_and_2.5mm.pdf",
+                    "id": 9064
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.29353
+        },
+        {
+            "recId": 9079,
+            "name": "Recycled Linoleum Scraps",
+            "CASRN": "unknown",
+            "massPct": 0.10035,
+            "function": "filler",
+            "hazards": {
+                "unknown": [
+                    {
+                        "hazardId": "unknown-11424",
+                        "type": "unknown",
+                        "name": "Unknown",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "EU EPD",
+                    "url": "http://construction-environment.com/download/Cffb648dX13dea6483bcX24d6/EPD_ERF_2013811_E.pdf",
+                    "id": 9063
+                },
+                {
+                    "name": "Tarkett EPD",
+                    "url": "http://www.johnsonite.com/Portals/8/linoleumEPD.pdf",
+                    "id": 9070
+                },
+                {
+                    "name": "Tile EPD",
+                    "url": "https://forbo.blob.core.windows.net/forbodocuments/13130/FORBO%20102.1%20EPD%20MarmoleumTile2.0and2.5mm.pdf",
+                    "id": 9072
+                },
+                {
+                    "name": "Decibel EPD",
+                    "url": "https://forbo.blob.core.windows.net/forbodocuments/13133/FORBO%20115.1%20EPD%20MarmoleumDecibel.pdf",
+                    "id": 9061
+                },
+                {
+                    "name": "Marmoleum EPD",
+                    "url": "http://forbo.blob.core.windows.net/forbodocuments/314/FORBO_101.1_EPD_Marmoleum2.0_and_2.5mm.pdf",
+                    "id": 9064
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.10035
+        },
+        {
+            "recId": 3759,
+            "name": "Limestone",
+            "CASRN": "1317-65-3",
+            "massPct": 0.16909,
+            "function": "filler",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "NIST",
+                    "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Linoleum%20Flooring.pdf",
+                    "id": 9066
+                },
+                {
+                    "name": "Dovetail",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/2135/1335146069.pdf",
+                    "id": 9062
+                },
+                {
+                    "name": "EU EPD",
+                    "url": "http://construction-environment.com/download/Cffb648dX13dea6483bcX24d6/EPD_ERF_2013811_E.pdf",
+                    "id": 9063
+                },
+                {
+                    "name": "Tarkett EPD",
+                    "url": "http://www.johnsonite.com/Portals/8/linoleumEPD.pdf",
+                    "id": 9070
+                },
+                {
+                    "name": "Tile EPD",
+                    "url": "https://forbo.blob.core.windows.net/forbodocuments/13130/FORBO%20102.1%20EPD%20MarmoleumTile2.0and2.5mm.pdf",
+                    "id": 9072
+                },
+                {
+                    "name": "Decibel EPD",
+                    "url": "https://forbo.blob.core.windows.net/forbodocuments/13133/FORBO%20115.1%20EPD%20MarmoleumDecibel.pdf",
+                    "id": 9061
+                },
+                {
+                    "name": "Marmoleum EPD",
+                    "url": "http://forbo.blob.core.windows.net/forbodocuments/314/FORBO_101.1_EPD_Marmoleum2.0_and_2.5mm.pdf",
+                    "id": 9064
+                },
+                {
+                    "name": "Armstrong EPD",
+                    "url": "http://www.astm.org/CERTIFICATION/DOCS/149.F8973_CommFlooring_EPD_LINO_614_V10.pdf",
+                    "id": 9057
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.16909
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Quartz",
+            "CASRN": "14808-60-7",
+            "massPct": null,
+            "function": "limestone residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "2-(Acryloyloxy)ethanol",
+            "CASRN": "818-61-1",
+            "massPct": null,
+            "function": "lacquer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Polyester Acrylate",
+            "CASRN": "unknown",
+            "massPct": null,
+            "function": "lacquer residual",
+            "sources": [],
+            "hazards": {
+                "unknown": [
+                    {
+                        "hazardId": "unknown-11424",
+                        "type": "unknown",
+                        "name": "Unknown"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Octyl-Dimethyl-P-Aminobenzoic Acid",
+            "CASRN": "21245-02-3",
+            "massPct": null,
+            "function": "lacquer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Isophorone Diisocyanate",
+            "CASRN": "4098-71-9",
+            "massPct": null,
+            "function": "lacquer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Trimethylolpropane Triacrylate",
+            "CASRN": "15625-89-5",
+            "massPct": null,
+            "function": "lacquer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.03562,
+                    "contributors": [
+                        {
+                            "recId": 2766,
+                            "massPct": 0.03562,
+                            "childrenIds": [
+                                2766
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-577",
+                    "type": "orange",
+                    "name": "Skin Sensitization",
+                    "massPct": 0.03161,
+                    "contributors": [
+                        {
+                            "recId": 8554,
+                            "massPct": 0.03161,
+                            "childrenIds": [
+                                8554
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.32514,
+                    "contributors": [
+                        {
+                            "recId": 8554,
+                            "massPct": 0.03161,
+                            "childrenIds": [
+                                8554
+                            ]
+                        },
+                        {
+                            "recId": 9078,
+                            "massPct": 0.29353,
+                            "childrenIds": [
+                                9078
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.04767,
+                    "contributors": [
+                        {
+                            "recId": 6615,
+                            "massPct": 0.04767,
+                            "childrenIds": [
+                                6615
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.03562,
+                    "contributors": [
+                        {
+                            "recId": 2766,
+                            "massPct": 0.03562,
+                            "childrenIds": [
+                                2766
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "unknown": [
+                {
+                    "hazardId": "unknown-11424",
+                    "type": "unknown",
+                    "name": "Unknown",
+                    "massPct": 0.10887999999999999,
+                    "contributors": [
+                        {
+                            "recId": 9082,
+                            "massPct": 0.00853,
+                            "childrenIds": [
+                                9082
+                            ]
+                        },
+                        {
+                            "recId": 9079,
+                            "massPct": 0.10035,
+                            "childrenIds": [
+                                9079
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "Cradle-to-gate system boundary includes impacts associated with upstream material production, inbound transport, and on-site manufacturing. The majority, if not all, of US linoleum is imported from Europe (Linoleum Imports), therefore transport from Europe is included though further distribution within the US falls outside the scope. Product composition from industry average EPD (ERFMI EPD): additives, 9.5%; filler, 16%; flame retardant, 2.5%; pigments, 3.9%; linseed oil, jute, wood/cork flour, 57.7%;auxiliaries, 0.2%; lacquer, 0.7%; flooring recyclate (linoleum), 9.6%.",
+        "gabiDatasets": [
+            {
+                "name": "GLO: Container ship"
+            },
+            {
+                "name": "EU-27: Diesel mix at filling station"
+            },
+            {
+                "name": "EU-27: Resilient flooring, Linoleum, EN ISO 24011, 1m2 ERFMI"
+            }
+        ],
+        "foregroundDataSource": "ERFMI",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "9.6% (ERFMI EPD)",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% to landfill (biodegradable). \nRecycling is un-likely as production is in the EU while the consumer is in the US. While composting and incineration are both viable disposal routes for linoleum, information on their respective rates in the US is unavilable.",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "1.65E-02"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "5.63E-03"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "9.56E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "3.78E-09"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "2.62E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "5.67E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "2.86E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.30E-03"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.97E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "2.04E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.17E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "1.56E+00"
+                }
+            ]
+        }
+    },
+    "id": "CP149",
+    "name": "Linoleum Flooring",
+    "altNames": [
+        "Resilient flooring",
+        "lino"
+    ],
+    "uniformats": [
+        {
+            "id": "C2040",
+            "name": "Stair Finishes"
+        },
+        {
+            "id": "C2030",
+            "name": "Flooring"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "09-65-00",
+            "name": "Resilient Flooring"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Linoleum flooring is a type of resilient flooring that can be applied with adhesive over a number of different substrates (concrete, seamless floors, tile, marble, approved wood, old resilient flooring, metal). It comes in 2.0 or 2.5 mm thick rolls or in tiles, although the 2.5 mm thickness is most common in commercial products. The linoleum sheet or tile is comprised of linoleum sandwiched between a jute backing and a factory-applied UV-cured lacquer. Linoleum comes in a variety of colors and the color runs through the entire thickness of the tile. This survey focused on white or neutral-colored linoleum; other colors will require the addition of pigments with different CASRNs and potential health hazards. After the linoleum has been installed most products require daily maintenance in the form of mopping, with periodic machine scrubbing and/or buffing. Some linoleum products also need to have polished applied a few times per year. If properly maintained, linoleum flooring will last 35-40 years. Most linoleum contains between 30-43% pre-consumer recycled content in the form of linoleum production scraps and recycled wood/cork powder.",
+    "sources": [
+        {
+            "name": "ERFMI EPD",
+            "url": "http://construction-environment.com/download/Cffb648dX13dea6483bcX24d6/EPD_ERF_2013811_E.pdf?ITServ=Cf3ccd46X14f93bf1d38XY36cf",
+            "id": 9077
+        },
+        {
+            "name": "Linoleum Imports",
+            "url": "https://greenspec.buildinggreen.com/article/linoleum-all-natural-flooring-alternative",
+            "id": 9076
+        },
+        {
+            "name": "Forbo Recycle",
+            "url": "http://www.forbo.com/flooring/en-gl/products/consumer-products/marmoleum-sheet/bz1iyr",
+            "id": 9075
+        },
+        {
+            "name": "Armstrong Spec",
+            "url": "http://www.armstrong.com/pdbupimages/206892.PDF",
+            "id": 9074
+        },
+        {
+            "name": "Tarkett Tech",
+            "url": "http://www.johnsonite.com/FlooringProducts/HarmoniumxfLinoleum.aspx",
+            "id": 9073
+        },
+        {
+            "name": "Tile EPD",
+            "url": "https://forbo.blob.core.windows.net/forbodocuments/13130/FORBO%20102.1%20EPD%20MarmoleumTile2.0and2.5mm.pdf",
+            "id": 9072
+        },
+        {
+            "name": "Tarkett Patent",
+            "url": "https://www.google.com/patents/US7811476?dq=uv-curable+waterborne+polyurethane-acrylate+linoleum&hl=en&sa=X&ved=0CCsQ6AEwAmoVChMIr97w89yPxwIVBHs-Ch126QE_",
+            "id": 9071
+        },
+        {
+            "name": "Tarkett EPD",
+            "url": "http://www.johnsonite.com/Portals/8/linoleumEPD.pdf",
+            "id": 9070
+        },
+        {
+            "name": "RFCI",
+            "url": "http://www.rfci.com/about-us/",
+            "id": 9069
+        },
+        {
+            "name": "PCI Lacquer",
+            "url": "http://www.pcimag.com/articles/84936-uv-curable-acrylic-urethane-coatings-for-weatherable-applications",
+            "id": 9068
+        },
+        {
+            "name": "Patent 1",
+            "url": "http://www.google.com/patents/US20100276059",
+            "id": 9067
+        },
+        {
+            "name": "NIST",
+            "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Linoleum%20Flooring.pdf",
+            "id": 9066
+        },
+        {
+            "name": "Marmoleum MSDS",
+            "url": "https://forbo.blob.core.windows.net/forbodocuments/15283/MSDS%20Marmoleum%20Walton,%20Real,%20Fresco,%20Vivace,%20Concrete,%20Striato,%20Graphic,%20Oxyd,%20Piano,%20Unexpected%20Nature.pdf",
+            "id": 9065
+        },
+        {
+            "name": "Marmoleum EPD",
+            "url": "http://forbo.blob.core.windows.net/forbodocuments/314/FORBO_101.1_EPD_Marmoleum2.0_and_2.5mm.pdf",
+            "id": 9064
+        },
+        {
+            "name": "EU EPD",
+            "url": "http://construction-environment.com/download/Cffb648dX13dea6483bcX24d6/EPD_ERF_2013811_E.pdf",
+            "id": 9063
+        },
+        {
+            "name": "Dovetail",
+            "url": "https://www.pharosproject.net/uploads/files/sources/2135/1335146069.pdf",
+            "id": 9062
+        },
+        {
+            "name": "Decibel EPD",
+            "url": "https://forbo.blob.core.windows.net/forbodocuments/13133/FORBO%20115.1%20EPD%20MarmoleumDecibel.pdf",
+            "id": 9061
+        },
+        {
+            "name": "Bayer Patent",
+            "url": "https://www.google.com/patents/US6500876?dq=UV-curable+polyurethane+acrylate&hl=en&sa=X&ved=0CEAQ6AEwBWoVChMIp4nChYyQxwIVR1Y-Ch0_bAD8",
+            "id": 9060
+        },
+        {
+            "name": "Ashland Patent",
+            "url": "https://www.google.com/patents/US7166649?dq=UV-curable+polyurethane+acrylate&hl=en&sa=X&ved=0CCsQ6AEwAmoVChMIp4nChYyQxwIVR1Y-Ch0_bAD8",
+            "id": 9059
+        },
+        {
+            "name": "Armstrong Patent",
+            "url": "http://www.google.com/patents/WO2014036462A1?cl=en",
+            "id": 9058
+        },
+        {
+            "name": "Armstrong EPD",
+            "url": "http://www.astm.org/CERTIFICATION/DOCS/149.F8973_CommFlooring_EPD_LINO_614_V10.pdf",
+            "id": 9057
+        },
+        {
+            "name": "Akzo Patent",
+            "url": "https://www.google.com/patents/US8114920?dq=UV-curable+polyurethane+acrylate&hl=en&sa=X&ved=0CCQQ6AEwAWoVChMIp4nChYyQxwIVR1Y-Ch0_bAD8",
+            "id": 9056
+        }
+    ]
+}

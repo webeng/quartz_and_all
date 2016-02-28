@@ -1,0 +1,1401 @@
+{
+    "CPID": "CP048",
+    "timestamp": 1452102110636,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 2795,
+            "name": "Calcium Oxide",
+            "CASRN": "1305-78-8",
+            "massPct": 0.01687289089,
+            "function": "moisture scavenger",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Quickcrete",
+                    "url": "http://www.quikrete.com/PDFs/MSDS-X1-PolyureNonSag.pdf",
+                    "id": 6025
+                },
+                {
+                    "name": "3M 525",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xm8t9lxtSNv70k17zHvu9lxtD7SSSSSS--",
+                    "id": 6024
+                },
+                {
+                    "name": "Geocel",
+                    "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=GEOCEL&prodno=079239391029&doctype=MSDS&lang=2",
+                    "id": 6023
+                },
+                {
+                    "name": "MasterSeal",
+                    "url": "http://worldaccount.basf.com/wa/NAFTA~en_US/Catalog/ConstCommercial/doc4/BASF/PRD/30606598/.pdf?title=&asset_type=msds/pdf&language=EN&validArea=US&urn=urn:documentum:ProductBase_EU:09007af88034c2c3.pdf",
+                    "id": 6020
+                },
+                {
+                    "name": "Dymonic",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/960806_323_U.pdf",
+                    "id": 6016
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.01687289089
+        },
+        {
+            "recId": 6032,
+            "name": "Dibutyltin Dilaurate",
+            "CASRN": "77-58-7",
+            "massPct": 0.0005624296963,
+            "function": "catalyst",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "CRT Patent",
+                    "url": "https://www.google.com/patents/US7956122",
+                    "id": 6027
+                },
+                {
+                    "name": "Eastman Patent",
+                    "url": "https://www.google.com/patents/US8784989",
+                    "id": 6028
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.0005624296963
+        },
+        {
+            "recId": 6033,
+            "name": "Trimethoxy(3-(oxiranylmethoxy)propyl)silane",
+            "CASRN": "2530-83-8",
+            "massPct": 0.007311586052,
+            "function": "adhesion promoter",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "CRT Patent",
+                    "url": "https://www.google.com/patents/US7956122",
+                    "id": 6027
+                },
+                {
+                    "name": "MasterSeal",
+                    "url": "http://worldaccount.basf.com/wa/NAFTA~en_US/Catalog/ConstCommercial/doc4/BASF/PRD/30606598/.pdf?title=&asset_type=msds/pdf&language=EN&validArea=US&urn=urn:documentum:ProductBase_EU:09007af88034c2c3.pdf",
+                    "id": 6020
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.007311586052
+        },
+        {
+            "recId": 2766,
+            "name": "Titanium Dioxide",
+            "CASRN": "13463-67-7",
+            "massPct": 0.05286839145,
+            "function": "pigment/uv stabilzer",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Eastman Patent",
+                    "url": "https://www.google.com/patents/US8784989",
+                    "id": 6028
+                },
+                {
+                    "name": "Quickcrete",
+                    "url": "http://www.quikrete.com/PDFs/MSDS-X1-PolyureNonSag.pdf",
+                    "id": 6025
+                },
+                {
+                    "name": "3M 525",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xm8t9lxtSNv70k17zHvu9lxtD7SSSSSS--",
+                    "id": 6024
+                },
+                {
+                    "name": "Geocel",
+                    "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=GEOCEL&prodno=079239391029&doctype=MSDS&lang=2",
+                    "id": 6023
+                },
+                {
+                    "name": "MasterSeal",
+                    "url": "http://worldaccount.basf.com/wa/NAFTA~en_US/Catalog/ConstCommercial/doc4/BASF/PRD/30606598/.pdf?title=&asset_type=msds/pdf&language=EN&validArea=US&urn=urn:documentum:ProductBase_EU:09007af88034c2c3.pdf",
+                    "id": 6020
+                },
+                {
+                    "name": "Bostik",
+                    "url": "http://msds.bostik-us.com/hsedoc/docs/atn/msds_us/default/05035200.pdf",
+                    "id": 6019
+                },
+                {
+                    "name": "Dymonic",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/960806_323_U.pdf",
+                    "id": 6016
+                },
+                {
+                    "name": "Dynatrol",
+                    "url": "http://pecora.com/pdfs/DynaTrol%20I-XL%20SDS_3-15.pdf",
+                    "id": 6015
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.05286839145
+        },
+        {
+            "recId": 2805,
+            "name": "Xylene",
+            "CASRN": "1330-20-7",
+            "massPct": 0.05624296963,
+            "function": "solvent",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Quickcrete",
+                    "url": "http://www.quikrete.com/PDFs/MSDS-X1-PolyureNonSag.pdf",
+                    "id": 6025
+                },
+                {
+                    "name": "3M 525",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xm8t9lxtSNv70k17zHvu9lxtD7SSSSSS--",
+                    "id": 6024
+                },
+                {
+                    "name": "Pourthane",
+                    "url": "http://www.wrmeadows.com/MSDS-PDF/4726300.pdf",
+                    "id": 6021
+                },
+                {
+                    "name": "Bostik",
+                    "url": "http://msds.bostik-us.com/hsedoc/docs/atn/msds_us/default/05035200.pdf",
+                    "id": 6019
+                },
+                {
+                    "name": "Sikaflex",
+                    "url": "http://usa.sika.com/dms/getdocument.get/b1059e15-2ba0-374b-8329-6e27c15e2651/msds-cpd-Sikaflex%2015%20LM-us.pdf",
+                    "id": 6017
+                },
+                {
+                    "name": "Dynatrol",
+                    "url": "http://pecora.com/pdfs/DynaTrol%20I-XL%20SDS_3-15.pdf",
+                    "id": 6015
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.05624296963
+        },
+        {
+            "recId": 3759,
+            "name": "Limestone",
+            "CASRN": "1317-65-3",
+            "massPct": 0.2868391451,
+            "function": "filler",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Eastman Patent",
+                    "url": "https://www.google.com/patents/US8784989",
+                    "id": 6028
+                },
+                {
+                    "name": "CRT Patent",
+                    "url": "https://www.google.com/patents/US7956122",
+                    "id": 6027
+                },
+                {
+                    "name": "Geocel",
+                    "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=GEOCEL&prodno=079239391029&doctype=MSDS&lang=2",
+                    "id": 6023
+                },
+                {
+                    "name": "MasterSeal",
+                    "url": "http://worldaccount.basf.com/wa/NAFTA~en_US/Catalog/ConstCommercial/doc4/BASF/PRD/30606598/.pdf?title=&asset_type=msds/pdf&language=EN&validArea=US&urn=urn:documentum:ProductBase_EU:09007af88034c2c3.pdf",
+                    "id": 6020
+                },
+                {
+                    "name": "Quickcrete",
+                    "url": "http://www.quikrete.com/PDFs/MSDS-X1-PolyureNonSag.pdf",
+                    "id": 6025
+                },
+                {
+                    "name": "Dymonic",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/960806_323_U.pdf",
+                    "id": 6016
+                },
+                {
+                    "name": "Dynatrol",
+                    "url": "http://pecora.com/pdfs/DynaTrol%20I-XL%20SDS_3-15.pdf",
+                    "id": 6015
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.2868391451
+        },
+        {
+            "recId": 6031,
+            "name": "Butyl Benzyl Phthalate",
+            "CASRN": "85-68-7",
+            "massPct": 0.1968503937,
+            "function": "plasticizer",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Quickcrete",
+                    "url": "http://www.quikrete.com/PDFs/MSDS-X1-PolyureNonSag.pdf",
+                    "id": 6025
+                },
+                {
+                    "name": "Permathane",
+                    "url": "http://pacpoly.com/wp-content/uploads/bsk-pdf-manager/74_SM7108_PERMATHANE_SM7108_POLYURETHANE_SEALANT.PDF",
+                    "id": 6022
+                },
+                {
+                    "name": "Dymonic",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/960806_323_U.pdf",
+                    "id": 6016
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.1968503937
+        },
+        {
+            "recId": 6029,
+            "name": "Polyurethane Prepolymer",
+            "CASRN": "9016-87-9",
+            "massPct": 0.3599550056,
+            "function": "prepolymer",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Eastman Patent",
+                    "url": "https://www.google.com/patents/US8784989",
+                    "id": 6028
+                },
+                {
+                    "name": "CRT Patent",
+                    "url": "https://www.google.com/patents/US7956122",
+                    "id": 6027
+                },
+                {
+                    "name": "Quickcrete",
+                    "url": "http://www.quikrete.com/PDFs/MSDS-X1-PolyureNonSag.pdf",
+                    "id": 6025
+                },
+                {
+                    "name": "3M 525",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xm8t9lxtSNv70k17zHvu9lxtD7SSSSSS--",
+                    "id": 6024
+                },
+                {
+                    "name": "Dymonic",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/960806_323_U.pdf",
+                    "id": 6016
+                },
+                {
+                    "name": "Geocel",
+                    "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=GEOCEL&prodno=079239391029&doctype=MSDS&lang=2",
+                    "id": 6023
+                }
+            ],
+            "notes": "This CASRN is for a representative polyurethane prepolymer. There will be variation of the exact polyurethane prepolymer used between manufacturers.",
+            "lca": "yes",
+            "massPctOfTotal": 0.3599550056
+        },
+        {
+            "recId": 4451,
+            "name": "Ethylbenzene",
+            "CASRN": "100-41-4",
+            "massPct": 0.01124859393,
+            "function": "solvent",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Quickcrete",
+                    "url": "http://www.quikrete.com/PDFs/MSDS-X1-PolyureNonSag.pdf",
+                    "id": 6025
+                },
+                {
+                    "name": "3M 525",
+                    "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xm8t9lxtSNv70k17zHvu9lxtD7SSSSSS--",
+                    "id": 6024
+                },
+                {
+                    "name": "Bostik",
+                    "url": "http://msds.bostik-us.com/hsedoc/docs/atn/msds_us/default/05035200.pdf",
+                    "id": 6019
+                },
+                {
+                    "name": "Sikaflex",
+                    "url": "http://usa.sika.com/dms/getdocument.get/b1059e15-2ba0-374b-8329-6e27c15e2651/msds-cpd-Sikaflex%2015%20LM-us.pdf",
+                    "id": 6017
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.01124859393
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Quartz",
+            "CASRN": "14808-60-7",
+            "massPct": 0.001,
+            "function": "limestone residual",
+            "sources": [
+                {
+                    "name": "Quickcrete",
+                    "url": "http://www.quikrete.com/PDFs/MSDS-X1-PolyureNonSag.pdf",
+                    "id": 6025
+                },
+                {
+                    "name": "Sikaflex",
+                    "url": "http://usa.sika.com/dms/getdocument.get/b1059e15-2ba0-374b-8329-6e27c15e2651/msds-cpd-Sikaflex%2015%20LM-us.pdf",
+                    "id": 6017
+                },
+                {
+                    "name": "Dynatrol",
+                    "url": "http://pecora.com/pdfs/DynaTrol%20I-XL%20SDS_3-15.pdf",
+                    "id": 6015
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Furan",
+            "CASRN": "110-00-9",
+            "massPct": 0.000007199100112,
+            "function": "prepolymer residual",
+            "sources": [
+                {
+                    "name": "Desmoseal",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/1221/4d6cdd963e122ee2dd8f1d31ebf1e35ff17f5e52.pdf",
+                    "id": 6026
+                },
+                {
+                    "name": "Quickcrete",
+                    "url": "http://www.quikrete.com/PDFs/MSDS-X1-PolyureNonSag.pdf",
+                    "id": 6025
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Methylene Bisphenyl Diisocyanate",
+            "CASRN": "101-68-8",
+            "massPct": 0.01124859393,
+            "function": "prepolymer residual",
+            "sources": [
+                {
+                    "name": "Quickcrete",
+                    "url": "http://www.quikrete.com/PDFs/MSDS-X1-PolyureNonSag.pdf",
+                    "id": 6025
+                },
+                {
+                    "name": "Geocel",
+                    "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=GEOCEL&prodno=079239391029&doctype=MSDS&lang=2",
+                    "id": 6023
+                },
+                {
+                    "name": "Pourthane",
+                    "url": "http://www.wrmeadows.com/MSDS-PDF/4726300.pdf",
+                    "id": 6021
+                },
+                {
+                    "name": "Bostik",
+                    "url": "http://msds.bostik-us.com/hsedoc/docs/atn/msds_us/default/05035200.pdf",
+                    "id": 6019
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Acetaldehyde",
+            "CASRN": "75-07-0",
+            "massPct": 5.624296963e-7,
+            "function": "prepolymer residual",
+            "sources": [
+                {
+                    "name": "Desmoseal",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/1221/4d6cdd963e122ee2dd8f1d31ebf1e35ff17f5e52.pdf",
+                    "id": 6026
+                },
+                {
+                    "name": "Quickcrete",
+                    "url": "http://www.quikrete.com/PDFs/MSDS-X1-PolyureNonSag.pdf",
+                    "id": 6025
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Propylene Oxide",
+            "CASRN": "75-56-9",
+            "massPct": 0.000001799775028,
+            "function": "prepolymer residual",
+            "sources": [
+                {
+                    "name": "Desmoseal",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/1221/4d6cdd963e122ee2dd8f1d31ebf1e35ff17f5e52.pdf",
+                    "id": 6026
+                },
+                {
+                    "name": "Quickcrete",
+                    "url": "http://www.quikrete.com/PDFs/MSDS-X1-PolyureNonSag.pdf",
+                    "id": 6025
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-576",
+                    "type": "orange",
+                    "name": "Skin Irritation",
+                    "massPct": 0.01687289089,
+                    "contributors": [
+                        {
+                            "recId": 2795,
+                            "massPct": 0.01687289089,
+                            "childrenIds": [
+                                2795
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.43025871763629997,
+                    "contributors": [
+                        {
+                            "recId": 2795,
+                            "massPct": 0.01687289089,
+                            "childrenIds": [
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 6032,
+                            "massPct": 0.0005624296963,
+                            "childrenIds": [
+                                6032
+                            ]
+                        },
+                        {
+                            "recId": 2766,
+                            "massPct": 0.05286839145,
+                            "childrenIds": [
+                                2766
+                            ]
+                        },
+                        {
+                            "recId": 6029,
+                            "massPct": 0.3599550056,
+                            "childrenIds": [
+                                6029
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-575",
+                    "type": "orange",
+                    "name": "Eye Irritation",
+                    "massPct": 0.07311586051999999,
+                    "contributors": [
+                        {
+                            "recId": 2795,
+                            "massPct": 0.01687289089,
+                            "childrenIds": [
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 2805,
+                            "massPct": 0.05624296963,
+                            "childrenIds": [
+                                2805
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.38807649042,
+                    "contributors": [
+                        {
+                            "recId": 2795,
+                            "massPct": 0.01687289089,
+                            "childrenIds": [
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 6029,
+                            "massPct": 0.3599550056,
+                            "childrenIds": [
+                                6029
+                            ]
+                        },
+                        {
+                            "recId": 4451,
+                            "massPct": 0.01124859393,
+                            "childrenIds": [
+                                4451
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.3605174352963,
+                    "contributors": [
+                        {
+                            "recId": 6032,
+                            "massPct": 0.0005624296963,
+                            "childrenIds": [
+                                6032
+                            ]
+                        },
+                        {
+                            "recId": 6029,
+                            "massPct": 0.3599550056,
+                            "childrenIds": [
+                                6029
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.2536557930263,
+                    "contributors": [
+                        {
+                            "recId": 6032,
+                            "massPct": 0.0005624296963,
+                            "childrenIds": [
+                                6032
+                            ]
+                        },
+                        {
+                            "recId": 2805,
+                            "massPct": 0.05624296963,
+                            "childrenIds": [
+                                2805
+                            ]
+                        },
+                        {
+                            "recId": 6031,
+                            "massPct": 0.1968503937,
+                            "childrenIds": [
+                                6031
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-571",
+                    "type": "orange",
+                    "name": "Mutagenicity",
+                    "massPct": 0.1968503937,
+                    "contributors": [
+                        {
+                            "recId": 6031,
+                            "massPct": 0.1968503937,
+                            "childrenIds": [
+                                6031
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-567",
+                    "type": "orange",
+                    "name": "Cancer",
+                    "massPct": 0.5568053993,
+                    "contributors": [
+                        {
+                            "recId": 6031,
+                            "massPct": 0.1968503937,
+                            "childrenIds": [
+                                6031
+                            ]
+                        },
+                        {
+                            "recId": 6029,
+                            "massPct": 0.3599550056,
+                            "childrenIds": [
+                                6029
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.3599550056,
+                    "contributors": [
+                        {
+                            "recId": 6029,
+                            "massPct": 0.3599550056,
+                            "childrenIds": [
+                                6029
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "purple": [
+                {
+                    "hazardId": "purple-955",
+                    "type": "purple",
+                    "name": "PBT",
+                    "massPct": 0.0005624296963,
+                    "contributors": [
+                        {
+                            "recId": 6032,
+                            "massPct": 0.0005624296963,
+                            "childrenIds": [
+                                6032
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.05286839145,
+                    "contributors": [
+                        {
+                            "recId": 2766,
+                            "massPct": 0.05286839145,
+                            "childrenIds": [
+                                2766
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.26434195726,
+                    "contributors": [
+                        {
+                            "recId": 2805,
+                            "massPct": 0.05624296963,
+                            "childrenIds": [
+                                2805
+                            ]
+                        },
+                        {
+                            "recId": 6031,
+                            "massPct": 0.1968503937,
+                            "childrenIds": [
+                                6031
+                            ]
+                        },
+                        {
+                            "recId": 4451,
+                            "massPct": 0.01124859393,
+                            "childrenIds": [
+                                4451
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-568",
+                    "type": "red",
+                    "name": "Developmental",
+                    "massPct": 0.1968503937,
+                    "contributors": [
+                        {
+                            "recId": 6031,
+                            "massPct": 0.1968503937,
+                            "childrenIds": [
+                                6031
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-567",
+                    "type": "red",
+                    "name": "Cancer",
+                    "massPct": 0.01124859393,
+                    "contributors": [
+                        {
+                            "recId": 4451,
+                            "massPct": 0.01124859393,
+                            "childrenIds": [
+                                4451
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundary is defined as cradle-to-gate and ends with the finished product at the factory gate. Manfacturing includes the polymerization and mixing of sealant materials. Upstream data includes chemicals and energy production. Inbound transportation of upstream materials is included.",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Municipal waste water treatment (mix)"
+            },
+            {
+                "name": "GLO: Steam conversion (lp)"
+            },
+            {
+                "name": "US: Process steam from natural gas 90% (eGrid) (indirect)"
+            },
+            {
+                "name": "US: Water deionized"
+            },
+            {
+                "name": "US: Tap water from groundwater"
+            },
+            {
+                "name": "US: Butanol (n-butanol from propylene)"
+            },
+            {
+                "name": "US: Silicone fluids (low viscous) (from organosilanes) (estimation)"
+            },
+            {
+                "name": "DE: Lime (CaO, quicklime lumpy)"
+            },
+            {
+                "name": "GLO: Tin"
+            },
+            {
+                "name": "DE: Ethyl benzene"
+            },
+            {
+                "name": "US: Benzene (by product BTX) (from reformate)"
+            },
+            {
+                "name": "US: Xylene (by product BTX) (from reformate)"
+            },
+            {
+                "name": "US: Titanium dioxide pigment"
+            },
+            {
+                "name": "US: Terephthalic acid"
+            },
+            {
+                "name": "US: Limestone flour (5mm)"
+            },
+            {
+                "name": "US: Methylene diisocyanate (MDI)"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0% post-consumer recycled content",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "6.74% solvent emissions to air (5.62% xylene; 1.12% ethyl benzene); 93.26% to landfill (56.4% plastic; 35.7% glass and inert; 0.06% metals)                            ",
+        "inUseNotes": "3.19% released as NMVOC (unspecified)",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "8.10E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "5.06E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "2.94E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "2.84E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.21E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "6.62E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "8.84E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "0.00E+00"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "4.92E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.56E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.63E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.04E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "5.40E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "7.60E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP048",
+    "name": "Elastic Facade Joint Sealant",
+    "altNames": [
+        "Low-Modulus Elastomeric Sealant"
+    ],
+    "uniformats": [
+        {
+            "id": "B2010",
+            "name": "Exterior Walls"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "07-92-13",
+            "name": "Elastomeric Joint Sealant"
+        }
+    ],
+    "recordType": "Common",
+    "description": "This CP is for elastomeric sealants for use in facade applications, expansion and control joints, concrete, masonry, EIFS, etc.  It is designed to maintain an effective bond and seal between materials of similar and dissimilar surfaces, porosities, and coefficients of expansion.  In general, a primer is not required for effective adhesion.  Both silicone and polyurethane sealants are used for this application.  This CP explores one-part polyurethane sealants.  The sealant is described as an elastic, low-modulus, one-component, moisture-curing, non-sag, polyurethane sealant.  Materials meet or exceed ASTM C 920, Type S, Grade NS, Class 25, Use NT, M, A, and O.",
+    "sources": [
+        {
+            "name": "Eastman Patent",
+            "url": "https://www.google.com/patents/US8784989",
+            "id": 6028
+        },
+        {
+            "name": "CRT Patent",
+            "url": "https://www.google.com/patents/US7956122",
+            "id": 6027
+        },
+        {
+            "name": "Desmoseal",
+            "url": "https://www.pharosproject.net/uploads/files/sources/1221/4d6cdd963e122ee2dd8f1d31ebf1e35ff17f5e52.pdf",
+            "id": 6026
+        },
+        {
+            "name": "Quickcrete",
+            "url": "http://www.quikrete.com/PDFs/MSDS-X1-PolyureNonSag.pdf",
+            "id": 6025
+        },
+        {
+            "name": "3M 525",
+            "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xm8t9lxtSNv70k17zHvu9lxtD7SSSSSS--",
+            "id": 6024
+        },
+        {
+            "name": "Geocel",
+            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=GEOCEL&prodno=079239391029&doctype=MSDS&lang=2",
+            "id": 6023
+        },
+        {
+            "name": "Permathane",
+            "url": "http://pacpoly.com/wp-content/uploads/bsk-pdf-manager/74_SM7108_PERMATHANE_SM7108_POLYURETHANE_SEALANT.PDF",
+            "id": 6022
+        },
+        {
+            "name": "Pourthane",
+            "url": "http://www.wrmeadows.com/MSDS-PDF/4726300.pdf",
+            "id": 6021
+        },
+        {
+            "name": "MasterSeal",
+            "url": "http://worldaccount.basf.com/wa/NAFTA~en_US/Catalog/ConstCommercial/doc4/BASF/PRD/30606598/.pdf?title=&asset_type=msds/pdf&language=EN&validArea=US&urn=urn:documentum:ProductBase_EU:09007af88034c2c3.pdf",
+            "id": 6020
+        },
+        {
+            "name": "Bostik",
+            "url": "http://msds.bostik-us.com/hsedoc/docs/atn/msds_us/default/05035200.pdf",
+            "id": 6019
+        },
+        {
+            "name": "Sikaflex 2",
+            "url": "http://usa.sika.com/dms/getdocument.get/39f47e97-4d4c-3fbc-89fa-ed28cd4d91b4/msds-cpd-Sikaflex%2015%20LM-us.pdf-1.pdf",
+            "id": 6018
+        },
+        {
+            "name": "Sikaflex",
+            "url": "http://usa.sika.com/dms/getdocument.get/b1059e15-2ba0-374b-8329-6e27c15e2651/msds-cpd-Sikaflex%2015%20LM-us.pdf",
+            "id": 6017
+        },
+        {
+            "name": "Dymonic",
+            "url": "http://www.tremcosealants.com/fileshare/msds/960806_323_U.pdf",
+            "id": 6016
+        },
+        {
+            "name": "Dynatrol",
+            "url": "http://pecora.com/pdfs/DynaTrol%20I-XL%20SDS_3-15.pdf",
+            "id": 6015
+        }
+    ]
+}

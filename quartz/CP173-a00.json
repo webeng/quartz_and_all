@@ -1,0 +1,902 @@
+{
+    "CPID": "CP173",
+    "timestamp": 1452102160573,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 9763,
+            "name": "Uv Protective Layer",
+            "CASRN": "",
+            "massPct": 0.01928,
+            "function": "",
+            "hazards": {},
+            "components": [
+                {
+                    "recId": 6261,
+                    "name": "Tris(2,4-ditert-butylphenyl) phosphite",
+                    "CASRN": "31570-04-4",
+                    "massPct": 0.00019,
+                    "function": "heat stabilizer",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Bayer 4",
+                            "url": "https://www.google.com/patents/US7824589",
+                            "id": 9750
+                        },
+                        {
+                            "name": "Sabic",
+                            "url": "https://www.google.com/patents/US20140094545",
+                            "id": 9744
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0000036632
+                },
+                {
+                    "recId": 9760,
+                    "name": "Polycarbonate",
+                    "CASRN": "25037-45-0",
+                    "massPct": 0.91431,
+                    "function": "",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Sunlite MSDS",
+                            "url": "http://www.revbase.com/tt/sl.ashx?z=169034e2&dataid=242209&ft=1",
+                            "id": 9733
+                        }
+                    ],
+                    "notes": "This CASRN is for a representative polycarbonate. There will be variation of the exact polycarbonate polymer used between manufacturers.",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.017627896799999997
+                },
+                {
+                    "recId": 9761,
+                    "name": "Pentaerythritol Tetrastearate",
+                    "CASRN": "115-83-3",
+                    "massPct": 0.0005,
+                    "function": "mold release agent",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Bayer 4",
+                            "url": "https://www.google.com/patents/US7824589",
+                            "id": 9750
+                        },
+                        {
+                            "name": "Sabic",
+                            "url": "https://www.google.com/patents/US20140094545",
+                            "id": 9744
+                        },
+                        {
+                            "name": "Bayer",
+                            "url": "https://www.google.com/patents/US6359042",
+                            "id": 9745
+                        },
+                        {
+                            "name": "Goossens",
+                            "url": "https://www.google.com/patents/US20040164446",
+                            "id": 9754
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.00000964
+                },
+                {
+                    "recId": 9764,
+                    "name": "Phenol, 2-(2H-benzotriazol-2-yl)-4,6-bis(1- methyl-1-phenylethyl)",
+                    "CASRN": "70321-86-7",
+                    "massPct": 0.085,
+                    "function": "UV stabilizer",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Tinuvin 234 TDS",
+                            "url": "http://shanghaiguanan.com/pic/2014916113139997.pdf",
+                            "id": 6835
+                        },
+                        {
+                            "name": "Ciba",
+                            "url": "https://www.google.com/patents/US5306456",
+                            "id": 9752
+                        },
+                        {
+                            "name": "Bayer 4",
+                            "url": "https://www.google.com/patents/US7824589",
+                            "id": 9750
+                        },
+                        {
+                            "name": "Bayer",
+                            "url": "https://www.google.com/patents/US6359042",
+                            "id": 9745
+                        },
+                        {
+                            "name": "GE",
+                            "url": "https://www.google.com/patents/EP0732355A1",
+                            "id": 9753
+                        },
+                        {
+                            "name": "Bayer 3",
+                            "url": "https://www.google.com/patents/US5108835",
+                            "id": 9747
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0016388
+                }
+            ],
+            "sources": [
+                {
+                    "name": "Thermoclear TDS",
+                    "url": "http://sfs.sabic.eu/wp-content/uploads/resource_pdf/1415109682-3782846-LEXAN-THERMOCLEAR-GENERAL-PURPOSE-DATASHEET-2013.pdf",
+                    "id": 9742
+                },
+                {
+                    "name": "Makrolon Install",
+                    "url": "http://www.sheffieldplastics.com/web_docs/brochures/standard/BRO026_multi_install.pdf",
+                    "id": 9730
+                },
+                {
+                    "name": "Amerilux",
+                    "url": "https://www.menards.com/main/store/20090519001/items/media/BuildingMaterials/BM_Amerilux/Prod_Tech_Spec/MultiwallPolycarbonateTechGuide9_3_13.pdf",
+                    "id": 9743
+                },
+                {
+                    "name": "Sunlite",
+                    "url": "http://www.palramamericas.com/docs/upload/F%231200_SunliteSellSheet11-10-14PBW.pdf",
+                    "id": 9732
+                },
+                {
+                    "name": "Duo-gard Spec",
+                    "url": "http://www.duo-gard.com/wp-content/uploads/2013/06/Series-3000-BPC-v413.doc",
+                    "id": 9737
+                },
+                {
+                    "name": "Macrolux",
+                    "url": "http://co-excorp.com/mactech.html",
+                    "id": 9731
+                },
+                {
+                    "name": "Crystalite",
+                    "url": "http://www.crystaliteinc.com/pages/products/multiwall/",
+                    "id": 9736
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.01928
+        },
+        {
+            "recId": 9759,
+            "name": "Polycarbonate Core",
+            "CASRN": "",
+            "massPct": 0.98072,
+            "function": "0.4904",
+            "hazards": {},
+            "components": [
+                {
+                    "recId": 9760,
+                    "name": "Polycarbonate",
+                    "CASRN": "25037-45-0",
+                    "massPct": 0.99741,
+                    "function": "",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Sunlite MSDS",
+                            "url": "http://www.revbase.com/tt/sl.ashx?z=169034e2&dataid=242209&ft=1",
+                            "id": 9733
+                        }
+                    ],
+                    "notes": "This CASRN is for a representative polycarbonate. There will be variation of the exact polycarbonate polymer used between manufacturers.",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.9781799352
+                },
+                {
+                    "recId": 9762,
+                    "name": "2-(2H-Benzotriazol-2-yl)-4-(tert-butyl)-6-(sec- butyl)phenol",
+                    "CASRN": "36437-37-3",
+                    "massPct": 0.0018,
+                    "function": "UV stabilizer",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Sabic",
+                            "url": "https://www.google.com/patents/US20140094545",
+                            "id": 9744
+                        },
+                        {
+                            "name": "Bayer",
+                            "url": "https://www.google.com/patents/US6359042",
+                            "id": 9745
+                        },
+                        {
+                            "name": "Tinuvin 350",
+                            "url": "http://promodentchem.com/analog-brand-product/5213",
+                            "id": 9749
+                        },
+                        {
+                            "name": "Bayer 3",
+                            "url": "https://www.google.com/patents/US5108835",
+                            "id": 9747
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.001765296
+                },
+                {
+                    "recId": 9761,
+                    "name": "Pentaerythritol Tetrastearate",
+                    "CASRN": "115-83-3",
+                    "massPct": 0.0005,
+                    "function": "mold release agent",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Bayer 4",
+                            "url": "https://www.google.com/patents/US7824589",
+                            "id": 9750
+                        },
+                        {
+                            "name": "Sabic",
+                            "url": "https://www.google.com/patents/US20140094545",
+                            "id": 9744
+                        },
+                        {
+                            "name": "Bayer",
+                            "url": "https://www.google.com/patents/US6359042",
+                            "id": 9745
+                        },
+                        {
+                            "name": "Goossens",
+                            "url": "https://www.google.com/patents/US20040164446",
+                            "id": 9754
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.00049036
+                },
+                {
+                    "recId": 6261,
+                    "name": "Tris(2,4-ditert-butylphenyl) phosphite",
+                    "CASRN": "31570-04-4",
+                    "massPct": 0.00029,
+                    "function": "heat stabilizer",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Bayer 4",
+                            "url": "https://www.google.com/patents/US7824589",
+                            "id": 9750
+                        },
+                        {
+                            "name": "Sabic",
+                            "url": "https://www.google.com/patents/US20140094545",
+                            "id": 9744
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0002844088
+                }
+            ],
+            "sources": [
+                {
+                    "name": "Amerilux",
+                    "url": "https://www.menards.com/main/store/20090519001/items/media/BuildingMaterials/BM_Amerilux/Prod_Tech_Spec/MultiwallPolycarbonateTechGuide9_3_13.pdf",
+                    "id": 9743
+                },
+                {
+                    "name": "Wasco",
+                    "url": "http://www.wascoskylights.com/product-category/for-architects-and-builders/translucent-wall-system/",
+                    "id": 9739
+                },
+                {
+                    "name": "Solar",
+                    "url": "http://www.solarinnovations.com/vertical-glazing/polycarbonate-wall-systems/",
+                    "id": 9738
+                },
+                {
+                    "name": "Duo-gard Spec",
+                    "url": "http://www.duo-gard.com/wp-content/uploads/2013/06/Series-3000-BPC-v413.doc",
+                    "id": 9737
+                },
+                {
+                    "name": "Crystalite",
+                    "url": "http://www.crystaliteinc.com/pages/products/multiwall/",
+                    "id": 9736
+                },
+                {
+                    "name": "Macrolux",
+                    "url": "http://co-excorp.com/mactech.html",
+                    "id": 9731
+                },
+                {
+                    "name": "Polygal",
+                    "url": "http://www.bristolite.com/interfaces/media/Data%20Sheet%20Polygal%20multi-wall%20polycarbonate.pdf",
+                    "id": 9734
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.98072
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Bisphenol A",
+            "CASRN": "80-05-7",
+            "massPct": 0.00009958106237,
+            "function": "polycarbonate residual",
+            "sources": [
+                {
+                    "name": "BKH",
+                    "url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCUQFjABahUKEwjT9-jat8LHAhXFEpIKHS88DOE&url=http%3A%2F%2Fpublicaties.minienm.nl%2Fdownload-bijlage%2F36827%2Fchemical-study-on-bisphenol-a.pdf&ei=Am7bVdPuEMWlyASv-LCIDg&usg=AFQjCNGmEcjJIkkJEKnpdFySjXyO5xBNnw&sig2=-7Q4q9RpJI6FSAMdjlX4qw",
+                    "id": 9758
+                },
+                {
+                    "name": "RSC",
+                    "url": "http://www.rsc.org/images/Scientific%20Note%20Why%20do%20we%20worry%20about%20Bisphenol-A_tcm18-227250.pdf",
+                    "id": 9757
+                },
+                {
+                    "name": "BPA",
+                    "url": "https://books.google.com/books?id=ifyhnUIuZtIC&pg=PA176&lpg=PA176&dq=polycarbonate+%22residual+bisphenol+A%22&source=bl&ots=dPH5oqtFDs&sig=YVSpdPDMAuKecQqhwV9VTCS62mc&hl=en&sa=X&ved=0CEEQ6AEwBGoVChMI0N244pHCxwIVVRCSCh1v9wI5#v=onepage&q=polycarbonate%20%22residual%20bisphenol%20A%22&f=false",
+                    "id": 9756
+                },
+                {
+                    "name": "Europa",
+                    "url": "http://ec.europa.eu/environment/waste/weee/pdf/hazardous_substances_report.pdf",
+                    "id": 9755
+                },
+                {
+                    "name": "Thermoclear MSDS",
+                    "url": "http://www.regalgraphics.com/msds/9034-112MSDS.pdf",
+                    "id": 9740
+                },
+                {
+                    "name": "Sabic",
+                    "url": "https://www.google.com/patents/US20140094545",
+                    "id": 9744
+                },
+                {
+                    "name": "Danpalon Ecospecifier",
+                    "url": "http://www.ecospecifier.com.au/products/detailed-assessment/?prodid=28675",
+                    "id": 9727
+                },
+                {
+                    "name": "Makrolon MSDS",
+                    "url": "http://www.sheffieldplastics.com/web_docs/msds/MSD238_Multi_UV.pdf",
+                    "id": 9729
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "2,4-Di-tert-butyl phenol",
+            "CASRN": "96-76-4",
+            "massPct": null,
+            "function": "degradant of tris(2,4-di-tert-butylphenyl) phosphite",
+            "sources": [
+                {
+                    "name": "Skjevrak",
+                    "url": "http://www.ncbi.nlm.nih.gov/pubmed/12697234",
+                    "id": 6287
+                },
+                {
+                    "name": "Heim",
+                    "url": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB8QFjAA&url=http%3A%2F%2Fscholar.lib.vt.edu%2Ftheses%2Favailable%2Fetd-05062006-111337%2Funrestricted%2FMSThesisTimHeim.pdf&ei=sgCDVZy3Cu_asAS367Qg&usg=AFQjCNENDyx2XhfDHm4jgQ-gD2qYvIXl2w&sig2=TdNXWxh-kuYramiCUHGrYQ&bvm=bv.96041959,d.cWc",
+                    "id": 6286
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Phenol",
+            "CASRN": "108-95-2",
+            "massPct": null,
+            "function": "polycarbonate residual",
+            "sources": [
+                {
+                    "name": "Goossens",
+                    "url": "https://www.google.com/patents/US20040164446",
+                    "id": 9754
+                },
+                {
+                    "name": "Bayer 4",
+                    "url": "https://www.google.com/patents/US7824589",
+                    "id": 9750
+                },
+                {
+                    "name": "Makrolon 1243",
+                    "url": "http://www.scaffdex.com/uusi/sites/default/files/getMSDS.pdf",
+                    "id": 9751
+                },
+                {
+                    "name": "Makrolon MSDS",
+                    "url": "http://www.sheffieldplastics.com/web_docs/msds/MSD238_Multi_UV.pdf",
+                    "id": 9729
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Antimony Trioxide",
+            "CASRN": "1309-64-4",
+            "massPct": null,
+            "function": "polycarbonate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {}
+    },
+    "environmental": {
+        "systemBoundary": "The system is defined as cradle-to-gate and ends with the finished product at the factory gate. Includes all upstream raw material production, energy extraction, and transportation. Manufacuturing includes granulate compounding and co-extrusion of the core and UV layer. Packaging is excluded. ",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Formaldehyde (HCHO, 100%)"
+            },
+            {
+                "name": "US: Sodium hydroxide (caustic soda) mix (100%)"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "US: Landfilling of plastic waste"
+            },
+            {
+                "name": "US: Lubricants at refinery"
+            },
+            {
+                "name": "US: Municipal waste water treatment (mix)"
+            },
+            {
+                "name": "GLO: Compounding (plastics)"
+            },
+            {
+                "name": "US: Acetaldehyde (Ethanal)"
+            },
+            {
+                "name": "US: Tap water from groundwater"
+            },
+            {
+                "name": "US: Tricalcium phosphate"
+            },
+            {
+                "name": "US: Phenol (from cumene)"
+            },
+            {
+                "name": "DE: Sulfenamide (N-Cyclohexyl-2-benzothiazolsulfenamid) (estimation)"
+            },
+            {
+                "name": "US: Thermal energy from natural gas (eGrid)"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "GLO: Compressed air 7 bar (medium power consumption)"
+            },
+            {
+                "name": "GLO: Plastic extrusion profile (unspecific)"
+            },
+            {
+                "name": "US: Polycarbonate Granulate (PC)"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% landfill (plastic waste)",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "1.50E-02"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.01E-03"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "5.77E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "9.43E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "2.29E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "1.22E+02"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "7.23E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "2.68E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.98E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.13E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "6.50E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.19E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP173",
+    "name": "Polycarbonate Cladding",
+    "altNames": [
+        "Multi-wall polycarbonate"
+    ],
+    "uniformats": [
+        {
+            "id": "B2010",
+            "name": "Exterior Walls"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "08-45-13",
+            "name": "Structured-Polycarbonate-Panel Assemblies"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Polycarbonate panels can be used for a variety of construction applications from visual accents to building cladding.  This CP focuses on those used for cladding, in particular multi-wall panels which could optionally be filled with aerogel for improved insulating properties.  The benefits of polycarbonate over glass are that it is lightweight, has a much higher impact strength, and has improved insulative properties.  The panels have a UV protective layer applied to the exterior side to minimize yellowing due to UV degradation.  There is very little disclosure as to the specific additives used in these types of products.  Stabilizers and mold release agents were found to be common so are included here.  Other additives such as fillers, antistatic agents, flame retardants, etc, are sometimes used in polycarbonate products in general but were not disclosed as used in these products.  Colorants and dyes may optionally be used to alter the appearance of the panels.  As delivered, there is a protective film on both sides of the panel but that was excluded from the scope of this CP due to lack of disclosure regarding its composition.  Some manufacturers offer panels with pre-consumer recycled content (20-40%), although this appears to be more common in Europe and Australia than in the United States.",
+    "sources": [
+        {
+            "name": "Tinuvin 234 TDS",
+            "url": "http://shanghaiguanan.com/pic/2014916113139997.pdf",
+            "id": 6835
+        },
+        {
+            "name": "BKH",
+            "url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCUQFjABahUKEwjT9-jat8LHAhXFEpIKHS88DOE&url=http%3A%2F%2Fpublicaties.minienm.nl%2Fdownload-bijlage%2F36827%2Fchemical-study-on-bisphenol-a.pdf&ei=Am7bVdPuEMWlyASv-LCIDg&usg=AFQjCNGmEcjJIkkJEKnpdFySjXyO5xBNnw&sig2=-7Q4q9RpJI6FSAMdjlX4qw",
+            "id": 9758
+        },
+        {
+            "name": "RSC",
+            "url": "http://www.rsc.org/images/Scientific%20Note%20Why%20do%20we%20worry%20about%20Bisphenol-A_tcm18-227250.pdf",
+            "id": 9757
+        },
+        {
+            "name": "BPA",
+            "url": "https://books.google.com/books?id=ifyhnUIuZtIC&pg=PA176&lpg=PA176&dq=polycarbonate+%22residual+bisphenol+A%22&source=bl&ots=dPH5oqtFDs&sig=YVSpdPDMAuKecQqhwV9VTCS62mc&hl=en&sa=X&ved=0CEEQ6AEwBGoVChMI0N244pHCxwIVVRCSCh1v9wI5#v=onepage&q=polycarbonate%20%22residual%20bisphenol%20A%22&f=false",
+            "id": 9756
+        },
+        {
+            "name": "Europa",
+            "url": "http://ec.europa.eu/environment/waste/weee/pdf/hazardous_substances_report.pdf",
+            "id": 9755
+        },
+        {
+            "name": "Goossens",
+            "url": "https://www.google.com/patents/US20040164446",
+            "id": 9754
+        },
+        {
+            "name": "GE",
+            "url": "https://www.google.com/patents/EP0732355A1",
+            "id": 9753
+        },
+        {
+            "name": "Ciba",
+            "url": "https://www.google.com/patents/US5306456",
+            "id": 9752
+        },
+        {
+            "name": "Makrolon 1243",
+            "url": "http://www.scaffdex.com/uusi/sites/default/files/getMSDS.pdf",
+            "id": 9751
+        },
+        {
+            "name": "Bayer 4",
+            "url": "https://www.google.com/patents/US7824589",
+            "id": 9750
+        },
+        {
+            "name": "Tinuvin 350",
+            "url": "http://promodentchem.com/analog-brand-product/5213",
+            "id": 9749
+        },
+        {
+            "name": "Bayer 3",
+            "url": "https://www.google.com/patents/US5108835",
+            "id": 9747
+        },
+        {
+            "name": "Bayer 2",
+            "url": "https://www.google.com/patents/US5856012",
+            "id": 9746
+        },
+        {
+            "name": "Bayer",
+            "url": "https://www.google.com/patents/US6359042",
+            "id": 9745
+        },
+        {
+            "name": "Sabic",
+            "url": "https://www.google.com/patents/US20140094545",
+            "id": 9744
+        },
+        {
+            "name": "Amerilux",
+            "url": "https://www.menards.com/main/store/20090519001/items/media/BuildingMaterials/BM_Amerilux/Prod_Tech_Spec/MultiwallPolycarbonateTechGuide9_3_13.pdf",
+            "id": 9743
+        },
+        {
+            "name": "Thermoclear TDS",
+            "url": "http://sfs.sabic.eu/wp-content/uploads/resource_pdf/1415109682-3782846-LEXAN-THERMOCLEAR-GENERAL-PURPOSE-DATASHEET-2013.pdf",
+            "id": 9742
+        },
+        {
+            "name": "Thermoclear",
+            "url": "http://sfs.sabic.eu/wp-content/uploads/resource_pdf/1345193146-66519450-SABIC-SFS-688_Thermoclear-Multiwall-Brochure-English.pdf",
+            "id": 9741
+        },
+        {
+            "name": "Thermoclear MSDS",
+            "url": "http://www.regalgraphics.com/msds/9034-112MSDS.pdf",
+            "id": 9740
+        },
+        {
+            "name": "Wasco",
+            "url": "http://www.wascoskylights.com/product-category/for-architects-and-builders/translucent-wall-system/",
+            "id": 9739
+        },
+        {
+            "name": "Solar",
+            "url": "http://www.solarinnovations.com/vertical-glazing/polycarbonate-wall-systems/",
+            "id": 9738
+        },
+        {
+            "name": "Duo-gard Spec",
+            "url": "http://www.duo-gard.com/wp-content/uploads/2013/06/Series-3000-BPC-v413.doc",
+            "id": 9737
+        },
+        {
+            "name": "Crystalite",
+            "url": "http://www.crystaliteinc.com/pages/products/multiwall/",
+            "id": 9736
+        },
+        {
+            "name": "Polygal MSDS",
+            "url": "http://polygal-northamerica.com/pdf/warranty/Polygal_MSDS.pdf",
+            "id": 9735
+        },
+        {
+            "name": "Polygal",
+            "url": "http://www.bristolite.com/interfaces/media/Data%20Sheet%20Polygal%20multi-wall%20polycarbonate.pdf",
+            "id": 9734
+        },
+        {
+            "name": "Sunlite MSDS",
+            "url": "http://www.revbase.com/tt/sl.ashx?z=169034e2&dataid=242209&ft=1",
+            "id": 9733
+        },
+        {
+            "name": "Sunlite",
+            "url": "http://www.palramamericas.com/docs/upload/F%231200_SunliteSellSheet11-10-14PBW.pdf",
+            "id": 9732
+        },
+        {
+            "name": "Macrolux",
+            "url": "http://co-excorp.com/mactech.html",
+            "id": 9731
+        },
+        {
+            "name": "Makrolon Install",
+            "url": "http://www.sheffieldplastics.com/web_docs/brochures/standard/BRO026_multi_install.pdf",
+            "id": 9730
+        },
+        {
+            "name": "Makrolon MSDS",
+            "url": "http://www.sheffieldplastics.com/web_docs/msds/MSD238_Multi_UV.pdf",
+            "id": 9729
+        },
+        {
+            "name": "Makrolon",
+            "url": "http://www.sheffieldplastics.com/web_docs/pds/PDS111_multi_UV.pdf",
+            "id": 9728
+        },
+        {
+            "name": "Danpalon Ecospecifier",
+            "url": "http://www.ecospecifier.com.au/products/detailed-assessment/?prodid=28675",
+            "id": 9727
+        },
+        {
+            "name": "Skjevrak",
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/12697234",
+            "id": 6287
+        },
+        {
+            "name": "Heim",
+            "url": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB8QFjAA&url=http%3A%2F%2Fscholar.lib.vt.edu%2Ftheses%2Favailable%2Fetd-05062006-111337%2Funrestricted%2FMSThesisTimHeim.pdf&ei=sgCDVZy3Cu_asAS367Qg&usg=AFQjCNENDyx2XhfDHm4jgQ-gD2qYvIXl2w&sig2=TdNXWxh-kuYramiCUHGrYQ&bvm=bv.96041959,d.cWc",
+            "id": 6286
+        }
+    ]
+}

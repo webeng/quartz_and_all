@@ -1,0 +1,4323 @@
+{
+    "CPID": "CP129",
+    "timestamp": 1452102141981,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 8644,
+            "name": "Gypsum Substrate (FGD Gypsum)",
+            "CASRN": "",
+            "massPct": 0.96266,
+            "function": "",
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": 0.005294762000000001,
+                        "contributors": [
+                            {
+                                "recId": 1313,
+                                "massPct": 0.005261652,
+                                "childrenIds": [
+                                    1313,
+                                    3606
+                                ]
+                            },
+                            {
+                                "recId": 1313,
+                                "massPct": 0.00003311,
+                                "childrenIds": [
+                                    1313,
+                                    2766
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": 0.000524084,
+                        "contributors": [
+                            {
+                                "recId": 1313,
+                                "massPct": 0.000524084,
+                                "childrenIds": [
+                                    1313,
+                                    9377
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental",
+                        "massPct": 0.000524084,
+                        "contributors": [
+                            {
+                                "recId": 1313,
+                                "massPct": 0.000524084,
+                                "childrenIds": [
+                                    1313,
+                                    9377
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-955",
+                        "type": "red",
+                        "name": "PBT",
+                        "massPct": 0.00473,
+                        "contributors": [
+                            {
+                                "recId": 8646,
+                                "massPct": 0.00473,
+                                "childrenIds": [
+                                    8646
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.0011437139999999999,
+                        "contributors": [
+                            {
+                                "recId": 1313,
+                                "massPct": 0.0011437139999999999,
+                                "childrenIds": [
+                                    1313,
+                                    2794
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.00324951,
+                        "contributors": [
+                            {
+                                "recId": 1313,
+                                "massPct": 0.0011437139999999999,
+                                "childrenIds": [
+                                    1313,
+                                    2794
+                                ]
+                            },
+                            {
+                                "recId": 1313,
+                                "massPct": 0.00003311,
+                                "childrenIds": [
+                                    1313,
+                                    2766
+                                ]
+                            },
+                            {
+                                "recId": 1313,
+                                "massPct": 0.002001736,
+                                "childrenIds": [
+                                    1313,
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 1313,
+                                "massPct": 0.000042569999999999994,
+                                "childrenIds": [
+                                    1313,
+                                    9378
+                                ]
+                            },
+                            {
+                                "recId": 1313,
+                                "massPct": 0.00002838,
+                                "childrenIds": [
+                                    1313,
+                                    3334
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation",
+                        "massPct": 0.002044306,
+                        "contributors": [
+                            {
+                                "recId": 1313,
+                                "massPct": 0.002001736,
+                                "childrenIds": [
+                                    1313,
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 1313,
+                                "massPct": 0.000042569999999999994,
+                                "childrenIds": [
+                                    1313,
+                                    9378
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": 0.002030116,
+                        "contributors": [
+                            {
+                                "recId": 1313,
+                                "massPct": 0.002001736,
+                                "childrenIds": [
+                                    1313,
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 1313,
+                                "massPct": 0.00002838,
+                                "childrenIds": [
+                                    1313,
+                                    3334
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.075582974,
+                        "contributors": [
+                            {
+                                "recId": 1313,
+                                "massPct": 0.002001736,
+                                "childrenIds": [
+                                    1313,
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 1313,
+                                "massPct": 0.000381238,
+                                "childrenIds": [
+                                    1313,
+                                    2796
+                                ]
+                            },
+                            {
+                                "recId": 1206,
+                                "massPct": 0.01609,
+                                "childrenIds": [
+                                    1206
+                                ]
+                            },
+                            {
+                                "recId": 1206,
+                                "massPct": 0.02051,
+                                "childrenIds": [
+                                    1206
+                                ]
+                            },
+                            {
+                                "recId": 1206,
+                                "massPct": 0.01609,
+                                "childrenIds": [
+                                    1206
+                                ]
+                            },
+                            {
+                                "recId": 1206,
+                                "massPct": 0.02051,
+                                "childrenIds": [
+                                    1206
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": 0.000042569999999999994,
+                        "contributors": [
+                            {
+                                "recId": 1313,
+                                "massPct": 0.000042569999999999994,
+                                "childrenIds": [
+                                    1313,
+                                    9378
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": 0.01894838,
+                        "contributors": [
+                            {
+                                "recId": 1313,
+                                "massPct": 0.00002838,
+                                "childrenIds": [
+                                    1313,
+                                    3334
+                                ]
+                            },
+                            {
+                                "recId": 4806,
+                                "massPct": 0.01892,
+                                "childrenIds": [
+                                    4806
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "unknown": [
+                    {
+                        "hazardId": "unknown-11424",
+                        "type": "unknown",
+                        "name": "Unknown",
+                        "massPct": 0.83103,
+                        "contributors": [
+                            {
+                                "recId": 925,
+                                "massPct": 0.83103,
+                                "childrenIds": [
+                                    925
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 1322,
+                    "name": "Sodium Trimetaphosphate",
+                    "CASRN": "7785-84-4",
+                    "massPct": 0.00189,
+                    "function": "strength additive",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "USG patent 2011",
+                            "url": "https://www.google.com/patents/US8057915",
+                            "id": 8615
+                        },
+                        {
+                            "name": "USG patent 2010",
+                            "url": "http://www.google.com/patents/US7851057",
+                            "id": 8617
+                        },
+                        {
+                            "name": "USG patent 2007",
+                            "url": "http://www.google.com/patents/US20070102237",
+                            "id": 8616
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0018194274
+                },
+                {
+                    "recId": 1317,
+                    "name": "Ammonium Alcohol Ether Sulfate",
+                    "CASRN": "68891-29-2",
+                    "massPct": 0.00189,
+                    "function": "foaming agent, surfactant",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "USG patent 2011",
+                            "url": "https://www.google.com/patents/US8057915",
+                            "id": 8615
+                        },
+                        {
+                            "name": "USG patent 2010",
+                            "url": "http://www.google.com/patents/US7851057",
+                            "id": 8617
+                        },
+                        {
+                            "name": "Type X EPD",
+                            "url": "http://www.gypsum.org/wp/wp-content/uploads/2013/12/Gypsum-2014-FINAL-May-13-.pdf",
+                            "id": 1225
+                        },
+                        {
+                            "name": "CertainTeed wallboard FL plant renewal",
+                            "url": "http://arm-permit2k.dep.state.fl.us/adh/psd/0310202/00004A34.pdf",
+                            "id": 8633
+                        },
+                        {
+                            "name": "Cedepal FA-406 MSDS",
+                            "url": "http://www.stepan.com/msds/00064600.pdf",
+                            "id": 8631
+                        },
+                        {
+                            "name": "Cedepal FA-406 PDS",
+                            "url": "http://www.stepan.com/uploadedFiles/Literature_and_Downloads/Product_Bulletins/Surfactants/CEDEPAL%C2%AE/CEDEPALFA406.pdf",
+                            "id": 8632
+                        },
+                        {
+                            "name": "Cedepal FA-403 PDS",
+                            "url": "http://www.stepan.com/uploadedFiles/Literature_and_Downloads/Product_Bulletins/Surfactants/CEDEPAL%C2%AE/CEDEPALFA403.pdf",
+                            "id": 8618
+                        },
+                        {
+                            "name": "USG patent 2007",
+                            "url": "http://www.google.com/patents/US20070102237",
+                            "id": 8616
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0018194274
+                },
+                {
+                    "recId": 1319,
+                    "name": "Dextrose",
+                    "CASRN": "50-99-7",
+                    "massPct": 0.00085,
+                    "function": "accelerator, water reducing agent",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Type X EPD",
+                            "url": "http://www.gypsum.org/wp/wp-content/uploads/2013/12/Gypsum-2014-FINAL-May-13-.pdf",
+                            "id": 1225
+                        },
+                        {
+                            "name": "USG patent 2011",
+                            "url": "https://www.google.com/patents/US8057915",
+                            "id": 8615
+                        },
+                        {
+                            "name": "USG patent 2007",
+                            "url": "http://www.google.com/patents/US20070102237",
+                            "id": 8616
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0008182609999999999
+                },
+                {
+                    "recId": 1323,
+                    "name": "Cellulose",
+                    "CASRN": "9004-34-6",
+                    "massPct": 0.04731,
+                    "function": "body and facing",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Type X EPD",
+                            "url": "http://www.gypsum.org/wp/wp-content/uploads/2013/12/Gypsum-2014-FINAL-May-13-.pdf",
+                            "id": 1225
+                        },
+                        {
+                            "name": "USG patent 2010",
+                            "url": "http://www.google.com/patents/US7851057",
+                            "id": 8617
+                        },
+                        {
+                            "name": "Gyptone MSDS",
+                            "url": "http://www.certainteed.com/resources/Gyptone_MSDS_2009.pdf",
+                            "id": 8603
+                        },
+                        {
+                            "name": "USG patent 2007",
+                            "url": "http://www.google.com/patents/US20070102237",
+                            "id": 8616
+                        },
+                        {
+                            "name": "Gyptone HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Gyptone.pdf",
+                            "id": 8602
+                        },
+                        {
+                            "name": "SHEETROCK Ceiling Panel MSDS",
+                            "url": "http://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-sheetrock-firecode-lay-in-acoustical-panels-sds-en-54000412008.pdf",
+                            "id": 8610
+                        },
+                        {
+                            "name": "FireBloc CP MSDS",
+                            "url": "http://www.americangypsum.com/pdfs/SDSFireBlocCP.pdf",
+                            "id": 8599
+                        },
+                        {
+                            "name": "Gridstone Ceiling Panels MSDS",
+                            "url": "http://nationalgypsum.com/File/sds12430.pdf",
+                            "id": 8594
+                        },
+                        {
+                            "name": "Symphony g MSDS",
+                            "url": "http://www.certainteed.com/resources/Symphony%20g_MSDS_2009.pdf",
+                            "id": 8587
+                        },
+                        {
+                            "name": "Vinylrock HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Vinylrock.pdf  ",
+                            "id": 8582
+                        },
+                        {
+                            "name": "Vinylrock MSDS",
+                            "url": "http://www.certainteed.com/resources/Vinylrock%20MSDS_2009.pdf",
+                            "id": 8584
+                        },
+                        {
+                            "name": "Aquarock MSDS",
+                            "url": "http://www.certainteed.com/resources/Aquarock_MSDS_2009.pdf ",
+                            "id": 8581
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.045543444599999997
+                },
+                {
+                    "recId": 1313,
+                    "name": "Fiberglass (E-Glass)",
+                    "CASRN": "65997-17-3",
+                    "massPct": 0.00946,
+                    "function": "reinforcing layer",
+                    "hazards": {
+                        "red": [
+                            {
+                                "hazardId": "red-7911",
+                                "type": "red",
+                                "name": "Cancer (occupational only)",
+                                "massPct": 0.5597,
+                                "contributors": [
+                                    {
+                                        "recId": 3606,
+                                        "massPct": 0.5562,
+                                        "childrenIds": [
+                                            3606
+                                        ]
+                                    },
+                                    {
+                                        "recId": 2766,
+                                        "massPct": 0.0035,
+                                        "childrenIds": [
+                                            2766
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": 0.0554,
+                                "contributors": [
+                                    {
+                                        "recId": 9377,
+                                        "massPct": 0.0554,
+                                        "childrenIds": [
+                                            9377
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "red-568",
+                                "type": "red",
+                                "name": "Developmental",
+                                "massPct": 0.0554,
+                                "contributors": [
+                                    {
+                                        "recId": 9377,
+                                        "massPct": 0.0554,
+                                        "childrenIds": [
+                                            9377
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "orange": [
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": 0.1209,
+                                "contributors": [
+                                    {
+                                        "recId": 2794,
+                                        "massPct": 0.1209,
+                                        "childrenIds": [
+                                            2794
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": 0.3435,
+                                "contributors": [
+                                    {
+                                        "recId": 2794,
+                                        "massPct": 0.1209,
+                                        "childrenIds": [
+                                            2794
+                                        ]
+                                    },
+                                    {
+                                        "recId": 2766,
+                                        "massPct": 0.0035,
+                                        "childrenIds": [
+                                            2766
+                                        ]
+                                    },
+                                    {
+                                        "recId": 2795,
+                                        "massPct": 0.2116,
+                                        "childrenIds": [
+                                            2795
+                                        ]
+                                    },
+                                    {
+                                        "recId": 9378,
+                                        "massPct": 0.0045,
+                                        "childrenIds": [
+                                            9378
+                                        ]
+                                    },
+                                    {
+                                        "recId": 3334,
+                                        "massPct": 0.003,
+                                        "childrenIds": [
+                                            3334
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-576",
+                                "type": "orange",
+                                "name": "Skin Irritation",
+                                "massPct": 0.21610000000000001,
+                                "contributors": [
+                                    {
+                                        "recId": 2795,
+                                        "massPct": 0.2116,
+                                        "childrenIds": [
+                                            2795
+                                        ]
+                                    },
+                                    {
+                                        "recId": 9378,
+                                        "massPct": 0.0045,
+                                        "childrenIds": [
+                                            9378
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-575",
+                                "type": "orange",
+                                "name": "Eye Irritation",
+                                "massPct": 0.2146,
+                                "contributors": [
+                                    {
+                                        "recId": 2795,
+                                        "massPct": 0.2116,
+                                        "childrenIds": [
+                                            2795
+                                        ]
+                                    },
+                                    {
+                                        "recId": 3334,
+                                        "massPct": 0.003,
+                                        "childrenIds": [
+                                            3334
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": 0.2519,
+                                "contributors": [
+                                    {
+                                        "recId": 2795,
+                                        "massPct": 0.2116,
+                                        "childrenIds": [
+                                            2795
+                                        ]
+                                    },
+                                    {
+                                        "recId": 2796,
+                                        "massPct": 0.0403,
+                                        "childrenIds": [
+                                            2796
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": 0.0045,
+                                "contributors": [
+                                    {
+                                        "recId": 9378,
+                                        "massPct": 0.0045,
+                                        "childrenIds": [
+                                            9378
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-567",
+                                "type": "orange",
+                                "name": "Cancer",
+                                "massPct": 0.003,
+                                "contributors": [
+                                    {
+                                        "recId": 3334,
+                                        "massPct": 0.003,
+                                        "childrenIds": [
+                                            3334
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "components": [
+                        {
+                            "recId": 3606,
+                            "name": "Silica, amorphous",
+                            "CASRN": "7631-86-9",
+                            "massPct": 0.5562,
+                            "function": "fiber glass component",
+                            "hazards": {
+                                "red": [
+                                    {
+                                        "hazardId": "red-7911",
+                                        "type": "red",
+                                        "name": "Cancer (occupational only)",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Mortensen",
+                                    "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+                                    "id": 8640
+                                },
+                                {
+                                    "name": "Ceramics",
+                                    "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                                    "id": 8638
+                                },
+                                {
+                                    "name": "ASM",
+                                    "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                                    "id": 8639
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.00506518191432
+                        },
+                        {
+                            "recId": 9377,
+                            "name": "Boric Oxide",
+                            "CASRN": "1303-86-2",
+                            "massPct": 0.0554,
+                            "function": "fiber glass component",
+                            "hazards": {
+                                "red": [
+                                    {
+                                        "hazardId": "red-569",
+                                        "type": "red",
+                                        "name": "Reproductive",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "red-568",
+                                        "type": "red",
+                                        "name": "Developmental",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Ceramics",
+                                    "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                                    "id": 8638
+                                },
+                                {
+                                    "name": "ASM",
+                                    "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                                    "id": 8639
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.00050451470344
+                        },
+                        {
+                            "recId": 2794,
+                            "name": "Aluminum Oxide",
+                            "CASRN": "1344-28-1",
+                            "massPct": 0.1209,
+                            "function": "fiber glass component",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-572",
+                                        "type": "orange",
+                                        "name": "Respiratory",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Mortensen",
+                                    "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+                                    "id": 8640
+                                },
+                                {
+                                    "name": "Ceramics",
+                                    "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                                    "id": 8638
+                                },
+                                {
+                                    "name": "ASM",
+                                    "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                                    "id": 8639
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.00110100771924
+                        },
+                        {
+                            "recId": 3749,
+                            "name": "Sodium Oxide",
+                            "CASRN": "1313-59-3",
+                            "massPct": 0.003,
+                            "function": "fiber glass component",
+                            "hazards": {},
+                            "sources": [
+                                {
+                                    "name": "Mortensen",
+                                    "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+                                    "id": 8640
+                                },
+                                {
+                                    "name": "Ceramics",
+                                    "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                                    "id": 8638
+                                },
+                                {
+                                    "name": "ASM",
+                                    "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                                    "id": 8639
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.0000273202908
+                        },
+                        {
+                            "recId": 2766,
+                            "name": "Titanium Dioxide",
+                            "CASRN": "13463-67-7",
+                            "massPct": 0.0035,
+                            "function": "fiber glass component",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ],
+                                "red": [
+                                    {
+                                        "hazardId": "red-7911",
+                                        "type": "red",
+                                        "name": "Cancer (occupational only)",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Ceramics",
+                                    "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                                    "id": 8638
+                                },
+                                {
+                                    "name": "ASM",
+                                    "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                                    "id": 8639
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.0000318736726
+                        },
+                        {
+                            "recId": 2795,
+                            "name": "Calcium Oxide",
+                            "CASRN": "1305-78-8",
+                            "massPct": 0.2116,
+                            "function": "fiber glass component",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-576",
+                                        "type": "orange",
+                                        "name": "Skin Irritation",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-575",
+                                        "type": "orange",
+                                        "name": "Eye Irritation",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-568",
+                                        "type": "orange",
+                                        "name": "Developmental",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Mortensen",
+                                    "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+                                    "id": 8640
+                                },
+                                {
+                                    "name": "Ceramics",
+                                    "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                                    "id": 8638
+                                },
+                                {
+                                    "name": "ASM",
+                                    "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                                    "id": 8639
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.00192699117776
+                        },
+                        {
+                            "recId": 9378,
+                            "name": "Fluorine",
+                            "CASRN": "7782-41-4",
+                            "massPct": 0.0045,
+                            "function": "fiber glass component",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-576",
+                                        "type": "orange",
+                                        "name": "Skin Irritation",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-569",
+                                        "type": "orange",
+                                        "name": "Reproductive",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Ceramics",
+                                    "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                                    "id": 8638
+                                },
+                                {
+                                    "name": "ASM",
+                                    "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                                    "id": 8639
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.00004098043619999999
+                        },
+                        {
+                            "recId": 3334,
+                            "name": "Ferric Oxide",
+                            "CASRN": "1309-37-1",
+                            "massPct": 0.003,
+                            "function": "fiber glass component",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-575",
+                                        "type": "orange",
+                                        "name": "Eye Irritation",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-567",
+                                        "type": "orange",
+                                        "name": "Cancer",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Ceramics",
+                                    "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                                    "id": 8638
+                                },
+                                {
+                                    "name": "ASM",
+                                    "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                                    "id": 8639
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.0000273202908
+                        },
+                        {
+                            "recId": 2796,
+                            "name": "Magnesium Oxide",
+                            "CASRN": "1309-48-4",
+                            "massPct": 0.0403,
+                            "function": "fiber glass component",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-568",
+                                        "type": "orange",
+                                        "name": "Developmental",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Mortensen",
+                                    "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+                                    "id": 8640
+                                },
+                                {
+                                    "name": "Ceramics",
+                                    "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+                                    "id": 8638
+                                },
+                                {
+                                    "name": "ASM",
+                                    "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+                                    "id": 8639
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.00036700257308
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "name": "USG patent 2011",
+                            "url": "https://www.google.com/patents/US8057915",
+                            "id": 8615
+                        },
+                        {
+                            "name": "Type X EPD",
+                            "url": "http://www.gypsum.org/wp/wp-content/uploads/2013/12/Gypsum-2014-FINAL-May-13-.pdf",
+                            "id": 1225
+                        },
+                        {
+                            "name": "Gyptone MSDS",
+                            "url": "http://www.certainteed.com/resources/Gyptone_MSDS_2009.pdf",
+                            "id": 8603
+                        },
+                        {
+                            "name": "FireBloc CP MSDS",
+                            "url": "http://www.americangypsum.com/pdfs/SDSFireBlocCP.pdf",
+                            "id": 8599
+                        },
+                        {
+                            "name": "Envirogard MSDS",
+                            "url": "http://www.certainteed.com/resources/Envirogard_MSDS_2009.pdf",
+                            "id": 8591
+                        },
+                        {
+                            "name": "Symphony g MSDS",
+                            "url": "http://www.certainteed.com/resources/Symphony%20g_MSDS_2009.pdf",
+                            "id": 8587
+                        },
+                        {
+                            "name": "Vinylrock MSDS",
+                            "url": "http://www.certainteed.com/resources/Vinylrock%20MSDS_2009.pdf",
+                            "id": 8584
+                        },
+                        {
+                            "name": "Aquarock MSDS",
+                            "url": "http://www.certainteed.com/resources/Aquarock_MSDS_2009.pdf ",
+                            "id": 8581
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0091067636
+                },
+                {
+                    "recId": 1206,
+                    "name": "Calcium Sulfate Dihydrate",
+                    "CASRN": "10101-41-4",
+                    "massPct": 0.01609,
+                    "function": "accelerator, water reducing agent",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Type X EPD",
+                            "url": "http://www.gypsum.org/wp/wp-content/uploads/2013/12/Gypsum-2014-FINAL-May-13-.pdf",
+                            "id": 1225
+                        },
+                        {
+                            "name": "USG patent 2011",
+                            "url": "https://www.google.com/patents/US8057915",
+                            "id": 8615
+                        },
+                        {
+                            "name": "USG patent 2007",
+                            "url": "http://www.google.com/patents/US20070102237",
+                            "id": 8616
+                        }
+                    ],
+                    "notes": "Also known as gypsum and landplaster",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.015489199399999999
+                },
+                {
+                    "recId": 1206,
+                    "name": "Calcium Sulfate Dihydrate",
+                    "CASRN": "10101-41-4",
+                    "massPct": 0.02051,
+                    "function": "body",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Type X EPD",
+                            "url": "http://www.gypsum.org/wp/wp-content/uploads/2013/12/Gypsum-2014-FINAL-May-13-.pdf",
+                            "id": 1225
+                        },
+                        {
+                            "name": "USG patent 2011",
+                            "url": "https://www.google.com/patents/US8057915",
+                            "id": 8615
+                        },
+                        {
+                            "name": "USG patent 2007",
+                            "url": "http://www.google.com/patents/US20070102237",
+                            "id": 8616
+                        }
+                    ],
+                    "notes": "Also known as gypsum and landplaster",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0197441566
+                },
+                {
+                    "recId": 1202,
+                    "name": "Vermiculite",
+                    "CASRN": "1318-00-9",
+                    "massPct": 0.03785,
+                    "function": "fire resistance, lightweight aggregate",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Type X EPD",
+                            "url": "http://www.gypsum.org/wp/wp-content/uploads/2013/12/Gypsum-2014-FINAL-May-13-.pdf",
+                            "id": 1225
+                        },
+                        {
+                            "name": "USG patent 2010",
+                            "url": "http://www.google.com/patents/US7851057",
+                            "id": 8617
+                        },
+                        {
+                            "name": "Envirogard MSDS",
+                            "url": "http://www.certainteed.com/resources/Envirogard_MSDS_2009.pdf",
+                            "id": 8591
+                        },
+                        {
+                            "name": "Symphony g MSDS",
+                            "url": "http://www.certainteed.com/resources/Symphony%20g_MSDS_2009.pdf",
+                            "id": 8587
+                        },
+                        {
+                            "name": "Vinylrock MSDS",
+                            "url": "http://www.certainteed.com/resources/Vinylrock%20MSDS_2009.pdf",
+                            "id": 8584
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.036436681
+                },
+                {
+                    "recId": 1203,
+                    "name": "Starch",
+                    "CASRN": "9005-25-8",
+                    "massPct": 0.00946,
+                    "function": "binder",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Type X EPD",
+                            "url": "http://www.gypsum.org/wp/wp-content/uploads/2013/12/Gypsum-2014-FINAL-May-13-.pdf",
+                            "id": 1225
+                        },
+                        {
+                            "name": "USG patent 2011",
+                            "url": "https://www.google.com/patents/US8057915",
+                            "id": 8615
+                        },
+                        {
+                            "name": "USG patent 2010",
+                            "url": "http://www.google.com/patents/US7851057",
+                            "id": 8617
+                        },
+                        {
+                            "name": "USG patent 2007",
+                            "url": "http://www.google.com/patents/US20070102237",
+                            "id": 8616
+                        },
+                        {
+                            "name": "Gyptone HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Gyptone.pdf",
+                            "id": 8602
+                        },
+                        {
+                            "name": "Vinylrock HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Vinylrock.pdf  ",
+                            "id": 8582
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0091067636
+                },
+                {
+                    "recId": 925,
+                    "name": "FGD Synthetic Gypsum",
+                    "CASRN": "unknown",
+                    "massPct": 0.83103,
+                    "function": "body",
+                    "hazards": {
+                        "unknown": [
+                            {
+                                "hazardId": "unknown-11424",
+                                "type": "unknown",
+                                "name": "Unknown",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "USG Design Studio SHEETROCK Ceiling Panel",
+                            "url": "http://www.usgdesignstudio.com/acoustical-ceiling-products.asp?product=sheetrock-climaplus-lay-in-ceiling-panels",
+                            "id": 8611
+                        },
+                        {
+                            "name": "Gyptone Big Quattro 41 ecoscorecard",
+                            "url": "http://certainteedceilings.ecoscorecard.com/catalogs/show/39482.pdf",
+                            "id": 8604
+                        },
+                        {
+                            "name": "AG Leed Product Guide",
+                            "url": "http://www.americangypsum.com/pdfs/AG_Product_Guide_Leed.pdf",
+                            "id": 8597
+                        },
+                        {
+                            "name": "GPS Reports NC",
+                            "url": "http://gps.nationalgypsum.com/ReportData.aspx?zipCode=28120",
+                            "id": 8596
+                        },
+                        {
+                            "name": "Vinylrock ecoscorecard",
+                            "url": "http://certainteedceilings.ecoscorecard.com/catalogs/show/35859.pdf",
+                            "id": 8583
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.7999993398
+                },
+                {
+                    "recId": 8646,
+                    "name": "Sodium Poly(naphthaleneformaldehyde) Sulfonate",
+                    "CASRN": "9084-06-4",
+                    "massPct": 0.00473,
+                    "function": "dispersant",
+                    "hazards": {
+                        "red": [
+                            {
+                                "hazardId": "red-955",
+                                "type": "red",
+                                "name": "PBT",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "USG patent 2011",
+                            "url": "https://www.google.com/patents/US8057915",
+                            "id": 8615
+                        },
+                        {
+                            "name": "USG patent 2010",
+                            "url": "http://www.google.com/patents/US7851057",
+                            "id": 8617
+                        },
+                        {
+                            "name": "CertainTeed wallboard FL plant renewal",
+                            "url": "http://arm-permit2k.dep.state.fl.us/adh/psd/0310202/00004A34.pdf",
+                            "id": 8633
+                        },
+                        {
+                            "name": "Daxad 19 TDS",
+                            "url": "http://www.geosc.com/Assets/Files/Products-Docs/S-C-Product-Documents/Daxad-19.pdf",
+                            "id": 8629
+                        },
+                        {
+                            "name": "Daxad 19 MSDS",
+                            "url": "http://www.geosc.com/Assets/Files/MSDS-Files/DAXAD-19/MSDS-1948P-AGHS-EN",
+                            "id": 8630
+                        },
+                        {
+                            "name": "Diloflo GS-20 TDS",
+                            "url": "http://www.geosc.com/Assets/Files/Products-Docs/S-C-Product-Documents/Diloflo-GS-20.pdf",
+                            "id": 8625
+                        },
+                        {
+                            "name": "Diloflo GS-20 MSDS",
+                            "url": "http://www.geosc.com/Assets/Files/MSDS-Files/DILOFLO-GS-20/MSDS-1987W-AGHS-EN",
+                            "id": 8626
+                        },
+                        {
+                            "name": "Lomar D TDS",
+                            "url": "http://www.geosc.com/Assets/Files/Products-Docs/S-C-Product-Documents/Lomar-D-OF-2013.pdf",
+                            "id": 8623
+                        },
+                        {
+                            "name": "Lomar D MSDS",
+                            "url": "https://www.spectrumchemical.com/MSDS/ZQ507.pdf",
+                            "id": 8624
+                        },
+                        {
+                            "name": "USG patent 2007",
+                            "url": "http://www.google.com/patents/US20070102237",
+                            "id": 8616
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0045533818
+                },
+                {
+                    "recId": 4806,
+                    "name": "Kaolin",
+                    "CASRN": "1332-58-7",
+                    "massPct": 0.01892,
+                    "function": "fire resistance, lightweight aggregate",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-567",
+                                "type": "orange",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Type X EPD",
+                            "url": "http://www.gypsum.org/wp/wp-content/uploads/2013/12/Gypsum-2014-FINAL-May-13-.pdf",
+                            "id": 1225
+                        },
+                        {
+                            "name": "Envirogard MSDS",
+                            "url": "http://www.certainteed.com/resources/Envirogard_MSDS_2009.pdf",
+                            "id": 8591
+                        },
+                        {
+                            "name": "Symphony g MSDS",
+                            "url": "http://www.certainteed.com/resources/Symphony%20g_MSDS_2009.pdf",
+                            "id": 8587
+                        },
+                        {
+                            "name": "Vinylrock MSDS",
+                            "url": "http://www.certainteed.com/resources/Vinylrock%20MSDS_2009.pdf",
+                            "id": 8584
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0182135272
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.96266
+        },
+        {
+            "recId": 8647,
+            "name": "Polyvinyl Chloride Facing",
+            "CASRN": "",
+            "massPct": 0.0364,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": 0.249975,
+                        "contributors": [
+                            {
+                                "recId": 8649,
+                                "massPct": 0.249975,
+                                "childrenIds": [
+                                    8649,
+                                    6910
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": 0.249975,
+                        "contributors": [
+                            {
+                                "recId": 8649,
+                                "massPct": 0.249975,
+                                "childrenIds": [
+                                    8649,
+                                    2920
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.375,
+                        "contributors": [
+                            {
+                                "recId": 8649,
+                                "massPct": 0.249975,
+                                "childrenIds": [
+                                    8649,
+                                    2920
+                                ]
+                            },
+                            {
+                                "recId": 8649,
+                                "massPct": 0.125025,
+                                "childrenIds": [
+                                    8649,
+                                    8650
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.125025,
+                        "contributors": [
+                            {
+                                "recId": 8649,
+                                "massPct": 0.125025,
+                                "childrenIds": [
+                                    8649,
+                                    8650
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.125025,
+                        "contributors": [
+                            {
+                                "recId": 8649,
+                                "massPct": 0.125025,
+                                "childrenIds": [
+                                    8649,
+                                    8650
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental",
+                        "massPct": 0.6249750000000001,
+                        "contributors": [
+                            {
+                                "recId": 8649,
+                                "massPct": 0.249975,
+                                "childrenIds": [
+                                    8649,
+                                    6910
+                                ]
+                            },
+                            {
+                                "recId": 8649,
+                                "massPct": 0.125025,
+                                "childrenIds": [
+                                    8649,
+                                    8651
+                                ]
+                            },
+                            {
+                                "recId": 8649,
+                                "massPct": 0.249975,
+                                "childrenIds": [
+                                    8649,
+                                    2920
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": 0.375,
+                        "contributors": [
+                            {
+                                "recId": 8649,
+                                "massPct": 0.249975,
+                                "childrenIds": [
+                                    8649,
+                                    6910
+                                ]
+                            },
+                            {
+                                "recId": 8649,
+                                "massPct": 0.125025,
+                                "childrenIds": [
+                                    8649,
+                                    8651
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-572",
+                        "type": "red",
+                        "name": "Respiratory",
+                        "massPct": 0.249975,
+                        "contributors": [
+                            {
+                                "recId": 8649,
+                                "massPct": 0.249975,
+                                "childrenIds": [
+                                    8649,
+                                    2920
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 8648,
+                    "name": "Ethylene Vinyl Acetate Copolymer",
+                    "CASRN": "24937-78-8",
+                    "massPct": 0.25,
+                    "function": "adhesive",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Vinylrock HPD",
+                            "url": "http://www.certainteed.com/resources/CTC_HPD_Vinylrock.pdf  ",
+                            "id": 8582
+                        }
+                    ],
+                    "notes": "This is a representative polymer. EVA.",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0091
+                },
+                {
+                    "recId": 8649,
+                    "name": "Polyvinyl Chloride Film",
+                    "CASRN": "",
+                    "massPct": 0.75,
+                    "function": "facing",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": 0.3333,
+                                "contributors": [
+                                    {
+                                        "recId": 6910,
+                                        "massPct": 0.3333,
+                                        "childrenIds": [
+                                            6910
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": 0.3333,
+                                "contributors": [
+                                    {
+                                        "recId": 2920,
+                                        "massPct": 0.3333,
+                                        "childrenIds": [
+                                            2920
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": 0.5,
+                                "contributors": [
+                                    {
+                                        "recId": 2920,
+                                        "massPct": 0.3333,
+                                        "childrenIds": [
+                                            2920
+                                        ]
+                                    },
+                                    {
+                                        "recId": 8650,
+                                        "massPct": 0.1667,
+                                        "childrenIds": [
+                                            8650
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": 0.1667,
+                                "contributors": [
+                                    {
+                                        "recId": 8650,
+                                        "massPct": 0.1667,
+                                        "childrenIds": [
+                                            8650
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": 0.1667,
+                                "contributors": [
+                                    {
+                                        "recId": 8650,
+                                        "massPct": 0.1667,
+                                        "childrenIds": [
+                                            8650
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-568",
+                                "type": "red",
+                                "name": "Developmental",
+                                "massPct": 0.8332999999999999,
+                                "contributors": [
+                                    {
+                                        "recId": 6910,
+                                        "massPct": 0.3333,
+                                        "childrenIds": [
+                                            6910
+                                        ]
+                                    },
+                                    {
+                                        "recId": 8651,
+                                        "massPct": 0.1667,
+                                        "childrenIds": [
+                                            8651
+                                        ]
+                                    },
+                                    {
+                                        "recId": 2920,
+                                        "massPct": 0.3333,
+                                        "childrenIds": [
+                                            2920
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "red-567",
+                                "type": "red",
+                                "name": "Cancer",
+                                "massPct": 0.5,
+                                "contributors": [
+                                    {
+                                        "recId": 6910,
+                                        "massPct": 0.3333,
+                                        "childrenIds": [
+                                            6910
+                                        ]
+                                    },
+                                    {
+                                        "recId": 8651,
+                                        "massPct": 0.1667,
+                                        "childrenIds": [
+                                            8651
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "red-572",
+                                "type": "red",
+                                "name": "Respiratory",
+                                "massPct": 0.3333,
+                                "contributors": [
+                                    {
+                                        "recId": 2920,
+                                        "massPct": 0.3333,
+                                        "childrenIds": [
+                                            2920
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "components": [
+                        {
+                            "recId": 6910,
+                            "name": "Antimony",
+                            "CASRN": "7440-36-0",
+                            "massPct": 0.3333,
+                            "function": "flame retardant",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-569",
+                                        "type": "orange",
+                                        "name": "Reproductive",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ],
+                                "red": [
+                                    {
+                                        "hazardId": "red-568",
+                                        "type": "red",
+                                        "name": "Developmental",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "red-567",
+                                        "type": "red",
+                                        "name": "Cancer",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Envirogard MSDS",
+                                    "url": "http://www.certainteed.com/resources/Envirogard_MSDS_2009.pdf",
+                                    "id": 8591
+                                },
+                                {
+                                    "name": "Symphony g MSDS",
+                                    "url": "http://www.certainteed.com/resources/Symphony%20g_MSDS_2009.pdf",
+                                    "id": 8587
+                                },
+                                {
+                                    "name": "Vinylrock MSDS",
+                                    "url": "http://www.certainteed.com/resources/Vinylrock%20MSDS_2009.pdf",
+                                    "id": 8584
+                                },
+                                {
+                                    "name": "Aquarock MSDS",
+                                    "url": "http://www.certainteed.com/resources/Aquarock_MSDS_2009.pdf ",
+                                    "id": 8581
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "yes",
+                            "massPctOfTotal": 0.00909909
+                        },
+                        {
+                            "recId": 8651,
+                            "name": "Methyl Isobutyl Ketone",
+                            "CASRN": "108-10-1",
+                            "massPct": 0.1667,
+                            "function": "solvent",
+                            "hazards": {
+                                "red": [
+                                    {
+                                        "hazardId": "red-567",
+                                        "type": "red",
+                                        "name": "Cancer",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "red-568",
+                                        "type": "red",
+                                        "name": "Developmental",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Envirogard MSDS",
+                                    "url": "http://www.certainteed.com/resources/Envirogard_MSDS_2009.pdf",
+                                    "id": 8591
+                                },
+                                {
+                                    "name": "Symphony g MSDS",
+                                    "url": "http://www.certainteed.com/resources/Symphony%20g_MSDS_2009.pdf",
+                                    "id": 8587
+                                },
+                                {
+                                    "name": "Vinylrock MSDS",
+                                    "url": "http://www.certainteed.com/resources/Vinylrock%20MSDS_2009.pdf",
+                                    "id": 8584
+                                },
+                                {
+                                    "name": "Aquarock MSDS",
+                                    "url": "http://www.certainteed.com/resources/Aquarock_MSDS_2009.pdf ",
+                                    "id": 8581
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "yes",
+                            "massPctOfTotal": 0.00455091
+                        },
+                        {
+                            "recId": 2920,
+                            "name": "Polyvinyl Chloride",
+                            "CASRN": "9002-86-2",
+                            "massPct": 0.3333,
+                            "function": "polymer",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-7912",
+                                        "type": "orange",
+                                        "name": "Respiratory (occupational only)",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-568",
+                                        "type": "orange",
+                                        "name": "Developmental",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ],
+                                "red": [
+                                    {
+                                        "hazardId": "red-568",
+                                        "type": "red",
+                                        "name": "Developmental",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "red-572",
+                                        "type": "red",
+                                        "name": "Respiratory",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "SHEETROCK Ceiling Panel Submittal Sheet",
+                                    "url": "http://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/sheetrock-lay-in-ceiling-panel-climaplus-data-SC1820.pdf",
+                                    "id": 8609
+                                },
+                                {
+                                    "name": "FireBloc CP MSDS",
+                                    "url": "http://www.americangypsum.com/pdfs/SDSFireBlocCP.pdf",
+                                    "id": 8599
+                                },
+                                {
+                                    "name": "FireBloc CP Submittal",
+                                    "url": "http://www.americangypsum.com/data/products/FireblocCP.pdf",
+                                    "id": 8598
+                                },
+                                {
+                                    "name": "Gridstone Ceiling Panel 3 part spec",
+                                    "url": "http://nationalgypsum.com/File/09%2056%2013.pdf",
+                                    "id": 8595
+                                },
+                                {
+                                    "name": "Gridstone Ceiling Panels Brochure",
+                                    "url": "http://nationalgypsum.com/File/110919.pdf",
+                                    "id": 8593
+                                },
+                                {
+                                    "name": "Vinylrock 3 part spec",
+                                    "url": "http://www.certainteed.com/resources/CTC_Vinylrock_3partspec_1012.docx",
+                                    "id": 8585
+                                },
+                                {
+                                    "name": "Envirogard 3 part spec",
+                                    "url": "http://www.certainteed.com/resources/CTC_Envirogard_3partspec.docx",
+                                    "id": 8590
+                                },
+                                {
+                                    "name": "Vinylrock HPD",
+                                    "url": "http://www.certainteed.com/resources/CTC_HPD_Vinylrock.pdf  ",
+                                    "id": 8582
+                                },
+                                {
+                                    "name": "Aquarock 3 part spec",
+                                    "url": "http://www.certainteed.com/resources/CTC_Performa_Aquarock.pdf",
+                                    "id": 8580
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "yes",
+                            "massPctOfTotal": 0.00909909
+                        },
+                        {
+                            "recId": 8650,
+                            "name": "Methyl Ethyl Ketone",
+                            "CASRN": "78-93-3",
+                            "massPct": 0.1667,
+                            "function": "solvent",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-570",
+                                        "type": "orange",
+                                        "name": "Endocrine",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-568",
+                                        "type": "orange",
+                                        "name": "Developmental",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Envirogard MSDS",
+                                    "url": "http://www.certainteed.com/resources/Envirogard_MSDS_2009.pdf",
+                                    "id": 8591
+                                },
+                                {
+                                    "name": "Symphony g MSDS",
+                                    "url": "http://www.certainteed.com/resources/Symphony%20g_MSDS_2009.pdf",
+                                    "id": 8587
+                                },
+                                {
+                                    "name": "Vinylrock MSDS",
+                                    "url": "http://www.certainteed.com/resources/Vinylrock%20MSDS_2009.pdf",
+                                    "id": 8584
+                                },
+                                {
+                                    "name": "Aquarock MSDS",
+                                    "url": "http://www.certainteed.com/resources/Aquarock_MSDS_2009.pdf ",
+                                    "id": 8581
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "yes",
+                            "massPctOfTotal": 0.00455091
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "name": "SHEETROCK Ceiling Panel Submittal Sheet",
+                            "url": "http://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/sheetrock-lay-in-ceiling-panel-climaplus-data-SC1820.pdf",
+                            "id": 8609
+                        },
+                        {
+                            "name": "FireBloc CP MSDS",
+                            "url": "http://www.americangypsum.com/pdfs/SDSFireBlocCP.pdf",
+                            "id": 8599
+                        },
+                        {
+                            "name": "FireBloc CP Submittal",
+                            "url": "http://www.americangypsum.com/data/products/FireblocCP.pdf",
+                            "id": 8598
+                        },
+                        {
+                            "name": "Gridstone Ceiling Panel 3 part spec",
+                            "url": "http://nationalgypsum.com/File/09%2056%2013.pdf",
+                            "id": 8595
+                        },
+                        {
+                            "name": "Gridstone Ceiling Panels Brochure",
+                            "url": "http://nationalgypsum.com/File/110919.pdf",
+                            "id": 8593
+                        },
+                        {
+                            "name": "Vinylrock 3 part spec",
+                            "url": "http://www.certainteed.com/resources/CTC_Vinylrock_3partspec_1012.docx",
+                            "id": 8585
+                        },
+                        {
+                            "name": "Envirogard 3 part spec",
+                            "url": "http://www.certainteed.com/resources/CTC_Envirogard_3partspec.docx",
+                            "id": 8590
+                        },
+                        {
+                            "name": "Aquarock 3 part spec",
+                            "url": "http://www.certainteed.com/resources/CTC_Performa_Aquarock.pdf",
+                            "id": 8580
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0273
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.0364
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Zirconium",
+            "CASRN": "7440-67-7",
+            "massPct": 3e-7,
+            "function": "",
+            "sources": [
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Cobalt",
+            "CASRN": "7440-48-4",
+            "massPct": 6e-7,
+            "function": "",
+            "sources": [
+                {
+                    "name": "EPA2009",
+                    "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004UPQ.PDF?Dockey=P1004UPQ.PDF",
+                    "id": 8643
+                },
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ethylene",
+            "CASRN": "74-85-1",
+            "massPct": null,
+            "function": "ethylene vinyl acetate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Sodium",
+            "CASRN": "7440-23-5",
+            "massPct": 0.000156,
+            "function": "",
+            "sources": [
+                {
+                    "name": "EPA2009",
+                    "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004UPQ.PDF?Dockey=P1004UPQ.PDF",
+                    "id": 8643
+                },
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Formaldehyde",
+            "CASRN": "50-00-0",
+            "massPct": null,
+            "function": "sodium polynapthalenesulfonate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Vinyl Acetate",
+            "CASRN": "108-05-4",
+            "massPct": null,
+            "function": "ethylene vinyl acetate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Vanadium",
+            "CASRN": "7440-62-2",
+            "massPct": 0.0000017,
+            "function": "",
+            "sources": [
+                {
+                    "name": "EPA2009",
+                    "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004UPQ.PDF?Dockey=P1004UPQ.PDF",
+                    "id": 8643
+                },
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Potassium",
+            "CASRN": "7440-09-7",
+            "massPct": 0.000211,
+            "function": "",
+            "sources": [
+                {
+                    "name": "EPA2009",
+                    "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004UPQ.PDF?Dockey=P1004UPQ.PDF",
+                    "id": 8643
+                },
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Uranium",
+            "CASRN": "7440-61-1",
+            "massPct": 3e-7,
+            "function": "",
+            "sources": [
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Sodium Persulfate",
+            "CASRN": "7775-27-1",
+            "massPct": null,
+            "function": "ethylene vinyl acetate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Arsenic",
+            "CASRN": "7440-38-2",
+            "massPct": 0.00002732489298,
+            "function": "antimony residual",
+            "sources": [
+                {
+                    "name": "Butterman and Carlin 2004",
+                    "url": "http://pubs.usgs.gov/of/2003/of03-019/of03-019.pdf",
+                    "id": 8636
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-10360",
+                        "type": "orange",
+                        "name": "Neurotoxicity"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "1,1-Dimethylethyl hydroperoxide",
+            "CASRN": "75-91-2",
+            "massPct": null,
+            "function": "ethylene vinyl acetate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Hydrogen Peroxide",
+            "CASRN": "7722-84-1",
+            "massPct": null,
+            "function": "ethylene vinyl acetate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Nickel",
+            "CASRN": "7440-02-0",
+            "massPct": 0.000003,
+            "function": "",
+            "sources": [
+                {
+                    "name": "EPA2009",
+                    "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004UPQ.PDF?Dockey=P1004UPQ.PDF",
+                    "id": 8643
+                },
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Vinyl Chloride Monomer",
+            "CASRN": "75-01-4",
+            "massPct": null,
+            "function": "polyvinyl chloride residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Zinc",
+            "CASRN": "7440-66-6",
+            "massPct": 0.0000086,
+            "function": "",
+            "sources": [
+                {
+                    "name": "EPA2009",
+                    "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004UPQ.PDF?Dockey=P1004UPQ.PDF",
+                    "id": 8643
+                },
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Chromium",
+            "CASRN": "7440-47-3",
+            "massPct": 0.0000018,
+            "function": "",
+            "sources": [
+                {
+                    "name": "EPA2009",
+                    "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004UPQ.PDF?Dockey=P1004UPQ.PDF",
+                    "id": 8643
+                },
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Quartz",
+            "CASRN": "14808-60-7",
+            "massPct": 0.0009108297659,
+            "function": "gypsum and kaolin residual",
+            "sources": [
+                {
+                    "name": "Gyptone MSDS",
+                    "url": "http://www.certainteed.com/resources/Gyptone_MSDS_2009.pdf",
+                    "id": 8603
+                },
+                {
+                    "name": "SHEETROCK Ceiling Panel MSDS",
+                    "url": "http://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-sheetrock-firecode-lay-in-acoustical-panels-sds-en-54000412008.pdf",
+                    "id": 8610
+                },
+                {
+                    "name": "FireBloc CP MSDS",
+                    "url": "http://www.americangypsum.com/pdfs/SDSFireBlocCP.pdf",
+                    "id": 8599
+                },
+                {
+                    "name": "Gridstone Ceiling Panels MSDS",
+                    "url": "http://nationalgypsum.com/File/sds12430.pdf",
+                    "id": 8594
+                },
+                {
+                    "name": "Envirogard MSDS",
+                    "url": "http://www.certainteed.com/resources/Envirogard_MSDS_2009.pdf",
+                    "id": 8591
+                },
+                {
+                    "name": "Symphony g MSDS",
+                    "url": "http://www.certainteed.com/resources/Symphony%20g_MSDS_2009.pdf",
+                    "id": 8587
+                },
+                {
+                    "name": "Vinylrock MSDS",
+                    "url": "http://www.certainteed.com/resources/Vinylrock%20MSDS_2009.pdf",
+                    "id": 8584
+                },
+                {
+                    "name": "Aquarock MSDS",
+                    "url": "http://www.certainteed.com/resources/Aquarock_MSDS_2009.pdf ",
+                    "id": 8581
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Selenium",
+            "CASRN": "7782-49-2",
+            "massPct": 0.0000011,
+            "function": "",
+            "sources": [
+                {
+                    "name": "EPA2009",
+                    "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004UPQ.PDF?Dockey=P1004UPQ.PDF",
+                    "id": 8643
+                },
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Thorium",
+            "CASRN": "7440-29-1",
+            "massPct": 2e-7,
+            "function": "",
+            "sources": [
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Lead",
+            "CASRN": "7439-92-1",
+            "massPct": 0.0000159395209,
+            "function": "antimony residual",
+            "sources": [
+                {
+                    "name": "Butterman and Carlin 2004",
+                    "url": "http://pubs.usgs.gov/of/2003/of03-019/of03-019.pdf",
+                    "id": 8636
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-10360",
+                        "type": "orange",
+                        "name": "Neurotoxicity"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Manganese",
+            "CASRN": "7439-96-5",
+            "massPct": 0.00003,
+            "function": "",
+            "sources": [
+                {
+                    "name": "EPA2009",
+                    "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004UPQ.PDF?Dockey=P1004UPQ.PDF",
+                    "id": 8643
+                },
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Cadmium",
+            "CASRN": "7440-43-9",
+            "massPct": 6e-8,
+            "function": "",
+            "sources": [
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Beryllium",
+            "CASRN": "7440-41-7",
+            "massPct": 4e-8,
+            "function": "",
+            "sources": [
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Anatase Titanium Dioxide",
+            "CASRN": "1317-70-0",
+            "massPct": null,
+            "function": "kaolin clay residual",
+            "sources": [
+                {
+                    "name": "Kogel 2006",
+                    "url": "https://books.google.com/books?id=zNicdkuulE4C&pg=PA558&dq=kaolin+and+its+uses&hl=en&sa=X&ved=0CDkQ6AEwBWoVChMIuv3urd7vxwIVxBU-Ch3_qQuo#v=onepage&q=kaolin&f=false",
+                    "id": 8451
+                },
+                {
+                    "name": "Murray",
+                    "url": "https://books.google.com/books?id=zOsFafN36swC&pg=PA102&dq=kaolin+and+its+uses&hl=en&sa=X&ved=0CDMQ6AEwBGoVChMIuv3urd7vxwIVxBU-Ch3_qQuo#v=onepage&q=kaolin%20and%20its%20uses&f=false",
+                    "id": 8452
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Mercury",
+            "CASRN": "7439-97-6",
+            "massPct": 2.1e-7,
+            "function": "",
+            "sources": [
+                {
+                    "name": "Yost",
+                    "url": "https://drive.google.com/file/d/0B6_XRxBjnX_da3VVQmk2aHdUYVU/view",
+                    "id": 8642
+                },
+                {
+                    "name": "USG",
+                    "url": "https://www.netl.doe.gov/File%20Library/Research/Coal/ewr/42080FinalRpt20080624.pdf",
+                    "id": 8063
+                },
+                {
+                    "name": "EPA2009",
+                    "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004UPQ.PDF?Dockey=P1004UPQ.PDF",
+                    "id": 8643
+                },
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Amylase",
+            "CASRN": "9000-92-4",
+            "massPct": null,
+            "function": "starch residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "red": [
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.00509705558692,
+                    "contributors": [
+                        {
+                            "recId": 8644,
+                            "massPct": 0.00506518191432,
+                            "childrenIds": [
+                                8644,
+                                1313,
+                                3606
+                            ]
+                        },
+                        {
+                            "recId": 8644,
+                            "massPct": 0.0000318736726,
+                            "childrenIds": [
+                                8644,
+                                1313,
+                                2766
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.0005045147034399999,
+                    "contributors": [
+                        {
+                            "recId": 8644,
+                            "massPct": 0.0005045147034399999,
+                            "childrenIds": [
+                                8644,
+                                1313,
+                                9377
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-568",
+                    "type": "red",
+                    "name": "Developmental",
+                    "massPct": 0.02325360470344,
+                    "contributors": [
+                        {
+                            "recId": 8644,
+                            "massPct": 0.0005045147034399999,
+                            "childrenIds": [
+                                8644,
+                                1313,
+                                9377
+                            ]
+                        },
+                        {
+                            "recId": 8647,
+                            "massPct": 0.00909909,
+                            "childrenIds": [
+                                8647,
+                                8649,
+                                6910
+                            ]
+                        },
+                        {
+                            "recId": 8647,
+                            "massPct": 0.00455091,
+                            "childrenIds": [
+                                8647,
+                                8649,
+                                8651
+                            ]
+                        },
+                        {
+                            "recId": 8647,
+                            "massPct": 0.00909909,
+                            "childrenIds": [
+                                8647,
+                                8649,
+                                2920
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-955",
+                    "type": "red",
+                    "name": "PBT",
+                    "massPct": 0.0045533818,
+                    "contributors": [
+                        {
+                            "recId": 8644,
+                            "massPct": 0.0045533818,
+                            "childrenIds": [
+                                8644,
+                                8646
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-567",
+                    "type": "red",
+                    "name": "Cancer",
+                    "massPct": 0.01365,
+                    "contributors": [
+                        {
+                            "recId": 8647,
+                            "massPct": 0.00909909,
+                            "childrenIds": [
+                                8647,
+                                8649,
+                                6910
+                            ]
+                        },
+                        {
+                            "recId": 8647,
+                            "massPct": 0.00455091,
+                            "childrenIds": [
+                                8647,
+                                8649,
+                                8651
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-572",
+                    "type": "red",
+                    "name": "Respiratory",
+                    "massPct": 0.00909909,
+                    "contributors": [
+                        {
+                            "recId": 8647,
+                            "massPct": 0.00909909,
+                            "childrenIds": [
+                                8647,
+                                8649,
+                                2920
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "orange": [
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.0011010077192399998,
+                    "contributors": [
+                        {
+                            "recId": 8644,
+                            "massPct": 0.0011010077192399998,
+                            "childrenIds": [
+                                8644,
+                                1313,
+                                2794
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.0076790832965999995,
+                    "contributors": [
+                        {
+                            "recId": 8644,
+                            "massPct": 0.0011010077192399998,
+                            "childrenIds": [
+                                8644,
+                                1313,
+                                2794
+                            ]
+                        },
+                        {
+                            "recId": 8644,
+                            "massPct": 0.0000318736726,
+                            "childrenIds": [
+                                8644,
+                                1313,
+                                2766
+                            ]
+                        },
+                        {
+                            "recId": 8644,
+                            "massPct": 0.00192699117776,
+                            "childrenIds": [
+                                8644,
+                                1313,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 8644,
+                            "massPct": 0.00004098043619999999,
+                            "childrenIds": [
+                                8644,
+                                1313,
+                                9378
+                            ]
+                        },
+                        {
+                            "recId": 8644,
+                            "massPct": 0.0000273202908,
+                            "childrenIds": [
+                                8644,
+                                1313,
+                                3334
+                            ]
+                        },
+                        {
+                            "recId": 8647,
+                            "massPct": 0.00455091,
+                            "childrenIds": [
+                                8647,
+                                8649,
+                                8650
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-576",
+                    "type": "orange",
+                    "name": "Skin Irritation",
+                    "massPct": 0.00196797161396,
+                    "contributors": [
+                        {
+                            "recId": 8644,
+                            "massPct": 0.00192699117776,
+                            "childrenIds": [
+                                8644,
+                                1313,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 8644,
+                            "massPct": 0.00004098043619999999,
+                            "childrenIds": [
+                                8644,
+                                1313,
+                                9378
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-575",
+                    "type": "orange",
+                    "name": "Eye Irritation",
+                    "massPct": 0.00195431146856,
+                    "contributors": [
+                        {
+                            "recId": 8644,
+                            "massPct": 0.00192699117776,
+                            "childrenIds": [
+                                8644,
+                                1313,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 8644,
+                            "massPct": 0.0000273202908,
+                            "childrenIds": [
+                                8644,
+                                1313,
+                                3334
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.08641070575084002,
+                    "contributors": [
+                        {
+                            "recId": 8644,
+                            "massPct": 0.00192699117776,
+                            "childrenIds": [
+                                8644,
+                                1313,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 8644,
+                            "massPct": 0.00036700257307999997,
+                            "childrenIds": [
+                                8644,
+                                1313,
+                                2796
+                            ]
+                        },
+                        {
+                            "recId": 8644,
+                            "massPct": 0.015489199399999999,
+                            "childrenIds": [
+                                8644,
+                                1206
+                            ]
+                        },
+                        {
+                            "recId": 8644,
+                            "massPct": 0.0197441566,
+                            "childrenIds": [
+                                8644,
+                                1206
+                            ]
+                        },
+                        {
+                            "recId": 8644,
+                            "massPct": 0.015489199399999999,
+                            "childrenIds": [
+                                8644,
+                                1206
+                            ]
+                        },
+                        {
+                            "recId": 8644,
+                            "massPct": 0.0197441566,
+                            "childrenIds": [
+                                8644,
+                                1206
+                            ]
+                        },
+                        {
+                            "recId": 8647,
+                            "massPct": 0.00909909,
+                            "childrenIds": [
+                                8647,
+                                8649,
+                                2920
+                            ]
+                        },
+                        {
+                            "recId": 8647,
+                            "massPct": 0.00455091,
+                            "childrenIds": [
+                                8647,
+                                8649,
+                                8650
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-569",
+                    "type": "orange",
+                    "name": "Reproductive",
+                    "massPct": 0.0091400704362,
+                    "contributors": [
+                        {
+                            "recId": 8644,
+                            "massPct": 0.00004098043619999999,
+                            "childrenIds": [
+                                8644,
+                                1313,
+                                9378
+                            ]
+                        },
+                        {
+                            "recId": 8647,
+                            "massPct": 0.00909909,
+                            "childrenIds": [
+                                8647,
+                                8649,
+                                6910
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-567",
+                    "type": "orange",
+                    "name": "Cancer",
+                    "massPct": 0.0182408474908,
+                    "contributors": [
+                        {
+                            "recId": 8644,
+                            "massPct": 0.0000273202908,
+                            "childrenIds": [
+                                8644,
+                                1313,
+                                3334
+                            ]
+                        },
+                        {
+                            "recId": 8644,
+                            "massPct": 0.0182135272,
+                            "childrenIds": [
+                                8644,
+                                4806
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.00909909,
+                    "contributors": [
+                        {
+                            "recId": 8647,
+                            "massPct": 0.00909909,
+                            "childrenIds": [
+                                8647,
+                                8649,
+                                2920
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.00455091,
+                    "contributors": [
+                        {
+                            "recId": 8647,
+                            "massPct": 0.00455091,
+                            "childrenIds": [
+                                8647,
+                                8649,
+                                8650
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "unknown": [
+                {
+                    "hazardId": "unknown-11424",
+                    "type": "unknown",
+                    "name": "Unknown",
+                    "massPct": 0.7999993398,
+                    "contributors": [
+                        {
+                            "recId": 8644,
+                            "massPct": 0.7999993398,
+                            "childrenIds": [
+                                8644,
+                                925
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundary is the finished product at the factory gate. Inbound transportation of upstream materials, raw material aquistion, and energy extraction is included. FGD gypsum is a by-product of hard coal specific power plants and impacts associated with gypsum production are allocated ecomically. Packaging is excluded. ",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "US: Lubricants at refinery"
+            },
+            {
+                "name": "US: Dried starch (corn wet mill)"
+            },
+            {
+                "name": "EU-27: Antimony trioxide"
+            },
+            {
+                "name": "DE: Sodium alkylbenzenesulfonate (from benzene and paraffins over alkyl chloride)"
+            },
+            {
+                "name": "US: Crystallin Dextrose Monohydrate"
+            },
+            {
+                "name": "US: Tensides (alcohol ethoxy sulfate (AES))"
+            },
+            {
+                "name": "GLO: Trisodium phosphate"
+            },
+            {
+                "name": "US: Methyl-isobutylketone (MIBK)"
+            },
+            {
+                "name": "US: Methyl ethyl ketone (MEK)"
+            },
+            {
+                "name": "US: Polyvinylchloride granulate (Suspension, S-PVC)"
+            },
+            {
+                "name": "US: Ethylene Vinylacetate Copolymer (E/VA) (72% Ethylene, 28% Vinylacetate)"
+            },
+            {
+                "name": "US: Thermal energy from natural gas (eGrid)"
+            },
+            {
+                "name": "US: Gypsum (FGD) from hard coal power plant"
+            },
+            {
+                "name": "GLO: Vermiculite"
+            },
+            {
+                "name": "US: Glass fibres"
+            },
+            {
+                "name": "US: Diesel mix at refinery"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "GLO: Diesel combustion construction machine (50 ppm S) XX-02"
+            },
+            {
+                "name": "RER: Explosives (ANFO)"
+            },
+            {
+                "name": "DE: Gypsum rock (CaSO42H2O) dihydrate open pit mining"
+            },
+            {
+                "name": "GLO: Gypsum plaster board (Fire protection)"
+            },
+            {
+                "name": "GLO: Waste paper"
+            },
+            {
+                "name": "US: Kaolin (mining and processing)"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "5%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% to landfill (95.45% to glass inert; 4.55% to paper)",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "6.63E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.93E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.12E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "2.22E-11"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "3.42E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "7.89E+00"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "3.42E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "3.76E-05"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "8.81E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.13E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "5.00E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.19E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP129",
+    "name": "Acoustical Ceiling Panels (FGD Gypsum)",
+    "altNames": [
+        ""
+    ],
+    "uniformats": [
+        {
+            "id": "C1070",
+            "name": "Suspended Ceiling Construction"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "09-51-13",
+            "name": "Acoustical Panel Ceilings"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Gypsum acoustical ceiling panels are classified under ASTM E1264 as Type X and come in a variety of ceiling patterns. Ceiling panels are typically sold as 2x2 or 2x4 feet panels and are 1/2 inches thick. Sound performance characteristics of these ceiling panels are determined by the noise reduction coefficient (NRC) and ceiling attenuation class (CAC). The NRC refers to how well the panel absorbs noise, which can be as high as 1. An NRC of 0.5-1 is considered to have good acoustical ratings. The CAC refers to how well the panel stops the transmission of sound, which can go as high as 45. Gypsum may be obtained from natural as well as synthetic sources. Natural gypsum is mined, while synthetic gypsum is a by-product of flue-gas desulfurization, scubber technology utililzed at power plants to reduce sulfur dioxide emissions. Synthetic gypsum use is typically reported as post-industrial recycled content. These products also typically contain a small percentage (around 5%) of post-consumer content, which is paper waste pulp used in the gypsum substrate's core and paper facing. Gypsum ceiling panels are constructed by combining gypsum, paper pulp (often post consumer recycled), lightweight aggregate(s) (such as vermiculite, perlite, and/or kaolin clay), and binder (typically starch) into an aqueous slurry. The slurry is then formed and dried onto a fiberglass matt and faced with paper and other materials depending upon the design and application. Due to its durability and cleanability, vinyl facing is commonly used. In applications where high moisture and mold resistance are required, such as hospitals or commercial kitchens, in addition to the vinyl facing a vinyl backing, edge sealant, and biocidal paints or antimicrobial solutions may also be applied. However, that application was not covered in this CP. This CP characterizes ASTM E1264 Type X vinyl faced gypsum ceiling panels made primarily from synthetic gypsum.",
+    "sources": [
+        {
+            "name": "Kogel 2009",
+            "url": "https://books.google.com/books?id=zNicdkuulE4C&lpg=PA894&pg=PA871#v=onepage&q&f=false",
+            "id": 8635
+        },
+        {
+            "name": "EPA2009",
+            "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004UPQ.PDF?Dockey=P1004UPQ.PDF",
+            "id": 8643
+        },
+        {
+            "name": "Yost",
+            "url": "https://drive.google.com/file/d/0B6_XRxBjnX_da3VVQmk2aHdUYVU/view",
+            "id": 8642
+        },
+        {
+            "name": "Gypsum Wallboard Closed-loop Recycling",
+            "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+            "id": 8641
+        },
+        {
+            "name": "USG",
+            "url": "https://www.netl.doe.gov/File%20Library/Research/Coal/ewr/42080FinalRpt20080624.pdf",
+            "id": 8063
+        },
+        {
+            "name": "Murray",
+            "url": "https://books.google.com/books?id=zOsFafN36swC&pg=PA102&dq=kaolin+and+its+uses&hl=en&sa=X&ved=0CDMQ6AEwBGoVChMIuv3urd7vxwIVxBU-Ch3_qQuo#v=onepage&q=kaolin%20and%20its%20uses&f=false",
+            "id": 8452
+        },
+        {
+            "name": "Kogel 2006",
+            "url": "https://books.google.com/books?id=zNicdkuulE4C&pg=PA558&dq=kaolin+and+its+uses&hl=en&sa=X&ved=0CDkQ6AEwBWoVChMIuv3urd7vxwIVxBU-Ch3_qQuo#v=onepage&q=kaolin&f=false",
+            "id": 8451
+        },
+        {
+            "name": "Mortensen",
+            "url": "https://books.google.com/books?id=zs_lGeGsuaAC&pg=PA417&lpg=PA417&dq=C+glass+chemical+composition&source=bl&ots=sJVGaWbHcD&sig=ykceohwfC4v4qW6zWY9dPBkWSwY&hl=en&sa=X&ved=0CEoQ6AEwB2oVChMI7IzBlp7exwIVRRU-Ch2VRwHj#v=onepage&q=C%20glass%20chemical%20composition&f=false",
+            "id": 8640
+        },
+        {
+            "name": "ASM",
+            "url": "http://www.asminternational.org/documents/10192/1849770/06781G_p27-34.pdf",
+            "id": 8639
+        },
+        {
+            "name": "Ceramics",
+            "url": "http://www.ceramicindustry.com/ext/resources/CI/Protected/Files/PDF/fiberglass-compositions.pdf",
+            "id": 8638
+        },
+        {
+            "name": "EPRI 2010",
+            "url": "http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=000000000001020556",
+            "id": 8637
+        },
+        {
+            "name": "Butterman and Carlin 2004",
+            "url": "http://pubs.usgs.gov/of/2003/of03-019/of03-019.pdf",
+            "id": 8636
+        },
+        {
+            "name": "STEOL CS-203 PDS",
+            "url": "http://www.stepan.com/uploadedFiles/Literature_and_Downloads/Product_Bulletins/Surfactants/STEOL%C2%AE/STEOLCS230.pdf",
+            "id": 8634
+        },
+        {
+            "name": "CertainTeed wallboard FL plant renewal",
+            "url": "http://arm-permit2k.dep.state.fl.us/adh/psd/0310202/00004A34.pdf",
+            "id": 8633
+        },
+        {
+            "name": "Cedepal FA-406 PDS",
+            "url": "http://www.stepan.com/uploadedFiles/Literature_and_Downloads/Product_Bulletins/Surfactants/CEDEPAL%C2%AE/CEDEPALFA406.pdf",
+            "id": 8632
+        },
+        {
+            "name": "Cedepal FA-406 MSDS",
+            "url": "http://www.stepan.com/msds/00064600.pdf",
+            "id": 8631
+        },
+        {
+            "name": "Daxad 19 MSDS",
+            "url": "http://www.geosc.com/Assets/Files/MSDS-Files/DAXAD-19/MSDS-1948P-AGHS-EN",
+            "id": 8630
+        },
+        {
+            "name": "Daxad 19 TDS",
+            "url": "http://www.geosc.com/Assets/Files/Products-Docs/S-C-Product-Documents/Daxad-19.pdf",
+            "id": 8629
+        },
+        {
+            "name": "Diloflo CA MSDS",
+            "url": "http://www.geosc.com/Assets/Files/Products-Docs/S-C-Product-Documents/Diloflo-CA.pdf",
+            "id": 8628
+        },
+        {
+            "name": "Diloflo CA TDS",
+            "url": "http://www.geosc.com/Assets/Files/MSDS-Files/DILOFLO-CA/MSDS-1887Y-AGHS-EN",
+            "id": 8627
+        },
+        {
+            "name": "Diloflo GS-20 MSDS",
+            "url": "http://www.geosc.com/Assets/Files/MSDS-Files/DILOFLO-GS-20/MSDS-1987W-AGHS-EN",
+            "id": 8626
+        },
+        {
+            "name": "Diloflo GS-20 TDS",
+            "url": "http://www.geosc.com/Assets/Files/Products-Docs/S-C-Product-Documents/Diloflo-GS-20.pdf",
+            "id": 8625
+        },
+        {
+            "name": "CertainTeed Ceilings Full Line Catalog",
+            "url": "http://www.certainteed.com/refsite/docs/CLG_CelingsFullLineCatalog.pdf ",
+            "id": 8578
+        },
+        {
+            "name": "Aquarock ecoscorecard",
+            "url": "http://certainteedceilings.ecoscorecard.com/catalogs/show/35573.pdf ",
+            "id": 8579
+        },
+        {
+            "name": "Aquarock 3 part spec",
+            "url": "http://www.certainteed.com/resources/CTC_Performa_Aquarock.pdf",
+            "id": 8580
+        },
+        {
+            "name": "Aquarock MSDS",
+            "url": "http://www.certainteed.com/resources/Aquarock_MSDS_2009.pdf ",
+            "id": 8581
+        },
+        {
+            "name": "Vinylrock HPD",
+            "url": "http://www.certainteed.com/resources/CTC_HPD_Vinylrock.pdf  ",
+            "id": 8582
+        },
+        {
+            "name": "Vinylrock ecoscorecard",
+            "url": "http://certainteedceilings.ecoscorecard.com/catalogs/show/35859.pdf",
+            "id": 8583
+        },
+        {
+            "name": "Vinylrock MSDS",
+            "url": "http://www.certainteed.com/resources/Vinylrock%20MSDS_2009.pdf",
+            "id": 8584
+        },
+        {
+            "name": "Vinylrock 3 part spec",
+            "url": "http://www.certainteed.com/resources/CTC_Vinylrock_3partspec_1012.docx",
+            "id": 8585
+        },
+        {
+            "name": "Symphony g ecoscorecard",
+            "url": "http://certainteedceilings.ecoscorecard.com/catalogs/show/35806.pdf",
+            "id": 8586
+        },
+        {
+            "name": "Symphony g MSDS",
+            "url": "http://www.certainteed.com/resources/Symphony%20g_MSDS_2009.pdf",
+            "id": 8587
+        },
+        {
+            "name": "Symphony g 3 part spec",
+            "url": "http://www.certainteed.com/resources/CTC_SymphonyG_3partspec.docx",
+            "id": 8588
+        },
+        {
+            "name": "Envirogard ecoscorecard",
+            "url": "http://certainteedceilings.ecoscorecard.com/catalogs/show/35576.pdf",
+            "id": 8589
+        },
+        {
+            "name": "Envirogard 3 part spec",
+            "url": "http://www.certainteed.com/resources/CTC_Envirogard_3partspec.docx",
+            "id": 8590
+        },
+        {
+            "name": "Envirogard MSDS",
+            "url": "http://www.certainteed.com/resources/Envirogard_MSDS_2009.pdf",
+            "id": 8591
+        },
+        {
+            "name": "Envirogard Edge MSDS",
+            "url": "http://www.certainteed.com/resources/Envirogard_edge_MSDS_2009.pdf",
+            "id": 8592
+        },
+        {
+            "name": "Gridstone Ceiling Panels Brochure",
+            "url": "http://nationalgypsum.com/File/110919.pdf",
+            "id": 8593
+        },
+        {
+            "name": "Gridstone Ceiling Panels MSDS",
+            "url": "http://nationalgypsum.com/File/sds12430.pdf",
+            "id": 8594
+        },
+        {
+            "name": "Gridstone Ceiling Panel 3 part spec",
+            "url": "http://nationalgypsum.com/File/09%2056%2013.pdf",
+            "id": 8595
+        },
+        {
+            "name": "GPS Reports NC",
+            "url": "http://gps.nationalgypsum.com/ReportData.aspx?zipCode=28120",
+            "id": 8596
+        },
+        {
+            "name": "AG Leed Product Guide",
+            "url": "http://www.americangypsum.com/pdfs/AG_Product_Guide_Leed.pdf",
+            "id": 8597
+        },
+        {
+            "name": "FireBloc CP Submittal",
+            "url": "http://www.americangypsum.com/data/products/FireblocCP.pdf",
+            "id": 8598
+        },
+        {
+            "name": "FireBloc CP MSDS",
+            "url": "http://www.americangypsum.com/pdfs/SDSFireBlocCP.pdf",
+            "id": 8599
+        },
+        {
+            "name": "Recycled Paper",
+            "url": "http://nationalgypsum.com/sustain/proc-paper.htm",
+            "id": 8600
+        },
+        {
+            "name": "Face & Back Paper",
+            "url": "http://www.americangypsum.com/green/raw-material/paper/",
+            "id": 8601
+        },
+        {
+            "name": "Gyptone HPD",
+            "url": "http://www.certainteed.com/resources/CTC_HPD_Gyptone.pdf",
+            "id": 8602
+        },
+        {
+            "name": "Gyptone MSDS",
+            "url": "http://www.certainteed.com/resources/Gyptone_MSDS_2009.pdf",
+            "id": 8603
+        },
+        {
+            "name": "Gyptone Big Quattro 41 ecoscorecard",
+            "url": "http://certainteedceilings.ecoscorecard.com/catalogs/show/39482.pdf",
+            "id": 8604
+        },
+        {
+            "name": "Gyptone Quattro 20 ecoscorecard",
+            "url": "http://certainteedceilings.ecoscorecard.com/catalogs/show/39479.pdf",
+            "id": 8605
+        },
+        {
+            "name": "Gyptone Sixto 60 ecoscorecard",
+            "url": "http://certainteedceilings.ecoscorecard.com/catalogs/show/39480.pdf",
+            "id": 8606
+        },
+        {
+            "name": "CertainTeed Ceilings Full Line Catalog",
+            "url": "http://www.certainteed.com/refsite/docs/CLG_CelingsFullLineCatalog.pdf",
+            "id": 8607
+        },
+        {
+            "name": "Galka 2013",
+            "url": "http://ashtrans.eu/2013-08-13_Ashtrans_Europe_20130830FG_final_20130913.pdf ",
+            "id": 8608
+        },
+        {
+            "name": "SHEETROCK Ceiling Panel Submittal Sheet",
+            "url": "http://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/sheetrock-lay-in-ceiling-panel-climaplus-data-SC1820.pdf",
+            "id": 8609
+        },
+        {
+            "name": "SHEETROCK Ceiling Panel MSDS",
+            "url": "http://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-sheetrock-firecode-lay-in-acoustical-panels-sds-en-54000412008.pdf",
+            "id": 8610
+        },
+        {
+            "name": "USG Design Studio SHEETROCK Ceiling Panel",
+            "url": "http://www.usgdesignstudio.com/acoustical-ceiling-products.asp?product=sheetrock-climaplus-lay-in-ceiling-panels",
+            "id": 8611
+        },
+        {
+            "name": "DONN Suspended Ceiling Installation Guide",
+            "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/donn-suspended-ceiling-installation-guide-en-R38.pdf",
+            "id": 8612
+        },
+        {
+            "name": "Synthetic Gypsum",
+            "url": "http://www.americangypsum.com/green/raw-material/synthetic-gypsum/",
+            "id": 8613
+        },
+        {
+            "name": "Byproduct Gypsum",
+            "url": "http://nationalgypsum.com/sustain/proc-byprod.htm",
+            "id": 8614
+        },
+        {
+            "name": "USG patent 2011",
+            "url": "https://www.google.com/patents/US8057915",
+            "id": 8615
+        },
+        {
+            "name": "USG patent 2007",
+            "url": "http://www.google.com/patents/US20070102237",
+            "id": 8616
+        },
+        {
+            "name": "USG patent 2010",
+            "url": "http://www.google.com/patents/US7851057",
+            "id": 8617
+        },
+        {
+            "name": "Cedepal FA-403 PDS",
+            "url": "http://www.stepan.com/uploadedFiles/Literature_and_Downloads/Product_Bulletins/Surfactants/CEDEPAL%C2%AE/CEDEPALFA403.pdf",
+            "id": 8618
+        },
+        {
+            "name": "Endure MSDS 1995",
+            "url": "http://sweets.construction.com/swts_content_files/2215/295179.pdf",
+            "id": 8619
+        },
+        {
+            "name": "National Gypsum 2002",
+            "url": "https://www.google.com/patents/US6468632?dq=rigid+vinyl+inassignee:national+inassignee:gypsum&hl=en&sa=X&ved=0CFwQ6AEwCWoVChMIrJ3q2qHvxgIVRZWICh2RUgLw",
+            "id": 8620
+        },
+        {
+            "name": "Golub and Parker 1965",
+            "url": "http://onlinelibrary.wiley.com/doi/10.1002/macp.1965.020850102/abstract",
+            "id": 8621
+        },
+        {
+            "name": "Alkor Draka Deco",
+            "url": "http://www.alkordraka.com/deco",
+            "id": 8622
+        },
+        {
+            "name": "Type X EPD",
+            "url": "http://www.gypsum.org/wp/wp-content/uploads/2013/12/Gypsum-2014-FINAL-May-13-.pdf",
+            "id": 1225
+        },
+        {
+            "name": "Lomar D TDS",
+            "url": "http://www.geosc.com/Assets/Files/Products-Docs/S-C-Product-Documents/Lomar-D-OF-2013.pdf",
+            "id": 8623
+        },
+        {
+            "name": "Lomar D MSDS",
+            "url": "https://www.spectrumchemical.com/MSDS/ZQ507.pdf",
+            "id": 8624
+        }
+    ]
+}

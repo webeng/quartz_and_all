@@ -1,0 +1,2871 @@
+{
+    "CPID": "CP123",
+    "timestamp": 1452102137580,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 7305,
+            "name": "Urea Phenol-Formaldehyde",
+            "CASRN": "25104-55-6",
+            "massPct": 0.04995,
+            "function": "binder",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "JM Temp-Control MSDS",
+                    "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000001802_US_EN.pdf",
+                    "id": 7280
+                },
+                {
+                    "name": "Roxul MSDS",
+                    "url": "http://www.roxul.com/files/RX-NA_EN/pdf/MSDS%20and%20Safety%20Bulletin/Roxul%20Material%20Safety%20Data%20Sheet%2002-13-14.pdf",
+                    "id": 7276
+                },
+                {
+                    "name": "JM Min-Wool MSDS",
+                    "url": "http://www.iig-llc.com/pdfs/SDS-Mineral_Wool-_200000002057_US_EN.pdf",
+                    "id": 7275
+                },
+                {
+                    "name": "Thermafiber MSDS",
+                    "url": "http://www.certainteed.com/resources/Bonded%20MSDS.pdf",
+                    "id": 7274
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.04995
+        },
+        {
+            "recId": 7292,
+            "name": "Mineral Wool Fibers",
+            "CASRN": "65997-17-3",
+            "massPct": 0.949051,
+            "function": "fiber base",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.4813007704,
+                        "contributors": [
+                            {
+                                "recId": 7298,
+                                "massPct": 0.0036908853,
+                                "childrenIds": [
+                                    7298,
+                                    2766
+                                ]
+                            },
+                            {
+                                "recId": 7298,
+                                "massPct": 0.0375326646,
+                                "childrenIds": [
+                                    7298,
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 7298,
+                                "massPct": 0.0319948077,
+                                "childrenIds": [
+                                    7298,
+                                    3334
+                                ]
+                            },
+                            {
+                                "recId": 7298,
+                                "massPct": 0.05352853950000001,
+                                "childrenIds": [
+                                    7298,
+                                    2794
+                                ]
+                            },
+                            {
+                                "recId": 7293,
+                                "massPct": 0.0034085711,
+                                "childrenIds": [
+                                    7293,
+                                    2766
+                                ]
+                            },
+                            {
+                                "recId": 7293,
+                                "massPct": 0.0017008144999999999,
+                                "childrenIds": [
+                                    7293,
+                                    4560
+                                ]
+                            },
+                            {
+                                "recId": 7293,
+                                "massPct": 0.0722117242,
+                                "childrenIds": [
+                                    7293,
+                                    2794
+                                ]
+                            },
+                            {
+                                "recId": 7293,
+                                "massPct": 0.258870909,
+                                "childrenIds": [
+                                    7293,
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 7293,
+                                "massPct": 0.0095037349,
+                                "childrenIds": [
+                                    7293,
+                                    3334
+                                ]
+                            },
+                            {
+                                "recId": 7293,
+                                "massPct": 0.0088581196,
+                                "childrenIds": [
+                                    7293,
+                                    985
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation",
+                        "massPct": 0.2981043881,
+                        "contributors": [
+                            {
+                                "recId": 7298,
+                                "massPct": 0.0375326646,
+                                "childrenIds": [
+                                    7298,
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 7293,
+                                "massPct": 0.0017008144999999999,
+                                "childrenIds": [
+                                    7293,
+                                    4560
+                                ]
+                            },
+                            {
+                                "recId": 7293,
+                                "massPct": 0.258870909,
+                                "childrenIds": [
+                                    7293,
+                                    2795
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": 0.33960293069999997,
+                        "contributors": [
+                            {
+                                "recId": 7298,
+                                "massPct": 0.0375326646,
+                                "childrenIds": [
+                                    7298,
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 7298,
+                                "massPct": 0.0319948077,
+                                "childrenIds": [
+                                    7298,
+                                    3334
+                                ]
+                            },
+                            {
+                                "recId": 7293,
+                                "massPct": 0.0017008144999999999,
+                                "childrenIds": [
+                                    7293,
+                                    4560
+                                ]
+                            },
+                            {
+                                "recId": 7293,
+                                "massPct": 0.258870909,
+                                "childrenIds": [
+                                    7293,
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 7293,
+                                "massPct": 0.0095037349,
+                                "childrenIds": [
+                                    7293,
+                                    3334
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.36186757659999996,
+                        "contributors": [
+                            {
+                                "recId": 7298,
+                                "massPct": 0.0375326646,
+                                "childrenIds": [
+                                    7298,
+                                    2795
+                                ]
+                            },
+                            {
+                                "recId": 7293,
+                                "massPct": 0.0637631885,
+                                "childrenIds": [
+                                    7293,
+                                    2796
+                                ]
+                            },
+                            {
+                                "recId": 7293,
+                                "massPct": 0.0017008144999999999,
+                                "childrenIds": [
+                                    7293,
+                                    4560
+                                ]
+                            },
+                            {
+                                "recId": 7293,
+                                "massPct": 0.258870909,
+                                "childrenIds": [
+                                    7293,
+                                    2795
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": 0.0716894461,
+                        "contributors": [
+                            {
+                                "recId": 7298,
+                                "massPct": 0.0319948077,
+                                "childrenIds": [
+                                    7298,
+                                    3334
+                                ]
+                            },
+                            {
+                                "recId": 7298,
+                                "massPct": 0.0233807034,
+                                "childrenIds": [
+                                    7298,
+                                    7297
+                                ]
+                            },
+                            {
+                                "recId": 7293,
+                                "massPct": 0.006810200099999999,
+                                "childrenIds": [
+                                    7293,
+                                    7297
+                                ]
+                            },
+                            {
+                                "recId": 7293,
+                                "massPct": 0.0095037349,
+                                "childrenIds": [
+                                    7293,
+                                    3334
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.1257402637,
+                        "contributors": [
+                            {
+                                "recId": 7298,
+                                "massPct": 0.05352853950000001,
+                                "childrenIds": [
+                                    7298,
+                                    2794
+                                ]
+                            },
+                            {
+                                "recId": 7293,
+                                "massPct": 0.0722117242,
+                                "childrenIds": [
+                                    7293,
+                                    2794
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": 0.4148656322,
+                        "contributors": [
+                            {
+                                "recId": 7298,
+                                "massPct": 0.0036908853,
+                                "childrenIds": [
+                                    7298,
+                                    2766
+                                ]
+                            },
+                            {
+                                "recId": 7298,
+                                "massPct": 0.1488952668,
+                                "childrenIds": [
+                                    7298,
+                                    3606
+                                ]
+                            },
+                            {
+                                "recId": 7293,
+                                "massPct": 0.0034085711,
+                                "childrenIds": [
+                                    7293,
+                                    2766
+                                ]
+                            },
+                            {
+                                "recId": 7293,
+                                "massPct": 0.258870909,
+                                "childrenIds": [
+                                    7293,
+                                    3606
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 7298,
+                    "name": "Basalt",
+                    "CASRN": "",
+                    "massPct": 0.30579,
+                    "function": "",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": 0.41449,
+                                "contributors": [
+                                    {
+                                        "recId": 2766,
+                                        "massPct": 0.01207,
+                                        "childrenIds": [
+                                            2766
+                                        ]
+                                    },
+                                    {
+                                        "recId": 2795,
+                                        "massPct": 0.12274,
+                                        "childrenIds": [
+                                            2795
+                                        ]
+                                    },
+                                    {
+                                        "recId": 3334,
+                                        "massPct": 0.10463,
+                                        "childrenIds": [
+                                            3334
+                                        ]
+                                    },
+                                    {
+                                        "recId": 2794,
+                                        "massPct": 0.17505,
+                                        "childrenIds": [
+                                            2794
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-576",
+                                "type": "orange",
+                                "name": "Skin Irritation",
+                                "massPct": 0.12274,
+                                "contributors": [
+                                    {
+                                        "recId": 2795,
+                                        "massPct": 0.12274,
+                                        "childrenIds": [
+                                            2795
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-575",
+                                "type": "orange",
+                                "name": "Eye Irritation",
+                                "massPct": 0.22737000000000002,
+                                "contributors": [
+                                    {
+                                        "recId": 2795,
+                                        "massPct": 0.12274,
+                                        "childrenIds": [
+                                            2795
+                                        ]
+                                    },
+                                    {
+                                        "recId": 3334,
+                                        "massPct": 0.10463,
+                                        "childrenIds": [
+                                            3334
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": 0.12274,
+                                "contributors": [
+                                    {
+                                        "recId": 2795,
+                                        "massPct": 0.12274,
+                                        "childrenIds": [
+                                            2795
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-567",
+                                "type": "orange",
+                                "name": "Cancer",
+                                "massPct": 0.18109,
+                                "contributors": [
+                                    {
+                                        "recId": 3334,
+                                        "massPct": 0.10463,
+                                        "childrenIds": [
+                                            3334
+                                        ]
+                                    },
+                                    {
+                                        "recId": 7297,
+                                        "massPct": 0.07646,
+                                        "childrenIds": [
+                                            7297
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": 0.17505,
+                                "contributors": [
+                                    {
+                                        "recId": 2794,
+                                        "massPct": 0.17505,
+                                        "childrenIds": [
+                                            2794
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-7911",
+                                "type": "red",
+                                "name": "Cancer (occupational only)",
+                                "massPct": 0.49899000000000004,
+                                "contributors": [
+                                    {
+                                        "recId": 2766,
+                                        "massPct": 0.01207,
+                                        "childrenIds": [
+                                            2766
+                                        ]
+                                    },
+                                    {
+                                        "recId": 3606,
+                                        "massPct": 0.48692,
+                                        "childrenIds": [
+                                            3606
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "components": [
+                        {
+                            "recId": 2766,
+                            "name": "Titanium Dioxide",
+                            "CASRN": "13463-67-7",
+                            "massPct": 0.01207,
+                            "function": "",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ],
+                                "red": [
+                                    {
+                                        "hazardId": "red-7911",
+                                        "type": "red",
+                                        "name": "Cancer (occupational only)",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "NIST",
+                                    "url": "https://www-s.nist.gov/srmors/msds/688-MSDS.pdf?CFID=21271033&CFTOKEN=100a0670155d976d-16E73AB8-00E3-C47E-608B5A9FC4B9A182",
+                                    "id": 7284
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.0035028383848503004
+                        },
+                        {
+                            "recId": 3606,
+                            "name": "Silica, amorphous",
+                            "CASRN": "7631-86-9",
+                            "massPct": 0.48692,
+                            "function": "",
+                            "hazards": {
+                                "red": [
+                                    {
+                                        "hazardId": "red-7911",
+                                        "type": "red",
+                                        "name": "Cancer (occupational only)",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "NIST",
+                                    "url": "https://www-s.nist.gov/srmors/msds/688-MSDS.pdf?CFID=21271033&CFTOKEN=100a0670155d976d-16E73AB8-00E3-C47E-608B5A9FC4B9A182",
+                                    "id": 7284
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.14130920185180681
+                        },
+                        {
+                            "recId": 3749,
+                            "name": "Sodium Oxide",
+                            "CASRN": "1313-59-3",
+                            "massPct": 0.02213,
+                            "function": "",
+                            "hazards": {},
+                            "sources": [
+                                {
+                                    "name": "NIST",
+                                    "url": "https://www-s.nist.gov/srmors/msds/688-MSDS.pdf?CFID=21271033&CFTOKEN=100a0670155d976d-16E73AB8-00E3-C47E-608B5A9FC4B9A182",
+                                    "id": 7284
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.006422354056067701
+                        },
+                        {
+                            "recId": 2795,
+                            "name": "Calcium Oxide",
+                            "CASRN": "1305-78-8",
+                            "massPct": 0.12274,
+                            "function": "",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-576",
+                                        "type": "orange",
+                                        "name": "Skin Irritation",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-575",
+                                        "type": "orange",
+                                        "name": "Eye Irritation",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-568",
+                                        "type": "orange",
+                                        "name": "Developmental",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "NIST",
+                                    "url": "https://www-s.nist.gov/srmors/msds/688-MSDS.pdf?CFID=21271033&CFTOKEN=100a0670155d976d-16E73AB8-00E3-C47E-608B5A9FC4B9A182",
+                                    "id": 7284
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.0356204128712946
+                        },
+                        {
+                            "recId": 3334,
+                            "name": "Ferric Oxide",
+                            "CASRN": "1309-37-1",
+                            "massPct": 0.10463,
+                            "function": "",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-575",
+                                        "type": "orange",
+                                        "name": "Eye Irritation",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-567",
+                                        "type": "orange",
+                                        "name": "Cancer",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "NIST",
+                                    "url": "https://www-s.nist.gov/srmors/msds/688-MSDS.pdf?CFID=21271033&CFTOKEN=100a0670155d976d-16E73AB8-00E3-C47E-608B5A9FC4B9A182",
+                                    "id": 7284
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.030364704242492702
+                        },
+                        {
+                            "recId": 7297,
+                            "name": "Ferrous Oxide",
+                            "CASRN": "1345-25-1",
+                            "massPct": 0.07646,
+                            "function": "",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-567",
+                                        "type": "orange",
+                                        "name": "Cancer",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "CDC",
+                                    "url": "http://www.atsdr.cdc.gov/toxprofiles/tp161-c4.pdf",
+                                    "id": 7281
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.022189479942473403
+                        },
+                        {
+                            "recId": 2794,
+                            "name": "Aluminum Oxide",
+                            "CASRN": "1344-28-1",
+                            "massPct": 0.17505,
+                            "function": "",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-572",
+                                        "type": "orange",
+                                        "name": "Respiratory",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "NIH",
+                                    "url": "http://www.ncbi.nlm.nih.gov/books/NBK208404/table/ttt00001/?report=objectonly",
+                                    "id": 7282
+                                },
+                                {
+                                    "name": "CDC",
+                                    "url": "http://www.atsdr.cdc.gov/toxprofiles/tp161-c4.pdf",
+                                    "id": 7281
+                                },
+                                {
+                                    "name": "Siddique",
+                                    "url": "http://www.sciencedirect.com.weblib.lib.umt.edu:8080/science/article/pii/S0921344912001632",
+                                    "id": 7289
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.05080131394101451
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "name": "Knauf LEED",
+                            "url": "http://www.knaufinsulation.us/en/leed-certification",
+                            "id": 7286
+                        },
+                        {
+                            "name": "Thermafiber 2",
+                            "url": "http://www.thermafiber.com/learning-center/faqs#g2",
+                            "id": 7285
+                        },
+                        {
+                            "name": "NIA 2",
+                            "url": "http://www.insulation.org/articles/article.cfm?id=IO080707",
+                            "id": 7313
+                        },
+                        {
+                            "name": "EcoBatt",
+                            "url": "http://www.ecobatt.us/eco_batt.html",
+                            "id": 7283
+                        },
+                        {
+                            "name": "NAIMA Overview",
+                            "url": "http://www.naima.org/publications/N046.PDF",
+                            "id": 7290
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.29021030529
+                },
+                {
+                    "recId": 7293,
+                    "name": "Slag Wool, recycled content",
+                    "CASRN": "",
+                    "massPct": 0.69421,
+                    "function": "",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": 0.51073,
+                                "contributors": [
+                                    {
+                                        "recId": 2766,
+                                        "massPct": 0.00491,
+                                        "childrenIds": [
+                                            2766
+                                        ]
+                                    },
+                                    {
+                                        "recId": 4560,
+                                        "massPct": 0.00245,
+                                        "childrenIds": [
+                                            4560
+                                        ]
+                                    },
+                                    {
+                                        "recId": 2794,
+                                        "massPct": 0.10402,
+                                        "childrenIds": [
+                                            2794
+                                        ]
+                                    },
+                                    {
+                                        "recId": 2795,
+                                        "massPct": 0.3729,
+                                        "childrenIds": [
+                                            2795
+                                        ]
+                                    },
+                                    {
+                                        "recId": 3334,
+                                        "massPct": 0.01369,
+                                        "childrenIds": [
+                                            3334
+                                        ]
+                                    },
+                                    {
+                                        "recId": 985,
+                                        "massPct": 0.01276,
+                                        "childrenIds": [
+                                            985
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": 0.4672,
+                                "contributors": [
+                                    {
+                                        "recId": 2796,
+                                        "massPct": 0.09185,
+                                        "childrenIds": [
+                                            2796
+                                        ]
+                                    },
+                                    {
+                                        "recId": 4560,
+                                        "massPct": 0.00245,
+                                        "childrenIds": [
+                                            4560
+                                        ]
+                                    },
+                                    {
+                                        "recId": 2795,
+                                        "massPct": 0.3729,
+                                        "childrenIds": [
+                                            2795
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-567",
+                                "type": "orange",
+                                "name": "Cancer",
+                                "massPct": 0.0235,
+                                "contributors": [
+                                    {
+                                        "recId": 7297,
+                                        "massPct": 0.00981,
+                                        "childrenIds": [
+                                            7297
+                                        ]
+                                    },
+                                    {
+                                        "recId": 3334,
+                                        "massPct": 0.01369,
+                                        "childrenIds": [
+                                            3334
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-576",
+                                "type": "orange",
+                                "name": "Skin Irritation",
+                                "massPct": 0.37535,
+                                "contributors": [
+                                    {
+                                        "recId": 4560,
+                                        "massPct": 0.00245,
+                                        "childrenIds": [
+                                            4560
+                                        ]
+                                    },
+                                    {
+                                        "recId": 2795,
+                                        "massPct": 0.3729,
+                                        "childrenIds": [
+                                            2795
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-575",
+                                "type": "orange",
+                                "name": "Eye Irritation",
+                                "massPct": 0.38904,
+                                "contributors": [
+                                    {
+                                        "recId": 4560,
+                                        "massPct": 0.00245,
+                                        "childrenIds": [
+                                            4560
+                                        ]
+                                    },
+                                    {
+                                        "recId": 2795,
+                                        "massPct": 0.3729,
+                                        "childrenIds": [
+                                            2795
+                                        ]
+                                    },
+                                    {
+                                        "recId": 3334,
+                                        "massPct": 0.01369,
+                                        "childrenIds": [
+                                            3334
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": 0.10402,
+                                "contributors": [
+                                    {
+                                        "recId": 2794,
+                                        "massPct": 0.10402,
+                                        "childrenIds": [
+                                            2794
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-7911",
+                                "type": "red",
+                                "name": "Cancer (occupational only)",
+                                "massPct": 0.37781000000000003,
+                                "contributors": [
+                                    {
+                                        "recId": 2766,
+                                        "massPct": 0.00491,
+                                        "childrenIds": [
+                                            2766
+                                        ]
+                                    },
+                                    {
+                                        "recId": 3606,
+                                        "massPct": 0.3729,
+                                        "childrenIds": [
+                                            3606
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "components": [
+                        {
+                            "recId": 2766,
+                            "name": "Titanium Dioxide",
+                            "CASRN": "13463-67-7",
+                            "massPct": 0.00491,
+                            "function": "",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ],
+                                "red": [
+                                    {
+                                        "hazardId": "red-7911",
+                                        "type": "red",
+                                        "name": "Cancer (occupational only)",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "NIST",
+                                    "url": "https://www-s.nist.gov/srmors/msds/688-MSDS.pdf?CFID=21271033&CFTOKEN=100a0670155d976d-16E73AB8-00E3-C47E-608B5A9FC4B9A182",
+                                    "id": 7284
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.0032349078110261
+                        },
+                        {
+                            "recId": 2796,
+                            "name": "Magnesium Oxide",
+                            "CASRN": "1309-48-4",
+                            "massPct": 0.09185,
+                            "function": "",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-568",
+                                        "type": "orange",
+                                        "name": "Developmental",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "NIH",
+                                    "url": "http://www.ncbi.nlm.nih.gov/books/NBK208404/table/ttt00001/?report=objectonly",
+                                    "id": 7282
+                                },
+                                {
+                                    "name": "CDC",
+                                    "url": "http://www.atsdr.cdc.gov/toxprofiles/tp161-c4.pdf",
+                                    "id": 7281
+                                },
+                                {
+                                    "name": "Siddique",
+                                    "url": "http://www.sciencedirect.com.weblib.lib.umt.edu:8080/science/article/pii/S0921344912001632",
+                                    "id": 7289
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.060514517809113495
+                        },
+                        {
+                            "recId": 7297,
+                            "name": "Ferrous Oxide",
+                            "CASRN": "1345-25-1",
+                            "massPct": 0.00981,
+                            "function": "",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-567",
+                                        "type": "orange",
+                                        "name": "Cancer",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "CDC",
+                                    "url": "http://www.atsdr.cdc.gov/toxprofiles/tp161-c4.pdf",
+                                    "id": 7281
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.006463227215105099
+                        },
+                        {
+                            "recId": 4560,
+                            "name": "Phosphorus Pentoxide",
+                            "CASRN": "1314-56-3",
+                            "massPct": 0.00245,
+                            "function": "",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-576",
+                                        "type": "orange",
+                                        "name": "Skin Irritation",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-575",
+                                        "type": "orange",
+                                        "name": "Eye Irritation",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-568",
+                                        "type": "orange",
+                                        "name": "Developmental",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "CDC",
+                                    "url": "http://www.atsdr.cdc.gov/toxprofiles/tp161-c4.pdf",
+                                    "id": 7281
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.0016141597020394999
+                        },
+                        {
+                            "recId": 2794,
+                            "name": "Aluminum Oxide",
+                            "CASRN": "1344-28-1",
+                            "massPct": 0.10402,
+                            "function": "",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-572",
+                                        "type": "orange",
+                                        "name": "Respiratory",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "NIH",
+                                    "url": "http://www.ncbi.nlm.nih.gov/books/NBK208404/table/ttt00001/?report=objectonly",
+                                    "id": 7282
+                                },
+                                {
+                                    "name": "CDC",
+                                    "url": "http://www.atsdr.cdc.gov/toxprofiles/tp161-c4.pdf",
+                                    "id": 7281
+                                },
+                                {
+                                    "name": "Siddique",
+                                    "url": "http://www.sciencedirect.com.weblib.lib.umt.edu:8080/science/article/pii/S0921344912001632",
+                                    "id": 7289
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.06853260906373419
+                        },
+                        {
+                            "recId": 2795,
+                            "name": "Calcium Oxide",
+                            "CASRN": "1305-78-8",
+                            "massPct": 0.3729,
+                            "function": "",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-576",
+                                        "type": "orange",
+                                        "name": "Skin Irritation",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-575",
+                                        "type": "orange",
+                                        "name": "Eye Irritation",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-568",
+                                        "type": "orange",
+                                        "name": "Developmental",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "NIST",
+                                    "url": "https://www-s.nist.gov/srmors/msds/688-MSDS.pdf?CFID=21271033&CFTOKEN=100a0670155d976d-16E73AB8-00E3-C47E-608B5A9FC4B9A182",
+                                    "id": 7284
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.24568169505735898
+                        },
+                        {
+                            "recId": 3750,
+                            "name": "Potassium Oxide",
+                            "CASRN": "12136-45-7",
+                            "massPct": 0.00491,
+                            "function": "",
+                            "hazards": {},
+                            "sources": [
+                                {
+                                    "name": "NIH",
+                                    "url": "http://www.ncbi.nlm.nih.gov/books/NBK208404/table/ttt00001/?report=objectonly",
+                                    "id": 7282
+                                },
+                                {
+                                    "name": "CDC",
+                                    "url": "http://www.atsdr.cdc.gov/toxprofiles/tp161-c4.pdf",
+                                    "id": 7281
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.0032349078110261
+                        },
+                        {
+                            "recId": 3606,
+                            "name": "Silica, amorphous",
+                            "CASRN": "7631-86-9",
+                            "massPct": 0.3729,
+                            "function": "",
+                            "hazards": {
+                                "red": [
+                                    {
+                                        "hazardId": "red-7911",
+                                        "type": "red",
+                                        "name": "Cancer (occupational only)",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "NIST",
+                                    "url": "https://www-s.nist.gov/srmors/msds/688-MSDS.pdf?CFID=21271033&CFTOKEN=100a0670155d976d-16E73AB8-00E3-C47E-608B5A9FC4B9A182",
+                                    "id": 7284
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.24568169505735898
+                        },
+                        {
+                            "recId": 3334,
+                            "name": "Ferric Oxide",
+                            "CASRN": "1309-37-1",
+                            "massPct": 0.01369,
+                            "function": "",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-575",
+                                        "type": "orange",
+                                        "name": "Eye Irritation",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-567",
+                                        "type": "orange",
+                                        "name": "Cancer",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "NIST",
+                                    "url": "https://www-s.nist.gov/srmors/msds/688-MSDS.pdf?CFID=21271033&CFTOKEN=100a0670155d976d-16E73AB8-00E3-C47E-608B5A9FC4B9A182",
+                                    "id": 7284
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.0090195291105799
+                        },
+                        {
+                            "recId": 774,
+                            "name": "Sulfur",
+                            "CASRN": "7704-34-9",
+                            "massPct": 0.00981,
+                            "function": "",
+                            "hazards": {},
+                            "sources": [
+                                {
+                                    "name": "CDC",
+                                    "url": "http://www.atsdr.cdc.gov/toxprofiles/tp161-c4.pdf",
+                                    "id": 7281
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.006463227215105099
+                        },
+                        {
+                            "recId": 985,
+                            "name": "Sulfur Trioxide",
+                            "CASRN": "7446-11-9",
+                            "massPct": 0.01276,
+                            "function": "",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-574",
+                                        "type": "orange",
+                                        "name": "Mammalian",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "NIH",
+                                    "url": "http://www.ncbi.nlm.nih.gov/books/NBK208404/table/ttt00001/?report=objectonly",
+                                    "id": 7282
+                                },
+                                {
+                                    "name": "CDC",
+                                    "url": "http://www.atsdr.cdc.gov/toxprofiles/tp161-c4.pdf",
+                                    "id": 7281
+                                },
+                                {
+                                    "name": "Siddique",
+                                    "url": "http://www.sciencedirect.com.weblib.lib.umt.edu:8080/science/article/pii/S0921344912001632",
+                                    "id": 7289
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.0084068072644996
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "name": "ComfortBatt",
+                            "url": "http://www.roxul.com/files/RX-NA_EN/pdf/specs/en-us/072116%20-%20Blanket%20Insulation%20REV%202013-10-16%20ComfortBatt-US.pdf",
+                            "id": 7288
+                        },
+                        {
+                            "name": "UltraBatt",
+                            "url": "http://www.thermafiber.com/wp-content/uploads/2013/11/UltraBatt-Data-Sheet.pdf",
+                            "id": 7287
+                        },
+                        {
+                            "name": "Knauf LEED",
+                            "url": "http://www.knaufinsulation.us/en/leed-certification",
+                            "id": 7286
+                        },
+                        {
+                            "name": "Thermafiber 2",
+                            "url": "http://www.thermafiber.com/learning-center/faqs#g2",
+                            "id": 7285
+                        },
+                        {
+                            "name": "NIA 2",
+                            "url": "http://www.insulation.org/articles/article.cfm?id=IO080707",
+                            "id": 7313
+                        },
+                        {
+                            "name": "NAIMA Overview",
+                            "url": "http://www.naima.org/publications/N046.PDF",
+                            "id": 7290
+                        },
+                        {
+                            "name": "EcoBatt",
+                            "url": "http://www.ecobatt.us/eco_batt.html",
+                            "id": 7283
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.65884069471
+                }
+            ],
+            "sources": [
+                {
+                    "name": "Manson MSDS",
+                    "url": "http://www.imanson.com/pages/en/products/products-by-category.php?cid=3&pid=13",
+                    "id": 7279
+                },
+                {
+                    "name": "Guardian MSDS",
+                    "url": "http://www.cavobuilderssupplies.com/wp-content/uploads/2013/10/MSDS.pdf",
+                    "id": 7358
+                },
+                {
+                    "name": "JM Min-Wool MSDS",
+                    "url": "http://www.iig-llc.com/pdfs/SDS-Mineral_Wool-_200000002057_US_EN.pdf",
+                    "id": 7275
+                },
+                {
+                    "name": "JM Temp-Control MSDS",
+                    "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000001802_US_EN.pdf",
+                    "id": 7280
+                },
+                {
+                    "name": "Roxul MSDS",
+                    "url": "http://www.roxul.com/files/RX-NA_EN/pdf/MSDS%20and%20Safety%20Bulletin/Roxul%20Material%20Safety%20Data%20Sheet%2002-13-14.pdf",
+                    "id": 7276
+                },
+                {
+                    "name": "NAIMA Overview",
+                    "url": "http://www.naima.org/publications/N046.PDF",
+                    "id": 7290
+                },
+                {
+                    "name": "Thermafiber MSDS",
+                    "url": "http://www.certainteed.com/resources/Bonded%20MSDS.pdf",
+                    "id": 7274
+                }
+            ],
+            "notes": "Mineral wool fibers were described variously in the literature as \"mineral fibers\", \"slag wool\", and \"biosoluble glass mineral wool\". These other base fibers were also included when determining the medians.\n",
+            "lca": "",
+            "massPctOfTotal": 0.949051
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Formaldehyde",
+            "CASRN": "50-00-0",
+            "massPct": 0.001,
+            "function": "urea phenol-formaldehyde residual",
+            "sources": [
+                {
+                    "name": "Manson MSDS",
+                    "url": "http://www.imanson.com/pages/en/products/products-by-category.php?cid=3&pid=13",
+                    "id": 7279
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Beryllium",
+            "CASRN": "7440-41-7",
+            "massPct": 0.000007247252747,
+            "function": "Slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Sodium Hydroxide",
+            "CASRN": "1310-73-2",
+            "massPct": null,
+            "function": "sodium oxide residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Cobalt",
+            "CASRN": "7440-48-4",
+            "massPct": 0.000006588411588,
+            "function": "Slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Arsenic",
+            "CASRN": "7440-38-2",
+            "massPct": 0.00000178545954,
+            "function": "Slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-10360",
+                        "type": "orange",
+                        "name": "Neurotoxicity"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Manganese",
+            "CASRN": "7439-96-5",
+            "massPct": 0.002156387113,
+            "function": "Slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Lead",
+            "CASRN": "7439-92-1",
+            "massPct": 2.503596404e-7,
+            "function": "Slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-10360",
+                        "type": "orange",
+                        "name": "Neurotoxicity"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Phenol",
+            "CASRN": "108-95-2",
+            "massPct": null,
+            "function": "urea phenol-formaldehyde residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Antimony",
+            "CASRN": "7440-36-0",
+            "massPct": 1.976523477e-8,
+            "function": "Slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Cadmium",
+            "CASRN": "7440-43-9",
+            "massPct": 2.569480519e-7,
+            "function": "Slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Mercury",
+            "CASRN": "7439-97-6",
+            "massPct": 6.588411588e-9,
+            "function": "Slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Selenium",
+            "CASRN": "7782-49-2",
+            "massPct": 0.000002767132867,
+            "function": "Slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Nickel",
+            "CASRN": "7440-02-0",
+            "massPct": 0.000002833016983,
+            "function": "Slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Vanadium",
+            "CASRN": "7440-62-2",
+            "massPct": 0.00002042407592,
+            "function": "Slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Hexavalent Chromium",
+            "CASRN": "18540-29-9",
+            "massPct": 3.294205794e-7,
+            "function": "Slag wool residual",
+            "sources": [
+                {
+                    "name": "ToxStrategies2011",
+                    "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+                    "id": 11253
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.4567789774488904,
+                    "contributors": [
+                        {
+                            "recId": 7292,
+                            "massPct": 0.0035028383848503,
+                            "childrenIds": [
+                                7292,
+                                7298,
+                                2766
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.0356204128712946,
+                            "childrenIds": [
+                                7292,
+                                7298,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.030364704242492702,
+                            "childrenIds": [
+                                7292,
+                                7298,
+                                3334
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.0508013139410145,
+                            "childrenIds": [
+                                7292,
+                                7298,
+                                2794
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.0032349078110261,
+                            "childrenIds": [
+                                7292,
+                                7293,
+                                2766
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.0016141597020394999,
+                            "childrenIds": [
+                                7292,
+                                7293,
+                                4560
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.06853260906373419,
+                            "childrenIds": [
+                                7292,
+                                7293,
+                                2794
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.24568169505735898,
+                            "childrenIds": [
+                                7292,
+                                7293,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.0090195291105799,
+                            "childrenIds": [
+                                7292,
+                                7293,
+                                3334
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.0084068072644996,
+                            "childrenIds": [
+                                7292,
+                                7293,
+                                985
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-576",
+                    "type": "orange",
+                    "name": "Skin Irritation",
+                    "massPct": 0.2829162676306931,
+                    "contributors": [
+                        {
+                            "recId": 7292,
+                            "massPct": 0.0356204128712946,
+                            "childrenIds": [
+                                7292,
+                                7298,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.0016141597020394999,
+                            "childrenIds": [
+                                7292,
+                                7293,
+                                4560
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.24568169505735898,
+                            "childrenIds": [
+                                7292,
+                                7293,
+                                2795
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-575",
+                    "type": "orange",
+                    "name": "Eye Irritation",
+                    "massPct": 0.3223005009837657,
+                    "contributors": [
+                        {
+                            "recId": 7292,
+                            "massPct": 0.0356204128712946,
+                            "childrenIds": [
+                                7292,
+                                7298,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.030364704242492702,
+                            "childrenIds": [
+                                7292,
+                                7298,
+                                3334
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.0016141597020394999,
+                            "childrenIds": [
+                                7292,
+                                7293,
+                                4560
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.24568169505735898,
+                            "childrenIds": [
+                                7292,
+                                7293,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.0090195291105799,
+                            "childrenIds": [
+                                7292,
+                                7293,
+                                3334
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.3434307854398066,
+                    "contributors": [
+                        {
+                            "recId": 7292,
+                            "massPct": 0.0356204128712946,
+                            "childrenIds": [
+                                7292,
+                                7298,
+                                2795
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.060514517809113495,
+                            "childrenIds": [
+                                7292,
+                                7293,
+                                2796
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.0016141597020394999,
+                            "childrenIds": [
+                                7292,
+                                7293,
+                                4560
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.24568169505735898,
+                            "childrenIds": [
+                                7292,
+                                7293,
+                                2795
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-567",
+                    "type": "orange",
+                    "name": "Cancer",
+                    "massPct": 0.06803694051065111,
+                    "contributors": [
+                        {
+                            "recId": 7292,
+                            "massPct": 0.030364704242492702,
+                            "childrenIds": [
+                                7292,
+                                7298,
+                                3334
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.0221894799424734,
+                            "childrenIds": [
+                                7292,
+                                7298,
+                                7297
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.006463227215105099,
+                            "childrenIds": [
+                                7292,
+                                7293,
+                                7297
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.0090195291105799,
+                            "childrenIds": [
+                                7292,
+                                7293,
+                                3334
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.1193339230047487,
+                    "contributors": [
+                        {
+                            "recId": 7292,
+                            "massPct": 0.0508013139410145,
+                            "childrenIds": [
+                                7292,
+                                7298,
+                                2794
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.06853260906373419,
+                            "childrenIds": [
+                                7292,
+                                7293,
+                                2794
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.3937286431050422,
+                    "contributors": [
+                        {
+                            "recId": 7292,
+                            "massPct": 0.0035028383848503,
+                            "childrenIds": [
+                                7292,
+                                7298,
+                                2766
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.14130920185180681,
+                            "childrenIds": [
+                                7292,
+                                7298,
+                                3606
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.0032349078110261,
+                            "childrenIds": [
+                                7292,
+                                7293,
+                                2766
+                            ]
+                        },
+                        {
+                            "recId": 7292,
+                            "massPct": 0.24568169505735898,
+                            "childrenIds": [
+                                7292,
+                                7293,
+                                3606
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "Includes raw materials acquistion, inbound transport of materials, and manufacturing, including packaging and waste treatment. Background study attributed zero burden to input of waste slag and excluded the energy required for crushing and sizing slag.  ",
+        "gabiDatasets": [
+            {
+                "name": "US: Rock board insulation (light density) NAIMA"
+            }
+        ],
+        "foregroundDataSource": "NAIMA",
+        "backforegroundDataSource": "Gabi",
+        "postConsumerRecycledContent": "62% (NAIMA EPD)",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% landfilled (95% inert, 5% plastic)",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "1.11E-02"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "2.70E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "1.44E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "3.88E-08"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "5.71E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "2.04E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "2.56E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "2.62E-05"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.98E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.13E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "4.80E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.19E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP123",
+    "name": "Mineral Fiber Batt Insulation",
+    "altNames": [
+        "mineral wool",
+        "stone wool",
+        "rock wool",
+        "slag wool",
+        "glass wool"
+    ],
+    "uniformats": [
+        {
+            "id": "A1010",
+            "name": "Standard Foundations"
+        },
+        {
+            "id": "A2010",
+            "name": "Walls for Subgrade Enclosures"
+        },
+        {
+            "id": "A4090",
+            "name": "Slab-On-Grade Supplementary Components"
+        },
+        {
+            "id": "B1010",
+            "name": "Floor Construction"
+        },
+        {
+            "id": "B1020",
+            "name": "Roof Construction"
+        },
+        {
+            "id": "B2010",
+            "name": "Exterior Walls"
+        },
+        {
+            "id": "B3010",
+            "name": "Roofing"
+        },
+        {
+            "id": "B3040",
+            "name": "Traffic Bearing Horizontal Enclosures "
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "07-21-00",
+            "name": "Thermal Insulation"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Mineral fibers are manufactured by spinning a molten mixture of rock wool (derived from igneous rocks such as basalt) and slag wool (derived from blast furnace slag from the steel industry) into fine fibers. An atomized binder (commonly urea phenol-formaldehyde) is sprayed onto the fibers as they settle onto a conveyor belt in layers to form an insulation batt. When the batt has reached the desired thickness, it is conveyed into an oven to cure. A vapor barrier can be applied to the mineral fiber batt with an adhesive; however, this was found on only one of the mineral fiber batts in this survey and is not included in this profile. Mineral fiber batt insulation is a thermal insulation product that has high heat resistance, inherent resistance to fungal, mold, and mildew growth, and is water-repellant. It has a high insulating value (R=3.8-4.2/inch, thickness 3.5-6\") and also acts as a good acoustical barrier. Because of its high heat resistance, it is sometimes used as a passive fire barrier.  Mineral fiber batts are installed by cutting the batt to fit the wall cavity. Friction then holds the batt in place until drywall is installed.",
+    "sources": [
+        {
+            "name": "ToxStrategies2011",
+            "url": "http://www.acobrasil.org.br/siderurgiaemfoco/CCABrasil/Human_Health_Risk_Assessment_for_Steel_Slag_1211.pdf",
+            "id": 11253
+        },
+        {
+            "name": "Knauf MSDS",
+            "url": "http://www.knaufinsulation.us/sites/us.knaufinsulation.com/files/New%20ECOSE%20SDS%20-%20KI_DP_101%20SDS.pdf",
+            "id": 10158
+        },
+        {
+            "name": "Guardian MSDS",
+            "url": "http://www.cavobuilderssupplies.com/wp-content/uploads/2013/10/MSDS.pdf",
+            "id": 7358
+        },
+        {
+            "name": "Thermafiber MSDS",
+            "url": "http://www.certainteed.com/resources/Bonded%20MSDS.pdf",
+            "id": 7274
+        },
+        {
+            "name": "JM Min-Wool MSDS",
+            "url": "http://www.iig-llc.com/pdfs/SDS-Mineral_Wool-_200000002057_US_EN.pdf",
+            "id": 7275
+        },
+        {
+            "name": "Roxul MSDS",
+            "url": "http://www.roxul.com/files/RX-NA_EN/pdf/MSDS%20and%20Safety%20Bulletin/Roxul%20Material%20Safety%20Data%20Sheet%2002-13-14.pdf",
+            "id": 7276
+        },
+        {
+            "name": "Guardian MSDS",
+            "url": "http://www.guardian-insulation.com/wp-content/uploads/2015/04/GuardianCuredSDS42015.pdf",
+            "id": 7278
+        },
+        {
+            "name": "Manson MSDS",
+            "url": "http://www.imanson.com/pages/en/products/products-by-category.php?cid=3&pid=13",
+            "id": 7279
+        },
+        {
+            "name": "JM Temp-Control MSDS",
+            "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000001802_US_EN.pdf",
+            "id": 7280
+        },
+        {
+            "name": "CDC",
+            "url": "http://www.atsdr.cdc.gov/toxprofiles/tp161-c4.pdf",
+            "id": 7281
+        },
+        {
+            "name": "NIH",
+            "url": "http://www.ncbi.nlm.nih.gov/books/NBK208404/table/ttt00001/?report=objectonly",
+            "id": 7282
+        },
+        {
+            "name": "EcoBatt",
+            "url": "http://www.ecobatt.us/eco_batt.html",
+            "id": 7283
+        },
+        {
+            "name": "NIST",
+            "url": "https://www-s.nist.gov/srmors/msds/688-MSDS.pdf?CFID=21271033&CFTOKEN=100a0670155d976d-16E73AB8-00E3-C47E-608B5A9FC4B9A182",
+            "id": 7284
+        },
+        {
+            "name": "Thermafiber 2",
+            "url": "http://www.thermafiber.com/learning-center/faqs#g2",
+            "id": 7285
+        },
+        {
+            "name": "Knauf LEED",
+            "url": "http://www.knaufinsulation.us/en/leed-certification",
+            "id": 7286
+        },
+        {
+            "name": "UltraBatt",
+            "url": "http://www.thermafiber.com/wp-content/uploads/2013/11/UltraBatt-Data-Sheet.pdf",
+            "id": 7287
+        },
+        {
+            "name": "ComfortBatt",
+            "url": "http://www.roxul.com/files/RX-NA_EN/pdf/specs/en-us/072116%20-%20Blanket%20Insulation%20REV%202013-10-16%20ComfortBatt-US.pdf",
+            "id": 7288
+        },
+        {
+            "name": "Siddique",
+            "url": "http://www.sciencedirect.com.weblib.lib.umt.edu:8080/science/article/pii/S0921344912001632",
+            "id": 7289
+        },
+        {
+            "name": "NAIMA Overview",
+            "url": "http://www.naima.org/publications/N046.PDF",
+            "id": 7290
+        },
+        {
+            "name": "NAIMA EPD",
+            "url": "http://productguide.ulenvironment.com/productDocuments/1806/15/NAIMA_102.1_EPD_MineralWoolBoard_8Nov2013.pdf",
+            "id": 7291
+        },
+        {
+            "name": "NIA 2",
+            "url": "http://www.insulation.org/articles/article.cfm?id=IO080707",
+            "id": 7313
+        }
+    ]
+}

@@ -1,0 +1,1521 @@
+{
+    "CPID": "CP019",
+    "timestamp": 1453510020587,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 1793,
+            "name": "Bolt",
+            "CASRN": "",
+            "massPct": 0.75,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.0165,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.0165,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.0165,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.0165,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.022900000000000004,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.0165,
+                                "childrenIds": [
+                                    760
+                                ]
+                            },
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0004,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            },
+                            {
+                                "recId": 766,
+                                "massPct": 0.006,
+                                "childrenIds": [
+                                    766
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.022900000000000004,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.0165,
+                                "childrenIds": [
+                                    760
+                                ]
+                            },
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0004,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            },
+                            {
+                                "recId": 766,
+                                "massPct": 0.006,
+                                "childrenIds": [
+                                    766
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": 0.0004,
+                        "contributors": [
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0004,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": 0.0165,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.0165,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity",
+                        "massPct": 0.006,
+                        "contributors": [
+                            {
+                                "recId": 766,
+                                "massPct": 0.006,
+                                "childrenIds": [
+                                    766
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 774,
+                    "name": "Sulfur",
+                    "CASRN": "7704-34-9",
+                    "massPct": 0.0005,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Portland 449",
+                            "url": "http://www.portlandbolt.com/technical/specifications/astm-a449/",
+                            "id": 10922
+                        },
+                        {
+                            "name": "Portland 490",
+                            "url": "http://www.portlandbolt.com/technical/specifications/astm-a490/",
+                            "id": 1801
+                        },
+                        {
+                            "name": "ASTM A490",
+                            "url": "http://www.astm.org/Standards/A490.htm",
+                            "id": 1799
+                        },
+                        {
+                            "name": "Atlanta",
+                            "url": "http://www.atlrod.com/astm-a449/",
+                            "id": 1804
+                        },
+                        {
+                            "name": "ASTM A449",
+                            "url": "http://www.astm.org/Standards/A449.htm",
+                            "id": 1802
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.000375
+                },
+                {
+                    "recId": 758,
+                    "name": "Iron",
+                    "CASRN": "7439-89-6",
+                    "massPct": 0.9665,
+                    "function": "base metal",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "TorqBolt",
+                            "url": "http://www.torqbolt.com/material-grades/astm-asme/A436/F436%20TYPE%201.pdf",
+                            "id": 10926
+                        },
+                        {
+                            "name": "436 Portland",
+                            "url": "http://www.portlandbolt.com/technical/specifications/astm-f436/",
+                            "id": 1812
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.724875
+                },
+                {
+                    "recId": 760,
+                    "name": "Manganese",
+                    "CASRN": "7439-96-5",
+                    "massPct": 0.0165,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Portland 449",
+                            "url": "http://www.portlandbolt.com/technical/specifications/astm-a449/",
+                            "id": 10922
+                        },
+                        {
+                            "name": "Atlanta",
+                            "url": "http://www.atlrod.com/astm-a449/",
+                            "id": 1804
+                        },
+                        {
+                            "name": "ASTM A449",
+                            "url": "http://www.astm.org/Standards/A449.htm",
+                            "id": 1802
+                        },
+                        {
+                            "name": "ASTM A490",
+                            "url": "http://www.astm.org/Standards/A490.htm",
+                            "id": 1799
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.012375
+                },
+                {
+                    "recId": 9900,
+                    "name": "Phosphorus",
+                    "CASRN": "7723-14-0",
+                    "massPct": 0.0004,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Southern",
+                            "url": "http://www.southernfasteners.com/wp-content/uploads/ASTM-A563.pdf",
+                            "id": 1819
+                        },
+                        {
+                            "name": "563 Portland",
+                            "url": "http://www.portlandbolt.com/technical/specifications/astm-a563/",
+                            "id": 1818
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00030000000000000003
+                },
+                {
+                    "recId": 836,
+                    "name": "Silicon",
+                    "CASRN": "7440-21-3",
+                    "massPct": 0.006,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Portland 449",
+                            "url": "http://www.portlandbolt.com/technical/specifications/astm-a449/",
+                            "id": 10922
+                        },
+                        {
+                            "name": "ASTM A490",
+                            "url": "http://www.astm.org/Standards/A490.htm",
+                            "id": 1799
+                        },
+                        {
+                            "name": "Atlanta",
+                            "url": "http://www.atlrod.com/astm-a449/",
+                            "id": 1804
+                        },
+                        {
+                            "name": "ASTM A449",
+                            "url": "http://www.astm.org/Standards/A449.htm",
+                            "id": 1802
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0045000000000000005
+                },
+                {
+                    "recId": 762,
+                    "name": "Carbon",
+                    "CASRN": "7440-44-0",
+                    "massPct": 0.0041,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Portland 449",
+                            "url": "http://www.portlandbolt.com/technical/specifications/astm-a449/",
+                            "id": 10922
+                        },
+                        {
+                            "name": "Portland 490",
+                            "url": "http://www.portlandbolt.com/technical/specifications/astm-a490/",
+                            "id": 1801
+                        },
+                        {
+                            "name": "ASTM A490",
+                            "url": "http://www.astm.org/Standards/A490.htm",
+                            "id": 1799
+                        },
+                        {
+                            "name": "Atlanta",
+                            "url": "http://www.atlrod.com/astm-a449/",
+                            "id": 1804
+                        },
+                        {
+                            "name": "ASTM A449",
+                            "url": "http://www.astm.org/Standards/A449.htm",
+                            "id": 1802
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0030750000000000005
+                },
+                {
+                    "recId": 766,
+                    "name": "Copper",
+                    "CASRN": "7440-50-8",
+                    "massPct": 0.006,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-571",
+                                "type": "red",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "ASTM A490",
+                            "url": "http://www.astm.org/Standards/A490.htm",
+                            "id": 1799
+                        },
+                        {
+                            "name": "ASTM A449",
+                            "url": "http://www.astm.org/Standards/A449.htm",
+                            "id": 1802
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0045000000000000005
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.75
+        },
+        {
+            "recId": 1522,
+            "name": "Nut",
+            "CASRN": "",
+            "massPct": 0.1875,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.0049,
+                        "contributors": [
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0004,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            },
+                            {
+                                "recId": 760,
+                                "massPct": 0.0045,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": 0.0004,
+                        "contributors": [
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0004,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.0049,
+                        "contributors": [
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0004,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            },
+                            {
+                                "recId": 760,
+                                "massPct": 0.0045,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.0045,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.0045,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.0045,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.0045,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": 0.0045,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.0045,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 9900,
+                    "name": "Phosphorus",
+                    "CASRN": "7723-14-0",
+                    "massPct": 0.0004,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Southern",
+                            "url": "http://www.southernfasteners.com/wp-content/uploads/ASTM-A563.pdf",
+                            "id": 1819
+                        },
+                        {
+                            "name": "563 Portland",
+                            "url": "http://www.portlandbolt.com/technical/specifications/astm-a563/",
+                            "id": 1818
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00007500000000000001
+                },
+                {
+                    "recId": 762,
+                    "name": "Carbon",
+                    "CASRN": "7440-44-0",
+                    "massPct": 0.0055,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Portland 449",
+                            "url": "http://www.portlandbolt.com/technical/specifications/astm-a449/",
+                            "id": 10922
+                        },
+                        {
+                            "name": "Portland 490",
+                            "url": "http://www.portlandbolt.com/technical/specifications/astm-a490/",
+                            "id": 1801
+                        },
+                        {
+                            "name": "ASTM A490",
+                            "url": "http://www.astm.org/Standards/A490.htm",
+                            "id": 1799
+                        },
+                        {
+                            "name": "Atlanta",
+                            "url": "http://www.atlrod.com/astm-a449/",
+                            "id": 1804
+                        },
+                        {
+                            "name": "ASTM A449",
+                            "url": "http://www.astm.org/Standards/A449.htm",
+                            "id": 1802
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00103125
+                },
+                {
+                    "recId": 774,
+                    "name": "Sulfur",
+                    "CASRN": "7704-34-9",
+                    "massPct": 0.0005,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Portland 449",
+                            "url": "http://www.portlandbolt.com/technical/specifications/astm-a449/",
+                            "id": 10922
+                        },
+                        {
+                            "name": "Portland 490",
+                            "url": "http://www.portlandbolt.com/technical/specifications/astm-a490/",
+                            "id": 1801
+                        },
+                        {
+                            "name": "ASTM A490",
+                            "url": "http://www.astm.org/Standards/A490.htm",
+                            "id": 1799
+                        },
+                        {
+                            "name": "Atlanta",
+                            "url": "http://www.atlrod.com/astm-a449/",
+                            "id": 1804
+                        },
+                        {
+                            "name": "ASTM A449",
+                            "url": "http://www.astm.org/Standards/A449.htm",
+                            "id": 1802
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00009375
+                },
+                {
+                    "recId": 758,
+                    "name": "Iron",
+                    "CASRN": "7439-89-6",
+                    "massPct": 0.9891,
+                    "function": "base metal",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "TorqBolt",
+                            "url": "http://www.torqbolt.com/material-grades/astm-asme/A436/F436%20TYPE%201.pdf",
+                            "id": 10926
+                        },
+                        {
+                            "name": "436 Portland",
+                            "url": "http://www.portlandbolt.com/technical/specifications/astm-f436/",
+                            "id": 1812
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.18545625
+                },
+                {
+                    "recId": 760,
+                    "name": "Manganese",
+                    "CASRN": "7439-96-5",
+                    "massPct": 0.0045,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Portland 449",
+                            "url": "http://www.portlandbolt.com/technical/specifications/astm-a449/",
+                            "id": 10922
+                        },
+                        {
+                            "name": "Atlanta",
+                            "url": "http://www.atlrod.com/astm-a449/",
+                            "id": 1804
+                        },
+                        {
+                            "name": "ASTM A449",
+                            "url": "http://www.astm.org/Standards/A449.htm",
+                            "id": 1802
+                        },
+                        {
+                            "name": "ASTM A490",
+                            "url": "http://www.astm.org/Standards/A490.htm",
+                            "id": 1799
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0008437499999999999
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.1875
+        },
+        {
+            "recId": 1794,
+            "name": "Washer",
+            "CASRN": "",
+            "massPct": 0.0625,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.0005,
+                        "contributors": [
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0005,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": 0.0005,
+                        "contributors": [
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0005,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.0005,
+                        "contributors": [
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0005,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 758,
+                    "name": "Iron",
+                    "CASRN": "7439-89-6",
+                    "massPct": 0.999,
+                    "function": "base metal",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "TorqBolt",
+                            "url": "http://www.torqbolt.com/material-grades/astm-asme/A436/F436%20TYPE%201.pdf",
+                            "id": 10926
+                        },
+                        {
+                            "name": "436 Portland",
+                            "url": "http://www.portlandbolt.com/technical/specifications/astm-f436/",
+                            "id": 1812
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0624375
+                },
+                {
+                    "recId": 9900,
+                    "name": "Phosphorus",
+                    "CASRN": "7723-14-0",
+                    "massPct": 0.0005,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Southern",
+                            "url": "http://www.southernfasteners.com/wp-content/uploads/ASTM-A563.pdf",
+                            "id": 1819
+                        },
+                        {
+                            "name": "563 Portland",
+                            "url": "http://www.portlandbolt.com/technical/specifications/astm-a563/",
+                            "id": 1818
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00003125
+                },
+                {
+                    "recId": 774,
+                    "name": "Sulfur",
+                    "CASRN": "7704-34-9",
+                    "massPct": 0.0006,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Portland 449",
+                            "url": "http://www.portlandbolt.com/technical/specifications/astm-a449/",
+                            "id": 10922
+                        },
+                        {
+                            "name": "Portland 490",
+                            "url": "http://www.portlandbolt.com/technical/specifications/astm-a490/",
+                            "id": 1801
+                        },
+                        {
+                            "name": "ASTM A490",
+                            "url": "http://www.astm.org/Standards/A490.htm",
+                            "id": 1799
+                        },
+                        {
+                            "name": "Atlanta",
+                            "url": "http://www.atlrod.com/astm-a449/",
+                            "id": 1804
+                        },
+                        {
+                            "name": "ASTM A449",
+                            "url": "http://www.astm.org/Standards/A449.htm",
+                            "id": 1802
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0000375
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.0625
+        }
+    ],
+    "impurities": [
+        {
+            "name": null,
+            "CASRN": null,
+            "massPct": 0,
+            "function": null,
+            "sources": [],
+            "hazards": {}
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.013218750000000001,
+                    "contributors": [
+                        {
+                            "recId": 1793,
+                            "massPct": 0.012375,
+                            "childrenIds": [
+                                1793,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 1522,
+                            "massPct": 0.0008437499999999999,
+                            "childrenIds": [
+                                1522,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.013218750000000001,
+                    "contributors": [
+                        {
+                            "recId": 1793,
+                            "massPct": 0.012375,
+                            "childrenIds": [
+                                1793,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 1522,
+                            "massPct": 0.0008437499999999999,
+                            "childrenIds": [
+                                1522,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.018125000000000002,
+                    "contributors": [
+                        {
+                            "recId": 1793,
+                            "massPct": 0.012375,
+                            "childrenIds": [
+                                1793,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 1793,
+                            "massPct": 0.00030000000000000003,
+                            "childrenIds": [
+                                1793,
+                                9900
+                            ]
+                        },
+                        {
+                            "recId": 1793,
+                            "massPct": 0.0045000000000000005,
+                            "childrenIds": [
+                                1793,
+                                766
+                            ]
+                        },
+                        {
+                            "recId": 1522,
+                            "massPct": 0.00007500000000000001,
+                            "childrenIds": [
+                                1522,
+                                9900
+                            ]
+                        },
+                        {
+                            "recId": 1522,
+                            "massPct": 0.0008437499999999999,
+                            "childrenIds": [
+                                1522,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 1794,
+                            "massPct": 0.00003125,
+                            "childrenIds": [
+                                1794,
+                                9900
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.018125000000000002,
+                    "contributors": [
+                        {
+                            "recId": 1793,
+                            "massPct": 0.012375,
+                            "childrenIds": [
+                                1793,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 1793,
+                            "massPct": 0.00030000000000000003,
+                            "childrenIds": [
+                                1793,
+                                9900
+                            ]
+                        },
+                        {
+                            "recId": 1793,
+                            "massPct": 0.0045000000000000005,
+                            "childrenIds": [
+                                1793,
+                                766
+                            ]
+                        },
+                        {
+                            "recId": 1522,
+                            "massPct": 0.00007500000000000001,
+                            "childrenIds": [
+                                1522,
+                                9900
+                            ]
+                        },
+                        {
+                            "recId": 1522,
+                            "massPct": 0.0008437499999999999,
+                            "childrenIds": [
+                                1522,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 1794,
+                            "massPct": 0.00003125,
+                            "childrenIds": [
+                                1794,
+                                9900
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.00040625000000000004,
+                    "contributors": [
+                        {
+                            "recId": 1793,
+                            "massPct": 0.00030000000000000003,
+                            "childrenIds": [
+                                1793,
+                                9900
+                            ]
+                        },
+                        {
+                            "recId": 1522,
+                            "massPct": 0.00007500000000000001,
+                            "childrenIds": [
+                                1522,
+                                9900
+                            ]
+                        },
+                        {
+                            "recId": 1794,
+                            "massPct": 0.00003125,
+                            "childrenIds": [
+                                1794,
+                                9900
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.013218750000000001,
+                    "contributors": [
+                        {
+                            "recId": 1793,
+                            "massPct": 0.012375,
+                            "childrenIds": [
+                                1793,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 1522,
+                            "massPct": 0.0008437499999999999,
+                            "childrenIds": [
+                                1522,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-571",
+                    "type": "red",
+                    "name": "Mutagenicity",
+                    "massPct": 0.0045000000000000005,
+                    "contributors": [
+                        {
+                            "recId": 1793,
+                            "massPct": 0.0045000000000000005,
+                            "childrenIds": [
+                                1793,
+                                766
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundaries comprise the cradle-to-gate process for manufacturing steel fasteners. Bolt, washer, and nut were modeled as an assembly. The manufacturing process was modelled as follows steel wire rod/bar rolling-->screw hardening. Upstream data includes steel manufacturing, energy production, lubricants production, process water production, and transportation of raw materials to manufacturing facility. Packaging is excluded.",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Electricity grid mix"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "US: Lubricants at refinery"
+            },
+            {
+                "name": "US: Thermal energy from natural gas (eGrid)"
+            },
+            {
+                "name": "US: Water deionized"
+            },
+            {
+                "name": "GLO: Steel wire rod worldsteel"
+            },
+            {
+                "name": "US: Municipal waste water treatment (mix)"
+            },
+            {
+                "name": "US: Methanol from natural gas mix"
+            },
+            {
+                "name": "DE: Screw (hardening)"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "27.60%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "Assume recycling rate for screws is the same as recycling rate of structural steel. 72% recycled (product has 27.6% scrap input while remainder is processed and credited as avoided burden); 28% to landfill (ferro metal).",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "7.03E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "3.53E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "2.80E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.12E-08"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "9.15E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "3.40E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "-1.52E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "-4.03E-06"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "-6.56E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "2.34E-08"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "-1.32E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "-5.58E+00"
+                }
+            ]
+        }
+    },
+    "id": "CP019",
+    "name": "Steel Bolt Assembly (Structural)",
+    "altNames": [
+        "Steel bolts",
+        "Steel washer",
+        "Steel nut",
+        "Fasteners"
+    ],
+    "uniformats": [
+        {
+            "id": "B2010",
+            "name": "Exterior Walls"
+        },
+        {
+            "id": "B1020",
+            "name": "Roof Construction"
+        },
+        {
+            "id": "B1010",
+            "name": "Floor Construction"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "",
+            "name": ""
+        }
+    ],
+    "recordType": "Common",
+    "description": "Structural Bolts, Alloy Steel, Heat Treated, 150 ksi Minimum Tensile Strength. This CP evaluates a plain, unfinished assembly of bolt, washer and nut to be used for structural connections. ASTM A490 describes bolts used for structural connections with tensile strength between 150 and 173 ksi. Due to concerns about their making the steel brittle, ASTM A490 restricts the use of surface treatments.  Two compositions of steel are provided in the standard.  Type 1 bolts are most commonly used and are the focus of this CP, while Type 3 bolts are intended for applications where resistance to weathering is a concern.",
+    "sources": [
+        {
+            "name": "TorqBolt",
+            "url": "http://www.torqbolt.com/material-grades/astm-asme/A436/F436%20TYPE%201.pdf",
+            "id": 10926
+        },
+        {
+            "name": "Taylor",
+            "url": "http://www.tayloredge.com/reference/Tables/bolts.pdf",
+            "id": 10925
+        },
+        {
+            "name": "Solutions",
+            "url": "http://www.fastenersolutions.com/images/astm.pdf",
+            "id": 10924
+        },
+        {
+            "name": "Portland Bolt",
+            "url": "http://www.portlandbolt.com/technical/tools/bolt-weight-calculator/",
+            "id": 10923
+        },
+        {
+            "name": "Portland 449",
+            "url": "http://www.portlandbolt.com/technical/specifications/astm-a449/",
+            "id": 10922
+        },
+        {
+            "name": "Glover",
+            "url": "http://www.reglover.com/desktop/reg/productsView.php?order_number=00000AA1301001242",
+            "id": 10921
+        },
+        {
+            "name": "FEDS",
+            "url": "https://www.fastenal.com/content/feds/pdf/Article%20-%20Structural%20Bolts.pdf",
+            "id": 10920
+        },
+        {
+            "name": "F436",
+            "url": "http://www.astm.org/Standards/F436.htm",
+            "id": 10919
+        },
+        {
+            "name": "Carter",
+            "url": "https://www.aisc.org/bookstore/itemRedirector.aspx?id=15802",
+            "id": 10918
+        },
+        {
+            "name": "Bolts",
+            "url": "http://www.boltcouncil.org/files/2004RCSCSpecification.pdf",
+            "id": 10917
+        },
+        {
+            "name": "ASTM A563",
+            "url": "http://www.astm.org/Standards/A563.htm",
+            "id": 10916
+        },
+        {
+            "name": "Southern",
+            "url": "http://www.southernfasteners.com/wp-content/uploads/ASTM-A563.pdf",
+            "id": 1819
+        },
+        {
+            "name": "Portland 490",
+            "url": "http://www.portlandbolt.com/technical/specifications/astm-a490/",
+            "id": 1801
+        },
+        {
+            "name": "Atlanta",
+            "url": "http://www.atlrod.com/astm-a449/",
+            "id": 1804
+        },
+        {
+            "name": "ASTM A490",
+            "url": "http://www.astm.org/Standards/A490.htm",
+            "id": 1799
+        },
+        {
+            "name": "ASTM A449",
+            "url": "http://www.astm.org/Standards/A449.htm",
+            "id": 1802
+        },
+        {
+            "name": "563 Portland",
+            "url": "http://www.portlandbolt.com/technical/specifications/astm-a563/",
+            "id": 1818
+        },
+        {
+            "name": "436 Portland",
+            "url": "http://www.portlandbolt.com/technical/specifications/astm-f436/",
+            "id": 1812
+        }
+    ]
+}

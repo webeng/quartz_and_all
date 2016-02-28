@@ -1,0 +1,1599 @@
+{
+    "CPID": "CP155",
+    "timestamp": 1452102151679,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 4340,
+            "name": "Uv Cured Urethane Acrylic Finish",
+            "CASRN": "",
+            "massPct": 0.01650181221,
+            "function": "finish",
+            "hazards": {
+                "unknown": [
+                    {
+                        "hazardId": "unknown-11424",
+                        "type": "unknown",
+                        "name": "Unknown",
+                        "massPct": 0.8071318361,
+                        "contributors": [
+                            {
+                                "recId": 4341,
+                                "massPct": 0.8071318361,
+                                "childrenIds": [
+                                    4341
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.1217212412,
+                        "contributors": [
+                            {
+                                "recId": 2794,
+                                "massPct": 0.1217212412,
+                                "childrenIds": [
+                                    2794
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.1217212412,
+                        "contributors": [
+                            {
+                                "recId": 2794,
+                                "massPct": 0.1217212412,
+                                "childrenIds": [
+                                    2794
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.000025715755190000002,
+                        "contributors": [
+                            {
+                                "recId": 4342,
+                                "massPct": 0.000025715755190000002,
+                                "childrenIds": [
+                                    4342,
+                                    4343
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": 0.000025715755190000002,
+                        "contributors": [
+                            {
+                                "recId": 4342,
+                                "massPct": 0.000025715755190000002,
+                                "childrenIds": [
+                                    4342,
+                                    4343
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT",
+                        "massPct": 0.000025715755190000002,
+                        "contributors": [
+                            {
+                                "recId": 4342,
+                                "massPct": 0.000025715755190000002,
+                                "childrenIds": [
+                                    4342,
+                                    4343
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 4341,
+                    "name": "Urethane Acrylic Polymer",
+                    "CASRN": "unknown",
+                    "massPct": 0.8071318361,
+                    "function": "polymer",
+                    "hazards": {
+                        "unknown": [
+                            {
+                                "hazardId": "unknown-11424",
+                                "type": "unknown",
+                                "name": "Unknown",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "CYTEC UCECOAT Waterborne UV Resins",
+                            "url": "https://pharosproject.net/uploads/files/sources/1828/1348249332.pdf",
+                            "id": 4254
+                        },
+                        {
+                            "name": "Bayhydrol UV 2689 TDS",
+                            "url": "http://www.bayermaterialsciencenafta.com/resources/d/document.cfm?f=1024781D-F9BE-B292-6F2FBC69511EBEAE&d=E2B6DAED-0548-07EA-B1BEC6DC4F36C866",
+                            "id": 4240
+                        },
+                        {
+                            "name": "Laurie Morris",
+                            "url": "https://pharosproject.net/uploads/files/sources/1828/1346985206.pdf",
+                            "id": 4283
+                        },
+                        {
+                            "name": "LUX 286 TDS",
+                            "url": "http://www.alberdingkusa.com/fileadmin/pdf/t/us_lux_286_t.pdf",
+                            "id": 4289
+                        },
+                        {
+                            "name": "Sokol 1995",
+                            "url": "https://www.google.com/patents/US5453451",
+                            "id": 4316
+                        },
+                        {
+                            "name": "UV Specialties 2001",
+                            "url": "https://www.google.com/patents/WO2001051533A1",
+                            "id": 4337
+                        },
+                        {
+                            "name": "Schierlmann 2009",
+                            "url": "https://www.google.com/patents/CA2392558C",
+                            "id": 4312
+                        },
+                        {
+                            "name": "Armstrong 2014",
+                            "url": "https://www.google.com/patents/WO2014113653A1",
+                            "id": 4236
+                        },
+                        {
+                            "name": "Armstrong 2010",
+                            "url": "https://www.google.com/patents/US20100276059",
+                            "id": 4235
+                        },
+                        {
+                            "name": "Radtech Report",
+                            "url": "https://pharosproject.net/uploads/files/sources/1828/1347031649.pdf",
+                            "id": 4308
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.013319137988034701
+                },
+                {
+                    "recId": 2794,
+                    "name": "Aluminum Oxide",
+                    "CASRN": "1344-28-1",
+                    "massPct": 0.1217212412,
+                    "function": "abrasive",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Armstrong Prefinished",
+                            "url": "http://www.armstrong.com/flooring/prefinished-hardwood-flooring.html",
+                            "id": 4237
+                        },
+                        {
+                            "name": "Ten Oaks Patent",
+                            "url": "https://www.google.com/patents/US8201600",
+                            "id": 4328
+                        },
+                        {
+                            "name": "Mannington ScratchResist",
+                            "url": "http://www.mannington.com/Residential/Hardwood/ScratchResist.aspx",
+                            "id": 4294
+                        },
+                        {
+                            "name": "Nadurra Red Oak Naturals",
+                            "url": "http://www.nadurrawood.com/flooring-fsc-certified-lower-canada-red-oak-naturals.html",
+                            "id": 4301
+                        },
+                        {
+                            "name": "Model Brochure",
+                            "url": "http://www.pgmodel.com/uploads/2015/03/23/brochure-an-2.pdf",
+                            "id": 4295
+                        },
+                        {
+                            "name": "ScufResist Platinum",
+                            "url": "https://shawfloors.com/why-shaw/about-us/shaw-advantages/hardwood-advantages/scufresist-platinum",
+                            "id": 4313
+                        },
+                        {
+                            "name": "Bellawood Catalog",
+                            "url": "http://www.lumberliquidators.com/assets/images/product_page/pdf_catalog/bellawood_cat.pdf",
+                            "id": 4241
+                        },
+                        {
+                            "name": "SpectrAl 100 MSDS",
+                            "url": "http://www.cabotcorp.com/~/media/product-documents/msds/en/fa100-na-en.pdf",
+                            "id": 4318
+                        },
+                        {
+                            "name": "Schierlmann 2009",
+                            "url": "https://www.google.com/patents/CA2392558C",
+                            "id": 4312
+                        },
+                        {
+                            "name": "Armstrong 2014",
+                            "url": "https://www.google.com/patents/WO2014113653A1",
+                            "id": 4236
+                        },
+                        {
+                            "name": "Armstrong 2010",
+                            "url": "https://www.google.com/patents/US20100276059",
+                            "id": 4235
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.002008621064250515
+                },
+                {
+                    "recId": 3120,
+                    "name": "Silica Gel",
+                    "CASRN": "112926-00-8",
+                    "massPct": 0.06857534716,
+                    "function": "flattening agent",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "CYTEC UCECOAT Waterborne UV Resins",
+                            "url": "https://pharosproject.net/uploads/files/sources/1828/1348249332.pdf",
+                            "id": 4254
+                        },
+                        {
+                            "name": "Laurie Morris",
+                            "url": "https://pharosproject.net/uploads/files/sources/1828/1346985206.pdf",
+                            "id": 4283
+                        },
+                        {
+                            "name": "Schierlmann 2009",
+                            "url": "https://www.google.com/patents/CA2392558C",
+                            "id": 4312
+                        },
+                        {
+                            "name": "Armstrong 2014",
+                            "url": "https://www.google.com/patents/WO2014113653A1",
+                            "id": 4236
+                        },
+                        {
+                            "name": "Armstrong 2010",
+                            "url": "https://www.google.com/patents/US20100276059",
+                            "id": 4235
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.001131617501069877
+                },
+                {
+                    "recId": 4342,
+                    "name": "Polyether-Modified Siloxane",
+                    "CASRN": "",
+                    "massPct": 0.002571575519,
+                    "function": "surfactant, substrate wetting agent, defoamer, rheology additive",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": 0.01,
+                                "contributors": [
+                                    {
+                                        "recId": 4343,
+                                        "massPct": 0.01,
+                                        "childrenIds": [
+                                            4343
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": 0.01,
+                                "contributors": [
+                                    {
+                                        "recId": 4343,
+                                        "massPct": 0.01,
+                                        "childrenIds": [
+                                            4343
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "purple": [
+                            {
+                                "hazardId": "purple-955",
+                                "type": "purple",
+                                "name": "PBT",
+                                "massPct": 0.01,
+                                "contributors": [
+                                    {
+                                        "recId": 4343,
+                                        "massPct": 0.01,
+                                        "childrenIds": [
+                                            4343
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "components": [
+                        {
+                            "recId": 4343,
+                            "name": "Octamethylcyclotetrasiloxane",
+                            "CASRN": "556-67-2",
+                            "massPct": 0.01,
+                            "function": "",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-570",
+                                        "type": "orange",
+                                        "name": "Endocrine",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-569",
+                                        "type": "orange",
+                                        "name": "Reproductive",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ],
+                                "purple": [
+                                    {
+                                        "hazardId": "purple-955",
+                                        "type": "purple",
+                                        "name": "PBT",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "BYK-UV 3510 MSDS",
+                                    "url": "http://www.additives-downloads.de/output/ag_download.aspx?file=SDS_BYK-UV_3510_US_en.pdf",
+                                    "id": 4246
+                                },
+                                {
+                                    "name": "Bayhydrol UV 2689 TDS",
+                                    "url": "http://www.bayermaterialsciencenafta.com/resources/d/document.cfm?f=1024781D-F9BE-B292-6F2FBC69511EBEAE&d=E2B6DAED-0548-07EA-B1BEC6DC4F36C866",
+                                    "id": 4240
+                                },
+                                {
+                                    "name": "BYK 348 MSDS",
+                                    "url": "https://www.b2bcomposites.com/msds/byk-chemie/582309.pdf",
+                                    "id": 4244
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 4.2435656298371293e-7
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "name": "LUX 286 TDS",
+                            "url": "http://www.alberdingkusa.com/fileadmin/pdf/t/us_lux_286_t.pdf",
+                            "id": 4289
+                        },
+                        {
+                            "name": "Bayhydrol UV 2689 TDS",
+                            "url": "http://www.bayermaterialsciencenafta.com/resources/d/document.cfm?f=1024781D-F9BE-B292-6F2FBC69511EBEAE&d=E2B6DAED-0548-07EA-B1BEC6DC4F36C866",
+                            "id": 4240
+                        },
+                        {
+                            "name": "Laurie Morris",
+                            "url": "https://pharosproject.net/uploads/files/sources/1828/1346985206.pdf",
+                            "id": 4283
+                        },
+                        {
+                            "name": "Armstrong 2014",
+                            "url": "https://www.google.com/patents/WO2014113653A1",
+                            "id": 4236
+                        },
+                        {
+                            "name": "Armstrong 2010",
+                            "url": "https://www.google.com/patents/US20100276059",
+                            "id": 4235
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.00004243565629837129
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.01650181221
+        },
+        {
+            "recId": 3329,
+            "name": "Wood",
+            "CASRN": "unknown",
+            "massPct": 0.9834981878,
+            "function": "substrate",
+            "hazards": {
+                "unknown": [
+                    {
+                        "hazardId": "unknown-11424",
+                        "type": "unknown",
+                        "name": "Unknown",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.9834981878
+        }
+    ],
+    "impurities": [
+        {
+            "name": "diphenyl(2,4,6,-trimethylbenzoyl)phosphine oxide",
+            "CASRN": "75980-60-8",
+            "massPct": null,
+            "function": "residual of urethane acrylic polymer",
+            "sources": [
+                {
+                    "name": "IGM Resins Product Guide",
+                    "url": "http://igmresins.com/public/upload/product/brochure/2014_IGM_Resins_Group_brochure_A4.pdf",
+                    "id": 4272
+                },
+                {
+                    "name": "Reactive Polymers Fundamentals Excerpt",
+                    "url": "https://pharosproject.net/uploads/files/sources/1828/1347028559.png",
+                    "id": 4309
+                },
+                {
+                    "name": "Sokol 1995",
+                    "url": "https://www.google.com/patents/US5453451",
+                    "id": 4316
+                },
+                {
+                    "name": "Irgacure 4265 MSDS",
+                    "url": "http://worldaccount.basf.com/wa/NAFTA~en_US/Catalog/FunctionalPolymers/doc4/BASF/PRD/30472091/.pdf?title=&asset_type=msds/pdf&language=EN&validArea=US&urn=urn:documentum:ProductBase_EU:09007af880186f15.pdf",
+                    "id": 4278
+                },
+                {
+                    "name": "Irgacure TPO MSDS",
+                    "url": "http://worldaccount.basf.com/wa/NAFTA~en_US/Catalog/FunctionalPolymers/doc4/BASF/PRD/30041414/.pdf?title=&asset_type=msds/pdf&language=EN&validArea=US&urn=urn:documentum:ProductBase_EU:09007af8800a8589.pdf",
+                    "id": 4282
+                },
+                {
+                    "name": "ESACURE KTO46 MSDS",
+                    "url": "http://www.chemcas.com/msds_archive/part2/cas/gr_msds/sartomer_com---0000c3cb.asp",
+                    "id": 4264
+                },
+                {
+                    "name": "Armstrong 2010",
+                    "url": "https://www.google.com/patents/US20100276059",
+                    "id": 4235
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Hexamethylene Diacrylate",
+            "CASRN": "13048-33-4",
+            "massPct": null,
+            "function": "residual of urethane acrylic polymer",
+            "sources": [
+                {
+                    "name": "UV Specialties 2001",
+                    "url": "https://www.google.com/patents/WO2001051533A1",
+                    "id": 4337
+                },
+                {
+                    "name": "LUX 220 VP MSDS",
+                    "url": "http://www.alberdingkusa.com/fileadmin/pdf/s/us_lux_220_s.pdf",
+                    "id": 4285
+                },
+                {
+                    "name": "SR256 MSDS",
+                    "url": "http://www.quickfds.com/out/17295-05223-03900-010262.pdf",
+                    "id": 4319
+                },
+                {
+                    "name": "CN970A60 MSDS",
+                    "url": "http://www.quickfds.com/out/17295-03616-03900-015702.pdf",
+                    "id": 4249
+                },
+                {
+                    "name": "Desmolux XP2491 MSDS",
+                    "url": "http://msds.allnex.com/Products/MSDSViewer1.aspx?1=&2=EN&3=Coating+Resins",
+                    "id": 4257
+                },
+                {
+                    "name": "SR506A MSDS",
+                    "url": "http://www.quickfds.com/out/17295-05243-03900-010872.pdf",
+                    "id": 4322
+                },
+                {
+                    "name": "Sartomer",
+                    "url": "https://pharosproject.net/uploads/files/sources/1828/1346985344.pdf",
+                    "id": 4311
+                },
+                {
+                    "name": "Bayhydrol UV 2689 MSDS",
+                    "url": "http://www.productsafetyfirst.bayer.com/SDSSearchPage.aspx?qpn=Bayhydrol%20UV%202689&qmn=&qn=EN&qa=US&",
+                    "id": 4239
+                },
+                {
+                    "name": "SR351 MSDS",
+                    "url": "http://www.quickfds.com/out/17291-56221-26149-019867.pdf",
+                    "id": 4321
+                },
+                {
+                    "name": "NeoRad 3709 MSDS",
+                    "url": "http://technicaldocuments.dsm.com/sendfile/download.do/MSDS_000000000030024_us_US.pdf?fileid=%2fYrrDU%2bGifv7MQLr09%2fUxJT6wSjK71pPDSCUkd7AdBNrYYXJ3WEU7zHqhNY8sUynx7otInVelfuC%0aA28AsaUrpeUEQavLd8EJQZUaJom24qLm%2f1B%2bHvJ5oA%3d%3d&doctype=MSDS",
+                    "id": 4303
+                },
+                {
+                    "name": "Armstrong 2010",
+                    "url": "https://www.google.com/patents/US20100276059",
+                    "id": 4235
+                },
+                {
+                    "name": "UCECOAT 7655 MSDS",
+                    "url": "http://msds.allnex.com/products/MSDSViewer1.aspx?1=&2=EN&3=Coating+Resins",
+                    "id": 4335
+                },
+                {
+                    "name": "Sokol 1995",
+                    "url": "https://www.google.com/patents/US5453451",
+                    "id": 4316
+                },
+                {
+                    "name": "Asambly Chemicals",
+                    "url": "https://pharosproject.net/uploads/files/sources/1828/1347018490.pdf",
+                    "id": 4238
+                },
+                {
+                    "name": "IGM Resins Product Guide",
+                    "url": "http://igmresins.com/public/upload/product/brochure/2014_IGM_Resins_Group_brochure_A4.pdf",
+                    "id": 4272
+                },
+                {
+                    "name": "Desmolux U680H MSDS",
+                    "url": "http://msds.allnex.com/Products/MSDSViewer1.aspx?1=&2=EN&3=Coating+Resins",
+                    "id": 4256
+                },
+                {
+                    "name": "Ebecryl 284 MSDS",
+                    "url": "http://msds.allnex.com/products/MSDSViewer1.aspx?1=&2=EN&3=Coating+Resins",
+                    "id": 4261
+                },
+                {
+                    "name": "Ebecryl 264 MSDS",
+                    "url": "http://msds.allnex.com/products/MSDSViewer1.aspx?1=&2=EN&3=Coating+Resins",
+                    "id": 4260
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Triethylamine",
+            "CASRN": "121-44-8",
+            "massPct": null,
+            "function": "residual of urethane acrylic polymer",
+            "sources": [
+                {
+                    "name": "UCECOAT 7891 MSDS",
+                    "url": "http://msds.allnex.com/products/MSDSViewer1.aspx?1=&2=EN&3=Coating+Resins",
+                    "id": 4336
+                },
+                {
+                    "name": "UCECOAT 7655 MSDS",
+                    "url": "http://msds.allnex.com/products/MSDSViewer1.aspx?1=&2=EN&3=Coating+Resins",
+                    "id": 4335
+                },
+                {
+                    "name": "LUX 484 MSDS",
+                    "url": "http://www.alberdingkusa.com/fileadmin/pdf/s/us_lux_484_s.pdf",
+                    "id": 4292
+                },
+                {
+                    "name": "LUX 220 VP MSDS",
+                    "url": "http://www.alberdingkusa.com/fileadmin/pdf/s/us_lux_220_s.pdf",
+                    "id": 4285
+                },
+                {
+                    "name": "LUX 250 MSDS",
+                    "url": "http://www.alberdingkusa.com/fileadmin/pdf/s/us_lux_250_s.pdf",
+                    "id": 4287
+                },
+                {
+                    "name": "Bayhydrol UV 2689 MSDS",
+                    "url": "http://www.productsafetyfirst.bayer.com/SDSSearchPage.aspx?qpn=Bayhydrol%20UV%202689&qmn=&qn=EN&qa=US&",
+                    "id": 4239
+                },
+                {
+                    "name": "NeoRad 3709 MSDS",
+                    "url": "http://technicaldocuments.dsm.com/sendfile/download.do/MSDS_000000000030024_us_US.pdf?fileid=%2fYrrDU%2bGifv7MQLr09%2fUxJT6wSjK71pPDSCUkd7AdBNrYYXJ3WEU7zHqhNY8sUynx7otInVelfuC%0aA28AsaUrpeUEQavLd8EJQZUaJom24qLm%2f1B%2bHvJ5oA%3d%3d&doctype=MSDS",
+                    "id": 4303
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "unknown": [
+                {
+                    "hazardId": "unknown-11424",
+                    "type": "unknown",
+                    "name": "Unknown",
+                    "massPct": 0.9968173257880347,
+                    "contributors": [
+                        {
+                            "recId": 4340,
+                            "massPct": 0.013319137988034701,
+                            "childrenIds": [
+                                4340,
+                                4341
+                            ]
+                        },
+                        {
+                            "recId": 3329,
+                            "massPct": 0.9834981878,
+                            "childrenIds": [
+                                3329
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "orange": [
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.002008621064250515,
+                    "contributors": [
+                        {
+                            "recId": 4340,
+                            "massPct": 0.002008621064250515,
+                            "childrenIds": [
+                                4340,
+                                2794
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.002008621064250515,
+                    "contributors": [
+                        {
+                            "recId": 4340,
+                            "massPct": 0.002008621064250515,
+                            "childrenIds": [
+                                4340,
+                                2794
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 4.2435656298371293e-7,
+                    "contributors": [
+                        {
+                            "recId": 4340,
+                            "massPct": 4.2435656298371293e-7,
+                            "childrenIds": [
+                                4340,
+                                4342,
+                                4343
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-569",
+                    "type": "orange",
+                    "name": "Reproductive",
+                    "massPct": 4.2435656298371293e-7,
+                    "contributors": [
+                        {
+                            "recId": 4340,
+                            "massPct": 4.2435656298371293e-7,
+                            "childrenIds": [
+                                4340,
+                                4342,
+                                4343
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "purple": [
+                {
+                    "hazardId": "purple-955",
+                    "type": "purple",
+                    "name": "PBT",
+                    "massPct": 4.2435656298371293e-7,
+                    "contributors": [
+                        {
+                            "recId": 4340,
+                            "massPct": 4.2435656298371293e-7,
+                            "childrenIds": [
+                                4340,
+                                4342,
+                                4343
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundary includes upstream forest operations, from planting through harvest, and flooring manufacturing, including upstream transportation. The electricity for UV-curing is included. ",
+        "gabiDatasets": [
+            {
+                "name": "US: Thermoplastic polyurethane (TPU, TPE-U) adhesive PE [Plastic production]"
+            },
+            {
+                "name": "EU-27: Aluminium oxide mix (alumina, Al2O3) PE [Metal production]"
+            },
+            {
+                "name": "DE: Silicagel (colloidal) PE [Minerals production]"
+            },
+            {
+                "name": "RNA: Wood fuel, E hardwood,gen at flooring prod plant,combusted in industrial boiler CORRIM/NREL USLCI <u-so> [Steam and Air-Conditioning Supply]"
+            },
+            {
+                "name": "RNA: Solid strip and plank flooring, hardwood, E CORRIM/NREL USLCI <u-so> [Sawmills]"
+            },
+            {
+                "name": "RNA: Heat, onsite boiler, hardwood mill average, NE-NC CORRIM/NREL USLCI [Steam and Air-Conditioning Supply]"
+            },
+            {
+                "name": "RNA: Electricity, onsite boiler, hardwood mill average, NE-NC AGG FINAL (ADJ CO2) CORRIM/NREL USLCI [Other Electric Power Generation]"
+            },
+            {
+                "name": "RNA: Natural gas, combusted in industrial equipment USLCI/PE [Thermal energy generation]"
+            },
+            {
+                "name": "US: Transport, combination truck, diesel powered USLCI <u-so> [General Freight Trucking]"
+            },
+            {
+                "name": "RNA: Bark, hardwood, average, at forest road,  NE-NC CORRIM/NREL USLCI <u-so> [Logging]"
+            },
+            {
+                "name": "RNA:  Roundwood, hardwood, average, Low Intensity Management, NE-NC CORRIM/NREL USLCI <u-so> [Logging]"
+            },
+            {
+                "name": "RNA: Roundwood, hardwood, average, High Intensity Management, NE-NC CORRIM/NREL USLCI <u-so> [Logging]"
+            },
+            {
+                "name": "RNA: Roundwood, hardwood, average, Med Intensity Management, NE-NC CORRIM/NREL USLCI <u-so> [Logging]"
+            },
+            {
+                "name": "RNA: Roundwood, hardwood, average, at forest road, NE-NC CORRIM/NREL USLCI <u-so> [Logging]"
+            },
+            {
+                "name": "RNA: Skidding, wheeled cable skidder, 120-160 HP CORRIM/NREL USLCI <u-so> [Logging]"
+            },
+            {
+                "name": "US: Gasoline, combusted in equipment USLCI/PE [Thermal energy generation]"
+            },
+            {
+                "name": "US: Diesel, combusted in industrial equipment USLCI/PE [Thermal energy generation]"
+            },
+            {
+                "name": "US: Lubricants at refinery PE [Refinery products]"
+            },
+            {
+                "name": "RNA: Loader operation, large, NE-NC CORRIM/NREL USLCI <u-so> [Logging]"
+            },
+            {
+                "name": "RNA: Chainsawing, delimbing, NE-NC CORRIM/NREL USLCI <u-so> [Logging]"
+            },
+            {
+                "name": "RNA: Chainsawing, hand felling, NE-NC CORRIM/NREL USLCI <u-so> [Logging]"
+            },
+            {
+                "name": "RNA: Roundwood, hardwood, green, at mill, NE-NC CORRIM/NREL USLCI <u-so> [Logging]"
+            },
+            {
+                "name": "RNA: Roundwood, hardwood, green, at logyard, NE-NC CORRIM/NREL USLCI <u-so> [Logging]"
+            },
+            {
+                "name": "RNA: Sawn lumber, hardwood, rough, green, at sawmill, NE-NC CORRIM/NREL USLCI <u-so> [Sawmills]"
+            },
+            {
+                "name": "RNA: Sawn lumber, hardwood, rough, kiln dried, at kiln, NE-NC CORRIM/NREL USLCI <u-so> [Sawmills]"
+            },
+            {
+                "name": "RNA: Cold rolled sheet, steel, at plant USLCI [Rolling and Drawing of Purchased Steel]"
+            },
+            {
+                "name": "US: Natural gas, combusted in industrial boiler USLCI/PE [Thermal energy generation]"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid) PE [Electricity grid mix]"
+            },
+            {
+                "name": "US: Diesel mix at filling station PE [Filling station]"
+            },
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6 PE <u-so> [Truck]"
+            }
+        ],
+        "foregroundDataSource": "CORRIM/USLCI",
+        "backforegroundDataSource": "CORRIM; USLCI; GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "17.5% incinerated; 17.5% recycled; 65% to landfill",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "2.42E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.41E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "-1.48E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "6.97E-09"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "5.92E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "5.65E+00"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "4.64E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "6.35E-05"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "6.98E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.55E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "4.74E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "6.93E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP155",
+    "name": "Hardwood (prefinished)",
+    "altNames": [
+        "Solid Hardwood Flooring"
+    ],
+    "uniformats": [
+        {
+            "id": "C2040",
+            "name": "Stair Finishes"
+        },
+        {
+            "id": "C2030",
+            "name": "Flooring"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "09-64-00",
+            "name": "Wood Flooring"
+        }
+    ],
+    "recordType": "Common",
+    "description": "This common product describes a solid wood construction with a factory applied finish. Wood flooring is typically 3/4 inch thick and is sold in a variety of shapes and sizes. A variety of domestic and exotic hardwood species may be used to make solid hardwood flooring. Surveys of the North American market show that Red Oak is the dominant species used, making up 70% of the market. Typical factory applied finishes include natural oil finishes or UV cured acrylic finishes. The most commonly used finishes are UV cured urethane acrylate, also referred to as polyurethane, finishes. For additional scratch resistance, these finishes commonly contain aluminum oxide.These finishes are applied in many layers, typically three to ten, in order to provide desired level of protection. Stains and pigments may be applied to the wood prior to the urethane acrylate finish, however that was not covered in this CP.",
+    "sources": [
+        {
+            "name": "Dvorchak 1995",
+            "url": "http://infohouse.p2ric.org/ref/25/24087.pdf",
+            "id": 4339
+        },
+        {
+            "name": "VELANKAR 1996",
+            "url": "http://www.pitt.edu/~velankar/www/papers/japsVelankar96.pdf",
+            "id": 4338
+        },
+        {
+            "name": "UV Specialties 2001",
+            "url": "https://www.google.com/patents/WO2001051533A1",
+            "id": 4337
+        },
+        {
+            "name": "UCECOAT 7891 MSDS",
+            "url": "http://msds.allnex.com/products/MSDSViewer1.aspx?1=&2=EN&3=Coating+Resins",
+            "id": 4336
+        },
+        {
+            "name": "UCECOAT 7655 MSDS",
+            "url": "http://msds.allnex.com/products/MSDSViewer1.aspx?1=&2=EN&3=Coating+Resins",
+            "id": 4335
+        },
+        {
+            "name": "Triton GR-7M MSDS",
+            "url": "http://doc.ccc-group.com/msds/english/940314.pdf",
+            "id": 4334
+        },
+        {
+            "name": "Triton GR surfactants PSA",
+            "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_08b1/0901b803808b1f80.pdf?filepath=productsafety/pdfs/noreg/233-00981.pdf&fromPage=GetDoc",
+            "id": 4333
+        },
+        {
+            "name": "Tian 2014",
+            "url": "https://www.google.com/patents/WO2014036462A1",
+            "id": 4332
+        },
+        {
+            "name": "Tesařová",
+            "url": "http://ipm.mendelu.cz/en/veda_vyzkum/folia_universitatis/volume_iv",
+            "id": 4331
+        },
+        {
+            "name": "TerraMai Finishing",
+            "url": "http://www.terramai.com/Pages.aspx?ID=404",
+            "id": 4330
+        },
+        {
+            "name": "TerraMai Clear Mixed Grain Douglas Fir",
+            "url": "http://www.terramai.com/products/display_product.aspx?pid=212",
+            "id": 4329
+        },
+        {
+            "name": "Ten Oaks Patent",
+            "url": "https://www.google.com/patents/US8201600",
+            "id": 4328
+        },
+        {
+            "name": "Tego Glide 410 MSDS",
+            "url": "http://www.tego.de/msds-list/searchresult/tego/E/99063281/MSDS-US/sds.pdf",
+            "id": 4327
+        },
+        {
+            "name": "Tego Airex 902W MSDS",
+            "url": "http://www.tego.de/msds-list/searchresult/tego/E/99059145/MSDS-US/sds.pdf",
+            "id": 4326
+        },
+        {
+            "name": "Syloid Matting Agents",
+            "url": "https://grace.com/coatings-and-inks/en-us/Documents/SYLOID%20Matting%20Agent%20Brochure.pdf",
+            "id": 4325
+        },
+        {
+            "name": "Surfynol 104 MSDS",
+            "url": "http://www.bestchem.hu/bestchem/surplus/SURFINOL-104_MSDS_Eng.pdf",
+            "id": 4324
+        },
+        {
+            "name": "SR9035 MSDS",
+            "url": "http://www.quickfds.com/out/17291-56387-07958-019512.pdf",
+            "id": 4323
+        },
+        {
+            "name": "SR506A MSDS",
+            "url": "http://www.quickfds.com/out/17295-05243-03900-010872.pdf",
+            "id": 4322
+        },
+        {
+            "name": "SR351 MSDS",
+            "url": "http://www.quickfds.com/out/17291-56221-26149-019867.pdf",
+            "id": 4321
+        },
+        {
+            "name": "SR339 MSDS",
+            "url": "http://www.quickfds.com/out/17295-05232-03900-019507.pdf",
+            "id": 4320
+        },
+        {
+            "name": "SR256 MSDS",
+            "url": "http://www.quickfds.com/out/17295-05223-03900-010262.pdf",
+            "id": 4319
+        },
+        {
+            "name": "SpectrAl 100 MSDS",
+            "url": "http://www.cabotcorp.com/~/media/product-documents/msds/en/fa100-na-en.pdf",
+            "id": 4318
+        },
+        {
+            "name": "Solvent-free UV-curable Dispersions",
+            "url": "http://www.alberdingk-boley.de/fileadmin/documents/pdf/AB_UV-vernetzbare_Dispersionen_EN.pdf",
+            "id": 4317
+        },
+        {
+            "name": "Sokol 1995",
+            "url": "https://www.google.com/patents/US5453451",
+            "id": 4316
+        },
+        {
+            "name": "Silwet L-7200 MSDS",
+            "url": "http://www.essentialingredients.com/msds/Silwet%20L-7200.pdf",
+            "id": 4315
+        },
+        {
+            "name": "Shaw Hardwood Species",
+            "url": "https://shawfloors.com/flooring/fundamentals/hardwood/look-feel/hardwood-species-variation",
+            "id": 4314
+        },
+        {
+            "name": "ScufResist Platinum",
+            "url": "https://shawfloors.com/why-shaw/about-us/shaw-advantages/hardwood-advantages/scufresist-platinum",
+            "id": 4313
+        },
+        {
+            "name": "Schierlmann 2009",
+            "url": "https://www.google.com/patents/CA2392558C",
+            "id": 4312
+        },
+        {
+            "name": "Sartomer",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/1346985344.pdf",
+            "id": 4311
+        },
+        {
+            "name": "S-228M MSDS",
+            "url": "http://www.chemguard.com/pdf/specialty-chemicals/msds/Chemguard%20S-228M%20MSDS.pdf",
+            "id": 4310
+        },
+        {
+            "name": "Reactive Polymers Fundamentals Excerpt",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/1347028559.png",
+            "id": 4309
+        },
+        {
+            "name": "Radtech Report",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/1347031649.pdf",
+            "id": 4308
+        },
+        {
+            "name": "Radtech",
+            "url": "http://www.radtech.org/images/pdf_upload/woodfinishmayjun06.pdf",
+            "id": 4307
+        },
+        {
+            "name": "PGPODA GPS",
+            "url": "http://www.arkema.com/export/shared/.content/media/downloads/socialresponsability/safety-summuries/Photocure-Resins-SR-9003-Propoxylated-neopentylglycol-diacrylate-GPS-2014-01-31-V0.pdf",
+            "id": 4306
+        },
+        {
+            "name": "PCI 2005",
+            "url": "http://www.pcimag.com/articles/85633-acrylated-performance-products-for-floor-coatings-with-high-scratch-and-abrasion-resistance",
+            "id": 4305
+        },
+        {
+            "name": "Nydree HPD",
+            "url": "http://lcdn.nydreeflooring.com/80BE2D/nydreeflooring/media/wysiwyg/NydreeHPD_1.pdf",
+            "id": 4304
+        },
+        {
+            "name": "NeoRad 3709 MSDS",
+            "url": "http://technicaldocuments.dsm.com/sendfile/download.do/MSDS_000000000030024_us_US.pdf?fileid=%2fYrrDU%2bGifv7MQLr09%2fUxJT6wSjK71pPDSCUkd7AdBNrYYXJ3WEU7zHqhNY8sUynx7otInVelfuC%0aA28AsaUrpeUEQavLd8EJQZUaJom24qLm%2f1B%2bHvJ5oA%3d%3d&doctype=MSDS",
+            "id": 4303
+        },
+        {
+            "name": "Nebel et al 2006",
+            "url": "http://link.springer.com/article/10.1065%2Flca2004.10.187",
+            "id": 4302
+        },
+        {
+            "name": "Nadurra Red Oak Naturals",
+            "url": "http://www.nadurrawood.com/flooring-fsc-certified-lower-canada-red-oak-naturals.html",
+            "id": 4301
+        },
+        {
+            "name": "Mohawk ArmorMax",
+            "url": "http://www.mohawkflooring.com/flooring/hardwood/brand/ArmorMax/",
+            "id": 4300
+        },
+        {
+            "name": "Mohawk About Hardwood",
+            "url": "http://www.mohawkflooring.com/flooring/hardwood/about-hardwood",
+            "id": 4299
+        },
+        {
+            "name": "Model Solid Hardwood Spec",
+            "url": "http://www.pgmodel.com/uploads/2015/03/23/fiche-technique-plancher-preveni-solide-an.pdf",
+            "id": 4298
+        },
+        {
+            "name": "Model Product Chart",
+            "url": "http://www.pgmodel.com/uploads/2015/03/23/charte-de-produits-an.pdf",
+            "id": 4297
+        },
+        {
+            "name": "Model Finishes",
+            "url": "http://www.pgmodel.com/uploads/2015/03/23/preverni-vs-prehuilean.pdf",
+            "id": 4296
+        },
+        {
+            "name": "Model Brochure",
+            "url": "http://www.pgmodel.com/uploads/2015/03/23/brochure-an-2.pdf",
+            "id": 4295
+        },
+        {
+            "name": "Mannington ScratchResist",
+            "url": "http://www.mannington.com/Residential/Hardwood/ScratchResist.aspx",
+            "id": 4294
+        },
+        {
+            "name": "LUX 484 TDS",
+            "url": "http://www.alberdingkusa.com/fileadmin/pdf/t/us_lux_484_t.pdf",
+            "id": 4293
+        },
+        {
+            "name": "LUX 484 MSDS",
+            "url": "http://www.alberdingkusa.com/fileadmin/pdf/s/us_lux_484_s.pdf",
+            "id": 4292
+        },
+        {
+            "name": "LUX 481 TDS",
+            "url": "http://www.alberdingkusa.com/fileadmin/pdf/t/us_lux_481_t.pdf",
+            "id": 4291
+        },
+        {
+            "name": "LUX 481 MSDS",
+            "url": "http://www.alberdingkusa.com/fileadmin/pdf/s/us_lux_481_s.pdf",
+            "id": 4290
+        },
+        {
+            "name": "LUX 286 TDS",
+            "url": "http://www.alberdingkusa.com/fileadmin/pdf/t/us_lux_286_t.pdf",
+            "id": 4289
+        },
+        {
+            "name": "LUX 286 MSDS",
+            "url": "http://www.alberdingkusa.com/fileadmin/pdf/s/us_lux_286_s.pdf",
+            "id": 4288
+        },
+        {
+            "name": "LUX 250 MSDS",
+            "url": "http://www.alberdingkusa.com/fileadmin/pdf/s/us_lux_250_s.pdf",
+            "id": 4287
+        },
+        {
+            "name": "LUX 220 VP TDS",
+            "url": "http://www.alberdingkusa.com/fileadmin/pdf/t/us_lux_220_t.pdf",
+            "id": 4286
+        },
+        {
+            "name": "LUX 220 VP MSDS",
+            "url": "http://www.alberdingkusa.com/fileadmin/pdf/s/us_lux_220_s.pdf",
+            "id": 4285
+        },
+        {
+            "name": "LL Bellawood MSDS",
+            "url": "http://m.lumberliquidators.com/?p=aHR0cDovL3NlcnZlci5pYWQubGl2ZXBlcnNvbi5uZXQvaGMvcy0xMzA0NTM1Mi9jbWQva2JyZXNvdXJjZS9rYi04NDU5ODQ2NzIxNzc0NTI3MDYyLyUyMURPV05MT0FEP2VudHJ5aWQ9NDEzMjIxJmF0dGFjaGlkPTQyMjk4",
+            "id": 4284
+        },
+        {
+            "name": "Laurie Morris",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/1346985206.pdf",
+            "id": 4283
+        },
+        {
+            "name": "Irgacure TPO MSDS",
+            "url": "http://worldaccount.basf.com/wa/NAFTA~en_US/Catalog/FunctionalPolymers/doc4/BASF/PRD/30041414/.pdf?title=&asset_type=msds/pdf&language=EN&validArea=US&urn=urn:documentum:ProductBase_EU:09007af8800a8589.pdf",
+            "id": 4282
+        },
+        {
+            "name": "Irgacure 907 MSDS",
+            "url": "http://worldaccount.basf.com/wa/NAFTA/Catalog/FunctionalPolymers/doc4/BASF/PRD/30481120/.pdf?title=&asset_type=msds/pdf&language=EN&validArea=US&urn=urn:documentum:ProductBase_EU:09007af880228336.pdf",
+            "id": 4281
+        },
+        {
+            "name": "Irgacure 819 MSDS",
+            "url": "http://worldaccount.basf.com/wa/NAFTA/Catalog/FunctionalPolymers/doc4/BASF/PRD/30128871/.pdf?title=&asset_type=msds/pdf&language=EN&validArea=CA&urn=urn:documentum:ProductBase_EU:09007af8802277e5.pdf",
+            "id": 4280
+        },
+        {
+            "name": "Acematt OK 412 MSDS",
+            "url": "http://www.acematt.com/lpa-productfinder/documents/712a589236b321f30b48312a2dbd35b28c2c376b",
+            "id": 4230
+        },
+        {
+            "name": "Acematt OK 500 MSDS",
+            "url": "http://www.acematt.com/lpa-productfinder/documents/13798ac88fe80cae2eec43627676309b90ec914f",
+            "id": 4231
+        },
+        {
+            "name": "Acematt TS100 MSDS",
+            "url": "http://www.paintandpowderstore.com/dulling_powder_ts100.pdf",
+            "id": 4232
+        },
+        {
+            "name": "Additol VXW 4973 MSDS",
+            "url": "http://msds.allnex.com/products/MSDSViewer1.aspx?1=&2=EN&3=Coating+Resins",
+            "id": 4233
+        },
+        {
+            "name": "Agarwal 2008",
+            "url": "http://www.pcimag.com/articles/87692-preparation-and-properties-of-uv-curable-polyurethane-acrylate-resins-for-metal-surfaces",
+            "id": 4234
+        },
+        {
+            "name": "Armstrong 2010",
+            "url": "https://www.google.com/patents/US20100276059",
+            "id": 4235
+        },
+        {
+            "name": "Armstrong 2014",
+            "url": "https://www.google.com/patents/WO2014113653A1",
+            "id": 4236
+        },
+        {
+            "name": "Armstrong Prefinished",
+            "url": "http://www.armstrong.com/flooring/prefinished-hardwood-flooring.html",
+            "id": 4237
+        },
+        {
+            "name": "Asambly Chemicals",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/1347018490.pdf",
+            "id": 4238
+        },
+        {
+            "name": "Bayhydrol UV 2689 MSDS",
+            "url": "http://www.productsafetyfirst.bayer.com/SDSSearchPage.aspx?qpn=Bayhydrol%20UV%202689&qmn=&qn=EN&qa=US&",
+            "id": 4239
+        },
+        {
+            "name": "Bayhydrol UV 2689 TDS",
+            "url": "http://www.bayermaterialsciencenafta.com/resources/d/document.cfm?f=1024781D-F9BE-B292-6F2FBC69511EBEAE&d=E2B6DAED-0548-07EA-B1BEC6DC4F36C866",
+            "id": 4240
+        },
+        {
+            "name": "Bellawood Catalog",
+            "url": "http://www.lumberliquidators.com/assets/images/product_page/pdf_catalog/bellawood_cat.pdf",
+            "id": 4241
+        },
+        {
+            "name": "BYK 344 MSDS",
+            "url": "https://www.b2bcomposites.com/msds/byk-chemie/613821.pdf",
+            "id": 4242
+        },
+        {
+            "name": "BYK 346 MSDS",
+            "url": "http://www.homedepot.com/catalog/pdfImages/fc/fcbb95f5-8656-496a-9f79-f9002303aa25.pdf",
+            "id": 4243
+        },
+        {
+            "name": "BYK 348 MSDS",
+            "url": "https://www.b2bcomposites.com/msds/byk-chemie/582309.pdf",
+            "id": 4244
+        },
+        {
+            "name": "BYK UV 3500 MSDS",
+            "url": "http://www.additives-downloads.de/output/ag_download.aspx?file=SDS_BYK-UV_3500_US_en.pdf",
+            "id": 4245
+        },
+        {
+            "name": "BYK-UV 3510 MSDS",
+            "url": "http://www.additives-downloads.de/output/ag_download.aspx?file=SDS_BYK-UV_3510_US_en.pdf",
+            "id": 4246
+        },
+        {
+            "name": "CN104Z MSDS",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/1346985523.pdf",
+            "id": 4247
+        },
+        {
+            "name": "CN965 MSDS",
+            "url": "http://www.quickfds.com/out/17295-00856-08785-017135.pdf",
+            "id": 4248
+        },
+        {
+            "name": "CN970A60 MSDS",
+            "url": "http://www.quickfds.com/out/17295-03616-03900-015702.pdf",
+            "id": 4249
+        },
+        {
+            "name": "CN981 MSDS",
+            "url": "http://www.quickfds.com/out/17295-00975-08785-015873.pdf",
+            "id": 4250
+        },
+        {
+            "name": "Corrim EHWF LCA 2011",
+            "url": "http://www.corrim.org/pubs/reports/2010/phase2/Module_N.pdf",
+            "id": 4251
+        },
+        {
+            "name": "Corrim SHF LCA 2011",
+            "url": "http://www.corrim.org/pubs/reports/2010/phase2/Module_E.pdf",
+            "id": 4252
+        },
+        {
+            "name": "CPSC 2011",
+            "url": "http://cpsc.gov/PageFiles/92172/CPSC-I-11-0010.pdf",
+            "id": 4253
+        },
+        {
+            "name": "CYTEC UCECOAT Waterborne UV Resins",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/1348249332.pdf",
+            "id": 4254
+        },
+        {
+            "name": "Desmolux P175D MSDS",
+            "url": "http://msds.allnex.com/Products/MSDSViewer1.aspx?1=&2=EN&3=Coating+Resins",
+            "id": 4255
+        },
+        {
+            "name": "Desmolux U680H MSDS",
+            "url": "http://msds.allnex.com/Products/MSDSViewer1.aspx?1=&2=EN&3=Coating+Resins",
+            "id": 4256
+        },
+        {
+            "name": "Desmolux XP2491 MSDS",
+            "url": "http://msds.allnex.com/Products/MSDSViewer1.aspx?1=&2=EN&3=Coating+Resins",
+            "id": 4257
+        },
+        {
+            "name": "Dow Corning 67 MSDS",
+            "url": "http://www.dowcorning.com/DataFiles/0902770181d383ce.pdf",
+            "id": 4258
+        },
+        {
+            "name": "Ebecryl 114 MSDS",
+            "url": "http://msds.allnex.com/products/MSDSViewer1.aspx?1=&2=EN&3=Coating+Resins",
+            "id": 4259
+        },
+        {
+            "name": "Ebecryl 264 MSDS",
+            "url": "http://msds.allnex.com/products/MSDSViewer1.aspx?1=&2=EN&3=Coating+Resins",
+            "id": 4260
+        },
+        {
+            "name": "Ebecryl 284 MSDS",
+            "url": "http://msds.allnex.com/products/MSDSViewer1.aspx?1=&2=EN&3=Coating+Resins",
+            "id": 4261
+        },
+        {
+            "name": "Ecolabel wood flooring",
+            "url": "http://susproc.jrc.ec.europa.eu/wooden_floor_coverings/docs/Preliminary%20report%20sept%202014_revLCE_AB.pdf",
+            "id": 4262
+        },
+        {
+            "name": "Esacure KIP100F MSDS",
+            "url": "http://www.chemcas.com/msds_archive/part2/cas/gf_msds/sartomer_com---0000B3B0.asp",
+            "id": 4263
+        },
+        {
+            "name": "ESACURE KTO46 MSDS",
+            "url": "http://www.chemcas.com/msds_archive/part2/cas/gr_msds/sartomer_com---0000c3cb.asp",
+            "id": 4264
+        },
+        {
+            "name": "ET Desert Poplar",
+            "url": "http://ecotimber.com/productdetails?skuid=6178&title1=&title2=",
+            "id": 4265
+        },
+        {
+            "name": "ET Shadow Poplar",
+            "url": "http://ecotimber.com/productdetails?skuid=6177&title1=&title2=",
+            "id": 4266
+        },
+        {
+            "name": "Gasil UV70C MSDS",
+            "url": "http://www.pqcorp.com/LinkClick.aspx?fileticket=uYZZw_6lIFc%3D&tabid=885&portalid=1&mid=2854&language=pt-BR",
+            "id": 4267
+        },
+        {
+            "name": "Greenchem",
+            "url": "http://www.mistra.org/download/18.28e913871380e4c8e62352/1378682130175/Greenchem%2BFinal%2Breport.pdf",
+            "id": 4268
+        },
+        {
+            "name": "GreenMountain Finish FAQ",
+            "url": "http://www.greenmtwood.com/about-finishes-for-floors.html",
+            "id": 4269
+        },
+        {
+            "name": "Hubbard 2004",
+            "url": "http://www.corrim.org/presentations/2007/fps/04_hubbard_flooring.pdf",
+            "id": 4270
+        },
+        {
+            "name": "IBOA GPS",
+            "url": "http://corporate.evonik.de/_layouts/Websites/Internet/DownloadCenterFileHandler.ashx?fileid=1249",
+            "id": 4271
+        },
+        {
+            "name": "IGM Resins Product Guide",
+            "url": "http://igmresins.com/public/upload/product/brochure/2014_IGM_Resins_Group_brochure_A4.pdf",
+            "id": 4272
+        },
+        {
+            "name": "Industrial Finishing Wood",
+            "url": "https://www.akzonobel.com/wood/ee/system/images/AkzoNobel_Industrial_Finishing_Wood_Facts_and_Figures_tcm125-34902.pdf",
+            "id": 4273
+        },
+        {
+            "name": "Irgacure 1173 MSDS",
+            "url": "http://worldaccount.basf.com/wa/NAFTA/Catalog/FunctionalPolymers/doc4/BASF/PRD/30472687/.pdf?title=&asset_type=msds/pdf&language=EN&validArea=US&urn=urn:documentum:ProductBase_EU:09007af88022807d.pdf",
+            "id": 4274
+        },
+        {
+            "name": "Irgacure 127 MSDS",
+            "url": "http://worldaccount.basf.com/wa/NAFTA/Catalog/FunctionalPolymers/doc4/BASF/PRD/30474365/.pdf?title=&asset_type=msds/pdf&language=EN&validArea=US&urn=urn:documentum:ProductBase_EU:09007af880186f66.pdf",
+            "id": 4275
+        },
+        {
+            "name": "Irgacure 1700 MSDS",
+            "url": "http://worldaccount.basf.com/wa/NAFTA/Catalog/FunctionalPolymers/doc4/BASF/PRD/30472117/.pdf?title=&asset_type=msds/pdf&language=EN&validArea=CA&urn=urn:documentum:ProductBase_EU:09007af88019deb7.pdf",
+            "id": 4276
+        },
+        {
+            "name": "Irgacure 184 TDS",
+            "url": "http://www.xtgchem.cn/upload/20110629045332.pdf",
+            "id": 4277
+        },
+        {
+            "name": "Irgacure 4265 MSDS",
+            "url": "http://worldaccount.basf.com/wa/NAFTA~en_US/Catalog/FunctionalPolymers/doc4/BASF/PRD/30472091/.pdf?title=&asset_type=msds/pdf&language=EN&validArea=US&urn=urn:documentum:ProductBase_EU:09007af880186f15.pdf",
+            "id": 4278
+        },
+        {
+            "name": "Irgacure 500 MSDS",
+            "url": "http://worldaccount.basf.com/wa/NAFTA/Catalog/FunctionalPolymers/doc4/BASF/PRD/30472120/.pdf?title=&asset_type=msds/pdf&language=EN&validArea=US&urn=urn:documentum:ProductBase_EU:09007af880186f24.pdf",
+            "id": 4279
+        }
+    ]
+}

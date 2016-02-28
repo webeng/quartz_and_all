@@ -1,0 +1,1394 @@
+{
+    "CPID": "CP124",
+    "timestamp": 1452102138311,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 6700,
+            "name": "Tpo Sheet Membrane",
+            "CASRN": "",
+            "massPct": 0.9391140038,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.02375363291,
+                        "contributors": [
+                            {
+                                "recId": 2766,
+                                "massPct": 0.02375363291,
+                                "childrenIds": [
+                                    2766
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": 0.02375363291,
+                        "contributors": [
+                            {
+                                "recId": 2766,
+                                "massPct": 0.02375363291,
+                                "childrenIds": [
+                                    2766
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 6261,
+                    "name": "Tris(2,4-ditert-butylphenyl) phosphite",
+                    "CASRN": "31570-04-4",
+                    "massPct": 0.0009501453163,
+                    "function": "secondary antioxidant",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Irganox B225 TDS",
+                            "url": "http://shanghaiguanan.com/pic/2014916114155393.pdf",
+                            "id": 6231
+                        },
+                        {
+                            "name": "Irganox B561 TDS",
+                            "url": "http://www.telko.com/files/images/telko/ru/basf/termostabilizator/irganox_b_561_tds.pdf",
+                            "id": 6683
+                        },
+                        {
+                            "name": "Everguard TPO HPD",
+                            "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/GAF_Everguard_TPO_HPD.pdf ",
+                            "id": 6645
+                        },
+                        {
+                            "name": "CIBA polyolefins guide",
+                            "url": "https://pharosproject.net/uploads/files/sources/1828/CIBA-poguide.pdf",
+                            "id": 6697
+                        },
+                        {
+                            "name": "Alvinox P TDS",
+                            "url": "http://www.dbbecker.com/images/stories/DBB_Technical_Files/D.B.%20Becker%20Supplier%20Literature/3V-USA/3V%20TDS/Alvinox_P.pdf",
+                            "id": 6695
+                        },
+                        {
+                            "name": "WO2012021489A1",
+                            "url": "https://www.google.com/patents/WO2012021489A1",
+                            "id": 6698
+                        },
+                        {
+                            "name": "Irgastab FS301 MSDS 2010",
+                            "url": "https://www.b2bcomposites.com/msds/ted/73501.pdf",
+                            "id": 6691
+                        },
+                        {
+                            "name": "BASF Additives for Polyolefins",
+                            "url": "http://www.plastic-additives.basf.com/ev/internet/plastic-additives/en_GB/function/conversions:/publish/content/plastic-additives/Download_center/Downloads/Additives-for-polyolefins.pdf",
+                            "id": 6688
+                        },
+                        {
+                            "name": "Deaton 2010",
+                            "url": "https://pharosproject.net/uploads/files/sources/1828/301Deaton.pdf ",
+                            "id": 6631
+                        },
+                        {
+                            "name": "Irganox B225 MSDS",
+                            "url": "ftp://nationalplasticscolor.com/webitems/html/NPCWeb/msds/irganoxb225-1.pdf",
+                            "id": 6682
+                        },
+                        {
+                            "name": "Dow Versify Case Study",
+                            "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_08e0/0901b803808e057f.pdf?filepath=elastomers/pdfs/noreg/746-08101.pdf&fromPage=GetDoc",
+                            "id": 6678
+                        },
+                        {
+                            "name": "Beusichem 2005",
+                            "url": "http://www.pqri.org/workshops/leach_ext/imagespdfs/posters/polymer_additives_pqri_poster.pdf",
+                            "id": 6672
+                        },
+                        {
+                            "name": "EverGuard Extreme TPO HPD",
+                            "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/GAF_Everguard_Extreme_TPO_HPD.pdf ",
+                            "id": 6639
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0008922947721823104
+                },
+                {
+                    "recId": 2766,
+                    "name": "Titanium Dioxide",
+                    "CASRN": "13463-67-7",
+                    "massPct": 0.02375363291,
+                    "function": "pigment,uv absorber",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-7911",
+                                "type": "red",
+                                "name": "Cancer (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "PIER 2006",
+                            "url": "https://pharosproject.net/uploads/files/sources/1828/CEC-500-2006-067-AT10.PDF",
+                            "id": 6633
+                        },
+                        {
+                            "name": "Everguard TPO HPD",
+                            "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/GAF_Everguard_TPO_HPD.pdf ",
+                            "id": 6645
+                        },
+                        {
+                            "name": "WO2012021489A1",
+                            "url": "https://www.google.com/patents/WO2012021489A1",
+                            "id": 6698
+                        },
+                        {
+                            "name": "US7666491",
+                            "url": "https://www.google.com/patents/US7666491",
+                            "id": 6670
+                        },
+                        {
+                            "name": "Kronos 2220 MSDS",
+                            "url": "http://kronostio2.com/en/data-sheets-and-literature/safety-datasheets/finish/94/360",
+                            "id": 6684
+                        },
+                        {
+                            "name": "Dow Versify Case Study",
+                            "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_08e0/0901b803808e057f.pdf?filepath=elastomers/pdfs/noreg/746-08101.pdf&fromPage=GetDoc",
+                            "id": 6678
+                        },
+                        {
+                            "name": "Deaton 2010",
+                            "url": "https://pharosproject.net/uploads/files/sources/1828/301Deaton.pdf ",
+                            "id": 6631
+                        },
+                        {
+                            "name": "JM TPO FB MSDS",
+                            "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000000530_REG_NA_EN.pdf",
+                            "id": 6662
+                        },
+                        {
+                            "name": "JM TPO MSDS",
+                            "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000000168_US_EN.pdf",
+                            "id": 6658
+                        },
+                        {
+                            "name": "EverGuard TPO EPD",
+                            "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/EverGuard-TPO-EPD-FINAL.pdf ",
+                            "id": 6644
+                        },
+                        {
+                            "name": "EverGuard Extreme TPO EPD",
+                            "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/EverGuard-Extreme-TPO-EPD-FINAL.pdf ",
+                            "id": 6640
+                        },
+                        {
+                            "name": "Ti-Pure MSDS",
+                            "url": "http://www.advanced-plastics.com/msds/T01_140225%20SDS.pdf",
+                            "id": 6668
+                        },
+                        {
+                            "name": "EverGuard Extreme TPO HPD",
+                            "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/GAF_Everguard_Extreme_TPO_HPD.pdf ",
+                            "id": 6639
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.022307369306905543
+                },
+                {
+                    "recId": 6702,
+                    "name": "Magnesium Hydroxide",
+                    "CASRN": "1309-42-8",
+                    "massPct": 0.1995305164,
+                    "function": "fire retardant",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Everguard TPO HPD",
+                            "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/GAF_Everguard_TPO_HPD.pdf ",
+                            "id": 6645
+                        },
+                        {
+                            "name": "US7666491",
+                            "url": "https://www.google.com/patents/US7666491",
+                            "id": 6670
+                        },
+                        {
+                            "name": "Magnifin H5 TDS",
+                            "url": "http://www.martinswerk.com/PDF/Magnifin_H_5.pdf",
+                            "id": 6685
+                        },
+                        {
+                            "name": "Dow Versify Case Study",
+                            "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_08e0/0901b803808e057f.pdf?filepath=elastomers/pdfs/noreg/746-08101.pdf&fromPage=GetDoc",
+                            "id": 6678
+                        },
+                        {
+                            "name": "Ober 2008",
+                            "url": "http://www.westernroofing.net/1_08/wr_articles_1_08/wr_carlisle_ober_1_08.htm",
+                            "id": 6677
+                        },
+                        {
+                            "name": "Deaton 2010",
+                            "url": "https://pharosproject.net/uploads/files/sources/1828/301Deaton.pdf ",
+                            "id": 6631
+                        },
+                        {
+                            "name": "JM TPO FB MSDS",
+                            "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000000530_REG_NA_EN.pdf",
+                            "id": 6662
+                        },
+                        {
+                            "name": "JM TPO MSDS",
+                            "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000000168_US_EN.pdf",
+                            "id": 6658
+                        },
+                        {
+                            "name": "EverGuard Extreme TPO HPD",
+                            "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/GAF_Everguard_Extreme_TPO_HPD.pdf ",
+                            "id": 6639
+                        },
+                        {
+                            "name": "Vertex 60 HST TDS",
+                            "url": "http://www.hubermaterials.com/userfiles/files/product-finder/spec/Vertex%2060%20HST%20Magnesium%20Hydroxide%20Technical%20Data%20Sheet.pdf",
+                            "id": 6669
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.18738190213668557
+                },
+                {
+                    "recId": 6703,
+                    "name": "Oligomeric Hindered Amine Light Stabilizer",
+                    "CASRN": "71878-19-8",
+                    "massPct": 0.005030181087,
+                    "function": "hindered amine light stabilizer (HALS)",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Chimassorb 2020 TDS",
+                            "url": "http://www.telko.com/files/images/telko/ru/basf/svetostabilizator/chimassorb_2020_tds.pdf",
+                            "id": 6235
+                        },
+                        {
+                            "name": "PIER 2006",
+                            "url": "https://pharosproject.net/uploads/files/sources/1828/CEC-500-2006-067-AT10.PDF",
+                            "id": 6633
+                        },
+                        {
+                            "name": "Everguard TPO HPD",
+                            "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/GAF_Everguard_TPO_HPD.pdf ",
+                            "id": 6645
+                        },
+                        {
+                            "name": "Dow Versify Case Study",
+                            "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_08e0/0901b803808e057f.pdf?filepath=elastomers/pdfs/noreg/746-08101.pdf&fromPage=GetDoc",
+                            "id": 6678
+                        },
+                        {
+                            "name": "WO2012021489A1",
+                            "url": "https://www.google.com/patents/WO2012021489A1",
+                            "id": 6698
+                        },
+                        {
+                            "name": "BASF Additives for Polyolefins",
+                            "url": "http://www.plastic-additives.basf.com/ev/internet/plastic-additives/en_GB/function/conversions:/publish/content/plastic-additives/Download_center/Downloads/Additives-for-polyolefins.pdf",
+                            "id": 6688
+                        },
+                        {
+                            "name": "Beusichem 2005",
+                            "url": "http://www.pqri.org/workshops/leach_ext/imagespdfs/posters/polymer_additives_pqri_poster.pdf",
+                            "id": 6672
+                        },
+                        {
+                            "name": "Deaton 2010",
+                            "url": "https://pharosproject.net/uploads/files/sources/1828/301Deaton.pdf ",
+                            "id": 6631
+                        },
+                        {
+                            "name": "Chimassorb 944 TDS",
+                            "url": "http://shanghaiguanan.com/pic/2014916112955321.pdf",
+                            "id": 6696
+                        },
+                        {
+                            "name": "EverGuard Extreme TPO HPD",
+                            "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/GAF_Everguard_Extreme_TPO_HPD.pdf ",
+                            "id": 6639
+                        }
+                    ],
+                    "notes": "Representative CAS",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.004723913500451606
+                },
+                {
+                    "recId": 6701,
+                    "name": "Ethylene Propylene Copolymer",
+                    "CASRN": "9010-79-1",
+                    "massPct": 0.7701766152,
+                    "function": "polymer",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Hifax CA 10 A MSDS",
+                            "url": "https://polymers.lyondellbasell.com/portal/site/basell/template.PAGE/menuitem.f1ff80c98625adef62e408fde5548a0c/?VCMChannelID=2daf473032095110VgnVCM100000646f3c14____&javax.portlet.tpst=7bc706488cd9f36418c3691026f6c341&javax.portlet.pst=7bc706488cd9f36418c3691026f6c341_ws_MX&javax.portlet.prp_7bc706488cd9f36418c3691026f6c341_viewID=single_product_grade&VCMContentID=600b43b36ae27010VgnVCM100000646f3c14RCRD",
+                            "id": 6687
+                        },
+                        {
+                            "name": "Everguard TPO HPD",
+                            "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/GAF_Everguard_TPO_HPD.pdf ",
+                            "id": 6645
+                        },
+                        {
+                            "name": "Versify 2400 MSDS",
+                            "url": "http://www.dow.com/webapps/msds/ShowPDF.aspx?id=090003e8800b342b",
+                            "id": 6686
+                        },
+                        {
+                            "name": "Versify 2300 MSDS",
+                            "url": "http://www.dow.com/webapps/msds/ShowPDF.aspx?id=090003e8800980ec",
+                            "id": 6679
+                        },
+                        {
+                            "name": "Dow Versify Case Study",
+                            "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_08e0/0901b803808e057f.pdf?filepath=elastomers/pdfs/noreg/746-08101.pdf&fromPage=GetDoc",
+                            "id": 6678
+                        },
+                        {
+                            "name": "US7666491",
+                            "url": "https://www.google.com/patents/US7666491",
+                            "id": 6670
+                        },
+                        {
+                            "name": "EverGuard TPO EPD",
+                            "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/EverGuard-TPO-EPD-FINAL.pdf ",
+                            "id": 6644
+                        },
+                        {
+                            "name": "EverGuard Extreme TPO EPD",
+                            "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/EverGuard-Extreme-TPO-EPD-FINAL.pdf ",
+                            "id": 6640
+                        },
+                        {
+                            "name": "Deaton 2010",
+                            "url": "https://pharosproject.net/uploads/files/sources/1828/301Deaton.pdf ",
+                            "id": 6631
+                        },
+                        {
+                            "name": "Sure-Weld TPO MSDS",
+                            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1401",
+                            "id": 6666
+                        },
+                        {
+                            "name": "Sure-Weld TPO TDS",
+                            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1331&frompage=template&category=113&mediatype=document",
+                            "id": 6665
+                        },
+                        {
+                            "name": "JM TPO FB MSDS",
+                            "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000000530_REG_NA_EN.pdf",
+                            "id": 6662
+                        },
+                        {
+                            "name": "JM TPO MSDS",
+                            "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000000168_US_EN.pdf",
+                            "id": 6658
+                        },
+                        {
+                            "name": "EverGuard Extreme TPO HPD",
+                            "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/GAF_Everguard_Extreme_TPO_HPD.pdf ",
+                            "id": 6639
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.723283644733604
+                },
+                {
+                    "recId": 6259,
+                    "name": "Pentaerythritol tetrakis (3-(3,5-di-tert-butyl-4-hydroxyphenyl)propionate)",
+                    "CASRN": "6683-19-8",
+                    "massPct": 0.0005589090096,
+                    "function": "primary antioxidant",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Irganox B225 TDS",
+                            "url": "http://shanghaiguanan.com/pic/2014916114155393.pdf",
+                            "id": 6231
+                        },
+                        {
+                            "name": "Irganox B561 TDS",
+                            "url": "http://www.telko.com/files/images/telko/ru/basf/termostabilizator/irganox_b_561_tds.pdf",
+                            "id": 6683
+                        },
+                        {
+                            "name": "CIBA polyolefins guide",
+                            "url": "https://pharosproject.net/uploads/files/sources/1828/CIBA-poguide.pdf",
+                            "id": 6697
+                        },
+                        {
+                            "name": "BASF Additives for Polyolefins",
+                            "url": "http://www.plastic-additives.basf.com/ev/internet/plastic-additives/en_GB/function/conversions:/publish/content/plastic-additives/Download_center/Downloads/Additives-for-polyolefins.pdf",
+                            "id": 6688
+                        },
+                        {
+                            "name": "Deaton 2010",
+                            "url": "https://pharosproject.net/uploads/files/sources/1828/301Deaton.pdf ",
+                            "id": 6631
+                        },
+                        {
+                            "name": "Alvinox 110 TDS",
+                            "url": "http://www.dbbecker.com/images/stories/DBB_Technical_Files/D.B.%20Becker%20Supplier%20Literature/3V-USA/3V%20TDS/Alvinox_110.pdf",
+                            "id": 6693
+                        },
+                        {
+                            "name": "Irganox B225 MSDS",
+                            "url": "ftp://nationalplasticscolor.com/webitems/html/NPCWeb/msds/irganoxb225-1.pdf",
+                            "id": 6682
+                        },
+                        {
+                            "name": "Dow Versify Case Study",
+                            "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_08e0/0901b803808e057f.pdf?filepath=elastomers/pdfs/noreg/746-08101.pdf&fromPage=GetDoc",
+                            "id": 6678
+                        },
+                        {
+                            "name": "WO2012021489A1",
+                            "url": "https://www.google.com/patents/WO2012021489A1",
+                            "id": 6698
+                        },
+                        {
+                            "name": "Irganox 1010 TDS",
+                            "url": "http://www.telko.com/files/images/telko/ru/basf/termostabilizator/irganox_1010_tds.pdf",
+                            "id": 6673
+                        },
+                        {
+                            "name": "Beusichem 2005",
+                            "url": "http://www.pqri.org/workshops/leach_ext/imagespdfs/posters/polymer_additives_pqri_poster.pdf",
+                            "id": 6672
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0005248792777653486
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.9391140038
+        },
+        {
+            "recId": 6705,
+            "name": "Scrim",
+            "CASRN": "",
+            "massPct": 0.06088599622,
+            "function": "",
+            "hazards": {},
+            "components": [
+                {
+                    "recId": 6706,
+                    "name": "Polyethylene Terephthalate",
+                    "CASRN": "25038-59-9",
+                    "massPct": 1,
+                    "function": "scrim",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Sure-Weld TPO TDS",
+                            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1331&frompage=template&category=113&mediatype=document",
+                            "id": 6665
+                        },
+                        {
+                            "name": "JM TPO FB MSDS",
+                            "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000000530_REG_NA_EN.pdf",
+                            "id": 6662
+                        },
+                        {
+                            "name": "JM TPO MSDS",
+                            "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000000168_US_EN.pdf",
+                            "id": 6658
+                        },
+                        {
+                            "name": "GenFlex EZ TPO Plus PDS",
+                            "url": "http://genflex.com/wp-content/uploads/2014/05/5.6.14-PDS-209-GF-EZ-TPO-Plus-Membrane.pdf",
+                            "id": 6656
+                        },
+                        {
+                            "name": "GenFlex EZ TPO PDS",
+                            "url": "http://genflex.com/wp-content/uploads/2013/04/PDS201-GF-EZ-TPO-Membrane.pdf",
+                            "id": 6654
+                        },
+                        {
+                            "name": "GenFlex EZ Fleece backed TPO PDS",
+                            "url": "http://genflex.com/wp-content/uploads/2013/04/PDS207-GF-EZ-Fleeceback-TPO-Membrane.pdf",
+                            "id": 6653
+                        },
+                        {
+                            "name": "GenFlex TPO Brochure",
+                            "url": "http://genflex.com/wp-content/uploads/2014/11/CB04_GenFlex-TPO-Brochure_1014_web.pdf",
+                            "id": 6652
+                        },
+                        {
+                            "name": "FBP TPO Technical Information Sheets",
+                            "url": "http://www.firestonebpe.com/sites/default/files/media/tpo_technical_information_sheets_0.pdf",
+                            "id": 6651
+                        },
+                        {
+                            "name": "EverGuard TPO EPD",
+                            "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/EverGuard-TPO-EPD-FINAL.pdf ",
+                            "id": 6644
+                        },
+                        {
+                            "name": "EverGuard Extreme TPO EPD",
+                            "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/EverGuard-Extreme-TPO-EPD-FINAL.pdf ",
+                            "id": 6640
+                        }
+                    ],
+                    "notes": "PET, Polyester",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.06088599622
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.06088599622
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Antimony Trioxide",
+            "CASRN": "1309-64-4",
+            "massPct": null,
+            "function": "polyethylene terephthalate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Silica, amorphous",
+            "CASRN": "7631-86-9",
+            "massPct": 0.001115368465,
+            "function": "titanium dioxide residual",
+            "sources": [
+                {
+                    "name": "Everguard TPO HPD",
+                    "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/GAF_Everguard_TPO_HPD.pdf ",
+                    "id": 6645
+                },
+                {
+                    "name": "Kronos 2220 MSDS",
+                    "url": "http://kronostio2.com/en/data-sheets-and-literature/safety-datasheets/finish/94/360",
+                    "id": 6684
+                },
+                {
+                    "name": "Ti-Pure MSDS",
+                    "url": "http://www.advanced-plastics.com/msds/T01_140225%20SDS.pdf",
+                    "id": 6668
+                },
+                {
+                    "name": "EverGuard Extreme TPO HPD",
+                    "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/GAF_Everguard_Extreme_TPO_HPD.pdf ",
+                    "id": 6639
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Zinc Oxide",
+            "CASRN": "1314-13-2",
+            "massPct": null,
+            "function": "polyethylene terephthalate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "2,4-Di-tert-butyl phenol",
+            "CASRN": "96-76-4",
+            "massPct": null,
+            "function": "degradant of antioxidant",
+            "sources": [
+                {
+                    "name": "Ruberto 2010",
+                    "url": "http://www.bioprocessintl.com/wp-content/uploads/bpi-content/BPI_A_100804SUPAR06__90849a.pdf",
+                    "id": 6829
+                },
+                {
+                    "name": "BASF Additives for Polyolefins",
+                    "url": "http://www.plastic-additives.basf.com/ev/internet/plastic-additives/en_GB/function/conversions:/publish/content/plastic-additives/Download_center/Downloads/Additives-for-polyolefins.pdf",
+                    "id": 6688
+                },
+                {
+                    "name": "Deaton 2010",
+                    "url": "https://pharosproject.net/uploads/files/sources/1828/301Deaton.pdf ",
+                    "id": 6631
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Dibutyltin Dilaurate",
+            "CASRN": "77-58-7",
+            "massPct": null,
+            "function": "oligomeric hindered amine light stabilizer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ethylene",
+            "CASRN": "74-85-1",
+            "massPct": null,
+            "function": "ethylene propylene copolymer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Aluminum Oxide",
+            "CASRN": "1344-28-1",
+            "massPct": 0.001226905312,
+            "function": "titanium dioxide residual",
+            "sources": [
+                {
+                    "name": "PIER 2006",
+                    "url": "https://pharosproject.net/uploads/files/sources/1828/CEC-500-2006-067-AT10.PDF",
+                    "id": 6633
+                },
+                {
+                    "name": "Everguard TPO HPD",
+                    "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/GAF_Everguard_TPO_HPD.pdf ",
+                    "id": 6645
+                },
+                {
+                    "name": "Kronos 2220 MSDS",
+                    "url": "http://kronostio2.com/en/data-sheets-and-literature/safety-datasheets/finish/94/360",
+                    "id": 6684
+                },
+                {
+                    "name": "Ti-Pure MSDS",
+                    "url": "http://www.advanced-plastics.com/msds/T01_140225%20SDS.pdf",
+                    "id": 6668
+                },
+                {
+                    "name": "EverGuard Extreme TPO HPD",
+                    "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/GAF_Everguard_Extreme_TPO_HPD.pdf ",
+                    "id": 6639
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.022307369306905543,
+                    "contributors": [
+                        {
+                            "recId": 6700,
+                            "massPct": 0.022307369306905543,
+                            "childrenIds": [
+                                6700,
+                                2766
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.022307369306905543,
+                    "contributors": [
+                        {
+                            "recId": 6700,
+                            "massPct": 0.022307369306905543,
+                            "childrenIds": [
+                                6700,
+                                2766
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundary is defined as cradle-to-gate and ends with the finished product at the factory gate. Includes all cradle-to-gate data including upsteam chemical production, energy extraction, and pipe extrustion. Inbound transportation of significant upstream materials is included. Packaging is not included.",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Landfilling of plastic waste"
+            },
+            {
+                "name": "US: Thermal energy from propane"
+            },
+            {
+                "name": "US: Landfilling of textiles"
+            },
+            {
+                "name": "US: Process steam from natural gas 95% (eGrid)"
+            },
+            {
+                "name": "GLO: Non-woven fabric (1 sqm)"
+            },
+            {
+                "name": "US: Tris(2-chloroisopropyl)phosphate (TCPP)"
+            },
+            {
+                "name": "US: Acrylic acid (Propene)"
+            },
+            {
+                "name": "US: Phenol (from cumene)"
+            },
+            {
+                "name": "DE: Diethyl ether"
+            },
+            {
+                "name": "US: Polyethylene Terephthalate Fibres (PET)"
+            },
+            {
+                "name": "US: Aniline (Phenyl amine, Amino benzene)"
+            },
+            {
+                "name": "EU-27: Magnesium Hydroxide (from sea water)"
+            },
+            {
+                "name": "US: Titanium dioxide pigment"
+            },
+            {
+                "name": "US: Thermal energy from natural gas (eGrid)"
+            },
+            {
+                "name": "US: Tap water from groundwater"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "US: Polyethylene Low Density Granulate (LDPE/PE-LD)"
+            },
+            {
+                "name": "US: Polypropylene granulate (PP)"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            }
+        ],
+        "foregroundDataSource": "GaBi; manufactuer data",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% to landfill",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "9.09E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "4.53E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "3.48E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "5.23E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.46E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.33E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "5.74E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.97E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.69E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.06E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "5.75E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "7.71E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP124",
+    "name": "Thermoplastic polyolefin (TPO) membrane roofing",
+    "altNames": [
+        "TPO membrane roofing"
+    ],
+    "uniformats": [
+        {
+            "id": "B3010",
+            "name": "Roofing"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "07-54-23",
+            "name": "Thermoplastic-Polyolefin Roofing"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Thermoplastic polyolefin (TPO) membranes are made up of a block copolymer of polypropylene and ethylene propylene and additives for UV and thermal stabilization. TPO roofing membranes are constructed by sandwiching a woven polyester reinforcing layer, or scrim, with two TPO membrane sheets. Roofing membranes are typically sold in thickness of 45, 60, and 80 mil sheets. TPO roofing membranes may include up to 20% recycled content, depending upon the manufacturer, from post industrial scrap. Roofing membranes are sold in rolls which are applied via mechanical fasteners, site or factory applied adhesives, or loose laid with gravel. Membrane seams are heat welded and edges are sealed using tapes or sealants.",
+    "sources": [
+        {
+            "name": "Ruberto 2010",
+            "url": "http://www.bioprocessintl.com/wp-content/uploads/bpi-content/BPI_A_100804SUPAR06__90849a.pdf",
+            "id": 6829
+        },
+        {
+            "name": "Chimassorb 2020 TDS",
+            "url": "http://www.telko.com/files/images/telko/ru/basf/svetostabilizator/chimassorb_2020_tds.pdf",
+            "id": 6235
+        },
+        {
+            "name": "Irganox B225 TDS",
+            "url": "http://shanghaiguanan.com/pic/2014916114155393.pdf",
+            "id": 6231
+        },
+        {
+            "name": "WO2012021489A1",
+            "url": "https://www.google.com/patents/WO2012021489A1",
+            "id": 6698
+        },
+        {
+            "name": "CIBA polyolefins guide",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/CIBA-poguide.pdf",
+            "id": 6697
+        },
+        {
+            "name": "Chimassorb 944 TDS",
+            "url": "http://shanghaiguanan.com/pic/2014916112955321.pdf",
+            "id": 6696
+        },
+        {
+            "name": "Alvinox P TDS",
+            "url": "http://www.dbbecker.com/images/stories/DBB_Technical_Files/D.B.%20Becker%20Supplier%20Literature/3V-USA/3V%20TDS/Alvinox_P.pdf",
+            "id": 6695
+        },
+        {
+            "name": "Alvinox 176 TDS",
+            "url": "http://www.dbbecker.com/images/stories/DBB_Technical_Files/D.B.%20Becker%20Supplier%20Literature/3V-USA/3V%20TDS/Alvinox_176.pdf",
+            "id": 6694
+        },
+        {
+            "name": "Alvinox 110 TDS",
+            "url": "http://www.dbbecker.com/images/stories/DBB_Technical_Files/D.B.%20Becker%20Supplier%20Literature/3V-USA/3V%20TDS/Alvinox_110.pdf",
+            "id": 6693
+        },
+        {
+            "name": "Uvasorb HA88FD TDS",
+            "url": "http://www.dbbecker.com/images/stories/DBB_Technical_Files/D.B.%20Becker%20Supplier%20Literature/3V-USA/3V%20TDS/Uvasorb_HA88_FD.pdf",
+            "id": 6692
+        },
+        {
+            "name": "Irgastab FS301 MSDS 2010",
+            "url": "https://www.b2bcomposites.com/msds/ted/73501.pdf",
+            "id": 6691
+        },
+        {
+            "name": "Irgastab FS301 MSDS",
+            "url": "http://worldaccount.basf.com/wa/msds/showpdf/36574200_10005074_-64",
+            "id": 6690
+        },
+        {
+            "name": "Tinuvin 328 MSDS",
+            "url": "http://worldaccount.basf.com/wa/msds/showpdf/36574200_13473753_96",
+            "id": 6689
+        },
+        {
+            "name": "BASF Additives for Polyolefins",
+            "url": "http://www.plastic-additives.basf.com/ev/internet/plastic-additives/en_GB/function/conversions:/publish/content/plastic-additives/Download_center/Downloads/Additives-for-polyolefins.pdf",
+            "id": 6688
+        },
+        {
+            "name": "Hifax CA 10 A MSDS",
+            "url": "https://polymers.lyondellbasell.com/portal/site/basell/template.PAGE/menuitem.f1ff80c98625adef62e408fde5548a0c/?VCMChannelID=2daf473032095110VgnVCM100000646f3c14____&javax.portlet.tpst=7bc706488cd9f36418c3691026f6c341&javax.portlet.pst=7bc706488cd9f36418c3691026f6c341_ws_MX&javax.portlet.prp_7bc706488cd9f36418c3691026f6c341_viewID=single_product_grade&VCMContentID=600b43b36ae27010VgnVCM100000646f3c14RCRD",
+            "id": 6687
+        },
+        {
+            "name": "Versify 2400 MSDS",
+            "url": "http://www.dow.com/webapps/msds/ShowPDF.aspx?id=090003e8800b342b",
+            "id": 6686
+        },
+        {
+            "name": "Magnifin H5 TDS",
+            "url": "http://www.martinswerk.com/PDF/Magnifin_H_5.pdf",
+            "id": 6685
+        },
+        {
+            "name": "Kronos 2220 MSDS",
+            "url": "http://kronostio2.com/en/data-sheets-and-literature/safety-datasheets/finish/94/360",
+            "id": 6684
+        },
+        {
+            "name": "Irganox B561 TDS",
+            "url": "http://www.telko.com/files/images/telko/ru/basf/termostabilizator/irganox_b_561_tds.pdf",
+            "id": 6683
+        },
+        {
+            "name": "Irganox B225 MSDS",
+            "url": "ftp://nationalplasticscolor.com/webitems/html/NPCWeb/msds/irganoxb225-1.pdf",
+            "id": 6682
+        },
+        {
+            "name": "Versify 2300 MSDS",
+            "url": "http://www.dow.com/webapps/msds/ShowPDF.aspx?id=090003e8800980ec",
+            "id": 6679
+        },
+        {
+            "name": "Paroli et al 1999",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/1328806285.pdf",
+            "id": 6630
+        },
+        {
+            "name": "Deaton 2010",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/301Deaton.pdf ",
+            "id": 6631
+        },
+        {
+            "name": "Beer 1997",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/beer-sarnafil-1997-5811-1.pdf ",
+            "id": 6632
+        },
+        {
+            "name": "PIER 2006",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/CEC-500-2006-067-AT10.PDF",
+            "id": 6633
+        },
+        {
+            "name": "BASF Tinuvin XT 847 Brochure",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/BASFTinuvinXT847-1.pdf",
+            "id": 6634
+        },
+        {
+            "name": "EverGuard Extreme 50 mil TPO Sell Sheet",
+            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_TPO/EverGuard_Extreme_TPO_50_Fleece_Back_Membrane/EverGuard_Extreme_TPO_50_mil_Fleece_Back_Membrane_Sell_Sheet.pdf",
+            "id": 6635
+        },
+        {
+            "name": "EverGuard Extreme 60 mil TPO TDS",
+            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_TPO/EverGuard_Extreme_TPO_60_Fleece_Back_Membrane/EverGuard_Extreme_TPO_60_Fleece_Back_Membrane_Data_Sheet.pdf",
+            "id": 6636
+        },
+        {
+            "name": "EverGuard Extreme 70 mil TPO TDS",
+            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_TPO/EverGuard_Extreme_TPO_70_Fleece_Back_Membrane/EverGuard_Extreme_TPO_70_mil_Fleece_Back_Membrane_Data_Sheet.pdf",
+            "id": 6637
+        },
+        {
+            "name": "EverGuard Extreme 80 mil TPO TDS",
+            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_TPO/EverGuard_Extreme_TPO_80_Fleece_Back_Membrane/EverGuard_Extreme_TPO_80_Fleece_Back_Membrane_Data_Sheet.pdf",
+            "id": 6638
+        },
+        {
+            "name": "EverGuard Extreme TPO HPD",
+            "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/GAF_Everguard_Extreme_TPO_HPD.pdf ",
+            "id": 6639
+        },
+        {
+            "name": "EverGuard Extreme TPO EPD",
+            "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/EverGuard-Extreme-TPO-EPD-FINAL.pdf ",
+            "id": 6640
+        },
+        {
+            "name": "EverGuard  45 mil TPO Sell Sheet",
+            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_TPO/EverGuard_TPO_45_Fleece_Back_Membrane/EverGuard_TPO_45_mil_Fleece_Back_Membrane_Sell_Sheet.pdf",
+            "id": 6641
+        },
+        {
+            "name": "EverGuard  60 mil TPO TDS",
+            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_TPO/EverGuard_TPO_60_Fleece_Back_Membrane/EverGuard_TPO_60_mil_Fleece_Back_Membrane_Data_Sheet.pdf",
+            "id": 6642
+        },
+        {
+            "name": "EverGuard  80 mil TPO Sell Sheet",
+            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_TPO/EverGuard_TPO_80_Fleece_Back_Membrane/EverGuard_TPO_80_mil_Fleece_Back_Membrane_Data_Sheet.pdf",
+            "id": 6643
+        },
+        {
+            "name": "EverGuard TPO EPD",
+            "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/EverGuard-TPO-EPD-FINAL.pdf ",
+            "id": 6644
+        },
+        {
+            "name": "Everguard TPO HPD",
+            "url": "http://www.gaf.com/Roofing/Commercial/Green_Roof_Central/_Documents/GAF_Everguard_TPO_HPD.pdf ",
+            "id": 6645
+        },
+        {
+            "name": "EvergGuard TPO MSDS",
+            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_TPO/EverGuard_Extreme_TPO_50_Fleece_Back_Membrane/EverGuard_TPO_MSDS_2001.pdf",
+            "id": 6646
+        },
+        {
+            "name": "EverGuard TPO Brochure",
+            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_TPO/EverGuard_Extreme_TPO_70_Fleece_Back_Membrane/EverGuard_TPO_Brochure.pdf",
+            "id": 6647
+        },
+        {
+            "name": "Everguard Ballasted Roofing Systems",
+            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_TPO/EverGuard_Mini_Manual_Ballasted_Roofing_Systems.pdf",
+            "id": 6648
+        },
+        {
+            "name": "Everguard Adhered Roofing Systems",
+            "url": "http://www.gaf.com/Commercial_Roofing_Systems/EverGuard_TPO/EverGuard_Mini_Manual_Adhered_Roofing_Systems.pdf",
+            "id": 6649
+        },
+        {
+            "name": "FBP TPO Sustainability Brochure",
+            "url": "http://www.firestonebpe.com/sites/default/files/media/tpoecoflyuk_low_res_0.pdf",
+            "id": 6650
+        },
+        {
+            "name": "FBP TPO Technical Information Sheets",
+            "url": "http://www.firestonebpe.com/sites/default/files/media/tpo_technical_information_sheets_0.pdf",
+            "id": 6651
+        },
+        {
+            "name": "GenFlex TPO Brochure",
+            "url": "http://genflex.com/wp-content/uploads/2014/11/CB04_GenFlex-TPO-Brochure_1014_web.pdf",
+            "id": 6652
+        },
+        {
+            "name": "GenFlex EZ Fleece backed TPO PDS",
+            "url": "http://genflex.com/wp-content/uploads/2013/04/PDS207-GF-EZ-Fleeceback-TPO-Membrane.pdf",
+            "id": 6653
+        },
+        {
+            "name": "GenFlex EZ TPO PDS",
+            "url": "http://genflex.com/wp-content/uploads/2013/04/PDS201-GF-EZ-TPO-Membrane.pdf",
+            "id": 6654
+        },
+        {
+            "name": "GenFlex EZ TPO PnS PDS",
+            "url": "http://genflex.com/wp-content/uploads/2015/02/PDS-224-EZ-Peel-Stick-TPO-1-27-2015.pdf",
+            "id": 6655
+        },
+        {
+            "name": "GenFlex EZ TPO Plus PDS",
+            "url": "http://genflex.com/wp-content/uploads/2014/05/5.6.14-PDS-209-GF-EZ-TPO-Plus-Membrane.pdf",
+            "id": 6656
+        },
+        {
+            "name": "GenFlex TPO MSDS",
+            "url": "http://genflex.com/wp-content/uploads/2013/04/TPO-Membrane.pdf",
+            "id": 6657
+        },
+        {
+            "name": "JM TPO MSDS",
+            "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000000168_US_EN.pdf",
+            "id": 6658
+        },
+        {
+            "name": "JM TPO 45 TDS",
+            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Data%20sheets/JM%20TPO%20Data%20Sheets/JM%20TPO_JM%20Brand/RS-8632_JMTPO45mil.pdf",
+            "id": 6659
+        },
+        {
+            "name": "JM TPO 60 TDS",
+            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Data%20sheets/JM%20TPO%20Data%20Sheets/JM%20TPO_JM%20Brand/RS-8633_JMTPO60mil.pdf",
+            "id": 6660
+        },
+        {
+            "name": "JM TPO 80 TDS",
+            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Data%20sheets/JM%20TPO%20Data%20Sheets/JM%20TPO_JM%20Brand/RS-8634_JMTPO80mil.pdf",
+            "id": 6661
+        },
+        {
+            "name": "JM TPO FB MSDS",
+            "url": "https://msds.jm.com/irj/go/km/docs/documents/Public/MSDS/200000000530_REG_NA_EN.pdf",
+            "id": 6662
+        },
+        {
+            "name": "JM TPO FB 135 TDS",
+            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Data%20sheets/JM%20TPO%20Data%20Sheets/JM%20TPO_JM%20Brand/RS-8644_JMTPOFB135.pdf",
+            "id": 6663
+        },
+        {
+            "name": "JM TPO FB 115 TDS",
+            "url": "http://www.jm.com/content/dam/jm/global/en/commercial-roofing/Data%20sheets/JM%20TPO%20Data%20Sheets/JM%20TPO_JM%20Brand/RS-8639_JMTPOFB115.pdf",
+            "id": 6664
+        },
+        {
+            "name": "Sure-Weld TPO TDS",
+            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1331&frompage=template&category=113&mediatype=document",
+            "id": 6665
+        },
+        {
+            "name": "Sure-Weld TPO MSDS",
+            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1401",
+            "id": 6666
+        },
+        {
+            "name": "OctaGuard XT Brochure",
+            "url": "https://www.carlislesyntec.com/view.aspx?mode=media&contentID=1147",
+            "id": 6667
+        },
+        {
+            "name": "Ti-Pure MSDS",
+            "url": "http://www.advanced-plastics.com/msds/T01_140225%20SDS.pdf",
+            "id": 6668
+        },
+        {
+            "name": "Vertex 60 HST TDS",
+            "url": "http://www.hubermaterials.com/userfiles/files/product-finder/spec/Vertex%2060%20HST%20Magnesium%20Hydroxide%20Technical%20Data%20Sheet.pdf",
+            "id": 6669
+        },
+        {
+            "name": "US7666491",
+            "url": "https://www.google.com/patents/US7666491",
+            "id": 6670
+        },
+        {
+            "name": "ASTM D6878",
+            "url": "http://www.astm.org/Standards/D6878.htm",
+            "id": 6671
+        },
+        {
+            "name": "Beusichem 2005",
+            "url": "http://www.pqri.org/workshops/leach_ext/imagespdfs/posters/polymer_additives_pqri_poster.pdf",
+            "id": 6672
+        },
+        {
+            "name": "Irganox 1010 TDS",
+            "url": "http://www.telko.com/files/images/telko/ru/basf/termostabilizator/irganox_1010_tds.pdf",
+            "id": 6673
+        },
+        {
+            "name": "Irganox 1076 MSDS",
+            "url": "http://formosa.msdssoftware.com/imagedir/i011f322.pdf",
+            "id": 6674
+        },
+        {
+            "name": "Irganox 1076 TDS",
+            "url": "http://adhesives.specialchem.com/product/a-basf-irganox-1076?p=1",
+            "id": 6675
+        },
+        {
+            "name": "BNX 1076 TDS",
+            "url": "http://www.mayzo.com/pdf/BNX1076TF.pdf",
+            "id": 6676
+        },
+        {
+            "name": "Ober 2008",
+            "url": "http://www.westernroofing.net/1_08/wr_articles_1_08/wr_carlisle_ober_1_08.htm",
+            "id": 6677
+        },
+        {
+            "name": "Dow Versify Case Study",
+            "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_08e0/0901b803808e057f.pdf?filepath=elastomers/pdfs/noreg/746-08101.pdf&fromPage=GetDoc",
+            "id": 6678
+        }
+    ]
+}

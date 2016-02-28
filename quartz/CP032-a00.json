@@ -1,0 +1,2502 @@
+{
+    "CPID": "CP032",
+    "timestamp": 1452102104078,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 5952,
+            "name": "Open Cell Polyurethane Foam",
+            "CASRN": "",
+            "massPct": 0.160815,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.016441,
+                        "contributors": [
+                            {
+                                "recId": 1530,
+                                "massPct": 0.016441,
+                                "childrenIds": [
+                                    1530
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.003206,
+                        "contributors": [
+                            {
+                                "recId": 4343,
+                                "massPct": 0.003206,
+                                "childrenIds": [
+                                    4343
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": 0.003206,
+                        "contributors": [
+                            {
+                                "recId": 4343,
+                                "massPct": 0.003206,
+                                "childrenIds": [
+                                    4343
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": 0.016441,
+                        "contributors": [
+                            {
+                                "recId": 1530,
+                                "massPct": 0.016441,
+                                "childrenIds": [
+                                    1530
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT",
+                        "massPct": 0.003206,
+                        "contributors": [
+                            {
+                                "recId": 4343,
+                                "massPct": 0.003206,
+                                "childrenIds": [
+                                    4343
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "unknown": [
+                    {
+                        "hazardId": "unknown-11424",
+                        "type": "unknown",
+                        "name": "Unknown",
+                        "massPct": 0.773037,
+                        "contributors": [
+                            {
+                                "recId": 5953,
+                                "massPct": 0.773037,
+                                "childrenIds": [
+                                    5953
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 5954,
+                    "name": "Dipropylene Glycol Dibenzoate",
+                    "CASRN": "27138-31-4",
+                    "massPct": 0.092067,
+                    "function": "plasticizer",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Eastman",
+                            "url": "http://www.eastman.com/literature_center/l/l250.pdf",
+                            "id": 5906
+                        },
+                        {
+                            "name": "HBN",
+                            "url": "http://www.healthybuilding.net/uploads/files/phthalate-free-plasticizers-in-pvc.pdf",
+                            "id": 5134
+                        },
+                        {
+                            "name": "Monsanto",
+                            "url": "http://www.google.com/patents/US5457139",
+                            "id": 5903
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.014805754605
+                },
+                {
+                    "recId": 1530,
+                    "name": "Carbon Black",
+                    "CASRN": "1333-86-4",
+                    "massPct": 0.016441,
+                    "function": "pigment",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-7911",
+                                "type": "red",
+                                "name": "Cancer (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Trio TDS",
+                            "url": "http://www.illbruck.com/__download/mam/celum/tp651_ds_gb.pdf",
+                            "id": 5857
+                        },
+                        {
+                            "name": "Analysis",
+                            "url": "http://www.scielo.br/scielo.php?pid=S1516-14392008000400009&script=sci_arttext",
+                            "id": 5941
+                        },
+                        {
+                            "name": "BJB 6800 Series",
+                            "url": "http://bjbenterprises.com/pdf/6800-Series.pdf",
+                            "id": 5914
+                        },
+                        {
+                            "name": "BJB",
+                            "url": "http://www.bjbenterprises.com/media/wysiwyg/pdfs/Pigments/6836_Black.pdf",
+                            "id": 5913
+                        },
+                        {
+                            "name": "Ryvec MSDS",
+                            "url": "http://www.ryvec.com/m-s-d-s/",
+                            "id": 5912
+                        },
+                        {
+                            "name": "Ryvec",
+                            "url": "http://www.ryvec.com/polyurethane-foam/",
+                            "id": 5911
+                        },
+                        {
+                            "name": "Tremco TDS",
+                            "url": "http://www.tremcosealants.com/fileshare/pds/ExoAir_Trio.pdf",
+                            "id": 5860
+                        },
+                        {
+                            "name": "MBK",
+                            "url": "http://adhesive-tape-converting.mbktape.com/item/specialty-tapes-adhesives/flame-retardant-tape/mbk-por104?",
+                            "id": 5864
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0026439594150000005
+                },
+                {
+                    "recId": 4343,
+                    "name": "Octamethylcyclotetrasiloxane",
+                    "CASRN": "556-67-2",
+                    "massPct": 0.003206,
+                    "function": "surfactant",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "purple": [
+                            {
+                                "hazardId": "purple-955",
+                                "type": "purple",
+                                "name": "PBT",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Xiameter",
+                            "url": "https://www.xiameter.com/EN/Products/Pages/ProductDetail.aspx?pid=04068231&lir=X4400",
+                            "id": 5905
+                        },
+                        {
+                            "name": "Monsanto",
+                            "url": "http://www.google.com/patents/US5457139",
+                            "id": 5903
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0005155728900000001
+                },
+                {
+                    "recId": 2925,
+                    "name": "Synthetic Calcium Carbonate",
+                    "CASRN": "471-34-1",
+                    "massPct": 0.115249,
+                    "function": "filler",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "3M Patent",
+                            "url": "https://www.google.com/patents/EP2260154A1?cl=en&dq=intumescent+steel&hl=en&sa=X&ei=6DYtVezNEeLdsATpjYD4BA&ved=0CEcQ6AEwBQ",
+                            "id": 4416
+                        },
+                        {
+                            "name": "Momentive",
+                            "url": "https://www.google.com/patents/US8436064?dq=open+cell+polyurethane+foam&hl=en&sa=X&ei=tHk6VdflEYTItQX7lYGgAw&ved=0CB0Q6AEwAA",
+                            "id": 5890
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.018533767935
+                },
+                {
+                    "recId": 5953,
+                    "name": "Polyurethane Foam",
+                    "CASRN": "unknown",
+                    "massPct": 0.773037,
+                    "function": "",
+                    "hazards": {
+                        "unknown": [
+                            {
+                                "hazardId": "unknown-11424",
+                                "type": "unknown",
+                                "name": "Unknown",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.12431594515500001
+                }
+            ],
+            "sources": [
+                {
+                    "name": "Tremco",
+                    "url": "https://www.google.com/patents/US20110309583",
+                    "id": 5877
+                },
+                {
+                    "name": "Iso-Chemie",
+                    "url": "https://www.google.com/patents/US7897244?dq=impregnated+polyurethane+foam+sealing+tape&hl=en&sa=X&ei=3kE5VciKNsHTsAX2hICoBg&ved=0CCQQ6AEwAQ",
+                    "id": 5876
+                },
+                {
+                    "name": "Emseal",
+                    "url": "https://www.google.com/patents/CA1259351A1?cl=en&dq=polyurethane+foam+sealant+tape&hl=en&sa=X&ei=sNknVYTcHMPzsAX4roTgBg&ved=0CC0Q6AEwAg",
+                    "id": 5872
+                },
+                {
+                    "name": "Deiss 2",
+                    "url": "https://www.google.com/patents/US20120058309",
+                    "id": 5870
+                },
+                {
+                    "name": "Deiss",
+                    "url": "https://www.google.com/patents/US20090246498?dq=polyurethane+foam+sealant+tape&ei=sNknVYTcHMPzsAX4roTgBg",
+                    "id": 5869
+                },
+                {
+                    "name": "Tremco TDS",
+                    "url": "http://www.tremcosealants.com/fileshare/pds/ExoAir_Trio.pdf",
+                    "id": 5860
+                },
+                {
+                    "name": "Trio TDS",
+                    "url": "http://www.illbruck.com/__download/mam/celum/tp651_ds_gb.pdf",
+                    "id": 5857
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.160815
+        },
+        {
+            "recId": 5955,
+            "name": "Acrylic Impregnating Agent",
+            "CASRN": "",
+            "massPct": 0.723667,
+            "function": "",
+            "hazards": {},
+            "components": [
+                {
+                    "recId": 4442,
+                    "name": "Ammonium Polyphosphate",
+                    "CASRN": "68333-79-9",
+                    "massPct": 0.7059,
+                    "function": "flame retardant",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Witherspoon",
+                            "url": "https://www.google.com/patents/US8739495",
+                            "id": 5885
+                        },
+                        {
+                            "name": "Weiss",
+                            "url": "https://www.google.com/patents/US4455396?dq=acrylic+impregnating+agent+polyurethane+foam&hl=en&sa=X&ei=BXM6VdblGcmRsAXbkIHYCA&ved=0CB0Q6AEwAA",
+                            "id": 5886
+                        },
+                        {
+                            "name": "Trio TDS",
+                            "url": "http://www.illbruck.com/__download/mam/celum/tp651_ds_gb.pdf",
+                            "id": 5857
+                        },
+                        {
+                            "name": "AP740",
+                            "url": "http://www.clariant.com/en/Solutions/Products/2014/03/18/16/31/Exolit-AP-740?p=1",
+                            "id": 5881
+                        },
+                        {
+                            "name": "AP462",
+                            "url": "http://www.clariant.com/en/Solutions/Products/2014/03/18/16/31/Exolit-AP-462?p=1",
+                            "id": 5880
+                        },
+                        {
+                            "name": "AP422",
+                            "url": "http://www.clariant.com/en/Solutions/Products/2014/03/18/16/31/Exolit-AP-422?p=1",
+                            "id": 5879
+                        },
+                        {
+                            "name": "AP423",
+                            "url": "http://www.clariant.com/en/Solutions/Products/2014/03/18/16/31/Exolit-AP-423?p=1",
+                            "id": 5878
+                        },
+                        {
+                            "name": "3M patent",
+                            "url": "https://www.google.com/patents/WO2003066766A1?cl=en&dq=flame+retardant+polyurethane+foam+tape+sealant&hl=en&sa=X&ei=0zokVb7pF8LosAWloIGoBg&ved=0CEcQ6AEwBg",
+                            "id": 5866
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.5108365353
+                },
+                {
+                    "recId": 10322,
+                    "name": "Acrylic Polymer",
+                    "CASRN": "25035-69-2",
+                    "massPct": 0.2941,
+                    "function": "polymer",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Hybrid",
+                            "url": "http://emseal.com/Knowledge/HybridSealants/HybridSealants.htm",
+                            "id": 5882
+                        },
+                        {
+                            "name": "Tremco",
+                            "url": "https://www.google.com/patents/US20110309583",
+                            "id": 5877
+                        },
+                        {
+                            "name": "Emseal",
+                            "url": "https://www.google.com/patents/CA1259351A1?cl=en&dq=polyurethane+foam+sealant+tape&hl=en&sa=X&ei=sNknVYTcHMPzsAX4roTgBg&ved=0CC0Q6AEwAg",
+                            "id": 5872
+                        },
+                        {
+                            "name": "Deiss",
+                            "url": "https://www.google.com/patents/US20090246498?dq=polyurethane+foam+sealant+tape&ei=sNknVYTcHMPzsAX4roTgBg",
+                            "id": 5869
+                        },
+                        {
+                            "name": "Weiss",
+                            "url": "https://www.google.com/patents/US4455396?dq=acrylic+impregnating+agent+polyurethane+foam&hl=en&sa=X&ei=BXM6VdblGcmRsAXbkIHYCA&ved=0CB0Q6AEwAA",
+                            "id": 5886
+                        }
+                    ],
+                    "notes": "This CASRN is for a representative acrylic polymer. There will be variation of the exact acrylic polymer used between manufacturers.",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.21283046469999997
+                }
+            ],
+            "sources": [
+                {
+                    "name": "Coiled",
+                    "url": "https://www.google.com/patents/US20140151968?dq=inassignee:emseal&hl=en&sa=X&ei=mW46VbDuAcjEsAXrwoHoBg&ved=0CFYQ6AEwCA",
+                    "id": 5883
+                },
+                {
+                    "name": "Hensley",
+                    "url": "https://www.google.com/patents/WO2007024246A1?cl=en&dq=inassignee:emseal&hl=en&sa=X&ei=mW46VbDuAcjEsAXrwoHoBg&ved=0CF0Q6AEwCQ",
+                    "id": 5884
+                },
+                {
+                    "name": "Emseal",
+                    "url": "https://www.google.com/patents/CA1259351A1?cl=en&dq=polyurethane+foam+sealant+tape&hl=en&sa=X&ei=sNknVYTcHMPzsAX4roTgBg&ved=0CC0Q6AEwAg",
+                    "id": 5872
+                },
+                {
+                    "name": "Tremco",
+                    "url": "https://www.google.com/patents/US20110309583",
+                    "id": 5877
+                },
+                {
+                    "name": "Iso-Chemie",
+                    "url": "https://www.google.com/patents/US7897244?dq=impregnated+polyurethane+foam+sealing+tape&hl=en&sa=X&ei=3kE5VciKNsHTsAX2hICoBg&ved=0CCQQ6AEwAQ",
+                    "id": 5876
+                },
+                {
+                    "name": "Deiss 2",
+                    "url": "https://www.google.com/patents/US20120058309",
+                    "id": 5870
+                },
+                {
+                    "name": "Deiss",
+                    "url": "https://www.google.com/patents/US20090246498?dq=polyurethane+foam+sealant+tape&ei=sNknVYTcHMPzsAX4roTgBg",
+                    "id": 5869
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.723667
+        },
+        {
+            "recId": 5957,
+            "name": "Pressure Sensitive Adhesive",
+            "CASRN": "",
+            "massPct": 0.045936,
+            "function": "",
+            "hazards": {
+                "unknown": [
+                    {
+                        "hazardId": "unknown-11424",
+                        "type": "unknown",
+                        "name": "Unknown",
+                        "massPct": 0.984966,
+                        "contributors": [
+                            {
+                                "recId": 10323,
+                                "massPct": 0.984966,
+                                "childrenIds": [
+                                    10323
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 10323,
+                    "name": "Acrylic Polymer",
+                    "CASRN": "unknown",
+                    "massPct": 0.984966,
+                    "function": "",
+                    "hazards": {
+                        "unknown": [
+                            {
+                                "hazardId": "unknown-11424",
+                                "type": "unknown",
+                                "name": "Unknown",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Royal",
+                            "url": "http://www.royaladhesives.com/Files/Parabond/Signature_Series_5060_Pressure_Sensitive_Adhesive_USA_MSDS.pdf",
+                            "id": 5845
+                        },
+                        {
+                            "name": "Minnesota",
+                            "url": "http://www.google.com/patents/US5804610",
+                            "id": 5868
+                        },
+                        {
+                            "name": "3M patent",
+                            "url": "https://www.google.com/patents/WO2003066766A1?cl=en&dq=flame+retardant+polyurethane+foam+tape+sealant&hl=en&sa=X&ei=0zokVb7pF8LosAWloIGoBg&ved=0CEcQ6AEwBg",
+                            "id": 5866
+                        },
+                        {
+                            "name": "Dexerials",
+                            "url": "http://www.google.com/patents/US20130224417",
+                            "id": 5928
+                        },
+                        {
+                            "name": "Solutia",
+                            "url": "https://www.google.com/patents/US6066394?dq=double+slided+pvc+foam+tape&hl=en&sa=X&ei=Ni8MVbaLNYiNNruphNAL&ved=0CEoQ6AEwBQ",
+                            "id": 5925
+                        },
+                        {
+                            "name": "Wagner",
+                            "url": "https://www.google.com/patents/EP2499194B1?cl=en&dq=pressure+sensitive+acrylic+adhesive&hl=en&sa=X&ei=628MVf6cDseWNpCOg4gH&sqi=2&pjf=1&ved=0CB0Q6AEwAA",
+                            "id": 5927
+                        },
+                        {
+                            "name": "Ulrich",
+                            "url": "http://www.google.com/patents/USRE24906",
+                            "id": 5867
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.045245398176
+                },
+                {
+                    "recId": 5958,
+                    "name": "Ethoxylated Nonylphenol Sulphate Ammonium Salt",
+                    "CASRN": "68649–55–8",
+                    "massPct": 0.015034,
+                    "function": "surfactant",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Triton",
+                            "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_08be/0901b803808be9a3.pdf?filepath=productsafety/pdfs/noreg/233-00982.pdf&fromPage=GetDoc",
+                            "id": 5846
+                        },
+                        {
+                            "name": "ABEX EP 120 TDS",
+                            "url": "http://www.rhodia.com/product-literature-download.action?docId=09016636807c8649&docLanguage=EN&docType=TDS&output=BINARY&productName=ABEX+EP+120",
+                            "id": 5853
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.000690601824
+                }
+            ],
+            "sources": [
+                {
+                    "name": "Emseal",
+                    "url": "https://www.google.com/patents/CA1259351A1?cl=en&dq=polyurethane+foam+sealant+tape&hl=en&sa=X&ei=sNknVYTcHMPzsAX4roTgBg&ved=0CC0Q6AEwAg",
+                    "id": 5872
+                },
+                {
+                    "name": "Deiss",
+                    "url": "https://www.google.com/patents/US20090246498?dq=polyurethane+foam+sealant+tape&ei=sNknVYTcHMPzsAX4roTgBg",
+                    "id": 5869
+                },
+                {
+                    "name": "IHS",
+                    "url": "http://www.globalspec.com/learnmore/manufacturing_process_equipment/stock_fabricated_materials_components/industrial_tapes/foam_tapes",
+                    "id": 5865
+                },
+                {
+                    "name": "Tremco TDS",
+                    "url": "http://www.tremcosealants.com/fileshare/pds/ExoAir_Trio.pdf",
+                    "id": 5860
+                },
+                {
+                    "name": "Trio TDS",
+                    "url": "http://www.illbruck.com/__download/mam/celum/tp651_ds_gb.pdf",
+                    "id": 5857
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.045936
+        },
+        {
+            "recId": 5959,
+            "name": "Release Paper",
+            "CASRN": "",
+            "massPct": 0.069581,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.108856,
+                        "contributors": [
+                            {
+                                "recId": 6944,
+                                "massPct": 0.108856,
+                                "childrenIds": [
+                                    6944
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": 0.1174194995,
+                        "contributors": [
+                            {
+                                "recId": 6944,
+                                "massPct": 0.108856,
+                                "childrenIds": [
+                                    6944
+                                ]
+                            },
+                            {
+                                "recId": 4546,
+                                "massPct": 0.0085634995,
+                                "childrenIds": [
+                                    4546,
+                                    5510
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": 0.00033129477,
+                        "contributors": [
+                            {
+                                "recId": 4547,
+                                "massPct": 0.00033129477,
+                                "childrenIds": [
+                                    4547,
+                                    5961
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 6944,
+                    "name": "Polyethylene",
+                    "CASRN": "9002-88-4",
+                    "massPct": 0.108856,
+                    "function": "coating",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Goyo",
+                            "url": "https://www.google.com/patents/US5430120",
+                            "id": 4535
+                        },
+                        {
+                            "name": "Scapa",
+                            "url": "http://adhesive-tape-converting.mbktape.com/Asset/UP3040--Scapa-MSDS-07-.pdf",
+                            "id": 5934
+                        },
+                        {
+                            "name": "Cor-Pak",
+                            "url": "http://www.cortecvci.com/Publications/MSDS/Cor-Pak_VpCI_Polycoated_Paper.pdf",
+                            "id": 5933
+                        },
+                        {
+                            "name": "Polycoated",
+                            "url": "http://www.polycoated.com/pensacola-fl-our-products.html",
+                            "id": 5931
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.007574309336
+                },
+                {
+                    "recId": 4547,
+                    "name": "Silicone Release Coating",
+                    "CASRN": "",
+                    "massPct": 0.00831,
+                    "function": "",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": 0.039867,
+                                "contributors": [
+                                    {
+                                        "recId": 5961,
+                                        "massPct": 0.039867,
+                                        "childrenIds": [
+                                            5961
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "components": [
+                        {
+                            "recId": 5961,
+                            "name": "Stannous Octoate",
+                            "CASRN": "301-10-0",
+                            "massPct": 0.039867,
+                            "function": "catalyst",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-569",
+                                        "type": "orange",
+                                        "name": "Reproductive",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Burroughs",
+                                    "url": "https://www.google.com/patents/US3386847",
+                                    "id": 4532
+                                },
+                                {
+                                    "name": "Metatin",
+                                    "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_069d/0901b8038069d693.pdf?filepath=productsafety/pdfs/noreg/233-00840.pdf&fromPage=GetDoc",
+                                    "id": 5940
+                                },
+                                {
+                                    "name": "Scott",
+                                    "url": "https://www.google.com/patents/US3463661",
+                                    "id": 4534
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.00002305182139137
+                        },
+                        {
+                            "recId": 4548,
+                            "name": "Methylhydrogenpolysiloxane",
+                            "CASRN": "63148-57-2",
+                            "massPct": 0.9601328904,
+                            "function": "polymer",
+                            "hazards": {},
+                            "sources": [
+                                {
+                                    "name": "Burroughs",
+                                    "url": "https://www.google.com/patents/US3386847",
+                                    "id": 4532
+                                },
+                                {
+                                    "name": "SiSiB",
+                                    "url": "http://www.powerchemical.net/silicone_fluid/silicone_fluids_PF2020.html",
+                                    "id": 4537
+                                },
+                                {
+                                    "name": "Goyo",
+                                    "url": "https://www.google.com/patents/US5430120",
+                                    "id": 4535
+                                },
+                                {
+                                    "name": "Kenji",
+                                    "url": "https://www.google.com/patents/US20110274935",
+                                    "id": 4533
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "yes",
+                            "massPctOfTotal": 0.0005551662252359252
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "name": "Single",
+                            "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSu9n_zu8l00xMY_14Y_vov70k17zHvu9lxtD7xtBevSSSSSS-",
+                            "id": 5930
+                        },
+                        {
+                            "name": "Wagner",
+                            "url": "https://www.google.com/patents/EP2499194B1?cl=en&dq=pressure+sensitive+acrylic+adhesive&hl=en&sa=X&ei=628MVf6cDseWNpCOg4gH&sqi=2&pjf=1&ved=0CB0Q6AEwAA",
+                            "id": 5927
+                        },
+                        {
+                            "name": "Solutia",
+                            "url": "https://www.google.com/patents/US6066394?dq=double+slided+pvc+foam+tape&hl=en&sa=X&ei=Ni8MVbaLNYiNNruphNAL&ved=0CEoQ6AEwBQ",
+                            "id": 5925
+                        },
+                        {
+                            "name": "Structured",
+                            "url": "http://www.loparex.com/documents/productDocs/86d650aa.pdf",
+                            "id": 5919
+                        },
+                        {
+                            "name": "Minnesota",
+                            "url": "http://www.google.com/patents/US5804610",
+                            "id": 5868
+                        },
+                        {
+                            "name": "Loparex",
+                            "url": "http://www.loparex.com/product-detail.aspx?ID=24",
+                            "id": 4541
+                        },
+                        {
+                            "name": "3M patent",
+                            "url": "https://www.google.com/patents/WO2003066766A1?cl=en&dq=flame+retardant+polyurethane+foam+tape+sealant&hl=en&sa=X&ei=0zokVb7pF8LosAWloIGoBg&ved=0CEcQ6AEwBg",
+                            "id": 5866
+                        },
+                        {
+                            "name": "Deiss",
+                            "url": "https://www.google.com/patents/US20090246498?dq=polyurethane+foam+sealant+tape&ei=sNknVYTcHMPzsAX4roTgBg",
+                            "id": 5869
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.00057821811
+                },
+                {
+                    "recId": 4546,
+                    "name": "Kraft Paper",
+                    "CASRN": "",
+                    "massPct": 0.882835,
+                    "function": "",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": 0.0097,
+                                "contributors": [
+                                    {
+                                        "recId": 5510,
+                                        "massPct": 0.0097,
+                                        "childrenIds": [
+                                            5510
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "components": [
+                        {
+                            "recId": 1323,
+                            "name": "Cellulose",
+                            "CASRN": "9004-34-6",
+                            "massPct": 0.9275,
+                            "function": "fiber",
+                            "hazards": {},
+                            "sources": [
+                                {
+                                    "name": "Fortfiber",
+                                    "url": "http://www.fortifiber.com/pdf/sds/sds_kraft_paper_and_board_products.pdf",
+                                    "id": 7355
+                                },
+                                {
+                                    "name": "Rock",
+                                    "url": "http://www.rocktenn.com/files/RT001RockTennSDSCelluloseContainerboard.pdf",
+                                    "id": 4527
+                                },
+                                {
+                                    "name": "Kraft MSDS",
+                                    "url": "http://catalog.wcpsolutions.com/aa/usr/PDF/WP3640.pdf?*ERROR_HTTP_404=nopdf.pdf",
+                                    "id": 4526
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.05697497283021251
+                        },
+                        {
+                            "recId": 1203,
+                            "name": "Starch",
+                            "CASRN": "9005-25-8",
+                            "massPct": 0.0097,
+                            "function": "binder,sizing agent",
+                            "hazards": {},
+                            "sources": [
+                                {
+                                    "name": "Cargill",
+                                    "url": "http://www.cargill.com/products/industrial/papermaking/wetend/index.jsp",
+                                    "id": 4528
+                                },
+                                {
+                                    "name": "Rock",
+                                    "url": "http://www.rocktenn.com/files/RT001RockTennSDSCelluloseContainerboard.pdf",
+                                    "id": 4527
+                                },
+                                {
+                                    "name": "Kraft MSDS",
+                                    "url": "http://catalog.wcpsolutions.com/aa/usr/PDF/WP3640.pdf?*ERROR_HTTP_404=nopdf.pdf",
+                                    "id": 4526
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.0005958568587095001
+                        },
+                        {
+                            "recId": 5510,
+                            "name": "Aluminum Sulfate",
+                            "CASRN": "10043-01-3",
+                            "massPct": 0.0097,
+                            "function": "sizing agent",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-7912",
+                                        "type": "orange",
+                                        "name": "Respiratory (occupational only)",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Fortfiber",
+                                    "url": "http://www.fortifiber.com/pdf/sds/sds_kraft_paper_and_board_products.pdf",
+                                    "id": 7355
+                                },
+                                {
+                                    "name": "Abby",
+                                    "url": "http://cool.conservation-us.org/byorg/abbey/an/an17/an17-4/an17-407.html",
+                                    "id": 4531
+                                },
+                                {
+                                    "name": "Kraft MSDS",
+                                    "url": "http://catalog.wcpsolutions.com/aa/usr/PDF/WP3640.pdf?*ERROR_HTTP_404=nopdf.pdf",
+                                    "id": 4526
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.0005958568587095001
+                        },
+                        {
+                            "recId": 3759,
+                            "name": "Limestone",
+                            "CASRN": "1317-65-3",
+                            "massPct": 0.0531,
+                            "function": "filler",
+                            "hazards": {},
+                            "sources": [
+                                {
+                                    "name": "Sappi",
+                                    "url": "http://www.sappi.com/regions/sa/SupportAndSponsorships/Knowledge%20bank/Technical%20tips1/Calcium%20Carbonate.pdf",
+                                    "id": 4530
+                                },
+                                {
+                                    "name": "PPM",
+                                    "url": "http://www.pulppapermill.com/calcium-carbonate/",
+                                    "id": 4529
+                                },
+                                {
+                                    "name": "Rock",
+                                    "url": "http://www.rocktenn.com/files/RT001RockTennSDSCelluloseContainerboard.pdf",
+                                    "id": 4527
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.0032618555873685003
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "name": "3M TDS",
+                            "url": "http://multimedia.3m.com/mws/media/106417O/3mtm-secondary-liners.pdf",
+                            "id": 4525
+                        },
+                        {
+                            "name": "3M liners",
+                            "url": "http://solutions.3m.com/wps/portal/3M/en_US/Adhesives/Tapes/Products/~/3M-Tapes-3M-Adhesives/Adhesive-Transfer-Tapes-Double-Coated-Tapes/Release-Liners?N=5962348&rt=r3",
+                            "id": 5917
+                        },
+                        {
+                            "name": "MBK",
+                            "url": "http://adhesive-tape-converting.mbktape.com/item/specialty-tapes-adhesives/flame-retardant-tape/mbk-por104?",
+                            "id": 5864
+                        },
+                        {
+                            "name": "Sylvester",
+                            "url": "https://www.google.com/patents/US6451398?dq=pvc+foam+tape&hl=en&sa=X&ei=VDwMVdjIA8OuggTv7oDwAg&ved=0CB4Q6AEwAA",
+                            "id": 5926
+                        },
+                        {
+                            "name": "3M Patent",
+                            "url": "https://www.google.com/patents/EP2260154A1?cl=en&dq=intumescent+steel&hl=en&sa=X&ei=6DYtVezNEeLdsATpjYD4BA&ved=0CEcQ6AEwBQ",
+                            "id": 4416
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.06142854213500001
+                }
+            ],
+            "sources": [
+                {
+                    "name": "Sylvester",
+                    "url": "https://www.google.com/patents/US6451398?dq=pvc+foam+tape&hl=en&sa=X&ei=VDwMVdjIA8OuggTv7oDwAg&ved=0CB4Q6AEwAA",
+                    "id": 5926
+                },
+                {
+                    "name": "Loparex",
+                    "url": "http://www.loparex.com/product-detail.aspx?ID=24",
+                    "id": 4541
+                },
+                {
+                    "name": "3M liners",
+                    "url": "http://solutions.3m.com/wps/portal/3M/en_US/Adhesives/Tapes/Products/~/3M-Tapes-3M-Adhesives/Adhesive-Transfer-Tapes-Double-Coated-Tapes/Release-Liners?N=5962348&rt=r3",
+                    "id": 5917
+                },
+                {
+                    "name": "Irbit",
+                    "url": "https://www.google.com/patents/US4401716",
+                    "id": 5871
+                },
+                {
+                    "name": "3M patent",
+                    "url": "https://www.google.com/patents/WO2003066766A1?cl=en&dq=flame+retardant+polyurethane+foam+tape+sealant&hl=en&sa=X&ei=0zokVb7pF8LosAWloIGoBg&ved=0CEcQ6AEwBg",
+                    "id": 5866
+                },
+                {
+                    "name": "IHS",
+                    "url": "http://www.globalspec.com/learnmore/manufacturing_process_equipment/stock_fabricated_materials_components/industrial_tapes/foam_tapes",
+                    "id": 5865
+                },
+                {
+                    "name": "MBK",
+                    "url": "http://adhesive-tape-converting.mbktape.com/item/specialty-tapes-adhesives/flame-retardant-tape/mbk-por104?",
+                    "id": 5864
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.069581
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Chromium (VI) oxide",
+            "CASRN": "1333-82-0",
+            "massPct": null,
+            "function": "polyethylene residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "2-(Acryloyloxy)ethanol",
+            "CASRN": "818-61-1",
+            "massPct": null,
+            "function": "acrylic polymer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ethyl Acrylate",
+            "CASRN": "140-88-5",
+            "massPct": null,
+            "function": "acrylic polymer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Toluene Diisocyanate",
+            "CASRN": "26471-62-5",
+            "massPct": null,
+            "function": "polyurethane foam residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Xylene",
+            "CASRN": "1330-20-7",
+            "massPct": null,
+            "function": "residual solvent from silicone release coating",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Acrylic Acid",
+            "CASRN": "79-10-7",
+            "massPct": null,
+            "function": "acrylic polymer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "N-Butyl Methacrylate",
+            "CASRN": "97-88-1",
+            "massPct": null,
+            "function": "acrylic polymer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Styrene",
+            "CASRN": "100-42-5",
+            "massPct": null,
+            "function": "acrylic acid ester copolymer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Butyl Acrylate",
+            "CASRN": "141-32-2",
+            "massPct": null,
+            "function": "acrylic polymer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Methyl Methacrylate",
+            "CASRN": "80-62-6",
+            "massPct": null,
+            "function": "acrylic polymer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Polycyclic Aromatic Hydrocarbons",
+            "CASRN": "130498-29-2",
+            "massPct": 5.29e-7,
+            "function": "carbon black",
+            "sources": [],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ethylene Glycol",
+            "CASRN": "107-21-1",
+            "massPct": null,
+            "function": "polyurethane foam residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Quartz",
+            "CASRN": "14808-60-7",
+            "massPct": 0.0002191230446,
+            "function": "calcium carbonate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Methacrylic Acid",
+            "CASRN": "79-41-4",
+            "massPct": null,
+            "function": "acrylic polymer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Tetrasiloxane, 1,1,3,3,5,5,7,7-octamethyl-",
+            "CASRN": "1000-05-1",
+            "massPct": null,
+            "function": "ethoxylated nonylphenol sulphate solution residual",
+            "sources": [],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-955",
+                        "type": "red",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.0026439594150000005,
+                    "contributors": [
+                        {
+                            "recId": 5952,
+                            "massPct": 0.0026439594150000005,
+                            "childrenIds": [
+                                5952,
+                                1530
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.0005155728900000001,
+                    "contributors": [
+                        {
+                            "recId": 5952,
+                            "massPct": 0.0005155728900000001,
+                            "childrenIds": [
+                                5952,
+                                4343
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-569",
+                    "type": "orange",
+                    "name": "Reproductive",
+                    "massPct": 0.0005386247113913701,
+                    "contributors": [
+                        {
+                            "recId": 5952,
+                            "massPct": 0.0005155728900000001,
+                            "childrenIds": [
+                                5952,
+                                4343
+                            ]
+                        },
+                        {
+                            "recId": 5959,
+                            "massPct": 0.00002305182139137,
+                            "childrenIds": [
+                                5959,
+                                4547,
+                                5961
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.007574309336,
+                    "contributors": [
+                        {
+                            "recId": 5959,
+                            "massPct": 0.007574309336,
+                            "childrenIds": [
+                                5959,
+                                6944
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.0081701661947095,
+                    "contributors": [
+                        {
+                            "recId": 5959,
+                            "massPct": 0.007574309336,
+                            "childrenIds": [
+                                5959,
+                                6944
+                            ]
+                        },
+                        {
+                            "recId": 5959,
+                            "massPct": 0.0005958568587095001,
+                            "childrenIds": [
+                                5959,
+                                4546,
+                                5510
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.0026439594150000005,
+                    "contributors": [
+                        {
+                            "recId": 5952,
+                            "massPct": 0.0026439594150000005,
+                            "childrenIds": [
+                                5952,
+                                1530
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "purple": [
+                {
+                    "hazardId": "purple-955",
+                    "type": "purple",
+                    "name": "PBT",
+                    "massPct": 0.0005155728900000001,
+                    "contributors": [
+                        {
+                            "recId": 5952,
+                            "massPct": 0.0005155728900000001,
+                            "childrenIds": [
+                                5952,
+                                4343
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "unknown": [
+                {
+                    "hazardId": "unknown-11424",
+                    "type": "unknown",
+                    "name": "Unknown",
+                    "massPct": 0.169561343331,
+                    "contributors": [
+                        {
+                            "recId": 5952,
+                            "massPct": 0.12431594515500001,
+                            "childrenIds": [
+                                5952,
+                                5953
+                            ]
+                        },
+                        {
+                            "recId": 5957,
+                            "massPct": 0.045245398176,
+                            "childrenIds": [
+                                5957,
+                                10323
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The cradle-to-gate system boundary includes manufacturing energy of open cell polyurethane foam, acrylic impregnating agent, pressure sensitive adhesive, release paper, transport of raw materials to the manufacturing facility, upstream production of auxillary inputs, and raw material and fuel extraction.  ",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "US: Carbon black (furnace black, general purpose)"
+            },
+            {
+                "name": "US: Nonene"
+            },
+            {
+                "name": "US: Phenol (from cumene)"
+            },
+            {
+                "name": "US: Municipal waste water treatment (mix)"
+            },
+            {
+                "name": "EU-27: Dipropyleneglycol dibenzoate plast"
+            },
+            {
+                "name": "US: Limestone flour (5mm)"
+            },
+            {
+                "name": "DE: Ethanediamine (estimation)"
+            },
+            {
+                "name": "EU-27: Ethylene glycol PlasticsEurope"
+            },
+            {
+                "name": "DE: Silicone resin emulsion (50%)"
+            },
+            {
+                "name": "US: Polyethylene Low Density Granulate (LDPE/PE-LD)"
+            },
+            {
+                "name": "EU-27: Kraft paper (EN15804 A1-A3)"
+            },
+            {
+                "name": "US: Acrylic acid (Propene)"
+            },
+            {
+                "name": "DE: Butyl acrylate"
+            },
+            {
+                "name": "DE: Ethylhexyl acrylate"
+            },
+            {
+                "name": "DE: Ammoniumpolyphosphate"
+            },
+            {
+                "name": "DE: Siloxane (cyclic) (from organosilanes)"
+            },
+            {
+                "name": "US: Water deionized"
+            },
+            {
+                "name": "DE: Toluene diisocyanate (TDI, Phosgenation)"
+            },
+            {
+                "name": "DE: Polyether polyol"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% landfill (93.9% to plastic landfilll; 6.1% to paper landfill)",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "1.65E-02"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.16E-03"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "3.18E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "2.57E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.46E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "7.41E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "6.80E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "2.52E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.71E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.06E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "6.14E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "7.73E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP032",
+    "name": "Flame retardant polyurethane foam window/door seal",
+    "altNames": [
+        "FR Polyurethane Foam Sealant Tape"
+    ],
+    "uniformats": [
+        {
+            "id": "B2010",
+            "name": "Exterior Walls"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "07-91-13",
+            "name": "Compression Seals"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Fire retardant polyurethane foam sealant is a compressed tape of polyurethane foam, impregnated with an acrylic, fire retardant resin.  The tape is coated on one side with a pressure sensitive adhesive, which is protected with a release paper.  Upon installation, the release paper is peeled and removed from the tape, exposing the adhesive and installed, adhesive-side toward the window or door casing being fit into the building opening.  Once installed, the tape slowly returns to its original, uncompressed, state, thereby forming a tight seal around the window or door.",
+    "sources": [
+        {
+            "name": "EPA",
+            "url": "http://www.epa.gov/oppt/existingchemicals/pubs/actionplans/mdi.pdf",
+            "id": 5110
+        },
+        {
+            "name": "3M TDS",
+            "url": "http://multimedia.3m.com/mws/media/106417O/3mtm-secondary-liners.pdf",
+            "id": 4525
+        },
+        {
+            "name": "3M Patent",
+            "url": "https://www.google.com/patents/EP2260154A1?cl=en&dq=intumescent+steel&hl=en&sa=X&ei=6DYtVezNEeLdsATpjYD4BA&ved=0CEcQ6AEwBQ",
+            "id": 4416
+        },
+        {
+            "name": "Fortfiber",
+            "url": "http://www.fortifiber.com/pdf/sds/sds_kraft_paper_and_board_products.pdf",
+            "id": 7355
+        },
+        {
+            "name": "HBN",
+            "url": "http://www.healthybuilding.net/uploads/files/phthalate-free-plasticizers-in-pvc.pdf",
+            "id": 5134
+        },
+        {
+            "name": "Loparex",
+            "url": "http://www.loparex.com/product-detail.aspx?ID=24",
+            "id": 4541
+        },
+        {
+            "name": "USG 1985",
+            "url": "https://www.google.com/patents/US4548676?dq=silicone+emulsion+paper+wallboard&hl=en&sa=X&ei=dBAOVI_aMI3lsATziIIo&ved=0CB0Q6AEwAA",
+            "id": 1219
+        },
+        {
+            "name": "Sappi",
+            "url": "http://www.sappi.com/regions/sa/SupportAndSponsorships/Knowledge%20bank/Technical%20tips1/Calcium%20Carbonate.pdf",
+            "id": 4530
+        },
+        {
+            "name": "PPM",
+            "url": "http://www.pulppapermill.com/calcium-carbonate/",
+            "id": 4529
+        },
+        {
+            "name": "Scott",
+            "url": "https://www.google.com/patents/US3463661",
+            "id": 4534
+        },
+        {
+            "name": "Goyo",
+            "url": "https://www.google.com/patents/US5430120",
+            "id": 4535
+        },
+        {
+            "name": "Burroughs",
+            "url": "https://www.google.com/patents/US3386847",
+            "id": 4532
+        },
+        {
+            "name": "SiSiB",
+            "url": "http://www.powerchemical.net/silicone_fluid/silicone_fluids_PF2020.html",
+            "id": 4537
+        },
+        {
+            "name": "Kenji",
+            "url": "https://www.google.com/patents/US20110274935",
+            "id": 4533
+        },
+        {
+            "name": "Rock",
+            "url": "http://www.rocktenn.com/files/RT001RockTennSDSCelluloseContainerboard.pdf",
+            "id": 4527
+        },
+        {
+            "name": "Cargill",
+            "url": "http://www.cargill.com/products/industrial/papermaking/wetend/index.jsp",
+            "id": 4528
+        },
+        {
+            "name": "Kraft MSDS",
+            "url": "http://catalog.wcpsolutions.com/aa/usr/PDF/WP3640.pdf?*ERROR_HTTP_404=nopdf.pdf",
+            "id": 4526
+        },
+        {
+            "name": "Abby",
+            "url": "http://cool.conservation-us.org/byorg/abbey/an/an17/an17-4/an17-407.html",
+            "id": 4531
+        },
+        {
+            "name": "MSHA MSDS",
+            "url": "www.msha.gov/regs/complian/guides/hazcom/msds/LimestoneMSDS.pdf",
+            "id": 5950
+        },
+        {
+            "name": "Analysis",
+            "url": "http://www.scielo.br/scielo.php?pid=S1516-14392008000400009&script=sci_arttext",
+            "id": 5941
+        },
+        {
+            "name": "Metatin",
+            "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_069d/0901b8038069d693.pdf?filepath=productsafety/pdfs/noreg/233-00840.pdf&fromPage=GetDoc",
+            "id": 5940
+        },
+        {
+            "name": "Carbide",
+            "url": "https://www.google.com/patents/US4201808?dq=silicone+release+paper&hl=en&sa=X&ei=nRtBVbmrGsSisAW1woDoCA&ved=0CCMQ6AEwATgK",
+            "id": 5938
+        },
+        {
+            "name": "Scapa",
+            "url": "http://adhesive-tape-converting.mbktape.com/Asset/UP3040--Scapa-MSDS-07-.pdf",
+            "id": 5934
+        },
+        {
+            "name": "Cor-Pak",
+            "url": "http://www.cortecvci.com/Publications/MSDS/Cor-Pak_VpCI_Polycoated_Paper.pdf",
+            "id": 5933
+        },
+        {
+            "name": "US Chem",
+            "url": "http://www.uschem.com/products/docs/MSDS_Polycoated_Blue_Premium_Masking%20Paper.pdf",
+            "id": 5932
+        },
+        {
+            "name": "Polycoated",
+            "url": "http://www.polycoated.com/pensacola-fl-our-products.html",
+            "id": 5931
+        },
+        {
+            "name": "Single",
+            "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSu9n_zu8l00xMY_14Y_vov70k17zHvu9lxtD7xtBevSSSSSS-",
+            "id": 5930
+        },
+        {
+            "name": "Secondary",
+            "url": "http://multimedia.3m.com/mws/media/199845O/secondary-liners-7526l-and-7527l.pdf",
+            "id": 5929
+        },
+        {
+            "name": "Dexerials",
+            "url": "http://www.google.com/patents/US20130224417",
+            "id": 5928
+        },
+        {
+            "name": "Wagner",
+            "url": "https://www.google.com/patents/EP2499194B1?cl=en&dq=pressure+sensitive+acrylic+adhesive&hl=en&sa=X&ei=628MVf6cDseWNpCOg4gH&sqi=2&pjf=1&ved=0CB0Q6AEwAA",
+            "id": 5927
+        },
+        {
+            "name": "Sylvester",
+            "url": "https://www.google.com/patents/US6451398?dq=pvc+foam+tape&hl=en&sa=X&ei=VDwMVdjIA8OuggTv7oDwAg&ved=0CB4Q6AEwAA",
+            "id": 5926
+        },
+        {
+            "name": "Solutia",
+            "url": "https://www.google.com/patents/US6066394?dq=double+slided+pvc+foam+tape&hl=en&sa=X&ei=Ni8MVbaLNYiNNruphNAL&ved=0CEoQ6AEwBQ",
+            "id": 5925
+        },
+        {
+            "name": "CHR",
+            "url": "http://www.chrtape.com/uploadedFiles/SGchrtape/Documents/MSDS-CHRTape-Paper-AFF1329.pdf",
+            "id": 5923
+        },
+        {
+            "name": "Drytac 2",
+            "url": "http://www.drytac.com/media/download/486/Single_Sided_Release_Paper_TDS_062014.pdf",
+            "id": 5922
+        },
+        {
+            "name": "Drytac",
+            "url": "http://www.drytac.com/media/download/117/MSDS_Release_Paper__Issue_3_14.7.11.pdf",
+            "id": 5921
+        },
+        {
+            "name": "Tapes",
+            "url": "http://multimedia.3m.com/mws/media/67098O/3m-double-coated-urethane-foam-tapes-4000-series.pdf",
+            "id": 5920
+        },
+        {
+            "name": "Structured",
+            "url": "http://www.loparex.com/documents/productDocs/86d650aa.pdf",
+            "id": 5919
+        },
+        {
+            "name": "3M liners 2",
+            "url": "http://solutions.3m.com/wps/portal/3M/en_US/Adhesives/Tapes/Products/~/3M-Silicone-Release-Liner-4999?N=5962348+3294275010&rt=rud",
+            "id": 5918
+        },
+        {
+            "name": "3M liners",
+            "url": "http://solutions.3m.com/wps/portal/3M/en_US/Adhesives/Tapes/Products/~/3M-Tapes-3M-Adhesives/Adhesive-Transfer-Tapes-Double-Coated-Tapes/Release-Liners?N=5962348&rt=r3",
+            "id": 5917
+        },
+        {
+            "name": "Loparex chemistry",
+            "url": "http://www.loparex.com/en/resources.aspx",
+            "id": 5916
+        },
+        {
+            "name": "BJB 6800 Series",
+            "url": "http://bjbenterprises.com/pdf/6800-Series.pdf",
+            "id": 5914
+        },
+        {
+            "name": "BJB",
+            "url": "http://www.bjbenterprises.com/media/wysiwyg/pdfs/Pigments/6836_Black.pdf",
+            "id": 5913
+        },
+        {
+            "name": "Ryvec MSDS",
+            "url": "http://www.ryvec.com/m-s-d-s/",
+            "id": 5912
+        },
+        {
+            "name": "Ryvec",
+            "url": "http://www.ryvec.com/polyurethane-foam/",
+            "id": 5911
+        },
+        {
+            "name": "Ciba",
+            "url": "http://www.google.com/patents/WO2006092363A1?cl=en",
+            "id": 5910
+        },
+        {
+            "name": "Anox 1315",
+            "url": "http://www.addivant.com/content/anox%C2%AE-1315-stabilizer",
+            "id": 5909
+        },
+        {
+            "name": "Cray",
+            "url": "http://www.crayvalley.com/docs/technical-paper/flexible-foams-based-on-poly-bd-r45htlo-resin.pdf",
+            "id": 5908
+        },
+        {
+            "name": "Eastman",
+            "url": "http://www.eastman.com/literature_center/l/l250.pdf",
+            "id": 5906
+        },
+        {
+            "name": "Xiameter",
+            "url": "https://www.xiameter.com/EN/Products/Pages/ProductDetail.aspx?pid=04068231&lir=X4400",
+            "id": 5905
+        },
+        {
+            "name": "Additive 198",
+            "url": "http://www.dowcorning.com/DataFiles/0902770181e1887d.pdf",
+            "id": 5904
+        },
+        {
+            "name": "Monsanto",
+            "url": "http://www.google.com/patents/US5457139",
+            "id": 5903
+        },
+        {
+            "name": "EPA",
+            "url": "http://www.epa.gov/spdpublc/snap/foams/lists/flexible.html",
+            "id": 5902
+        },
+        {
+            "name": "Air Products",
+            "url": "http://www.airproducts.com/~/media/Files/PDF/company/product-summary-polyurethane-amine-catalysts.pdf",
+            "id": 5901
+        },
+        {
+            "name": "ACC",
+            "url": "http://polyurethane.americanchemistry.com/Resources-and-Document-Library/3852.pdf",
+            "id": 5900
+        },
+        {
+            "name": "Dow 2",
+            "url": "http://dowac.custhelp.com/app/answers/detail/a_id/13327/~/dow-polyurethanes---amine-catalysts-role-in-foam-formulations",
+            "id": 5899
+        },
+        {
+            "name": "TDI",
+            "url": "http://www.epa.gov/oppt/existingchemicals/pubs/actionplans/tdi.pdf",
+            "id": 5898
+        },
+        {
+            "name": "Polyol",
+            "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_08e0/0901b803808e049e.pdf?filepath=productsafety/pdfs/noreg/233-00357.pdf&fromPage=GetDoc",
+            "id": 5896
+        },
+        {
+            "name": "Arcol 11-34",
+            "url": "http://www.bayermaterialsciencenafta.com/resources/d/document.cfm?Mode=view&f=D6DDB694-F721-F5BE-C6BE7BA127C0410F&d=D6E4B3B3-9926-C890-606A60EE58A89C34",
+            "id": 5895
+        },
+        {
+            "name": "Voranol 800",
+            "url": "http://www.dow.com/webapps/msds/ShowPDF.aspx?id=090003e8803bb770",
+            "id": 5894
+        },
+        {
+            "name": "Voranol 490",
+            "url": "http://www.dow.com/webapps/msds/ShowPDF.aspx?id=090003e8800a961d",
+            "id": 5893
+        },
+        {
+            "name": "TDS 207",
+            "url": "http://catalog.ides.com/docselect.aspx?I=36808&E=101520&DOC=DOWTDS&DS=123&DK=STD&DC=en",
+            "id": 5892
+        },
+        {
+            "name": "Voranol 270",
+            "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_0779/0901b80380779b05.pdf?filepath=/PublishToInternet/InternetDOWCOM/msds/SDS_00002365_UNITEDSTATES_ENGLISH&fromPage=MSDS",
+            "id": 5891
+        },
+        {
+            "name": "VHB",
+            "url": "http://multimedia.3m.com/mws/media/67100O/3mtm-vhb-tapes.pdf",
+            "id": 5842
+        },
+        {
+            "name": "TacTiles Spec",
+            "url": "http://www.interfaceflor.com.au/files/files/pdf/Product%20Catalogue/Technical_Information/Tactiles_Specification_2012.pdf",
+            "id": 5843
+        },
+        {
+            "name": "Tandus Tape",
+            "url": "http://www.tandus-centiva.com/wcsstore/TandusUSStorefrontAssetStore/upload/common/pdf/technical/technical/TandusTape%20&%20TandusTape%20+%20MSDS.pdf",
+            "id": 5844
+        },
+        {
+            "name": "Royal",
+            "url": "http://www.royaladhesives.com/Files/Parabond/Signature_Series_5060_Pressure_Sensitive_Adhesive_USA_MSDS.pdf",
+            "id": 5845
+        },
+        {
+            "name": "Triton",
+            "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_08be/0901b803808be9a3.pdf?filepath=productsafety/pdfs/noreg/233-00982.pdf&fromPage=GetDoc",
+            "id": 5846
+        },
+        {
+            "name": "BASF",
+            "url": "http://www.specialty-monomers.basf.com/portal/streamer?fid=235732",
+            "id": 5847
+        },
+        {
+            "name": "Dow",
+            "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_0119/0901b803801196d1.pdf?filepath=acrylates/pdfs/noreg/745-00109.pdf&fromPage=GetDoc",
+            "id": 5848
+        },
+        {
+            "name": "Sachem",
+            "url": "http://sacheminc.com/other-chemicals/glycidyl-ethers/",
+            "id": 5849
+        },
+        {
+            "name": "BASF 2",
+            "url": "http://www.windenergy.basf.com/group/corporate/wind-energy/en/literature-document:/GPS+Safety+Summaries--2+Hydroxy+2+methylpropiophenone-English.pdf",
+            "id": 5850
+        },
+        {
+            "name": "Tyzor",
+            "url": "http://snf.stanford.edu/pipermail/specmat/attachments/20050518/4f890d57/attachment-0002.pdf",
+            "id": 5851
+        },
+        {
+            "name": "Triton 2",
+            "url": "http://dowac.custhelp.com/ci/fattach/get/26652/0/session/L2F2LzEvdGltZS8xNDMwMjM4Mzg3L3NpZC9kalBKUl9rbQ==/filename/TRITON+X-200+Series+Discontinuation.pdf",
+            "id": 5852
+        },
+        {
+            "name": "ABEX EP 120 TDS",
+            "url": "http://www.rhodia.com/product-literature-download.action?docId=09016636807c8649&docLanguage=EN&docType=TDS&output=BINARY&productName=ABEX+EP+120",
+            "id": 5853
+        },
+        {
+            "name": "Aerosol OT MSDS",
+            "url": "http://talasonline.com/photos/msds/aerosol_ot.pdf",
+            "id": 5854
+        },
+        {
+            "name": "Intrafloor",
+            "url": "http://intafloors.com.au/img/cms/ULTRA%20STIX%20PRESSURE%20SENSITIVE%20ADHESIVE.pdf",
+            "id": 5855
+        },
+        {
+            "name": "Trio web",
+            "url": "http://www.illbruck.com/en_GB/products/TP652?contains=TP652",
+            "id": 5856
+        },
+        {
+            "name": "Trio TDS",
+            "url": "http://www.illbruck.com/__download/mam/celum/tp651_ds_gb.pdf",
+            "id": 5857
+        },
+        {
+            "name": "Trio",
+            "url": "http://www.illbruck.com/__download/mam/celum/tp651_sds_gb.pdf",
+            "id": 5858
+        },
+        {
+            "name": "Polyfoam",
+            "url": "http://www.frostking.com/poly-foam-weather-seal-1-year-guarantee/",
+            "id": 5859
+        },
+        {
+            "name": "Tremco TDS",
+            "url": "http://www.tremcosealants.com/fileshare/pds/ExoAir_Trio.pdf",
+            "id": 5860
+        },
+        {
+            "name": "Tremco LEED",
+            "url": "http://www.tremcosealants.com/products/exoair-trio.aspx",
+            "id": 5862
+        },
+        {
+            "name": "Tremco Application",
+            "url": "http://www.tremcosealants.com/fileshare/instructions/ExoairTrioWindows_AI.pdf",
+            "id": 5863
+        },
+        {
+            "name": "MBK",
+            "url": "http://adhesive-tape-converting.mbktape.com/item/specialty-tapes-adhesives/flame-retardant-tape/mbk-por104?",
+            "id": 5864
+        },
+        {
+            "name": "IHS",
+            "url": "http://www.globalspec.com/learnmore/manufacturing_process_equipment/stock_fabricated_materials_components/industrial_tapes/foam_tapes",
+            "id": 5865
+        },
+        {
+            "name": "3M patent",
+            "url": "https://www.google.com/patents/WO2003066766A1?cl=en&dq=flame+retardant+polyurethane+foam+tape+sealant&hl=en&sa=X&ei=0zokVb7pF8LosAWloIGoBg&ved=0CEcQ6AEwBg",
+            "id": 5866
+        },
+        {
+            "name": "Ulrich",
+            "url": "http://www.google.com/patents/USRE24906",
+            "id": 5867
+        },
+        {
+            "name": "Minnesota",
+            "url": "http://www.google.com/patents/US5804610",
+            "id": 5868
+        },
+        {
+            "name": "Deiss",
+            "url": "https://www.google.com/patents/US20090246498?dq=polyurethane+foam+sealant+tape&ei=sNknVYTcHMPzsAX4roTgBg",
+            "id": 5869
+        },
+        {
+            "name": "Deiss 2",
+            "url": "https://www.google.com/patents/US20120058309",
+            "id": 5870
+        },
+        {
+            "name": "Irbit",
+            "url": "https://www.google.com/patents/US4401716",
+            "id": 5871
+        },
+        {
+            "name": "Emseal",
+            "url": "https://www.google.com/patents/CA1259351A1?cl=en&dq=polyurethane+foam+sealant+tape&hl=en&sa=X&ei=sNknVYTcHMPzsAX4roTgBg&ved=0CC0Q6AEwAg",
+            "id": 5872
+        },
+        {
+            "name": "Pufahl",
+            "url": "https://www.google.com/patents/US4276107?dq=impregnated+polyurethane+foam&hl=en&sa=X&ei=cf8nVZ63AobPsAXF2IOoCA&ved=0CCQQ6AEwAQ",
+            "id": 5873
+        },
+        {
+            "name": "Boyle",
+            "url": "https://www.google.com/patents/CA2369796A1?cl=en&dq=impregnated+polyurethane+foam+sealing+tape&hl=en&sa=X&ei=KwEoVfTTAcrHsAXOi4DwBQ&ved=0CCsQ6AEwAg",
+            "id": 5874
+        },
+        {
+            "name": "Irbit 2",
+            "url": "https://www.google.com/patents/US4839223?dq=fire+impregnated+polyurethane+foam+sealing+tape&hl=en&sa=X&ei=2QEoVf2HI8GHsAWx6YHwDQ&ved=0CB0Q6AEwAA",
+            "id": 5875
+        },
+        {
+            "name": "Iso-Chemie",
+            "url": "https://www.google.com/patents/US7897244?dq=impregnated+polyurethane+foam+sealing+tape&hl=en&sa=X&ei=3kE5VciKNsHTsAX2hICoBg&ved=0CCQQ6AEwAQ",
+            "id": 5876
+        },
+        {
+            "name": "Tremco",
+            "url": "https://www.google.com/patents/US20110309583",
+            "id": 5877
+        },
+        {
+            "name": "AP423",
+            "url": "http://www.clariant.com/en/Solutions/Products/2014/03/18/16/31/Exolit-AP-423?p=1",
+            "id": 5878
+        },
+        {
+            "name": "AP422",
+            "url": "http://www.clariant.com/en/Solutions/Products/2014/03/18/16/31/Exolit-AP-422?p=1",
+            "id": 5879
+        },
+        {
+            "name": "AP462",
+            "url": "http://www.clariant.com/en/Solutions/Products/2014/03/18/16/31/Exolit-AP-462?p=1",
+            "id": 5880
+        },
+        {
+            "name": "AP740",
+            "url": "http://www.clariant.com/en/Solutions/Products/2014/03/18/16/31/Exolit-AP-740?p=1",
+            "id": 5881
+        },
+        {
+            "name": "Hybrid",
+            "url": "http://emseal.com/Knowledge/HybridSealants/HybridSealants.htm",
+            "id": 5882
+        },
+        {
+            "name": "Coiled",
+            "url": "https://www.google.com/patents/US20140151968?dq=inassignee:emseal&hl=en&sa=X&ei=mW46VbDuAcjEsAXrwoHoBg&ved=0CFYQ6AEwCA",
+            "id": 5883
+        },
+        {
+            "name": "Hensley",
+            "url": "https://www.google.com/patents/WO2007024246A1?cl=en&dq=inassignee:emseal&hl=en&sa=X&ei=mW46VbDuAcjEsAXrwoHoBg&ved=0CF0Q6AEwCQ",
+            "id": 5884
+        },
+        {
+            "name": "Witherspoon",
+            "url": "https://www.google.com/patents/US8739495",
+            "id": 5885
+        },
+        {
+            "name": "Weiss",
+            "url": "https://www.google.com/patents/US4455396?dq=acrylic+impregnating+agent+polyurethane+foam&hl=en&sa=X&ei=BXM6VdblGcmRsAXbkIHYCA&ved=0CB0Q6AEwAA",
+            "id": 5886
+        },
+        {
+            "name": "Defoamer",
+            "url": "http://www.lookchem.com/cas-901/9016-00-6.html",
+            "id": 5887
+        },
+        {
+            "name": "Baysilone",
+            "url": "http://www.momentive.com/Products/home.aspx?id=21848&tid=1469",
+            "id": 5888
+        },
+        {
+            "name": "Mirox",
+            "url": "http://www.bozzetto-group.com/en/textile-chemicals-products-technical-coating-lamination-mirox/",
+            "id": 5889
+        },
+        {
+            "name": "Momentive",
+            "url": "https://www.google.com/patents/US8436064?dq=open+cell+polyurethane+foam&hl=en&sa=X&ei=tHk6VdflEYTItQX7lYGgAw&ved=0CB0Q6AEwAA",
+            "id": 5890
+        }
+    ]
+}

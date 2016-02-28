@@ -1,0 +1,1659 @@
+{
+    "CPID": "CP095",
+    "timestamp": 1452102124522,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 5308,
+            "name": "ASTM A653 CS Type B Steel",
+            "CASRN": "",
+            "massPct": 0.9361,
+            "function": "base steel",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization",
+                        "massPct": 0.0035800000000000003,
+                        "contributors": [
+                            {
+                                "recId": 770,
+                                "massPct": 0.0015,
+                                "childrenIds": [
+                                    770
+                                ]
+                            },
+                            {
+                                "recId": 768,
+                                "massPct": 0.002,
+                                "childrenIds": [
+                                    768
+                                ]
+                            },
+                            {
+                                "recId": 778,
+                                "massPct": 0.00008,
+                                "childrenIds": [
+                                    778
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.01238,
+                        "contributors": [
+                            {
+                                "recId": 770,
+                                "massPct": 0.0015,
+                                "childrenIds": [
+                                    770
+                                ]
+                            },
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0003,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            },
+                            {
+                                "recId": 768,
+                                "massPct": 0.002,
+                                "childrenIds": [
+                                    768
+                                ]
+                            },
+                            {
+                                "recId": 778,
+                                "massPct": 0.00008,
+                                "childrenIds": [
+                                    778
+                                ]
+                            },
+                            {
+                                "recId": 766,
+                                "massPct": 0.0025,
+                                "childrenIds": [
+                                    766
+                                ]
+                            },
+                            {
+                                "recId": 760,
+                                "massPct": 0.006,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.00966,
+                        "contributors": [
+                            {
+                                "recId": 770,
+                                "massPct": 0.0015,
+                                "childrenIds": [
+                                    770
+                                ]
+                            },
+                            {
+                                "recId": 768,
+                                "massPct": 0.002,
+                                "childrenIds": [
+                                    768
+                                ]
+                            },
+                            {
+                                "recId": 778,
+                                "massPct": 0.00008,
+                                "childrenIds": [
+                                    778
+                                ]
+                            },
+                            {
+                                "recId": 776,
+                                "massPct": 0.00008,
+                                "childrenIds": [
+                                    776
+                                ]
+                            },
+                            {
+                                "recId": 760,
+                                "massPct": 0.006,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity",
+                        "massPct": 0.00166,
+                        "contributors": [
+                            {
+                                "recId": 770,
+                                "massPct": 0.0015,
+                                "childrenIds": [
+                                    770
+                                ]
+                            },
+                            {
+                                "recId": 778,
+                                "massPct": 0.00008,
+                                "childrenIds": [
+                                    778
+                                ]
+                            },
+                            {
+                                "recId": 776,
+                                "massPct": 0.00008,
+                                "childrenIds": [
+                                    776
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": 0.00218,
+                        "contributors": [
+                            {
+                                "recId": 770,
+                                "massPct": 0.0015,
+                                "childrenIds": [
+                                    770
+                                ]
+                            },
+                            {
+                                "recId": 772,
+                                "massPct": 0.0006,
+                                "childrenIds": [
+                                    772
+                                ]
+                            },
+                            {
+                                "recId": 778,
+                                "massPct": 0.00008,
+                                "childrenIds": [
+                                    778
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": 0.0023,
+                        "contributors": [
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0003,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            },
+                            {
+                                "recId": 768,
+                                "massPct": 0.002,
+                                "childrenIds": [
+                                    768
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.0088,
+                        "contributors": [
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0003,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            },
+                            {
+                                "recId": 766,
+                                "massPct": 0.0025,
+                                "childrenIds": [
+                                    766
+                                ]
+                            },
+                            {
+                                "recId": 760,
+                                "massPct": 0.006,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.006,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.006,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": 0.0020800000000000003,
+                        "contributors": [
+                            {
+                                "recId": 768,
+                                "massPct": 0.002,
+                                "childrenIds": [
+                                    768
+                                ]
+                            },
+                            {
+                                "recId": 776,
+                                "massPct": 0.00008,
+                                "childrenIds": [
+                                    776
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity",
+                        "massPct": 0.0025,
+                        "contributors": [
+                            {
+                                "recId": 766,
+                                "massPct": 0.0025,
+                                "childrenIds": [
+                                    766
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": 0.006,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.006,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 780,
+                    "name": "Titanium",
+                    "CASRN": "7440-32-6",
+                    "massPct": 0.00025,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        },
+                        {
+                            "name": "ArcelorMittal MSDS",
+                            "url": "http://www.arcelormittalna.com/facilities/americas/Mittal+Steel+USA/documents/Metal%20Coated%20Steel%20Sheet%20AM%20USA-002%2011-19-10%20w-label.pdf",
+                            "id": 5065
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.000234025
+                },
+                {
+                    "recId": 770,
+                    "name": "Chromium",
+                    "CASRN": "7440-47-3",
+                    "massPct": 0.0015,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-577",
+                                "type": "orange",
+                                "name": "Skin Sensitization",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-571",
+                                "type": "orange",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        },
+                        {
+                            "name": "Steel Dynamics MSDS",
+                            "url": "http://www.stld.com/content/msds/GalvannealSteelSheetCoil-USA-091207.pdf",
+                            "id": 5223
+                        },
+                        {
+                            "name": "ArcelorMittal MSDS",
+                            "url": "http://www.arcelormittalna.com/facilities/americas/Mittal+Steel+USA/documents/Metal%20Coated%20Steel%20Sheet%20AM%20USA-002%2011-19-10%20w-label.pdf",
+                            "id": 5065
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00140415
+                },
+                {
+                    "recId": 762,
+                    "name": "Carbon",
+                    "CASRN": "7440-44-0",
+                    "massPct": 0.00085,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        },
+                        {
+                            "name": "ArcelorMittal MSDS",
+                            "url": "http://www.arcelormittalna.com/facilities/americas/Mittal+Steel+USA/documents/Metal%20Coated%20Steel%20Sheet%20AM%20USA-002%2011-19-10%20w-label.pdf",
+                            "id": 5065
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.000795685
+                },
+                {
+                    "recId": 9900,
+                    "name": "Phosphorus",
+                    "CASRN": "7723-14-0",
+                    "massPct": 0.0003,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        },
+                        {
+                            "name": "ArcelorMittal MSDS",
+                            "url": "http://www.arcelormittalna.com/facilities/americas/Mittal+Steel+USA/documents/Metal%20Coated%20Steel%20Sheet%20AM%20USA-002%2011-19-10%20w-label.pdf",
+                            "id": 5065
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00028083
+                },
+                {
+                    "recId": 758,
+                    "name": "Iron",
+                    "CASRN": "7439-89-6",
+                    "massPct": 0.98549,
+                    "function": "base metal",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Steel Dynamics MSDS",
+                            "url": "http://www.stld.com/content/msds/GalvannealSteelSheetCoil-USA-091207.pdf",
+                            "id": 5223
+                        },
+                        {
+                            "name": "ArcelorMittal MSDS",
+                            "url": "http://www.arcelormittalna.com/facilities/americas/Mittal+Steel+USA/documents/Metal%20Coated%20Steel%20Sheet%20AM%20USA-002%2011-19-10%20w-label.pdf",
+                            "id": 5065
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.922517189
+                },
+                {
+                    "recId": 772,
+                    "name": "Molybdenum",
+                    "CASRN": "7439-98-7",
+                    "massPct": 0.0006,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        },
+                        {
+                            "name": "ArcelorMittal MSDS",
+                            "url": "http://www.arcelormittalna.com/facilities/americas/Mittal+Steel+USA/documents/Metal%20Coated%20Steel%20Sheet%20AM%20USA-002%2011-19-10%20w-label.pdf",
+                            "id": 5065
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00056166
+                },
+                {
+                    "recId": 768,
+                    "name": "Nickel",
+                    "CASRN": "7440-02-0",
+                    "massPct": 0.002,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-577",
+                                "type": "orange",
+                                "name": "Skin Sensitization",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-567",
+                                "type": "red",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        },
+                        {
+                            "name": "Steel Dynamics MSDS",
+                            "url": "http://www.stld.com/content/msds/GalvannealSteelSheetCoil-USA-091207.pdf",
+                            "id": 5223
+                        },
+                        {
+                            "name": "ArcelorMittal MSDS",
+                            "url": "http://www.arcelormittalna.com/facilities/americas/Mittal+Steel+USA/documents/Metal%20Coated%20Steel%20Sheet%20AM%20USA-002%2011-19-10%20w-label.pdf",
+                            "id": 5065
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0018722
+                },
+                {
+                    "recId": 778,
+                    "name": "Niobium",
+                    "CASRN": "7440-03-1",
+                    "massPct": 0.00008,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-571",
+                                "type": "orange",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-577",
+                                "type": "orange",
+                                "name": "Skin Sensitization",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        },
+                        {
+                            "name": "ArcelorMittal MSDS",
+                            "url": "http://www.arcelormittalna.com/facilities/americas/Mittal+Steel+USA/documents/Metal%20Coated%20Steel%20Sheet%20AM%20USA-002%2011-19-10%20w-label.pdf",
+                            "id": 5065
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.000074888
+                },
+                {
+                    "recId": 766,
+                    "name": "Copper",
+                    "CASRN": "7440-50-8",
+                    "massPct": 0.0025,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-571",
+                                "type": "red",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        },
+                        {
+                            "name": "ArcelorMittal MSDS",
+                            "url": "http://www.arcelormittalna.com/facilities/americas/Mittal+Steel+USA/documents/Metal%20Coated%20Steel%20Sheet%20AM%20USA-002%2011-19-10%20w-label.pdf",
+                            "id": 5065
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0023402500000000003
+                },
+                {
+                    "recId": 776,
+                    "name": "Vanadium",
+                    "CASRN": "7440-62-2",
+                    "massPct": 0.00008,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-571",
+                                "type": "orange",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-567",
+                                "type": "red",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        },
+                        {
+                            "name": "Steel Dynamics MSDS",
+                            "url": "http://www.stld.com/content/msds/GalvannealSteelSheetCoil-USA-091207.pdf",
+                            "id": 5223
+                        },
+                        {
+                            "name": "ArcelorMittal MSDS",
+                            "url": "http://www.arcelormittalna.com/facilities/americas/Mittal+Steel+USA/documents/Metal%20Coated%20Steel%20Sheet%20AM%20USA-002%2011-19-10%20w-label.pdf",
+                            "id": 5065
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.000074888
+                },
+                {
+                    "recId": 774,
+                    "name": "Sulfur",
+                    "CASRN": "7704-34-9",
+                    "massPct": 0.00035,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        },
+                        {
+                            "name": "ArcelorMittal MSDS",
+                            "url": "http://www.arcelormittalna.com/facilities/americas/Mittal+Steel+USA/documents/Metal%20Coated%20Steel%20Sheet%20AM%20USA-002%2011-19-10%20w-label.pdf",
+                            "id": 5065
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.000327635
+                },
+                {
+                    "recId": 760,
+                    "name": "Manganese",
+                    "CASRN": "7439-96-5",
+                    "massPct": 0.006,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        },
+                        {
+                            "name": "Steel Dynamics MSDS",
+                            "url": "http://www.stld.com/content/msds/GalvannealSteelSheetCoil-USA-091207.pdf",
+                            "id": 5223
+                        },
+                        {
+                            "name": "ArcelorMittal MSDS",
+                            "url": "http://www.arcelormittalna.com/facilities/americas/Mittal+Steel+USA/documents/Metal%20Coated%20Steel%20Sheet%20AM%20USA-002%2011-19-10%20w-label.pdf",
+                            "id": 5065
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0056166
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.9361
+        },
+        {
+            "recId": 1857,
+            "name": "Galvanized Coating (G90)",
+            "CASRN": "",
+            "massPct": 0.0639,
+            "function": "coating",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.0015,
+                        "contributors": [
+                            {
+                                "recId": 784,
+                                "massPct": 0.0015,
+                                "childrenIds": [
+                                    784
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.0015,
+                        "contributors": [
+                            {
+                                "recId": 784,
+                                "massPct": 0.0015,
+                                "childrenIds": [
+                                    784
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.0015,
+                        "contributors": [
+                            {
+                                "recId": 784,
+                                "massPct": 0.0015,
+                                "childrenIds": [
+                                    784
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": 0.9985,
+                        "contributors": [
+                            {
+                                "recId": 782,
+                                "massPct": 0.9985,
+                                "childrenIds": [
+                                    782
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 784,
+                    "name": "Aluminum",
+                    "CASRN": "7429-90-5",
+                    "massPct": 0.0015,
+                    "function": "adhesion promotion",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Ductmate",
+                            "url": "http://www.ductmate.com/cmp-media//cmp-media/NewMSDS/galvanizedsteelproducts.pdf",
+                            "id": 1865
+                        },
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00009585
+                },
+                {
+                    "recId": 782,
+                    "name": "Zinc",
+                    "CASRN": "7440-66-6",
+                    "massPct": 0.9985,
+                    "function": "coating element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Versus",
+                            "url": "http://www.concretenetwork.com/foundation-waterproofing-drainage/dampproofing.html",
+                            "id": 1699
+                        },
+                        {
+                            "name": "Ductmate",
+                            "url": "http://www.ductmate.com/cmp-media//cmp-media/NewMSDS/galvanizedsteelproducts.pdf",
+                            "id": 1865
+                        },
+                        {
+                            "name": "ASTM A653,",
+                            "url": "http://www.astm.org/Standards/A653.htm",
+                            "id": 344
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.06380415
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.0639
+        }
+    ],
+    "impurities": [
+        {
+            "name": null,
+            "CASRN": null,
+            "massPct": 0,
+            "function": null,
+            "sources": [],
+            "hazards": {}
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-577",
+                    "type": "orange",
+                    "name": "Skin Sensitization",
+                    "massPct": 0.003351238,
+                    "contributors": [
+                        {
+                            "recId": 5308,
+                            "massPct": 0.00140415,
+                            "childrenIds": [
+                                5308,
+                                770
+                            ]
+                        },
+                        {
+                            "recId": 5308,
+                            "massPct": 0.0018722,
+                            "childrenIds": [
+                                5308,
+                                768
+                            ]
+                        },
+                        {
+                            "recId": 5308,
+                            "massPct": 0.000074888,
+                            "childrenIds": [
+                                5308,
+                                778
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.011684768,
+                    "contributors": [
+                        {
+                            "recId": 5308,
+                            "massPct": 0.00140415,
+                            "childrenIds": [
+                                5308,
+                                770
+                            ]
+                        },
+                        {
+                            "recId": 5308,
+                            "massPct": 0.00028083,
+                            "childrenIds": [
+                                5308,
+                                9900
+                            ]
+                        },
+                        {
+                            "recId": 5308,
+                            "massPct": 0.0018722,
+                            "childrenIds": [
+                                5308,
+                                768
+                            ]
+                        },
+                        {
+                            "recId": 5308,
+                            "massPct": 0.000074888,
+                            "childrenIds": [
+                                5308,
+                                778
+                            ]
+                        },
+                        {
+                            "recId": 5308,
+                            "massPct": 0.0023402500000000003,
+                            "childrenIds": [
+                                5308,
+                                766
+                            ]
+                        },
+                        {
+                            "recId": 5308,
+                            "massPct": 0.0056166,
+                            "childrenIds": [
+                                5308,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 1857,
+                            "massPct": 0.00009585,
+                            "childrenIds": [
+                                1857,
+                                784
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.009138576,
+                    "contributors": [
+                        {
+                            "recId": 5308,
+                            "massPct": 0.00140415,
+                            "childrenIds": [
+                                5308,
+                                770
+                            ]
+                        },
+                        {
+                            "recId": 5308,
+                            "massPct": 0.0018722,
+                            "childrenIds": [
+                                5308,
+                                768
+                            ]
+                        },
+                        {
+                            "recId": 5308,
+                            "massPct": 0.000074888,
+                            "childrenIds": [
+                                5308,
+                                778
+                            ]
+                        },
+                        {
+                            "recId": 5308,
+                            "massPct": 0.000074888,
+                            "childrenIds": [
+                                5308,
+                                776
+                            ]
+                        },
+                        {
+                            "recId": 5308,
+                            "massPct": 0.0056166,
+                            "childrenIds": [
+                                5308,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 1857,
+                            "massPct": 0.00009585,
+                            "childrenIds": [
+                                1857,
+                                784
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-571",
+                    "type": "orange",
+                    "name": "Mutagenicity",
+                    "massPct": 0.001553926,
+                    "contributors": [
+                        {
+                            "recId": 5308,
+                            "massPct": 0.00140415,
+                            "childrenIds": [
+                                5308,
+                                770
+                            ]
+                        },
+                        {
+                            "recId": 5308,
+                            "massPct": 0.000074888,
+                            "childrenIds": [
+                                5308,
+                                778
+                            ]
+                        },
+                        {
+                            "recId": 5308,
+                            "massPct": 0.000074888,
+                            "childrenIds": [
+                                5308,
+                                776
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-569",
+                    "type": "orange",
+                    "name": "Reproductive",
+                    "massPct": 0.002040698,
+                    "contributors": [
+                        {
+                            "recId": 5308,
+                            "massPct": 0.00140415,
+                            "childrenIds": [
+                                5308,
+                                770
+                            ]
+                        },
+                        {
+                            "recId": 5308,
+                            "massPct": 0.00056166,
+                            "childrenIds": [
+                                5308,
+                                772
+                            ]
+                        },
+                        {
+                            "recId": 5308,
+                            "massPct": 0.000074888,
+                            "childrenIds": [
+                                5308,
+                                778
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.0021530300000000002,
+                    "contributors": [
+                        {
+                            "recId": 5308,
+                            "massPct": 0.00028083,
+                            "childrenIds": [
+                                5308,
+                                9900
+                            ]
+                        },
+                        {
+                            "recId": 5308,
+                            "massPct": 0.0018722,
+                            "childrenIds": [
+                                5308,
+                                768
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.00823768,
+                    "contributors": [
+                        {
+                            "recId": 5308,
+                            "massPct": 0.00028083,
+                            "childrenIds": [
+                                5308,
+                                9900
+                            ]
+                        },
+                        {
+                            "recId": 5308,
+                            "massPct": 0.0023402500000000003,
+                            "childrenIds": [
+                                5308,
+                                766
+                            ]
+                        },
+                        {
+                            "recId": 5308,
+                            "massPct": 0.0056166,
+                            "childrenIds": [
+                                5308,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.00571245,
+                    "contributors": [
+                        {
+                            "recId": 5308,
+                            "massPct": 0.0056166,
+                            "childrenIds": [
+                                5308,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 1857,
+                            "massPct": 0.00009585,
+                            "childrenIds": [
+                                1857,
+                                784
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.06380415,
+                    "contributors": [
+                        {
+                            "recId": 1857,
+                            "massPct": 0.06380415,
+                            "childrenIds": [
+                                1857,
+                                782
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-567",
+                    "type": "red",
+                    "name": "Cancer",
+                    "massPct": 0.001947088,
+                    "contributors": [
+                        {
+                            "recId": 5308,
+                            "massPct": 0.0018722,
+                            "childrenIds": [
+                                5308,
+                                768
+                            ]
+                        },
+                        {
+                            "recId": 5308,
+                            "massPct": 0.000074888,
+                            "childrenIds": [
+                                5308,
+                                776
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-571",
+                    "type": "red",
+                    "name": "Mutagenicity",
+                    "massPct": 0.0023402500000000003,
+                    "contributors": [
+                        {
+                            "recId": 5308,
+                            "massPct": 0.0023402500000000003,
+                            "childrenIds": [
+                                5308,
+                                766
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.0056166,
+                    "contributors": [
+                        {
+                            "recId": 5308,
+                            "massPct": 0.0056166,
+                            "childrenIds": [
+                                5308,
+                                760
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundaries comprise the cradle-to-gate process for manufacturing galvanized steel ducts. Steel is galvanized by a hot dip galvanization process. The final manufacturing process includes the following processing steps to create the final product: Stamping-->Bending. The ducts are joined by a lock seam, and it was assumed there is no welding. Upstream data includes steel manufacturing, energy production, zinc production, and transportation of raw materials to the production facility. A transportation distance of 500 km is assumed. Packaging is excluded. ",
+        "gabiDatasets": [
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "US: Lubricants at refinery"
+            },
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload"
+            },
+            {
+                "name": "NA: Steel hot dip galvanized worldsteel"
+            },
+            {
+                "name": "GLO: Compressed air 7 bar (medium power consumption)"
+            },
+            {
+                "name": "GLO: Steel sheet stamping and bending (5% loss)"
+            },
+            {
+                "name": "US: Electricity grid mix (direct)"
+            }
+        ],
+        "foregroundDataSource": "GaBi 2014",
+        "backforegroundDataSource": "GaBi 2014",
+        "postConsumerRecycledContent": "~41.1% scrap input ",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "97.5% recycled (product has 41.1% steel scrap input; the remainder of steel scrap is processed and credited as avoided burden; no credit is given for the recycling of zinc coating); 2.5% to landfill (ferro metal).",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "1.27E-02"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "5.61E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "2.40E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "5.22E-08"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.91E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "3.10E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "-1.79E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "-8.47E-06"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "-7.56E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "2.64E-08"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "-1.63E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "-6.54E+00"
+                }
+            ]
+        }
+    },
+    "id": "CP095",
+    "name": "Galvanized Steel Ducts",
+    "altNames": [
+        "Steel Ducts",
+        "Duct",
+        "Ductwork"
+    ],
+    "uniformats": [
+        {
+            "id": "D3060",
+            "name": "Ventilation"
+        },
+        {
+            "id": "D3050",
+            "name": "Facility HVAC Distribution Systems"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "23-31-13",
+            "name": "Metal Ducts"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Galvanized steel ducts are the most frequently used duct material for heating, ventilation, and air conditioning (HVAC) systems in commercial and institutional buildings. Galvanized steel ducts may come in round, rectangular, or oval shapes of varying sizes depending upon the application. Galvanized coatings are applied to steel sheets through a hot dip in a 99% pure zinc bath, which reacts with the steel sheet surface to form a coating which protects the steel from corrosion. The HVAC Duct Construction Standards for metal and flexible state that duct work will conform to ASTM A653 and ASTM924 standards for G-60 coated galvanized steel of lockforming grade (also known as commercial steel (CS)), unless otherwise specified. When a CS type is not specified, ASTM A653 recommends furnishing to CS type B. The G in G60 refers to the galvanized (zinc) coating, while the number refers to the weight of zinc on the surface of the steel in inch-pound units. The most commonly used galvanized duct work conforms to G60 or G90. G60 is used commonly for dry indoor ducts while G90 is the minimum requirement for use in any outdoor exposure or wet indoor application. Therefore, most specifications refer to galvanized steel conforming to G90 standards. Ductwork is typically available in 18-28 gauge sizes, but gauges 22-28, especially 26, appear to be the most commonly used. Therefore, this CP describes a 26 gauge G90 galvanzied steel duct conforming to ASTM A653.",
+    "sources": [
+        {
+            "name": "Steel Dynamics MSDS",
+            "url": "http://www.stld.com/content/msds/GalvannealSteelSheetCoil-USA-091207.pdf",
+            "id": 5223
+        },
+        {
+            "name": "ArcelorMittal MSDS",
+            "url": "http://www.arcelormittalna.com/facilities/americas/Mittal+Steel+USA/documents/Metal%20Coated%20Steel%20Sheet%20AM%20USA-002%2011-19-10%20w-label.pdf",
+            "id": 5065
+        },
+        {
+            "name": "Versus",
+            "url": "http://www.concretenetwork.com/foundation-waterproofing-drainage/dampproofing.html",
+            "id": 1699
+        },
+        {
+            "name": "ASTM A653,",
+            "url": "http://www.astm.org/Standards/A653.htm",
+            "id": 344
+        },
+        {
+            "name": "Ductmate",
+            "url": "http://www.ductmate.com/cmp-media//cmp-media/NewMSDS/galvanizedsteelproducts.pdf",
+            "id": 1865
+        },
+        {
+            "name": "AKSteel",
+            "url": "http://www.aksteel.com/pdf/markets_products/carbon/HotDipGalvanized.pdf",
+            "id": 339
+        }
+    ]
+}

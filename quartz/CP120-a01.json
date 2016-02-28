@@ -1,0 +1,776 @@
+{
+  "CPID": "CP120",
+  "timestamp": 1453510075920,
+  "version": "a01",
+  "components": [
+    {
+      "recId": 4162,
+      "name": "Cyclopentane",
+      "CASRN": "287-92-3",
+      "massPct": 0.01903040107,
+      "function": "blowing agent",
+      "hazards": {},
+      "sources": [
+        {
+          "name": "ACH",
+          "url": "http://www.achfoam.com/media/docs/Perform%20Guard/Perform%20Guard%20MSDS.pdf",
+          "id": 4023
+        },
+        {
+          "name": "Foam Control",
+          "url": "http://www.pharosproject.net/uploads/files/sources/1244/1377695736.pdf",
+          "id": 4012
+        },
+        {
+          "name": "Quad-Deck",
+          "url": "http://www.quadlock.com/technical_library/evaluations/Material-Safety-Data-Sheet-Quad-Deck-MSDS.pdf",
+          "id": 4010
+        },
+        {
+          "name": "Dyplast",
+          "url": "http://www.dyplastproducts.com/msds",
+          "id": 4008
+        }
+      ],
+      "notes": "",
+      "lca": "",
+      "massPctOfTotal": 0.01903040107
+    },
+    {
+      "recId": 4161,
+      "name": "Isopentane",
+      "CASRN": "78-78-4",
+      "massPct": 0.01903040107,
+      "function": "blowing agent",
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-568",
+            "type": "orange",
+            "name": "Developmental",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "ACH",
+          "url": "http://www.achfoam.com/media/docs/Perform%20Guard/Perform%20Guard%20MSDS.pdf",
+          "id": 4023
+        },
+        {
+          "name": "Foam Control",
+          "url": "http://www.pharosproject.net/uploads/files/sources/1244/1377695736.pdf",
+          "id": 4012
+        },
+        {
+          "name": "Quad-Deck",
+          "url": "http://www.quadlock.com/technical_library/evaluations/Material-Safety-Data-Sheet-Quad-Deck-MSDS.pdf",
+          "id": 4010
+        },
+        {
+          "name": "Dyplast",
+          "url": "http://www.dyplastproducts.com/msds",
+          "id": 4008
+        },
+        {
+          "name": "Sundolitt",
+          "url": "http://www.sundolitt.se/upload_images/8BF5E6A1FFCB428FBC0F24693429DD83.pdf",
+          "id": 3896
+        }
+      ],
+      "notes": "",
+      "lca": "",
+      "massPctOfTotal": 0.01903040107
+    },
+    {
+      "recId": 4163,
+      "name": "Imidacloprid",
+      "CASRN": "138261-41-3",
+      "massPct": 0.0001903040107,
+      "function": "insecticide",
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-570",
+            "type": "orange",
+            "name": "Endocrine",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "Plastifab",
+          "url": "http://www.plastifab.com/pdf/technical-library/pibs/plastifab/PIB%20269%20-%20ICC-ES%20Evaluation%20Report%20ESR-1587%20-%20PlastiSpan%20Insulation.pdf",
+          "id": 4030
+        },
+        {
+          "name": "Bergstrom",
+          "url": "https://www.google.com/patents/US20100016468?dq=US+2010/0016468+A&hl=en&sa=X&ei=wQQTVc61BcL_ggS_5oCwDA&ved=0CB4Q6AEwAA",
+          "id": 4029
+        },
+        {
+          "name": "Commerce",
+          "url": "http://e-foia.uspto.gov/Foia/RetrievePdf?system=BPAI&flNm=fd2013009662-01-23-2015-1",
+          "id": 4027
+        },
+        {
+          "name": "Logix",
+          "url": "http://logixicf.com/index.php?o=page&id=focus-on-logix&mode=product",
+          "id": 4019
+        },
+        {
+          "name": "Cellofoam",
+          "url": "http://colonialgreenproducts.com/eps_insect_resistant.pdf",
+          "id": 4017
+        }
+      ],
+      "notes": "",
+      "lca": "",
+      "massPctOfTotal": 0.0001903040107
+    },
+    {
+      "recId": 4160,
+      "name": "Pentane",
+      "CASRN": "109-66-0",
+      "massPct": 0.01903040107,
+      "function": "blowing agent",
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-568",
+            "type": "orange",
+            "name": "Developmental",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "ACH",
+          "url": "http://www.achfoam.com/media/docs/Perform%20Guard/Perform%20Guard%20MSDS.pdf",
+          "id": 4023
+        },
+        {
+          "name": "Bayer",
+          "url": "http://styropor.basf.us/files/pdf/STYROPOR_EPS-EPD-IVH-2009111-EN.pdf",
+          "id": 4014
+        },
+        {
+          "name": "Foam Control",
+          "url": "http://www.pharosproject.net/uploads/files/sources/1244/1377695736.pdf",
+          "id": 4012
+        },
+        {
+          "name": "Quad-Deck",
+          "url": "http://www.quadlock.com/technical_library/evaluations/Material-Safety-Data-Sheet-Quad-Deck-MSDS.pdf",
+          "id": 4010
+        },
+        {
+          "name": "Dyplast",
+          "url": "http://www.dyplastproducts.com/msds",
+          "id": 4008
+        },
+        {
+          "name": "RayLite",
+          "url": "http://www.diversifoam.com/RayLite-msds.pdf",
+          "id": 4005
+        },
+        {
+          "name": "Sundolitt",
+          "url": "http://www.sundolitt.se/upload_images/8BF5E6A1FFCB428FBC0F24693429DD83.pdf",
+          "id": 3896
+        }
+      ],
+      "notes": "",
+      "lca": "",
+      "massPctOfTotal": 0.01903040107
+    },
+    {
+      "recId": 3918,
+      "name": "Polystyrene",
+      "CASRN": "9003-53-6",
+      "massPct": 0.9324896522,
+      "function": "polymer",
+      "hazards": {},
+      "sources": [
+        {
+          "name": "ACH",
+          "url": "http://www.achfoam.com/media/docs/Perform%20Guard/Perform%20Guard%20MSDS.pdf",
+          "id": 4023
+        },
+        {
+          "name": "Bayer",
+          "url": "http://styropor.basf.us/files/pdf/STYROPOR_EPS-EPD-IVH-2009111-EN.pdf",
+          "id": 4014
+        },
+        {
+          "name": "Foam Control",
+          "url": "http://www.pharosproject.net/uploads/files/sources/1244/1377695736.pdf",
+          "id": 4012
+        },
+        {
+          "name": "Quad-Deck",
+          "url": "http://www.quadlock.com/technical_library/evaluations/Material-Safety-Data-Sheet-Quad-Deck-MSDS.pdf",
+          "id": 4010
+        },
+        {
+          "name": "Dyplast",
+          "url": "http://www.dyplastproducts.com/msds",
+          "id": 4008
+        },
+        {
+          "name": "RayLite",
+          "url": "http://www.diversifoam.com/RayLite-msds.pdf",
+          "id": 4005
+        },
+        {
+          "name": "Sundolitt",
+          "url": "http://www.sundolitt.se/upload_images/8BF5E6A1FFCB428FBC0F24693429DD83.pdf",
+          "id": 3896
+        }
+      ],
+      "notes": "",
+      "lca": "yes",
+      "massPctOfTotal": 0.9324896522
+    },
+    {
+      "recId": 3920,
+      "name": "Hexabromocyclododecane (HBCD)",
+      "CASRN": "3194-55-6",
+      "massPct": 0.009515200533,
+      "function": "flame retardant",
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-569",
+            "type": "orange",
+            "name": "Reproductive",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          },
+          {
+            "hazardId": "orange-570",
+            "type": "orange",
+            "name": "Endocrine",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          }
+        ],
+        "red": [
+          {
+            "hazardId": "red-568",
+            "type": "red",
+            "name": "Developmental",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          }
+        ],
+        "purple": [
+          {
+            "hazardId": "purple-955",
+            "type": "purple",
+            "name": "PBT",
+            "massPct": null,
+            "contributors": [
+              {}
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "ACH",
+          "url": "http://www.achfoam.com/media/docs/Perform%20Guard/Perform%20Guard%20MSDS.pdf",
+          "id": 4023
+        },
+        {
+          "name": "Bayer",
+          "url": "http://styropor.basf.us/files/pdf/STYROPOR_EPS-EPD-IVH-2009111-EN.pdf",
+          "id": 4014
+        },
+        {
+          "name": "Foam Control",
+          "url": "http://www.pharosproject.net/uploads/files/sources/1244/1377695736.pdf",
+          "id": 4012
+        },
+        {
+          "name": "Quad-Deck",
+          "url": "http://www.quadlock.com/technical_library/evaluations/Material-Safety-Data-Sheet-Quad-Deck-MSDS.pdf",
+          "id": 4010
+        },
+        {
+          "name": "RayLite",
+          "url": "http://www.diversifoam.com/RayLite-msds.pdf",
+          "id": 4005
+        }
+      ],
+      "notes": "",
+      "lca": "yes",
+      "massPctOfTotal": 0.009515200533
+    }
+  ],
+  "impurities": [
+    {
+      "name": "Styrene",
+      "CASRN": "100-42-5",
+      "massPct": 0.00071364004,
+      "function": "polystyrene residual",
+      "sources": [
+        {
+          "name": "Foam Control",
+          "url": "http://www.pharosproject.net/uploads/files/sources/1244/1377695736.pdf",
+          "id": 4012
+        },
+        {
+          "name": "Quad-Deck",
+          "url": "http://www.quadlock.com/technical_library/evaluations/Material-Safety-Data-Sheet-Quad-Deck-MSDS.pdf",
+          "id": 4010
+        },
+        {
+          "name": "Dyplast",
+          "url": "http://www.dyplastproducts.com/msds",
+          "id": 4008
+        }
+      ],
+      "hazards": {
+        "orange": [
+          {
+            "hazardId": "orange-572",
+            "type": "orange",
+            "name": "Respiratory"
+          },
+          {
+            "hazardId": "orange-578",
+            "type": "orange",
+            "name": "Organ Toxicant"
+          },
+          {
+            "hazardId": "orange-571",
+            "type": "orange",
+            "name": "Mutagenicity"
+          },
+          {
+            "hazardId": "orange-570",
+            "type": "orange",
+            "name": "Endocrine"
+          },
+          {
+            "hazardId": "orange-568",
+            "type": "orange",
+            "name": "Developmental"
+          }
+        ],
+        "red": [
+          {
+            "hazardId": "red-567",
+            "type": "red",
+            "name": "Cancer"
+          }
+        ]
+      }
+    }
+  ],
+  "health": {
+    "hazards": {
+      "orange": [
+        {
+          "hazardId": "orange-568",
+          "type": "orange",
+          "name": "Developmental",
+          "massPct": 0.03806080214,
+          "contributors": [
+            {
+              "recId": 4161,
+              "massPct": 0.01903040107,
+              "childrenIds": [
+                4161
+              ]
+            },
+            {
+              "recId": 4160,
+              "massPct": 0.01903040107,
+              "childrenIds": [
+                4160
+              ]
+            }
+          ]
+        },
+        {
+          "hazardId": "orange-570",
+          "type": "orange",
+          "name": "Endocrine",
+          "massPct": 0.0097055045437,
+          "contributors": [
+            {
+              "recId": 4163,
+              "massPct": 0.0001903040107,
+              "childrenIds": [
+                4163
+              ]
+            },
+            {
+              "recId": 3920,
+              "massPct": 0.009515200533,
+              "childrenIds": [
+                3920
+              ]
+            }
+          ]
+        },
+        {
+          "hazardId": "orange-569",
+          "type": "orange",
+          "name": "Reproductive",
+          "massPct": 0.009515200533,
+          "contributors": [
+            {
+              "recId": 3920,
+              "massPct": 0.009515200533,
+              "childrenIds": [
+                3920
+              ]
+            }
+          ]
+        }
+      ],
+      "red": [
+        {
+          "hazardId": "red-568",
+          "type": "red",
+          "name": "Developmental",
+          "massPct": 0.009515200533,
+          "contributors": [
+            {
+              "recId": 3920,
+              "massPct": 0.009515200533,
+              "childrenIds": [
+                3920
+              ]
+            }
+          ]
+        }
+      ],
+      "purple": [
+        {
+          "hazardId": "purple-955",
+          "type": "purple",
+          "name": "PBT",
+          "massPct": 0.009515200533,
+          "contributors": [
+            {
+              "recId": 3920,
+              "massPct": 0.009515200533,
+              "childrenIds": [
+                3920
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "environmental": {
+    "systemBoundary": "The foam is produced from a normal plastic which is turned into a porous material by inflating it with a blowing agent. The plastic, which is expandable polystyrene, is manufactured by suspension polymerization of polystyrene. Small EPS beads are formed. After that a blowing agent is added. This can be a low- boiling hydrocarbon like pentane or butane. The foaming process takes place in three steps: prefoaming, intermediate storage, final foaming. During the first step, the plastic beads are heated and softened. The blowing agent evaporates and bubbles filling the plastic and increasing the bead diameter are formed. In the second step, another molding process takes place, in which air is used as an additional blowing agent and allows the material to withstand the external atmospheric pressure when the finished part is removed from the mold. In the third step, perforated molds are filled with the prefoamed beads and exposed to steam. The beads expand and fill the pores. The temperature range during prefoaming and final foaming is from 85 to 120°C. To achieve flame- proof foams, the surface can be coated with organobromine compounds like hexabromocyclododecane.",
+    "gabiDatasets": [
+      {
+        "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+      },
+      {
+        "name": "US: Diesel mix at filling station"
+      },
+      {
+        "name": "DE: Hexabromododecane (HBCD, 1,2,5,6,9,10-Hexabromododecane)"
+      },
+      {
+        "name": "DE: EPS-Foam (expanded polystyrene foam (PS 12))"
+      }
+    ],
+    "foregroundDataSource": "GaBi",
+    "backforegroundDataSource": "GaBi",
+    "postConsumerRecycledContent": "0%",
+    "referenceCountry": "United States",
+    "referenceYear": "2015",
+    "endOfLifeTreatment": "Due to addition of polybrominated flame retardant, assume 94% to landfill (plastic). All blowing agents released during use stage. ",
+    "inUseNotes": "5.7% blowing agent released as pentane",
+    "lcaResults": {
+      "cradleToGate": [
+        {
+          "name": "Acidification Potential",
+          "unit": "kg SO2 eq",
+          "value": "6.46E-03"
+        },
+        {
+          "name": "Eutrophication Potential",
+          "unit": "kg N eq",
+          "value": "3.66E-04"
+        },
+        {
+          "name": "Global Warming Potential",
+          "unit": "kg CO2 eq",
+          "value": "3.12E+00"
+        },
+        {
+          "name": "Ozone Depletion Potential",
+          "unit": "kg CFC-11 eq",
+          "value": "1.86E-10"
+        },
+        {
+          "name": "Smog Formation Potential",
+          "unit": "kg O3 eq",
+          "value": "1.57E-01"
+        },
+        {
+          "name": "Primary Energy Demand",
+          "unit": "MJ",
+          "value": "9.18E+01"
+        }
+      ],
+      "inUse": [
+        {
+          "name": "Acidification Potential",
+          "unit": "kg SO2 eq",
+          "value": "0.00E+00"
+        },
+        {
+          "name": "Eutrophication Potential",
+          "unit": "kg N eq",
+          "value": "0.00E+00"
+        },
+        {
+          "name": "Global Warming Potential",
+          "unit": "kg CO2 eq",
+          "value": "0.00E+00"
+        },
+        {
+          "name": "Ozone Depletion Potential",
+          "unit": "kg CFC-11 eq",
+          "value": "0.00E+00"
+        },
+        {
+          "name": "Smog Formation Potential",
+          "unit": "kg O3 eq",
+          "value": "7.47E-02"
+        },
+        {
+          "name": "Primary Energy Demand",
+          "unit": "MJ",
+          "value": "0.00E+00"
+        }
+      ],
+      "endOfLife": [
+        {
+          "name": "Acidification Potential",
+          "unit": "kg SO2 eq",
+          "value": "6.83E-04"
+        },
+        {
+          "name": "Eutrophication Potential",
+          "unit": "kg N eq",
+          "value": "2.53E-04"
+        },
+        {
+          "name": "Global Warming Potential",
+          "unit": "kg CO2 eq",
+          "value": "4.72E-02"
+        },
+        {
+          "name": "Ozone Depletion Potential",
+          "unit": "kg CFC-11 eq",
+          "value": "1.06E-12"
+        },
+        {
+          "name": "Smog Formation Potential",
+          "unit": "kg O3 eq",
+          "value": "6.17E-03"
+        },
+        {
+          "name": "Primary Energy Demand",
+          "unit": "MJ",
+          "value": "7.76E-01"
+        }
+      ]
+    }
+  },
+  "id": "CP120",
+  "name": "EPS Insulation",
+  "altNames": [
+    "EPS"
+  ],
+  "uniformats": [
+    {
+      "id": "B2010",
+      "name": "Exterior Walls"
+    },
+    {
+      "id": "B1020",
+      "name": "Roof Construction"
+    }
+  ],
+  "masterformats": [
+    {
+      "id": "07-21-19",
+      "name": "Foamed-in-Place Insulation"
+    }
+  ],
+  "recordType": "Common",
+  "description": "ASTM C578 defines expanded polystyrene (EPS) thermal insulation as a, \"cellular plastic product manufactured from pre-expanded polystyrene beads subsequently molded into desired shapes and sizes resulting in a product which is rigid with closed cellular structure.\" EPS foams fall into ASTM C578 Types I, II, VII, IX, XI, XIV, and XV. Rigid EPS foam boards contain flame retardants in quantities sufficient to meet standards outlined in the ASTM standard. This CP describes unfaced, rigid EPS foam insulation boards suitable for a range of insulating applications.",
+  "sources": [
+    {
+      "name": "Sundolitt",
+      "url": "http://www.sundolitt.se/upload_images/8BF5E6A1FFCB428FBC0F24693429DD83.pdf",
+      "id": 3896
+    },
+    {
+      "name": "Plastifab",
+      "url": "http://www.plastifab.com/pdf/technical-library/pibs/plastifab/PIB%20269%20-%20ICC-ES%20Evaluation%20Report%20ESR-1587%20-%20PlastiSpan%20Insulation.pdf",
+      "id": 4030
+    },
+    {
+      "name": "Preventol MSDS",
+      "url": "http://www.westernchemicals.com.ve/descargas/Industria%20petrolera/Preventol%20CI7-100/MSDS%20PREVENTOL%20CI7-100%20%28Ingles%29.pdf",
+      "id": 4028
+    },
+    {
+      "name": "Bergstrom",
+      "url": "https://www.google.com/patents/US20100016468?dq=US+2010/0016468+A&hl=en&sa=X&ei=wQQTVc61BcL_ggS_5oCwDA&ved=0CB4Q6AEwAA",
+      "id": 4029
+    },
+    {
+      "name": "Commerce",
+      "url": "http://e-foia.uspto.gov/Foia/RetrievePdf?system=BPAI&flNm=fd2013009662-01-23-2015-1",
+      "id": 4027
+    },
+    {
+      "name": "ACH",
+      "url": "http://www.achfoam.com/media/docs/Perform%20Guard/Perform%20Guard%20MSDS.pdf",
+      "id": 4023
+    },
+    {
+      "name": "Building Code",
+      "url": "http://publicecodes.cyberregs.com/icod/ibc/2006f2/icod_ibc_2006f2_26_par031.htm",
+      "id": 4026
+    },
+    {
+      "name": "ACH brochure",
+      "url": "http://www.achfoam.com/media/docs/Perform%20Guard/Foam-Control%20Perform%20Guard.pdf",
+      "id": 4024
+    },
+    {
+      "name": "Technical Review",
+      "url": "insulation.owenscorning.com/WorkArea/DownloadAsset.aspx?id=978",
+      "id": 4025
+    },
+    {
+      "name": "EPS Insect",
+      "url": "http://www.epsindustry.org/building-construction/insect-infestation",
+      "id": 4022
+    },
+    {
+      "name": "Cellofoam MSDS",
+      "url": "http://cellofoam.com/BuildingProducts/materialsafetyds.html",
+      "id": 4018
+    },
+    {
+      "name": "LanXESS",
+      "url": "http://lanxess.us/en/us-media/us-news/lanxess-corporation-earns-epa-approval-for-imidacloprid-based-ter/4/",
+      "id": 4021
+    },
+    {
+      "name": "Logix",
+      "url": "http://logixicf.com/index.php?o=page&id=focus-on-logix&mode=product",
+      "id": 4019
+    },
+    {
+      "name": "Logix MSDS",
+      "url": "http://logixicf.com/media/library/product_manual/8_2%20MSDS54d012a1e1efc.pdf",
+      "id": 4020
+    },
+    {
+      "name": "Cellofoam",
+      "url": "http://colonialgreenproducts.com/eps_insect_resistant.pdf",
+      "id": 4017
+    },
+    {
+      "name": "Bayer",
+      "url": "http://styropor.basf.us/files/pdf/STYROPOR_EPS-EPD-IVH-2009111-EN.pdf",
+      "id": 4014
+    },
+    {
+      "name": "Mag",
+      "url": "http://www.icfmag.com/articles/features/foam_differences.html",
+      "id": 4016
+    },
+    {
+      "name": "Foam Control",
+      "url": "http://www.pharosproject.net/uploads/files/sources/1244/1377695736.pdf",
+      "id": 4012
+    },
+    {
+      "name": "C578",
+      "url": "http://www.astm.org/Standards/C578.htm",
+      "id": 4015
+    },
+    {
+      "name": "Foam Control EPS",
+      "url": "http://www.foam-control.com/foam-control/downloads/brochure/Foam-Control%20EPS%20-%20TechData.pdf",
+      "id": 4013
+    },
+    {
+      "name": "Quad-Deck",
+      "url": "http://www.quadlock.com/technical_library/evaluations/Material-Safety-Data-Sheet-Quad-Deck-MSDS.pdf",
+      "id": 4010
+    },
+    {
+      "name": "Quad-Deck TDS",
+      "url": "http://www.quadlock.com/technical_library/bulletins/Insulated-Concrete-Floors-Technical-Summary-Specs.pdf",
+      "id": 4011
+    },
+    {
+      "name": "Dyplast TDS",
+      "url": "http://www.dyplastproducts.com/data-sheet",
+      "id": 4009
+    },
+    {
+      "name": "Dyplast",
+      "url": "http://www.dyplastproducts.com/msds",
+      "id": 4008
+    },
+    {
+      "name": "RayLite Listings",
+      "url": "http://www.diversifoam.com/construction.htm",
+      "id": 4007
+    },
+    {
+      "name": "RayLite TDS",
+      "url": "http://www.diversifoam.com/RayLite%20Product%20Guide.pdf",
+      "id": 4006
+    },
+    {
+      "name": "Sudolitt",
+      "url": "http://www.sundolitt.se/upload_images/62A62F2EB54E48B88F988FC0F55B67D5.pdf",
+      "id": 4004
+    },
+    {
+      "name": "RayLite",
+      "url": "http://www.diversifoam.com/RayLite-msds.pdf",
+      "id": 4005
+    }
+  ]
+}

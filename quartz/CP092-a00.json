@@ -1,0 +1,676 @@
+{
+    "CPID": "CP092",
+    "timestamp": 1452102123075,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 1963,
+            "name": "Copper Alloy C12200",
+            "CASRN": "",
+            "massPct": 1,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization",
+                        "massPct": 0.0008,
+                        "contributors": [
+                            {
+                                "recId": 1964,
+                                "massPct": 0.0008,
+                                "childrenIds": [
+                                    1964
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 1,
+                        "contributors": [
+                            {
+                                "recId": 1964,
+                                "massPct": 0.0008,
+                                "childrenIds": [
+                                    1964
+                                ]
+                            },
+                            {
+                                "recId": 766,
+                                "massPct": 0.999,
+                                "childrenIds": [
+                                    766
+                                ]
+                            },
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0002,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.9992,
+                        "contributors": [
+                            {
+                                "recId": 766,
+                                "massPct": 0.999,
+                                "childrenIds": [
+                                    766
+                                ]
+                            },
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0002,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": 0.0002,
+                        "contributors": [
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0002,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity",
+                        "massPct": 0.999,
+                        "contributors": [
+                            {
+                                "recId": 766,
+                                "massPct": 0.999,
+                                "childrenIds": [
+                                    766
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 1964,
+                    "name": "Silver",
+                    "CASRN": "7440-22-4",
+                    "massPct": 0.0008,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-577",
+                                "type": "orange",
+                                "name": "Skin Sensitization",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "CDI",
+                            "url": "http://www.copper.org/applications/plumbing/techref/tpf_stds/tube_pipe_stds.html",
+                            "id": 1981
+                        },
+                        {
+                            "name": "ASTM B88",
+                            "url": "https://law.resource.org/pub/us/cfr/ibr/003/astm.b88.1996.pdf",
+                            "id": 1986
+                        },
+                        {
+                            "name": "NOAA",
+                            "url": " http://www.glerl.noaa.gov/pubs/fulltext/2004/20040039.pdf",
+                            "id": 1994
+                        },
+                        {
+                            "name": "Woods Hole",
+                            "url": "http://archive.org/stream/coppercopperbase00wilk/coppercopperbase00wilk_djvu.txt",
+                            "id": 1993
+                        }
+                    ],
+                    "notes": "Some copper pipe is made with \"lake copper,\" which contains very small amounts of silver.  Silver is included in this CP to be consistent with specifications allowing its presence.",
+                    "lca": "",
+                    "massPctOfTotal": 0.0008
+                },
+                {
+                    "recId": 766,
+                    "name": "Copper",
+                    "CASRN": "7440-50-8",
+                    "massPct": 0.999,
+                    "function": "base metal",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-571",
+                                "type": "red",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "CDI",
+                            "url": "http://www.copper.org/applications/plumbing/techref/tpf_stds/tube_pipe_stds.html",
+                            "id": 1981
+                        },
+                        {
+                            "name": "National Tube",
+                            "url": "http://www.nationaltube.com/ncstestpage/docs/AlC12200.pdf",
+                            "id": 1983
+                        },
+                        {
+                            "name": "Alaskan",
+                            "url": "http://www.alascop.com/pdf/cu/water_tubing_2.pdf",
+                            "id": 1984
+                        },
+                        {
+                            "name": "ASTM B88",
+                            "url": "https://law.resource.org/pub/us/cfr/ibr/003/astm.b88.1996.pdf",
+                            "id": 1986
+                        },
+                        {
+                            "name": "Thyssen",
+                            "url": "http://www.tkmna.com/wcm/idc/groups/internet/documents/web_content/mdaw/mdi2/~edisp/d_004663.pdf",
+                            "id": 1990
+                        },
+                        {
+                            "name": "Drawn",
+                            "url": "http://drawnmetal.com/wp-content/uploads/2013/11/CDA_122.pdf",
+                            "id": 1991
+                        },
+                        {
+                            "name": "ASTM B152",
+                            "url": "https://law.resource.org/pub/us/cfr/ibr/003/astm.b152.1997.pdf",
+                            "id": 1992
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.999
+                },
+                {
+                    "recId": 9900,
+                    "name": "Phosphorus",
+                    "CASRN": "7723-14-0",
+                    "massPct": 0.0002,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "CDI",
+                            "url": "http://www.copper.org/applications/plumbing/techref/tpf_stds/tube_pipe_stds.html",
+                            "id": 1981
+                        },
+                        {
+                            "name": "National Tube",
+                            "url": "http://www.nationaltube.com/ncstestpage/docs/AlC12200.pdf",
+                            "id": 1983
+                        },
+                        {
+                            "name": "Alaskan",
+                            "url": "http://www.alascop.com/pdf/cu/water_tubing_2.pdf",
+                            "id": 1984
+                        },
+                        {
+                            "name": "ASTM B88",
+                            "url": "https://law.resource.org/pub/us/cfr/ibr/003/astm.b88.1996.pdf",
+                            "id": 1986
+                        },
+                        {
+                            "name": "Thyssen",
+                            "url": "http://www.tkmna.com/wcm/idc/groups/internet/documents/web_content/mdaw/mdi2/~edisp/d_004663.pdf",
+                            "id": 1990
+                        },
+                        {
+                            "name": "Drawn",
+                            "url": "http://drawnmetal.com/wp-content/uploads/2013/11/CDA_122.pdf",
+                            "id": 1991
+                        },
+                        {
+                            "name": "ASTM B152",
+                            "url": "https://law.resource.org/pub/us/cfr/ibr/003/astm.b152.1997.pdf",
+                            "id": 1992
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0002
+                }
+            ],
+            "sources": [
+                {
+                    "name": "CDI",
+                    "url": "http://www.copper.org/applications/plumbing/techref/tpf_stds/tube_pipe_stds.html",
+                    "id": 1981
+                },
+                {
+                    "name": "Alaskan",
+                    "url": "http://www.alascop.com/pdf/cu/water_tubing_2.pdf",
+                    "id": 1984
+                },
+                {
+                    "name": "B88",
+                    "url": "http://www.astm.org/Standards/B88.htm",
+                    "id": 1980
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 1
+        }
+    ],
+    "impurities": [
+        {
+            "name": null,
+            "CASRN": null,
+            "massPct": 0,
+            "function": null,
+            "sources": [],
+            "hazards": {}
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-577",
+                    "type": "orange",
+                    "name": "Skin Sensitization",
+                    "massPct": 0.0008,
+                    "contributors": [
+                        {
+                            "recId": 1963,
+                            "massPct": 0.0008,
+                            "childrenIds": [
+                                1963,
+                                1964
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 1,
+                    "contributors": [
+                        {
+                            "recId": 1963,
+                            "massPct": 0.0008,
+                            "childrenIds": [
+                                1963,
+                                1964
+                            ]
+                        },
+                        {
+                            "recId": 1963,
+                            "massPct": 0.999,
+                            "childrenIds": [
+                                1963,
+                                766
+                            ]
+                        },
+                        {
+                            "recId": 1963,
+                            "massPct": 0.0002,
+                            "childrenIds": [
+                                1963,
+                                9900
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.9992,
+                    "contributors": [
+                        {
+                            "recId": 1963,
+                            "massPct": 0.999,
+                            "childrenIds": [
+                                1963,
+                                766
+                            ]
+                        },
+                        {
+                            "recId": 1963,
+                            "massPct": 0.0002,
+                            "childrenIds": [
+                                1963,
+                                9900
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.0002,
+                    "contributors": [
+                        {
+                            "recId": 1963,
+                            "massPct": 0.0002,
+                            "childrenIds": [
+                                1963,
+                                9900
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-571",
+                    "type": "red",
+                    "name": "Mutagenicity",
+                    "massPct": 0.999,
+                    "contributors": [
+                        {
+                            "recId": 1963,
+                            "massPct": 0.999,
+                            "childrenIds": [
+                                1963,
+                                766
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundary is defined as cradle-to-gate and ends with the finished product at the factory gate. Inbound transportation of significant upstream materials is included. This dataset is based on industry data collected from European companies. The production route encompasses the following steps: mining and processing (concentrate production), hydrometallurgy (leaching, solvent extraction, electro winning) and pyrometallurgy (smelting, converting, fire refining, electrolytic refining). Copper cathodes are produced from both, the hydro- and the pyrometallurgical route. The semifabrication process for copper tube includes the process steps melting and alloying, extrusion and drawing. Raw materials for the production are copper ore and scrap (pyrometallurgy), as well as clean scrap (semifabrication).",
+        "gabiDatasets": [
+            {
+                "name": "EU27: Copper pipe mix"
+            }
+        ],
+        "foregroundDataSource": "European Copper Institute & German Copper Institute",
+        "backforegroundDataSource": "n/a",
+        "postConsumerRecycledContent": "45%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "65% of the copper tube is assumed to be recycled, with the remainder sent to landfill. After accounting for the 45% recycled content, the remaining 20% is sent through a recycling process, then a credit is applied to the system for the avoided production of virigin copper cathode.",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "8.78E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "3.46E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "2.19E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "3.97E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.17E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "2.86E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "-3.35E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "-1.20E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "-6.04E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "-6.40E-11"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "-3.32E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "-9.39E+00"
+                }
+            ]
+        }
+    },
+    "id": "CP092",
+    "name": "Copper Piping",
+    "altNames": [
+        "Water pipe",
+        "Type M hard temper copper pipe",
+        "Copper pipe"
+    ],
+    "uniformats": [
+        {
+            "id": "D3050",
+            "name": "Facility HVAC Distribution Systems"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "23-22-13",
+            "name": "Steam and Condensate Heating Piping"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Water lines are constructed with Type M, hard temper copper alloy C12200.  Type refers to the thickness of the pipe wall; Type M is the thinnest of the types identified in ASTM B88.  The pipes are seamless and identifiable by a red stripe where trademark  and country of origin information is stamped.  California Building Code indicates that most solders referenced in ASTM B 32 can be used to join copper pipes for potable water systems. ",
+    "sources": [
+        {
+            "name": "NOAA",
+            "url": " http://www.glerl.noaa.gov/pubs/fulltext/2004/20040039.pdf",
+            "id": 1994
+        },
+        {
+            "name": "Woods Hole",
+            "url": "http://archive.org/stream/coppercopperbase00wilk/coppercopperbase00wilk_djvu.txt",
+            "id": 1993
+        },
+        {
+            "name": "ASTM B152",
+            "url": "https://law.resource.org/pub/us/cfr/ibr/003/astm.b152.1997.pdf",
+            "id": 1992
+        },
+        {
+            "name": "Drawn",
+            "url": "http://drawnmetal.com/wp-content/uploads/2013/11/CDA_122.pdf",
+            "id": 1991
+        },
+        {
+            "name": "Thyssen",
+            "url": "http://www.tkmna.com/wcm/idc/groups/internet/documents/web_content/mdaw/mdi2/~edisp/d_004663.pdf",
+            "id": 1990
+        },
+        {
+            "name": "Code",
+            "url": "http://www.iapmo.org/2010%20California%20Plumbing%20Code/Appendices/Appendix%20I/IS%2003.pdf",
+            "id": 1989
+        },
+        {
+            "name": "CSLB",
+            "url": "http://cslb.ca.gov/Newsletter/2013-Spring/copperpipe.asp",
+            "id": 1988
+        },
+        {
+            "name": "Cerro",
+            "url": "http://www.cerroflow.com/pdfs/CFP-2418_Cerrotube_FINAL_LORES.pdf",
+            "id": 1987
+        },
+        {
+            "name": "ASTM B88",
+            "url": "https://law.resource.org/pub/us/cfr/ibr/003/astm.b88.1996.pdf",
+            "id": 1986
+        },
+        {
+            "name": "Petersen",
+            "url": "http://www.petersenproducts.com/Specifications/Pipe_Copper.aspx",
+            "id": 1985
+        },
+        {
+            "name": "Alaskan",
+            "url": "http://www.alascop.com/pdf/cu/water_tubing_2.pdf",
+            "id": 1984
+        },
+        {
+            "name": "National Tube",
+            "url": "http://www.nationaltube.com/ncstestpage/docs/AlC12200.pdf",
+            "id": 1983
+        },
+        {
+            "name": "Handbook",
+            "url": "http://www.copper.org/publications/pub_list/pdf/copper_tube_handbook.pdf",
+            "id": 1982
+        },
+        {
+            "name": "CDI",
+            "url": "http://www.copper.org/applications/plumbing/techref/tpf_stds/tube_pipe_stds.html",
+            "id": 1981
+        },
+        {
+            "name": "B88",
+            "url": "http://www.astm.org/Standards/B88.htm",
+            "id": 1980
+        }
+    ]
+}

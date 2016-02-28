@@ -1,0 +1,3305 @@
+{
+    "CPID": "CP100",
+    "timestamp": 1452102125927,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 2066,
+            "name": "Chromate Pretreatment for Steel",
+            "CASRN": null,
+            "massPct": 0.000001,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization",
+                        "massPct": 1,
+                        "contributors": [
+                            {
+                                "recId": 3113,
+                                "massPct": 0.02,
+                                "childrenIds": [
+                                    3113
+                                ]
+                            },
+                            {
+                                "recId": 3112,
+                                "massPct": 0.98,
+                                "childrenIds": [
+                                    3112
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 1,
+                        "contributors": [
+                            {
+                                "recId": 3113,
+                                "massPct": 0.02,
+                                "childrenIds": [
+                                    3113
+                                ]
+                            },
+                            {
+                                "recId": 3112,
+                                "massPct": 0.98,
+                                "childrenIds": [
+                                    3112
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": 0.02,
+                        "contributors": [
+                            {
+                                "recId": 3113,
+                                "massPct": 0.02,
+                                "childrenIds": [
+                                    3113
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 1,
+                        "contributors": [
+                            {
+                                "recId": 3113,
+                                "massPct": 0.02,
+                                "childrenIds": [
+                                    3113
+                                ]
+                            },
+                            {
+                                "recId": 3112,
+                                "massPct": 0.98,
+                                "childrenIds": [
+                                    3112
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity",
+                        "massPct": 1,
+                        "contributors": [
+                            {
+                                "recId": 3113,
+                                "massPct": 0.02,
+                                "childrenIds": [
+                                    3113
+                                ]
+                            },
+                            {
+                                "recId": 3112,
+                                "massPct": 0.98,
+                                "childrenIds": [
+                                    3112
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": 0.98,
+                        "contributors": [
+                            {
+                                "recId": 3112,
+                                "massPct": 0.98,
+                                "childrenIds": [
+                                    3112
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": 0.02,
+                        "contributors": [
+                            {
+                                "recId": 3113,
+                                "massPct": 0.02,
+                                "childrenIds": [
+                                    3113
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 3113,
+                    "name": "Cobalt Nitrate, Hexahydrate",
+                    "CASRN": "10026-22-9",
+                    "massPct": 0.02,
+                    "function": "additional corrosion protection",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-577",
+                                "type": "orange",
+                                "name": "Skin Sensitization",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-571",
+                                "type": "orange",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-567",
+                                "type": "red",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "SurTec 680 LC",
+                            "url": "http://www.surtec.com/ecomaXL/files/surtec_5317459381418130160680LCE.pdf&download=1",
+                            "id": 4842
+                        },
+                        {
+                            "name": "SurTec 680",
+                            "url": "http://www.surtec.com/ecomaXL/files/surtec_6644562951418130159680E.pdf&download=1",
+                            "id": 4841
+                        },
+                        {
+                            "name": "US20070243397",
+                            "url": "https://www.google.com/patents/US20070243397",
+                            "id": 4845
+                        },
+                        {
+                            "name": "CN103741128A",
+                            "url": "https://www.google.com/patents/CN103741128A",
+                            "id": 4844
+                        },
+                        {
+                            "name": "US6287704",
+                            "url": "https://www.google.com/patents/US6287704",
+                            "id": 4843
+                        },
+                        {
+                            "name": "TURI",
+                            "url": "http://www.turi.org/content/download/8713/145357/file/2006%20M&P%20Report%20Special%20Five%20Chemicals%20Alternatives%20Assessments.pdf",
+                            "id": 4830
+                        },
+                        {
+                            "name": "ECHA",
+                            "url": "http://echa.europa.eu/documents/10162/6adce2d9-590a-4cea-b9f3-0da9ca176e89",
+                            "id": 4847
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 2e-8
+                },
+                {
+                    "recId": 3112,
+                    "name": "Trivalent Chromium",
+                    "CASRN": "7440-47-3",
+                    "massPct": 0.98,
+                    "function": "chromium passivate coating",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-577",
+                                "type": "orange",
+                                "name": "Skin Sensitization",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-571",
+                                "type": "orange",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "IGC White Rust",
+                            "url": "http://az276019.vo.msecnd.net/valmontstaging/coatings-faqs/tech-tips-06---white-rust-(storage-stain)-on-galvanized-coatings.pdf?sfvrsn=4",
+                            "id": 3091
+                        },
+                        {
+                            "name": "SurTec 680 LC",
+                            "url": "http://www.surtec.com/ecomaXL/files/surtec_5317459381418130160680LCE.pdf&download=1",
+                            "id": 4842
+                        },
+                        {
+                            "name": "SurTec 680",
+                            "url": "http://www.surtec.com/ecomaXL/files/surtec_6644562951418130159680E.pdf&download=1",
+                            "id": 4841
+                        },
+                        {
+                            "name": "US20070243397",
+                            "url": "https://www.google.com/patents/US20070243397",
+                            "id": 4845
+                        },
+                        {
+                            "name": "CN103741128A",
+                            "url": "https://www.google.com/patents/CN103741128A",
+                            "id": 4844
+                        },
+                        {
+                            "name": "US6287704",
+                            "url": "https://www.google.com/patents/US6287704",
+                            "id": 4843
+                        },
+                        {
+                            "name": "TURI",
+                            "url": "http://www.turi.org/content/download/8713/145357/file/2006%20M&P%20Report%20Special%20Five%20Chemicals%20Alternatives%20Assessments.pdf",
+                            "id": 4830
+                        },
+                        {
+                            "name": "ECHA",
+                            "url": "http://echa.europa.eu/documents/10162/6adce2d9-590a-4cea-b9f3-0da9ca176e89",
+                            "id": 4847
+                        },
+                        {
+                            "name": "PDM MSDS",
+                            "url": "http://www.pdmsteel.com/pdf/Material-Safety-Data-Sheets2.pdf",
+                            "id": 4833
+                        },
+                        {
+                            "name": "Asterion",
+                            "url": "http://asterionstc.com/chromates-and-passivates/",
+                            "id": 4835
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 9.8e-7
+                }
+            ],
+            "sources": [
+                {
+                    "name": "IGC White Rust",
+                    "url": "http://az276019.vo.msecnd.net/valmontstaging/coatings-faqs/tech-tips-06---white-rust-(storage-stain)-on-galvanized-coatings.pdf?sfvrsn=4",
+                    "id": 3091
+                },
+                {
+                    "name": "PDM MSDS",
+                    "url": "http://www.pdmsteel.com/pdf/Material-Safety-Data-Sheets2.pdf",
+                    "id": 4833
+                },
+                {
+                    "name": "Asterion",
+                    "url": "http://asterionstc.com/chromates-and-passivates/",
+                    "id": 4835
+                },
+                {
+                    "name": "US6063452 2000",
+                    "url": "https://www.google.com/patents/US6063452",
+                    "id": 3048
+                },
+                {
+                    "name": "Hex Chrome WP",
+                    "url": "http://www.nema.org/Products/Documents/white+paper+chromium+nema.pdf",
+                    "id": 3039
+                },
+                {
+                    "name": "TURI",
+                    "url": "http://www.turi.org/content/download/8713/145357/file/2006%20M&P%20Report%20Special%20Five%20Chemicals%20Alternatives%20Assessments.pdf",
+                    "id": 4830
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.000001
+        },
+        {
+            "recId": 8196,
+            "name": "Galvanized Coating",
+            "CASRN": "",
+            "massPct": 0.02464,
+            "function": "corrosion protective coating",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": 0.9995,
+                        "contributors": [
+                            {
+                                "recId": 782,
+                                "massPct": 0.9995,
+                                "childrenIds": [
+                                    782
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.0001,
+                        "contributors": [
+                            {
+                                "recId": 784,
+                                "massPct": 0.0001,
+                                "childrenIds": [
+                                    784
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.0001,
+                        "contributors": [
+                            {
+                                "recId": 784,
+                                "massPct": 0.0001,
+                                "childrenIds": [
+                                    784
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.0001,
+                        "contributors": [
+                            {
+                                "recId": 784,
+                                "massPct": 0.0001,
+                                "childrenIds": [
+                                    784
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 782,
+                    "name": "Zinc",
+                    "CASRN": "7440-66-6",
+                    "massPct": 0.9995,
+                    "function": "coating element (sacrificial anode)",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "NEMA 2008-UL 6",
+                            "url": "https://www.nema.org/Technical/Documents/Bull_96_ULandNECRegforCorrosionProtofSteelConduit_03_09.pdf",
+                            "id": 3041
+                        },
+                        {
+                            "name": "Colorado Spec",
+                            "url": "http://coloradosprings.gov/sites/default/files/images/signal_specs_11-1-132.pdf",
+                            "id": 3050
+                        },
+                        {
+                            "name": "US6063452 2000",
+                            "url": "https://www.google.com/patents/US6063452",
+                            "id": 3048
+                        },
+                        {
+                            "name": "Republic Spec",
+                            "url": "https://www.elliottelectric.com/InventoryFiles/SpecSheets/(CON)/GAL4.pdf",
+                            "id": 3042
+                        },
+                        {
+                            "name": "NEMA CS",
+                            "url": "http://www.nema.org/Products/Documents/hpbbooklet-pgs23-23.pdf",
+                            "id": 3036
+                        },
+                        {
+                            "name": "ECNKorns",
+                            "url": "http://www.ecnkorns.com/PDF/ECNKorns_Buyers_Guide_2015.pdf",
+                            "id": 3032
+                        },
+                        {
+                            "name": "Republic",
+                            "url": "http://www.cuny.biz/wp-content/uploads/2012/07/Rigid-Electrical-Steel-Conduit.pdf",
+                            "id": 3025
+                        },
+                        {
+                            "name": "Allied Masterformat",
+                            "url": "http://www.alliedeg.us/wp-content/uploads/2014/09/kwik-couple-rigid-master-format.pdf",
+                            "id": 3024
+                        },
+                        {
+                            "name": "Allied Spec",
+                            "url": "http://www.alliedeg.us/wp-content/uploads/2014/09/grc-kwik-couple-elbows-grc-conduit-elbows-nipples-couplings.pdf",
+                            "id": 3023
+                        },
+                        {
+                            "name": "Duraguard",
+                            "url": "http://www.wheatland.com/images/products/14-JMC-1529_brochure_Rigid-RMC-Brochure_v3.pdf",
+                            "id": 3022
+                        },
+                        {
+                            "name": "Allied MSDS",
+                            "url": "https://docs.google.com/viewerng/viewer?url=http://atcmechanical.wpengine.com/wp-content/uploads/2014/07/MSDS-Galvanized-Product-2010.pdf&hl=en_US",
+                            "id": 3021
+                        },
+                        {
+                            "name": "SCDOT Spec",
+                            "url": "http://www.scdot.org/doing/technicalpdfs/supspecs/83-08-30.pdf",
+                            "id": 3027
+                        },
+                        {
+                            "name": "LHC AZ Spec",
+                            "url": "http://www.lhcaz.gov/operations/specifications/section16111.pdf",
+                            "id": 3028
+                        },
+                        {
+                            "name": "NH",
+                            "url": "http://www.manchesternh.gov/publicworks/Division%20600%20%28614-620%29.pdf",
+                            "id": 3018
+                        },
+                        {
+                            "name": "C80.1",
+                            "url": "http://webcache.googleusercontent.com/search?q=cache:u8KA-AISWs4J:bbs.365powernet.com/attachment.php%3Faid%3D26426+&cd=4&hl=en&ct=clnk&gl=us",
+                            "id": 3026
+                        },
+                        {
+                            "name": "B6",
+                            "url": "http://web.askewindustrial.com/ASTM/B6.pdf?tblASTMSpecsPage=30",
+                            "id": 3089
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.02462768
+                },
+                {
+                    "recId": 784,
+                    "name": "Aluminum",
+                    "CASRN": "7429-90-5",
+                    "massPct": 0.0001,
+                    "function": "adhesion promotion/ zinc residual",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Allied MSDS",
+                            "url": "https://docs.google.com/viewerng/viewer?url=http://atcmechanical.wpengine.com/wp-content/uploads/2014/07/MSDS-Galvanized-Product-2010.pdf&hl=en_US",
+                            "id": 3021
+                        },
+                        {
+                            "name": "GalvInfo Note 5",
+                            "url": "http://galvinfo.com/ginotes/GalvInfoNote_5_2.pdf",
+                            "id": 3040
+                        },
+                        {
+                            "name": "B6",
+                            "url": "http://web.askewindustrial.com/ASTM/B6.pdf?tblASTMSpecsPage=30",
+                            "id": 3089
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.000002464
+                }
+            ],
+            "sources": [
+                {
+                    "name": "NEMA 2008-UL 6",
+                    "url": "https://www.nema.org/Technical/Documents/Bull_96_ULandNECRegforCorrosionProtofSteelConduit_03_09.pdf",
+                    "id": 3041
+                },
+                {
+                    "name": "Colorado Spec",
+                    "url": "http://coloradosprings.gov/sites/default/files/images/signal_specs_11-1-132.pdf",
+                    "id": 3050
+                },
+                {
+                    "name": "US6063452 2000",
+                    "url": "https://www.google.com/patents/US6063452",
+                    "id": 3048
+                },
+                {
+                    "name": "Republic Spec",
+                    "url": "https://www.elliottelectric.com/InventoryFiles/SpecSheets/(CON)/GAL4.pdf",
+                    "id": 3042
+                },
+                {
+                    "name": "NEMA CS",
+                    "url": "http://www.nema.org/Products/Documents/hpbbooklet-pgs23-23.pdf",
+                    "id": 3036
+                },
+                {
+                    "name": "ECNKorns",
+                    "url": "http://www.ecnkorns.com/PDF/ECNKorns_Buyers_Guide_2015.pdf",
+                    "id": 3032
+                },
+                {
+                    "name": "Republic",
+                    "url": "http://www.cuny.biz/wp-content/uploads/2012/07/Rigid-Electrical-Steel-Conduit.pdf",
+                    "id": 3025
+                },
+                {
+                    "name": "Allied Masterformat",
+                    "url": "http://www.alliedeg.us/wp-content/uploads/2014/09/kwik-couple-rigid-master-format.pdf",
+                    "id": 3024
+                },
+                {
+                    "name": "Allied Spec",
+                    "url": "http://www.alliedeg.us/wp-content/uploads/2014/09/grc-kwik-couple-elbows-grc-conduit-elbows-nipples-couplings.pdf",
+                    "id": 3023
+                },
+                {
+                    "name": "Duraguard",
+                    "url": "http://www.wheatland.com/images/products/14-JMC-1529_brochure_Rigid-RMC-Brochure_v3.pdf",
+                    "id": 3022
+                },
+                {
+                    "name": "Allied MSDS",
+                    "url": "https://docs.google.com/viewerng/viewer?url=http://atcmechanical.wpengine.com/wp-content/uploads/2014/07/MSDS-Galvanized-Product-2010.pdf&hl=en_US",
+                    "id": 3021
+                },
+                {
+                    "name": "SCDOT Spec",
+                    "url": "http://www.scdot.org/doing/technicalpdfs/supspecs/83-08-30.pdf",
+                    "id": 3027
+                },
+                {
+                    "name": "LHC AZ Spec",
+                    "url": "http://www.lhcaz.gov/operations/specifications/section16111.pdf",
+                    "id": 3028
+                },
+                {
+                    "name": "NH",
+                    "url": "http://www.manchesternh.gov/publicworks/Division%20600%20%28614-620%29.pdf",
+                    "id": 3018
+                },
+                {
+                    "name": "C80.1",
+                    "url": "http://webcache.googleusercontent.com/search?q=cache:u8KA-AISWs4J:bbs.365powernet.com/attachment.php%3Faid%3D26426+&cd=4&hl=en&ct=clnk&gl=us",
+                    "id": 3026
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.02464
+        },
+        {
+            "recId": 3108,
+            "name": "Base Steel",
+            "CASRN": "",
+            "massPct": 0.972328,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity",
+                        "massPct": 0.0048000000000000004,
+                        "contributors": [
+                            {
+                                "recId": 776,
+                                "massPct": 0.0008,
+                                "childrenIds": [
+                                    776
+                                ]
+                            },
+                            {
+                                "recId": 770,
+                                "massPct": 0.004,
+                                "childrenIds": [
+                                    770
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.0148,
+                        "contributors": [
+                            {
+                                "recId": 776,
+                                "massPct": 0.0008,
+                                "childrenIds": [
+                                    776
+                                ]
+                            },
+                            {
+                                "recId": 768,
+                                "massPct": 0.004,
+                                "childrenIds": [
+                                    768
+                                ]
+                            },
+                            {
+                                "recId": 770,
+                                "massPct": 0.004,
+                                "childrenIds": [
+                                    770
+                                ]
+                            },
+                            {
+                                "recId": 760,
+                                "massPct": 0.006,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.018425,
+                        "contributors": [
+                            {
+                                "recId": 768,
+                                "massPct": 0.004,
+                                "childrenIds": [
+                                    768
+                                ]
+                            },
+                            {
+                                "recId": 770,
+                                "massPct": 0.004,
+                                "childrenIds": [
+                                    770
+                                ]
+                            },
+                            {
+                                "recId": 766,
+                                "massPct": 0.004,
+                                "childrenIds": [
+                                    766
+                                ]
+                            },
+                            {
+                                "recId": 760,
+                                "massPct": 0.006,
+                                "childrenIds": [
+                                    760
+                                ]
+                            },
+                            {
+                                "recId": 9900,
+                                "massPct": 0.000425,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization",
+                        "massPct": 0.008,
+                        "contributors": [
+                            {
+                                "recId": 768,
+                                "massPct": 0.004,
+                                "childrenIds": [
+                                    768
+                                ]
+                            },
+                            {
+                                "recId": 770,
+                                "massPct": 0.004,
+                                "childrenIds": [
+                                    770
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": 0.004425,
+                        "contributors": [
+                            {
+                                "recId": 768,
+                                "massPct": 0.004,
+                                "childrenIds": [
+                                    768
+                                ]
+                            },
+                            {
+                                "recId": 9900,
+                                "massPct": 0.000425,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": 0.0055,
+                        "contributors": [
+                            {
+                                "recId": 770,
+                                "massPct": 0.004,
+                                "childrenIds": [
+                                    770
+                                ]
+                            },
+                            {
+                                "recId": 772,
+                                "massPct": 0.0015,
+                                "childrenIds": [
+                                    772
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.010425,
+                        "contributors": [
+                            {
+                                "recId": 766,
+                                "massPct": 0.004,
+                                "childrenIds": [
+                                    766
+                                ]
+                            },
+                            {
+                                "recId": 760,
+                                "massPct": 0.006,
+                                "childrenIds": [
+                                    760
+                                ]
+                            },
+                            {
+                                "recId": 9900,
+                                "massPct": 0.000425,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.006,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.006,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": 0.0048000000000000004,
+                        "contributors": [
+                            {
+                                "recId": 776,
+                                "massPct": 0.0008,
+                                "childrenIds": [
+                                    776
+                                ]
+                            },
+                            {
+                                "recId": 768,
+                                "massPct": 0.004,
+                                "childrenIds": [
+                                    768
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity",
+                        "massPct": 0.004,
+                        "contributors": [
+                            {
+                                "recId": 766,
+                                "massPct": 0.004,
+                                "childrenIds": [
+                                    766
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": 0.006,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.006,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 776,
+                    "name": "Vanadium",
+                    "CASRN": "7440-62-2",
+                    "massPct": 0.0008,
+                    "function": "metal alloy",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-571",
+                                "type": "orange",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-567",
+                                "type": "red",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "CP MSDS",
+                            "url": "http://www.conduitpipe.com/Conduit%20MSDS.pdf",
+                            "id": 3020
+                        },
+                        {
+                            "name": "A53",
+                            "url": "http://www.astm.org/Standards/A53.htm)",
+                            "id": 3052
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0007778624
+                },
+                {
+                    "recId": 758,
+                    "name": "Iron",
+                    "CASRN": "7439-89-6",
+                    "massPct": 0.975125,
+                    "function": "base metal",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Wheatland MSDS",
+                            "url": "https://www.menards.com/msds/103523_001.pdf",
+                            "id": 2703
+                        },
+                        {
+                            "name": "Allied MSDS",
+                            "url": "https://docs.google.com/viewerng/viewer?url=http://atcmechanical.wpengine.com/wp-content/uploads/2014/07/MSDS-Galvanized-Product-2010.pdf&hl=en_US",
+                            "id": 3021
+                        },
+                        {
+                            "name": "CP MSDS",
+                            "url": "http://www.conduitpipe.com/Conduit%20MSDS.pdf",
+                            "id": 3020
+                        },
+                        {
+                            "name": "WT&C MSDS",
+                            "url": "http://westerntube.com/wp-content/uploads/2014/10/galvanized-steel-tubing-msds.pdf",
+                            "id": 3044
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.948141341
+                },
+                {
+                    "recId": 768,
+                    "name": "Nickel",
+                    "CASRN": "7440-02-0",
+                    "massPct": 0.004,
+                    "function": "metal alloy",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-577",
+                                "type": "orange",
+                                "name": "Skin Sensitization",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-567",
+                                "type": "red",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "CP MSDS",
+                            "url": "http://www.conduitpipe.com/Conduit%20MSDS.pdf",
+                            "id": 3020
+                        },
+                        {
+                            "name": "A53",
+                            "url": "http://www.astm.org/Standards/A53.htm)",
+                            "id": 3052
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.003889312
+                },
+                {
+                    "recId": 836,
+                    "name": "Silicon",
+                    "CASRN": "7440-21-3",
+                    "massPct": 0.002,
+                    "function": "metal alloy",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "CP MSDS",
+                            "url": "http://www.conduitpipe.com/Conduit%20MSDS.pdf",
+                            "id": 3020
+                        },
+                        {
+                            "name": "WT&C MSDS",
+                            "url": "http://westerntube.com/wp-content/uploads/2014/10/galvanized-steel-tubing-msds.pdf",
+                            "id": 3044
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.001944656
+                },
+                {
+                    "recId": 770,
+                    "name": "Chromium",
+                    "CASRN": "7440-47-3",
+                    "massPct": 0.004,
+                    "function": "metal alloy",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-577",
+                                "type": "orange",
+                                "name": "Skin Sensitization",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-571",
+                                "type": "orange",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "CP MSDS",
+                            "url": "http://www.conduitpipe.com/Conduit%20MSDS.pdf",
+                            "id": 3020
+                        },
+                        {
+                            "name": "A53",
+                            "url": "http://www.astm.org/Standards/A53.htm)",
+                            "id": 3052
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.003889312
+                },
+                {
+                    "recId": 766,
+                    "name": "Copper",
+                    "CASRN": "7440-50-8",
+                    "massPct": 0.004,
+                    "function": "metal alloy",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-571",
+                                "type": "red",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "CP MSDS",
+                            "url": "http://www.conduitpipe.com/Conduit%20MSDS.pdf",
+                            "id": 3020
+                        },
+                        {
+                            "name": "A53",
+                            "url": "http://www.astm.org/Standards/A53.htm)",
+                            "id": 3052
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.003889312
+                },
+                {
+                    "recId": 772,
+                    "name": "Molybdenum",
+                    "CASRN": "7439-98-7",
+                    "massPct": 0.0015,
+                    "function": "metal alloy",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "CP MSDS",
+                            "url": "http://www.conduitpipe.com/Conduit%20MSDS.pdf",
+                            "id": 3020
+                        },
+                        {
+                            "name": "A53",
+                            "url": "http://www.astm.org/Standards/A53.htm)",
+                            "id": 3052
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.001458492
+                },
+                {
+                    "recId": 774,
+                    "name": "Sulfur",
+                    "CASRN": "7704-34-9",
+                    "massPct": 0.00035,
+                    "function": "metal alloy",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Wheatland MSDS",
+                            "url": "https://www.menards.com/msds/103523_001.pdf",
+                            "id": 2703
+                        },
+                        {
+                            "name": "Allied MSDS",
+                            "url": "https://docs.google.com/viewerng/viewer?url=http://atcmechanical.wpengine.com/wp-content/uploads/2014/07/MSDS-Galvanized-Product-2010.pdf&hl=en_US",
+                            "id": 3021
+                        },
+                        {
+                            "name": "A53",
+                            "url": "http://www.astm.org/Standards/A53.htm)",
+                            "id": 3052
+                        },
+                        {
+                            "name": "A513",
+                            "url": "http://www.astm.org/Standards/A513.htm",
+                            "id": 3051
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0003403148
+                },
+                {
+                    "recId": 760,
+                    "name": "Manganese",
+                    "CASRN": "7439-96-5",
+                    "massPct": 0.006,
+                    "function": "metal alloy",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Wheatland MSDS",
+                            "url": "https://www.menards.com/msds/103523_001.pdf",
+                            "id": 2703
+                        },
+                        {
+                            "name": "Allied MSDS",
+                            "url": "https://docs.google.com/viewerng/viewer?url=http://atcmechanical.wpengine.com/wp-content/uploads/2014/07/MSDS-Galvanized-Product-2010.pdf&hl=en_US",
+                            "id": 3021
+                        },
+                        {
+                            "name": "A53",
+                            "url": "http://www.astm.org/Standards/A53.htm)",
+                            "id": 3052
+                        },
+                        {
+                            "name": "WT&C MSDS",
+                            "url": "http://westerntube.com/wp-content/uploads/2014/10/galvanized-steel-tubing-msds.pdf",
+                            "id": 3044
+                        },
+                        {
+                            "name": "A513",
+                            "url": "http://www.astm.org/Standards/A513.htm",
+                            "id": 3051
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.005833968
+                },
+                {
+                    "recId": 9900,
+                    "name": "Phosphorus",
+                    "CASRN": "7723-14-0",
+                    "massPct": 0.000425,
+                    "function": "metal alloy",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Wheatland MSDS",
+                            "url": "https://www.menards.com/msds/103523_001.pdf",
+                            "id": 2703
+                        },
+                        {
+                            "name": "Allied MSDS",
+                            "url": "https://docs.google.com/viewerng/viewer?url=http://atcmechanical.wpengine.com/wp-content/uploads/2014/07/MSDS-Galvanized-Product-2010.pdf&hl=en_US",
+                            "id": 3021
+                        },
+                        {
+                            "name": "A53",
+                            "url": "http://www.astm.org/Standards/A53.htm)",
+                            "id": 3052
+                        },
+                        {
+                            "name": "A513",
+                            "url": "http://www.astm.org/Standards/A513.htm",
+                            "id": 3051
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00041323939999999995
+                },
+                {
+                    "recId": 762,
+                    "name": "Carbon",
+                    "CASRN": "7440-44-0",
+                    "massPct": 0.0018,
+                    "function": "metal alloy",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Wheatland MSDS",
+                            "url": "https://www.menards.com/msds/103523_001.pdf",
+                            "id": 2703
+                        },
+                        {
+                            "name": "Allied MSDS",
+                            "url": "https://docs.google.com/viewerng/viewer?url=http://atcmechanical.wpengine.com/wp-content/uploads/2014/07/MSDS-Galvanized-Product-2010.pdf&hl=en_US",
+                            "id": 3021
+                        },
+                        {
+                            "name": "A53",
+                            "url": "http://www.astm.org/Standards/A53.htm)",
+                            "id": 3052
+                        },
+                        {
+                            "name": "WT&C MSDS",
+                            "url": "http://westerntube.com/wp-content/uploads/2014/10/galvanized-steel-tubing-msds.pdf",
+                            "id": 3044
+                        },
+                        {
+                            "name": "CP MSDS",
+                            "url": "http://www.conduitpipe.com/Conduit%20MSDS.pdf",
+                            "id": 3020
+                        },
+                        {
+                            "name": "A513",
+                            "url": "http://www.astm.org/Standards/A513.htm",
+                            "id": 3051
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0017501904
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.972328
+        },
+        {
+            "recId": 3114,
+            "name": "Polyester Powder Coating (cured)",
+            "CASRN": "",
+            "massPct": 0.003032,
+            "function": "corrosion protective coating",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.1414,
+                        "contributors": [
+                            {
+                                "recId": 2766,
+                                "massPct": 0.1414,
+                                "childrenIds": [
+                                    2766
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.27,
+                        "contributors": [
+                            {
+                                "recId": 3116,
+                                "massPct": 0.27,
+                                "childrenIds": [
+                                    3116
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": 0.1414,
+                        "contributors": [
+                            {
+                                "recId": 2766,
+                                "massPct": 0.1414,
+                                "childrenIds": [
+                                    2766
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 11324,
+                    "name": "Flow And Leveling Agent",
+                    "CASRN": "",
+                    "massPct": 0.0091,
+                    "function": "",
+                    "hazards": {},
+                    "components": [
+                        {
+                            "recId": 3120,
+                            "name": "Silica Gel",
+                            "CASRN": "112926-00-8",
+                            "massPct": 0.3407,
+                            "function": "flow and leveling agent",
+                            "hazards": {},
+                            "sources": [
+                                {
+                                    "name": "Resiflow PV5",
+                                    "url": "http://www.varistor.ch/fileadmin/sapfiles/PC%204%20SDB%20Resiflow%20PV%205%20120127.pdf",
+                                    "id": 3270
+                                },
+                                {
+                                    "name": "Resiflow PL-200",
+                                    "url": "http://estron.com/sites/default/files/MSDS/Resiflow%20PL-200%2003-03-14%20GHS%20SDS.pdf",
+                                    "id": 3272
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "yes",
+                            "massPctOfTotal": 0.00000940032184
+                        },
+                        {
+                            "recId": 3119,
+                            "name": "2-Propenoicacid, ethyl ester, polymer with 2-ethylhexyl 2-propenoate",
+                            "CASRN": "26376-86-3",
+                            "massPct": 0.6593,
+                            "function": "flow and leveling agent",
+                            "hazards": {},
+                            "sources": [
+                                {
+                                    "name": "Resiflow PL-200",
+                                    "url": "http://estron.com/sites/default/files/MSDS/Resiflow%20PL-200%2003-03-14%20GHS%20SDS.pdf",
+                                    "id": 3272
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "yes",
+                            "massPctOfTotal": 0.00001819087816
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "name": "PL-200 TDS",
+                            "url": "http://estron.com/sites/default/files/TDS/Resiflow%20PL-200%2003-03-14%20TDS.pdf",
+                            "id": 3273
+                        },
+                        {
+                            "name": "Resiflow Tech",
+                            "url": "http://db-ch.worlee.eu/uploads/attachments/00239e.pdf",
+                            "id": 3269
+                        },
+                        {
+                            "name": "EP2035478A2",
+                            "url": "https://www.google.com/patents/EP2035478A2",
+                            "id": 3268
+                        },
+                        {
+                            "name": "EP1972672A2",
+                            "url": "https://www.google.com/patents/EP1972672A2",
+                            "id": 3274
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0000275912
+                },
+                {
+                    "recId": 2766,
+                    "name": "Titanium Dioxide",
+                    "CASRN": "13463-67-7",
+                    "massPct": 0.1414,
+                    "function": "filler and pigment",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-7911",
+                                "type": "red",
+                                "name": "Cancer (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Powdura TGIC - light grey MSDS",
+                            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=PAS4-C0002",
+                            "id": 8727
+                        },
+                        {
+                            "name": "Powdura TGIC - enviro green MSDS",
+                            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=PGS8-C0652",
+                            "id": 3262
+                        },
+                        {
+                            "name": "Powdura TGIC - ANSI 70 gray MSDS",
+                            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=PAS8-C0003",
+                            "id": 3258
+                        },
+                        {
+                            "name": "Powdura TGIC - safety orange MSDS",
+                            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=PES8-C6148",
+                            "id": 3261
+                        },
+                        {
+                            "name": "Powdura TGIC - NL yellow MSDS",
+                            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=PYS8-C8289",
+                            "id": 3263
+                        },
+                        {
+                            "name": "Powdura TGIC - coastal white MSDS",
+                            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=PWS6-C0018",
+                            "id": 3264
+                        },
+                        {
+                            "name": "Powdura TGIC - barn red MSDS",
+                            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=PRS4-C0001",
+                            "id": 3265
+                        },
+                        {
+                            "name": "Powdura TGIC - equipment blue MSDS",
+                            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=SWOEM&lang=E&doctype=MSDS&prodno=PLS8-C0020",
+                            "id": 2339
+                        },
+                        {
+                            "name": "EP1165712B1",
+                            "url": "https://www.google.com/patents/EP1165712B1",
+                            "id": 3267
+                        },
+                        {
+                            "name": "EP2035478A2",
+                            "url": "https://www.google.com/patents/EP2035478A2",
+                            "id": 3268
+                        },
+                        {
+                            "name": "EP1972672A2",
+                            "url": "https://www.google.com/patents/EP1972672A2",
+                            "id": 3274
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0004287248
+                },
+                {
+                    "recId": 3121,
+                    "name": "Benzoin (2-hydroxy-1,2-diphenyl ethanone)",
+                    "CASRN": "119-53-9",
+                    "massPct": 0.0024,
+                    "function": "debubbling and leveling agent",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Tracton 2007",
+                            "url": "http://61.188.205.38:8081/hxgcx/hcjs/UploadFiles/pdf/%E6%96%87%E7%8C%AE%E5%BA%93/%E6%A8%A1%E5%9D%977%E6%B6%82%E6%96%99/Coatings%20Materials%20and%20Surface%20Coatings.pdf",
+                            "id": 4440
+                        },
+                        {
+                            "name": "EP1165712B1",
+                            "url": "https://www.google.com/patents/EP1165712B1",
+                            "id": 3267
+                        },
+                        {
+                            "name": "EP1972672A2",
+                            "url": "https://www.google.com/patents/EP1972672A2",
+                            "id": 3274
+                        },
+                        {
+                            "name": "EP2035478A2",
+                            "url": "https://www.google.com/patents/EP2035478A2",
+                            "id": 3268
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0000072767999999999995
+                },
+                {
+                    "recId": 3116,
+                    "name": "Barium Sulfate",
+                    "CASRN": "7727-43-7",
+                    "massPct": 0.27,
+                    "function": "filler and pigment",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Powdura TGIC - light grey MSDS",
+                            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=PAS4-C0002",
+                            "id": 8727
+                        },
+                        {
+                            "name": "Powdura TGIC - ANSI 70 gray MSDS",
+                            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=PAS8-C0003",
+                            "id": 3258
+                        },
+                        {
+                            "name": "Powdura TGIC - safety orange MSDS",
+                            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=PES8-C6148",
+                            "id": 3261
+                        },
+                        {
+                            "name": "Powdura TGIC - NL yellow MSDS",
+                            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=PYS8-C8289",
+                            "id": 3263
+                        },
+                        {
+                            "name": "Powdura TGIC - coastal white MSDS",
+                            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=PWS6-C0018",
+                            "id": 3264
+                        },
+                        {
+                            "name": "Powdura TGIC - barn red MSDS",
+                            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=PRS4-C0001",
+                            "id": 3265
+                        },
+                        {
+                            "name": "Powdura TGIC - equipment blue MSDS",
+                            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=SWOEM&lang=E&doctype=MSDS&prodno=PLS8-C0020",
+                            "id": 2339
+                        },
+                        {
+                            "name": "EP1165712B1",
+                            "url": "https://www.google.com/patents/EP1165712B1",
+                            "id": 3267
+                        },
+                        {
+                            "name": "EP2035478A2",
+                            "url": "https://www.google.com/patents/EP2035478A2",
+                            "id": 3268
+                        },
+                        {
+                            "name": "Powdura TGIC-free MSDS",
+                            "url": "http://www.paintdocs.com/webmsds/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=FBS4-C0001",
+                            "id": 3256
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.00081864
+                },
+                {
+                    "recId": 3115,
+                    "name": "Polyester Polymer",
+                    "CASRN": "40471-09-8",
+                    "massPct": 0.6064,
+                    "function": "polyester resin",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "EP1165712B1",
+                            "url": "https://www.google.com/patents/EP1165712B1",
+                            "id": 3267
+                        },
+                        {
+                            "name": "EP2035478A2",
+                            "url": "https://www.google.com/patents/EP2035478A2",
+                            "id": 3268
+                        },
+                        {
+                            "name": "EP1972672A2",
+                            "url": "https://www.google.com/patents/EP1972672A2",
+                            "id": 3274
+                        },
+                        {
+                            "name": "NICNAS 1993",
+                            "url": "http://www.nicnas.gov.au/__data/assets/pdf_file/0003/9480/NA77FR.PDF",
+                            "id": 3275
+                        }
+                    ],
+                    "notes": "This CASRN is for a representative polyester polymer. There will be variation of the exact polyester polymer used between manufacturers.",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0018386048
+                }
+            ],
+            "sources": [
+                {
+                    "name": "Asterion",
+                    "url": "http://asterionstc.com/chromates-and-passivates/",
+                    "id": 4835
+                },
+                {
+                    "name": "Allied MSDS",
+                    "url": "https://docs.google.com/viewerng/viewer?url=http://atcmechanical.wpengine.com/wp-content/uploads/2014/07/MSDS-Galvanized-Product-2010.pdf&hl=en_US",
+                    "id": 3021
+                },
+                {
+                    "name": "C80.1",
+                    "url": "http://webcache.googleusercontent.com/search?q=cache:u8KA-AISWs4J:bbs.365powernet.com/attachment.php%3Faid%3D26426+&cd=4&hl=en&ct=clnk&gl=us",
+                    "id": 3026
+                },
+                {
+                    "name": "Colorado Spec",
+                    "url": "http://coloradosprings.gov/sites/default/files/images/signal_specs_11-1-132.pdf",
+                    "id": 3050
+                },
+                {
+                    "name": "US6063452 2000",
+                    "url": "https://www.google.com/patents/US6063452",
+                    "id": 3048
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.003032
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Ethyl Acrylate",
+            "CASRN": "140-88-5",
+            "massPct": null,
+            "function": "2-propenoicacid, ethyl ester, polymer with 2-ethylhexyl 2-propenoate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Cadmium",
+            "CASRN": "7440-43-9",
+            "massPct": 0.0000025,
+            "function": "zinc residual",
+            "sources": [
+                {
+                    "name": "GalvInfo Note 5",
+                    "url": "http://galvinfo.com/ginotes/GalvInfoNote_5_2.pdf",
+                    "id": 3040
+                },
+                {
+                    "name": "B6",
+                    "url": "http://web.askewindustrial.com/ASTM/B6.pdf?tblASTMSpecsPage=30",
+                    "id": 3089
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Adipic Acid",
+            "CASRN": "124-04-9",
+            "massPct": null,
+            "function": "polyester polymer residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Triglycidyl Isocyanurate",
+            "CASRN": "2451-62-9",
+            "massPct": null,
+            "function": "",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "2-Ethylhexyl Acrylate",
+            "CASRN": "103-11-7",
+            "massPct": null,
+            "function": "2-propenoicacid, ethyl ester, polymer with 2-ethylhexyl 2-propenoate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Lead",
+            "CASRN": "7439-92-1",
+            "massPct": 0.0000074,
+            "function": "zinc residual",
+            "sources": [
+                {
+                    "name": "GalvInfo Note 5",
+                    "url": "http://galvinfo.com/ginotes/GalvInfoNote_5_2.pdf",
+                    "id": 3040
+                },
+                {
+                    "name": "Lead WP",
+                    "url": "http://www.nema.org/Products/Documents/white+paper+on+lead+5rn.pdf",
+                    "id": 3038
+                },
+                {
+                    "name": "B6",
+                    "url": "http://web.askewindustrial.com/ASTM/B6.pdf?tblASTMSpecsPage=30",
+                    "id": 3089
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-10360",
+                        "type": "orange",
+                        "name": "Neurotoxicity"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-577",
+                    "type": "orange",
+                    "name": "Skin Sensitization",
+                    "massPct": 0.007779624,
+                    "contributors": [
+                        {
+                            "recId": 2066,
+                            "massPct": 2e-8,
+                            "childrenIds": [
+                                2066,
+                                3113
+                            ]
+                        },
+                        {
+                            "recId": 2066,
+                            "massPct": 9.8e-7,
+                            "childrenIds": [
+                                2066,
+                                3112
+                            ]
+                        },
+                        {
+                            "recId": 3108,
+                            "massPct": 0.003889312,
+                            "childrenIds": [
+                                3108,
+                                768
+                            ]
+                        },
+                        {
+                            "recId": 3108,
+                            "massPct": 0.003889312,
+                            "childrenIds": [
+                                3108,
+                                770
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.014393918399999999,
+                    "contributors": [
+                        {
+                            "recId": 2066,
+                            "massPct": 2e-8,
+                            "childrenIds": [
+                                2066,
+                                3113
+                            ]
+                        },
+                        {
+                            "recId": 2066,
+                            "massPct": 9.8e-7,
+                            "childrenIds": [
+                                2066,
+                                3112
+                            ]
+                        },
+                        {
+                            "recId": 8196,
+                            "massPct": 0.000002464,
+                            "childrenIds": [
+                                8196,
+                                784
+                            ]
+                        },
+                        {
+                            "recId": 3108,
+                            "massPct": 0.0007778624,
+                            "childrenIds": [
+                                3108,
+                                776
+                            ]
+                        },
+                        {
+                            "recId": 3108,
+                            "massPct": 0.003889312,
+                            "childrenIds": [
+                                3108,
+                                768
+                            ]
+                        },
+                        {
+                            "recId": 3108,
+                            "massPct": 0.003889312,
+                            "childrenIds": [
+                                3108,
+                                770
+                            ]
+                        },
+                        {
+                            "recId": 3108,
+                            "massPct": 0.005833968,
+                            "childrenIds": [
+                                3108,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.0043025714,
+                    "contributors": [
+                        {
+                            "recId": 2066,
+                            "massPct": 2e-8,
+                            "childrenIds": [
+                                2066,
+                                3113
+                            ]
+                        },
+                        {
+                            "recId": 3108,
+                            "massPct": 0.003889312,
+                            "childrenIds": [
+                                3108,
+                                768
+                            ]
+                        },
+                        {
+                            "recId": 3108,
+                            "massPct": 0.00041323939999999995,
+                            "childrenIds": [
+                                3108,
+                                9900
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.0183473322,
+                    "contributors": [
+                        {
+                            "recId": 2066,
+                            "massPct": 2e-8,
+                            "childrenIds": [
+                                2066,
+                                3113
+                            ]
+                        },
+                        {
+                            "recId": 2066,
+                            "massPct": 9.8e-7,
+                            "childrenIds": [
+                                2066,
+                                3112
+                            ]
+                        },
+                        {
+                            "recId": 8196,
+                            "massPct": 0.000002464,
+                            "childrenIds": [
+                                8196,
+                                784
+                            ]
+                        },
+                        {
+                            "recId": 3108,
+                            "massPct": 0.003889312,
+                            "childrenIds": [
+                                3108,
+                                768
+                            ]
+                        },
+                        {
+                            "recId": 3108,
+                            "massPct": 0.003889312,
+                            "childrenIds": [
+                                3108,
+                                770
+                            ]
+                        },
+                        {
+                            "recId": 3108,
+                            "massPct": 0.003889312,
+                            "childrenIds": [
+                                3108,
+                                766
+                            ]
+                        },
+                        {
+                            "recId": 3108,
+                            "massPct": 0.005833968,
+                            "childrenIds": [
+                                3108,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 3108,
+                            "massPct": 0.00041323939999999995,
+                            "childrenIds": [
+                                3108,
+                                9900
+                            ]
+                        },
+                        {
+                            "recId": 3114,
+                            "massPct": 0.0004287248,
+                            "childrenIds": [
+                                3114,
+                                2766
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-571",
+                    "type": "orange",
+                    "name": "Mutagenicity",
+                    "massPct": 0.0046681744,
+                    "contributors": [
+                        {
+                            "recId": 2066,
+                            "massPct": 2e-8,
+                            "childrenIds": [
+                                2066,
+                                3113
+                            ]
+                        },
+                        {
+                            "recId": 2066,
+                            "massPct": 9.8e-7,
+                            "childrenIds": [
+                                2066,
+                                3112
+                            ]
+                        },
+                        {
+                            "recId": 3108,
+                            "massPct": 0.0007778624,
+                            "childrenIds": [
+                                3108,
+                                776
+                            ]
+                        },
+                        {
+                            "recId": 3108,
+                            "massPct": 0.003889312,
+                            "childrenIds": [
+                                3108,
+                                770
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-569",
+                    "type": "orange",
+                    "name": "Reproductive",
+                    "massPct": 0.005348784,
+                    "contributors": [
+                        {
+                            "recId": 2066,
+                            "massPct": 9.8e-7,
+                            "childrenIds": [
+                                2066,
+                                3112
+                            ]
+                        },
+                        {
+                            "recId": 3108,
+                            "massPct": 0.003889312,
+                            "childrenIds": [
+                                3108,
+                                770
+                            ]
+                        },
+                        {
+                            "recId": 3108,
+                            "massPct": 0.001458492,
+                            "childrenIds": [
+                                3108,
+                                772
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.02462768,
+                    "contributors": [
+                        {
+                            "recId": 8196,
+                            "massPct": 0.02462768,
+                            "childrenIds": [
+                                8196,
+                                782
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.005836432,
+                    "contributors": [
+                        {
+                            "recId": 8196,
+                            "massPct": 0.000002464,
+                            "childrenIds": [
+                                8196,
+                                784
+                            ]
+                        },
+                        {
+                            "recId": 3108,
+                            "massPct": 0.005833968,
+                            "childrenIds": [
+                                3108,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.010955159400000001,
+                    "contributors": [
+                        {
+                            "recId": 3108,
+                            "massPct": 0.003889312,
+                            "childrenIds": [
+                                3108,
+                                766
+                            ]
+                        },
+                        {
+                            "recId": 3108,
+                            "massPct": 0.005833968,
+                            "childrenIds": [
+                                3108,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 3108,
+                            "massPct": 0.00041323939999999995,
+                            "childrenIds": [
+                                3108,
+                                9900
+                            ]
+                        },
+                        {
+                            "recId": 3114,
+                            "massPct": 0.00081864,
+                            "childrenIds": [
+                                3114,
+                                3116
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-567",
+                    "type": "red",
+                    "name": "Cancer",
+                    "massPct": 0.0046671944,
+                    "contributors": [
+                        {
+                            "recId": 2066,
+                            "massPct": 2e-8,
+                            "childrenIds": [
+                                2066,
+                                3113
+                            ]
+                        },
+                        {
+                            "recId": 3108,
+                            "massPct": 0.0007778624,
+                            "childrenIds": [
+                                3108,
+                                776
+                            ]
+                        },
+                        {
+                            "recId": 3108,
+                            "massPct": 0.003889312,
+                            "childrenIds": [
+                                3108,
+                                768
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-571",
+                    "type": "red",
+                    "name": "Mutagenicity",
+                    "massPct": 0.003889312,
+                    "contributors": [
+                        {
+                            "recId": 3108,
+                            "massPct": 0.003889312,
+                            "childrenIds": [
+                                3108,
+                                766
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.005833968,
+                    "contributors": [
+                        {
+                            "recId": 3108,
+                            "massPct": 0.005833968,
+                            "childrenIds": [
+                                3108,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.0004287248,
+                    "contributors": [
+                        {
+                            "recId": 3114,
+                            "massPct": 0.0004287248,
+                            "childrenIds": [
+                                3114,
+                                2766
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundaries comprise the cradle-to-gate process for manufacturing coated steel conduit. The manufacturing process involves roll forming galvanized steel coil and welding the seam. The polyester powder and chromate coatings are modeled by \"CP039: Polyester Powder Coating for Steel\" and \"CP038: Chromate pre-treatment for steel,\" respectively. Upstream data includes steel manufacturing and galvanization, energy production, chromate production and application, polyster powder production and application, and transportation of raw materials to the production facility. A upstream material transportation distance of 500 km is assumed. Packaging is exluded. ",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "NA: Steel hot dip galvanized"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "GLO: Steel wire rod"
+            },
+            {
+                "name": "US: Thermal energy from natural gas (eGrid)"
+            },
+            {
+                "name": "GLO: Welding seam 1m (including welding wire)"
+            },
+            {
+                "name": "US: Metal roll forming"
+            }
+        ],
+        "foregroundDataSource": "Metal Construction Association (MCA)",
+        "backforegroundDataSource": "GaBi; CP039: Polyester Powder Coating for Steel; CP038: Chromate pre-treatment for steel",
+        "postConsumerRecycledContent": "48%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "72% recycled (product has 48% steel scrap input; the remainder of steel scrap is processed and credited as avoided burden; no credit is given for the recycling of zinc coating); 28% to landfill (ferro metal).",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "1.41E-02"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "6.35E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "2.82E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "5.56E-08"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "2.08E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "3.79E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "-7.18E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "-8.83E-08"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "-3.17E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.16E-08"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "-5.84E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "-2.64E+00"
+                }
+            ]
+        }
+    },
+    "id": "CP100",
+    "name": "Steel Conduit",
+    "altNames": [
+        "Electric Rigid Steel Conduit"
+    ],
+    "uniformats": [
+        {
+            "id": "D5030",
+            "name": "General Purpose Electrical Power"
+        },
+        {
+            "id": "D5020",
+            "name": "Electrical Service and Distribution"
+        },
+        {
+            "id": "D5010",
+            "name": "Facility Power Generation"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "26-05-26",
+            "name": "Grounding and Bonding for Electrical Systems"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Electric Rigid Steel Conduit (ERSC) is defined by the National Electrical Manufacturers Association as a \"threadable steel raceway of circular cross-section designed for the physical protection and routing of wire conductors and use as an equipment grounding conductor.\" There is no one ASTM standard for ERSC, but is manufactured to ANSI standard C80.1 and UL6. According to these standards, ERSC is produced in nominal 10 ft lengths, with threaded ends and one coupling attached. The exterior surface is protected with a metallic zinc coating or alternative protection coating such as PVC while the interior surface is protected with a zinc or organic coating, such as a polyester powder coating. In order to protect the newly galvanized zinc from white rust, an additional chromium coating, most commonly trivalent chromium, is needed. Chromium coatings may also serve as a conversion coating which prepares the surface for paint adhesion. Most frequently, many specifications referred to hot dipped galvanization along with a hot dipped organic coating.  Zinc and chromium coatings are assumed to be present on the interior and exterior surfaces of the conduit and polyester powder coatings are assumed to be present on the interior surface of the conduit.",
+    "sources": [
+        {
+            "name": "Powdura TGIC - light grey MSDS",
+            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=PAS4-C0002",
+            "id": 8727
+        },
+        {
+            "name": "Wheatland MSDS",
+            "url": "https://www.menards.com/msds/103523_001.pdf",
+            "id": 2703
+        },
+        {
+            "name": "Tracton 2007",
+            "url": "http://61.188.205.38:8081/hxgcx/hcjs/UploadFiles/pdf/%E6%96%87%E7%8C%AE%E5%BA%93/%E6%A8%A1%E5%9D%977%E6%B6%82%E6%96%99/Coatings%20Materials%20and%20Surface%20Coatings.pdf",
+            "id": 4440
+        },
+        {
+            "name": "Bhatt 2009",
+            "url": "http://db.materialoptions.com/ASETSDefense/SEDB/CCC_Alts/Qual_Eng_Data/Reports/TriCr_conversion-Metalast-Bhatt.pdf",
+            "id": 4838
+        },
+        {
+            "name": "Tripass",
+            "url": "http://industrial.macdermid.com/pdfs/TriPassSystems.pdf",
+            "id": 4839
+        },
+        {
+            "name": "ELV 7100",
+            "url": "http://performancematerials.macdermid.com/pdfs/TriPass%20ELV%207100_I%202p.pdf",
+            "id": 4840
+        },
+        {
+            "name": "Bonderite 1310 MSDS",
+            "url": "http://hybris.cms.henkel.com/henkel/msdspdf?matnr=595567&country=US&language=EN",
+            "id": 4836
+        },
+        {
+            "name": "Bonderite 1310 REPL ZAL MSDS",
+            "url": "http://hybris.cms.henkel.com/henkel/msdspdf?matnr=596063&country=US&language=EN",
+            "id": 4837
+        },
+        {
+            "name": "Powdura TGIC - equipment blue MSDS",
+            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=SWOEM&lang=E&doctype=MSDS&prodno=PLS8-C0020",
+            "id": 2339
+        },
+        {
+            "name": "Galvanizeit 1999",
+            "url": "http://www.galvanizeit.org/education-and-resources/resources/technical-faq-dr-galv/chemical-reaction-between-chromates-and-galvanized-steel",
+            "id": 4831
+        },
+        {
+            "name": "B201",
+            "url": "http://wenku.baidu.com/view/7984fe25ccbff121dd368326.html",
+            "id": 4829
+        },
+        {
+            "name": "D2092",
+            "url": "http://marron-co.com/marron/PAINT%20STANDARD/ASTM%20%20PAINTS/0602/D2092.pdf",
+            "id": 4827
+        },
+        {
+            "name": "TCI 11000",
+            "url": "http://www.tcipowder.com/core-markets/architectural/11000-series.html",
+            "id": 4826
+        },
+        {
+            "name": "TCI 10000",
+            "url": "http://www.tcipowder.com/core-markets/architectural/10000-series.html",
+            "id": 4825
+        },
+        {
+            "name": "Fera",
+            "url": "http://www.fera.org.uk/pdf/Feram%20seminar%202%20Feb%2006%20-%20Clive%20Pearce%20-%20Anochrome%20-%20ppt%202.pdf",
+            "id": 4834
+        },
+        {
+            "name": "Linden Group",
+            "url": "http://thelindgrengroup.com/wp-content/uploads/2013/05/703891_POSTER.pdf",
+            "id": 4832
+        },
+        {
+            "name": "Axaltac",
+            "url": "http://www.axaltacs.com/content/dam/NA/HQ/Public/Powder%20Coatings/Documents/Marketing/TGIC-POLYESTER%20TECHNICAL%20SUMMARY.pdf",
+            "id": 3279
+        },
+        {
+            "name": "Benzoin MSDS",
+            "url": "http://estron.com/sites/default/files/MSDS/Benzoin%2008-20-12%20GHS%20SDS.pdf",
+            "id": 3271
+        },
+        {
+            "name": "Resiflow PV5",
+            "url": "http://www.varistor.ch/fileadmin/sapfiles/PC%204%20SDB%20Resiflow%20PV%205%20120127.pdf",
+            "id": 3270
+        },
+        {
+            "name": "Resiflow PL-200",
+            "url": "http://estron.com/sites/default/files/MSDS/Resiflow%20PL-200%2003-03-14%20GHS%20SDS.pdf",
+            "id": 3272
+        },
+        {
+            "name": "Resiflow Tech",
+            "url": "http://db-ch.worlee.eu/uploads/attachments/00239e.pdf",
+            "id": 3269
+        },
+        {
+            "name": "PL-200 TDS",
+            "url": "http://estron.com/sites/default/files/TDS/Resiflow%20PL-200%2003-03-14%20TDS.pdf",
+            "id": 3273
+        },
+        {
+            "name": "NICNAS 1993",
+            "url": "http://www.nicnas.gov.au/__data/assets/pdf_file/0003/9480/NA77FR.PDF",
+            "id": 3275
+        },
+        {
+            "name": "Powdura TGIC-free MSDS",
+            "url": "http://www.paintdocs.com/webmsds/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=FBS4-C0001",
+            "id": 3256
+        },
+        {
+            "name": "EP2035478A2",
+            "url": "https://www.google.com/patents/EP2035478A2",
+            "id": 3268
+        },
+        {
+            "name": "EP1165712B1",
+            "url": "https://www.google.com/patents/EP1165712B1",
+            "id": 3267
+        },
+        {
+            "name": "Low Temp Clear MSDS",
+            "url": "http://www.chempoint.com/products/download?grade=26708&type=msds",
+            "id": 3278
+        },
+        {
+            "name": "HFSD Clear MSDS",
+            "url": "http://www.chempoint.com/products/download?grade=26378&type=msds",
+            "id": 3277
+        },
+        {
+            "name": "Eastman Polyester",
+            "url": "http://www.eastman.com/Literature_Center/N/N352.pdf",
+            "id": 3276
+        },
+        {
+            "name": "EP1972672A2",
+            "url": "https://www.google.com/patents/EP1972672A2",
+            "id": 3274
+        },
+        {
+            "name": "Powdura TGIC - barn red MSDS",
+            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=PRS4-C0001",
+            "id": 3265
+        },
+        {
+            "name": "Powdura TGIC - coastal white MSDS",
+            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=PWS6-C0018",
+            "id": 3264
+        },
+        {
+            "name": "Powdura TGIC - NL yellow MSDS",
+            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=PYS8-C8289",
+            "id": 3263
+        },
+        {
+            "name": "Powdura TGIC - enviro green MSDS",
+            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=PGS8-C0652",
+            "id": 3262
+        },
+        {
+            "name": "Powdura TGIC - safety orange MSDS",
+            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=PES8-C6148",
+            "id": 3261
+        },
+        {
+            "name": "Powdura TGIC - architectural bronze MSDS",
+            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=PDS4-C0014",
+            "id": 3260
+        },
+        {
+            "name": "Powdura TGIC - black MSDS",
+            "url": "http://www.paintdocs.com/webmsds/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=PBS4-C0009",
+            "id": 3259
+        },
+        {
+            "name": "Powdura TGIC - ANSI 70 gray MSDS",
+            "url": "http://www.paintdocs.com/docs/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=PAS8-C0003",
+            "id": 3258
+        },
+        {
+            "name": "Powdura TGIC - pure white MSDS",
+            "url": "http://www.paintdocs.com/webmsds/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=PWS8-C7479",
+            "id": 3255
+        },
+        {
+            "name": "Powdura Super Durable TGIC MSDS",
+            "url": "http://www.paintdocs.com/webmsds/webPDF.jsp?SITEID=STORECAT&lang=E&doctype=MSDS&prodno=DBS6-C0026",
+            "id": 3254
+        },
+        {
+            "name": "Powder Coatings",
+            "url": "http://cfpub.epa.gov/si/si_public_file_download.cfm?p_download_id=488104",
+            "id": 3247
+        },
+        {
+            "name": "US20060054248",
+            "url": "https://www.google.com/patents/US20060054248",
+            "id": 4846
+        },
+        {
+            "name": "PDM MSDS",
+            "url": "http://www.pdmsteel.com/pdf/Material-Safety-Data-Sheets2.pdf",
+            "id": 4833
+        },
+        {
+            "name": "ECHA",
+            "url": "http://echa.europa.eu/documents/10162/6adce2d9-590a-4cea-b9f3-0da9ca176e89",
+            "id": 4847
+        },
+        {
+            "name": "TURI",
+            "url": "http://www.turi.org/content/download/8713/145357/file/2006%20M&P%20Report%20Special%20Five%20Chemicals%20Alternatives%20Assessments.pdf",
+            "id": 4830
+        },
+        {
+            "name": "US6287704",
+            "url": "https://www.google.com/patents/US6287704",
+            "id": 4843
+        },
+        {
+            "name": "CN103741128A",
+            "url": "https://www.google.com/patents/CN103741128A",
+            "id": 4844
+        },
+        {
+            "name": "US20070243397",
+            "url": "https://www.google.com/patents/US20070243397",
+            "id": 4845
+        },
+        {
+            "name": "SurTec 680 LC",
+            "url": "http://www.surtec.com/ecomaXL/files/surtec_5317459381418130160680LCE.pdf&download=1",
+            "id": 4842
+        },
+        {
+            "name": "SurTec 680",
+            "url": "http://www.surtec.com/ecomaXL/files/surtec_6644562951418130159680E.pdf&download=1",
+            "id": 4841
+        },
+        {
+            "name": "Asterion",
+            "url": "http://asterionstc.com/chromates-and-passivates/",
+            "id": 4835
+        },
+        {
+            "name": "IGC White Rust",
+            "url": "http://az276019.vo.msecnd.net/valmontstaging/coatings-faqs/tech-tips-06---white-rust-(storage-stain)-on-galvanized-coatings.pdf?sfvrsn=4",
+            "id": 3091
+        },
+        {
+            "name": "B6",
+            "url": "http://web.askewindustrial.com/ASTM/B6.pdf?tblASTMSpecsPage=30",
+            "id": 3089
+        },
+        {
+            "name": "OSHA",
+            "url": "https://www.osha.gov/SLTC/hexavalentchromium/",
+            "id": 3088
+        },
+        {
+            "name": "NAWIC",
+            "url": "http://www.nawic.org/images/nawic/committees/safety/weldingchrom-1.pdf",
+            "id": 3087
+        },
+        {
+            "name": "NH",
+            "url": "http://www.manchesternh.gov/publicworks/Division%20600%20%28614-620%29.pdf",
+            "id": 3018
+        },
+        {
+            "name": "ASTM A53",
+            "url": "http://www.astm.org/Standards/A53.htm",
+            "id": 3019
+        },
+        {
+            "name": "CP MSDS",
+            "url": "http://www.conduitpipe.com/Conduit%20MSDS.pdf",
+            "id": 3020
+        },
+        {
+            "name": "Allied MSDS",
+            "url": "https://docs.google.com/viewerng/viewer?url=http://atcmechanical.wpengine.com/wp-content/uploads/2014/07/MSDS-Galvanized-Product-2010.pdf&hl=en_US",
+            "id": 3021
+        },
+        {
+            "name": "Duraguard",
+            "url": "http://www.wheatland.com/images/products/14-JMC-1529_brochure_Rigid-RMC-Brochure_v3.pdf",
+            "id": 3022
+        },
+        {
+            "name": "Allied Spec",
+            "url": "http://www.alliedeg.us/wp-content/uploads/2014/09/grc-kwik-couple-elbows-grc-conduit-elbows-nipples-couplings.pdf",
+            "id": 3023
+        },
+        {
+            "name": "Allied Masterformat",
+            "url": "http://www.alliedeg.us/wp-content/uploads/2014/09/kwik-couple-rigid-master-format.pdf",
+            "id": 3024
+        },
+        {
+            "name": "Republic",
+            "url": "http://www.cuny.biz/wp-content/uploads/2012/07/Rigid-Electrical-Steel-Conduit.pdf",
+            "id": 3025
+        },
+        {
+            "name": "C80.1",
+            "url": "http://webcache.googleusercontent.com/search?q=cache:u8KA-AISWs4J:bbs.365powernet.com/attachment.php%3Faid%3D26426+&cd=4&hl=en&ct=clnk&gl=us",
+            "id": 3026
+        },
+        {
+            "name": "SCDOT Spec",
+            "url": "http://www.scdot.org/doing/technicalpdfs/supspecs/83-08-30.pdf",
+            "id": 3027
+        },
+        {
+            "name": "LHC AZ Spec",
+            "url": "http://www.lhcaz.gov/operations/specifications/section16111.pdf",
+            "id": 3028
+        },
+        {
+            "name": "Engineering Toolbox",
+            "url": "http://www.engineeringtoolbox.com/npt-national-pipe-taper-threads-d_750.html",
+            "id": 3029
+        },
+        {
+            "name": "Unified alloys",
+            "url": "http://www.unifiedalloys.com/products/pdf_directory/main_collection/pipe_threads.pdf",
+            "id": 3030
+        },
+        {
+            "name": "Permacote Specs",
+            "url": "http://permacote.com/downloads/PM-PerformSpecifications.pdf",
+            "id": 3031
+        },
+        {
+            "name": "ECNKorns",
+            "url": "http://www.ecnkorns.com/PDF/ECNKorns_Buyers_Guide_2015.pdf",
+            "id": 3032
+        },
+        {
+            "name": "KorKap catalog",
+            "url": "http://www.korkap.com/all-products/#/CONDUIT",
+            "id": 3033
+        },
+        {
+            "name": "PlastiBond catalog",
+            "url": "http://www.plastibond.com/all-products/#/CONDUIT",
+            "id": 3034
+        },
+        {
+            "name": "Calbrite",
+            "url": "http://www.calbrite.com/products/conduit.html",
+            "id": 3035
+        },
+        {
+            "name": "NEMA CS",
+            "url": "http://www.nema.org/Products/Documents/hpbbooklet-pgs23-23.pdf",
+            "id": 3036
+        },
+        {
+            "name": "Calbond Catalog",
+            "url": "http://www.calbond.com/resources/calbond_catalog.pdf",
+            "id": 3037
+        },
+        {
+            "name": "Lead WP",
+            "url": "http://www.nema.org/Products/Documents/white+paper+on+lead+5rn.pdf",
+            "id": 3038
+        },
+        {
+            "name": "Hex Chrome WP",
+            "url": "http://www.nema.org/Products/Documents/white+paper+chromium+nema.pdf",
+            "id": 3039
+        },
+        {
+            "name": "GalvInfo Note 5",
+            "url": "http://galvinfo.com/ginotes/GalvInfoNote_5_2.pdf",
+            "id": 3040
+        },
+        {
+            "name": "NEMA 2008-UL 6",
+            "url": "https://www.nema.org/Technical/Documents/Bull_96_ULandNECRegforCorrosionProtofSteelConduit_03_09.pdf",
+            "id": 3041
+        },
+        {
+            "name": "Republic Spec",
+            "url": "https://www.elliottelectric.com/InventoryFiles/SpecSheets/(CON)/GAL4.pdf",
+            "id": 3042
+        },
+        {
+            "name": "WT&C MSDS",
+            "url": "http://westerntube.com/wp-content/uploads/2014/10/galvanized-steel-tubing-msds.pdf",
+            "id": 3044
+        },
+        {
+            "name": "Permapipe",
+            "url": "http://www.permapipe.com/uploads/supplements/gold-coatings.pdf",
+            "id": 3045
+        },
+        {
+            "name": "Allied",
+            "url": "http://www.usw.com/images/uploads/literature/weld.pdf",
+            "id": 3046
+        },
+        {
+            "name": "US 20110250365",
+            "url": "https://www.google.com/patents/US20110250365",
+            "id": 3047
+        },
+        {
+            "name": "US6063452 2000",
+            "url": "https://www.google.com/patents/US6063452",
+            "id": 3048
+        },
+        {
+            "name": "Colorado Spec",
+            "url": "http://coloradosprings.gov/sites/default/files/images/signal_specs_11-1-132.pdf",
+            "id": 3050
+        },
+        {
+            "name": "A513",
+            "url": "http://www.astm.org/Standards/A513.htm",
+            "id": 3051
+        },
+        {
+            "name": "A53",
+            "url": "http://www.astm.org/Standards/A53.htm)",
+            "id": 3052
+        },
+        {
+            "name": "PHD Conduit",
+            "url": "http://www.phd-mfg.com/technicaldata/pdf/general/6.pdf",
+            "id": 3053
+        },
+        {
+            "name": "A123",
+            "url": "http://wenku.baidu.com/view/597b1ca3b0717fd5360cdc82.html",
+            "id": 3054
+        },
+        {
+            "name": "Azo",
+            "url": "http://www.azom.com/article.aspx?ArticleID=1282",
+            "id": 3055
+        },
+        {
+            "name": "AAMA user guide",
+            "url": "http://www.tcipowder.com/pdfs/side-bar-downloads/aama-user-guide.pdf",
+            "id": 3056
+        },
+        {
+            "name": "Theoretical yield",
+            "url": "http://www.tiger-coatings.com/fileadmin/user_upload/downloads_new/technical-information-sheets/tiger-drylac/en/1072_theoretische-ergiebigkeit_en_0809_header_new.pdf",
+            "id": 3057
+        },
+        {
+            "name": "Series 68",
+            "url": "http://www.tiger-coatings.com/fileadmin/user_upload/downloads_new/product-data-sheets/tiger-drylac/architectural-application/en/TIGER-PDS-Series-68-1153_en.pdf",
+            "id": 3058
+        },
+        {
+            "name": "Series 17",
+            "url": "http://www.tiger-coatings.com/fileadmin/user_upload/downloads_new/product-data-sheets/tiger-drylac/architectural-application/en/1171_017_en_0613_header_new.pdf",
+            "id": 3059
+        },
+        {
+            "name": "Series 29",
+            "url": "http://www.tiger-coatings.com/fileadmin/user_upload/downloads_new/product-data-sheets/tiger-drylac/architectural-application/en/TIGER_PDS_series58_1140_en.pdf",
+            "id": 3060
+        }
+    ]
+}

@@ -1,0 +1,1393 @@
+{
+    "CPID": "CP008",
+    "timestamp": 1452102095422,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 4542,
+            "name": "Strip Waterstop",
+            "CASRN": "",
+            "massPct": 0.9970168001,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.01470588235,
+                        "contributors": [
+                            {
+                                "recId": 1530,
+                                "massPct": 0.01470588235,
+                                "childrenIds": [
+                                    1530
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": 0.01470588235,
+                        "contributors": [
+                            {
+                                "recId": 1530,
+                                "massPct": 0.01470588235,
+                                "childrenIds": [
+                                    1530
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 4544,
+                    "name": "Butyl Rubber",
+                    "CASRN": "9010-85-9",
+                    "massPct": 0.04411764706,
+                    "function": "binder",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Concrete",
+                            "url": "https://www.google.com/patents/US5663230",
+                            "id": 4520
+                        },
+                        {
+                            "name": "Greenstreak",
+                            "url": "http://www.greenstreak.com/SubPacks/Swellstop_MSDS.pdf",
+                            "id": 4512
+                        },
+                        {
+                            "name": "Amcol",
+                            "url": "https://www.google.com/patents/US7022398",
+                            "id": 4522
+                        },
+                        {
+                            "name": "BASF",
+                            "url": "https://www.google.com/patents/US7901771",
+                            "id": 4521
+                        },
+                        {
+                            "name": "CCW",
+                            "url": "http://www.carlisleccw.com/?page=view&mode=media&contentID=2758",
+                            "id": 4516
+                        },
+                        {
+                            "name": "Henry",
+                            "url": "http://us.henry.com/fileadmin/pdf/current/tds/HF302_techdata.pdf",
+                            "id": 4514
+                        },
+                        {
+                            "name": "CETCO TDS",
+                            "url": "http://allco.co.nz/product_files/volclay/waterstop/Waterstop-RX%20Tech%20Data%202005.pdf",
+                            "id": 4510
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.043986035299702374
+                },
+                {
+                    "recId": 4543,
+                    "name": "Bentonite Clay (Sodium Or Calcium)",
+                    "CASRN": "1302-78-9",
+                    "massPct": 0.8088235294,
+                    "function": "swellable filler",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "ACC",
+                            "url": "https://www.google.com/patents/US4534926",
+                            "id": 4523
+                        },
+                        {
+                            "name": "Concrete",
+                            "url": "https://www.google.com/patents/US5663230",
+                            "id": 4520
+                        },
+                        {
+                            "name": "BASF",
+                            "url": "https://www.google.com/patents/US7901771",
+                            "id": 4521
+                        },
+                        {
+                            "name": "Tremco 3",
+                            "url": "http://www.tremcosealants.com/fileshare/CertificationLetters/LEEDSuperStop.pdf",
+                            "id": 4519
+                        },
+                        {
+                            "name": "Tremco",
+                            "url": "http://www.tremcosealants.com/fileshare/msds/523050_502_U.pdf",
+                            "id": 4517
+                        },
+                        {
+                            "name": "CCW",
+                            "url": "http://www.carlisleccw.com/?page=view&mode=media&contentID=2758",
+                            "id": 4516
+                        },
+                        {
+                            "name": "Henry",
+                            "url": "http://us.henry.com/fileadmin/pdf/current/tds/HF302_techdata.pdf",
+                            "id": 4514
+                        },
+                        {
+                            "name": "Greenstreak",
+                            "url": "http://www.greenstreak.com/SubPacks/Swellstop_MSDS.pdf",
+                            "id": 4512
+                        },
+                        {
+                            "name": "CETCO TDS",
+                            "url": "http://allco.co.nz/product_files/volclay/waterstop/Waterstop-RX%20Tech%20Data%202005.pdf",
+                            "id": 4510
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.8064106471279763
+                },
+                {
+                    "recId": 1530,
+                    "name": "Carbon Black",
+                    "CASRN": "1333-86-4",
+                    "massPct": 0.01470588235,
+                    "function": "pigment",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-7911",
+                                "type": "red",
+                                "name": "Cancer (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Concrete",
+                            "url": "https://www.google.com/patents/US5663230",
+                            "id": 4520
+                        },
+                        {
+                            "name": "CETCO",
+                            "url": "http://www.cetco.com/DesktopModules/Bring2mind/DMX/Download.aspx?Command=Core_Download&PortalId=0&EntryId=16318",
+                            "id": 4509
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.014662011763244068
+                },
+                {
+                    "recId": 3757,
+                    "name": "Polyisobutylene",
+                    "CASRN": "9003-27-4",
+                    "massPct": 0.1323529412,
+                    "function": "tackifier",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Amcol",
+                            "url": "https://www.google.com/patents/US7022398",
+                            "id": 4522
+                        },
+                        {
+                            "name": "Concrete",
+                            "url": "https://www.google.com/patents/US5663230",
+                            "id": 4520
+                        },
+                        {
+                            "name": "Henry 2",
+                            "url": "http://us.henry.com/fileadmin/pdf/literature/hpd/HYDRO-FLEX%20WATERSTOP.pdf",
+                            "id": 4515
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.13195810591904744
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.9970168001
+        },
+        {
+            "recId": 4545,
+            "name": "Silicone Release Paper",
+            "CASRN": "",
+            "massPct": 0.002983199874,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": 0.00947664473674,
+                        "contributors": [
+                            {
+                                "recId": 4546,
+                                "massPct": 0.00947664473674,
+                                "childrenIds": [
+                                    4546,
+                                    5510
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": 0.0009179901315999301,
+                        "contributors": [
+                            {
+                                "recId": 4547,
+                                "massPct": 0.0009179901315999301,
+                                "childrenIds": [
+                                    4547,
+                                    5961
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 4546,
+                    "name": "Kraft Paper",
+                    "CASRN": "",
+                    "massPct": 0.9769736842,
+                    "function": "",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": 0.0097,
+                                "contributors": [
+                                    {
+                                        "recId": 5510,
+                                        "massPct": 0.0097,
+                                        "childrenIds": [
+                                            5510
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "components": [
+                        {
+                            "recId": 1203,
+                            "name": "Starch",
+                            "CASRN": "9005-25-8",
+                            "massPct": 0.0097,
+                            "function": "binder,sizing agent",
+                            "hazards": {},
+                            "sources": [
+                                {
+                                    "name": "Cargill",
+                                    "url": "http://www.cargill.com/products/industrial/papermaking/wetend/index.jsp",
+                                    "id": 4528
+                                },
+                                {
+                                    "name": "Rock",
+                                    "url": "http://www.rocktenn.com/files/RT001RockTennSDSCelluloseContainerboard.pdf",
+                                    "id": 4527
+                                },
+                                {
+                                    "name": "Kraft MSDS",
+                                    "url": "http://catalog.wcpsolutions.com/aa/usr/PDF/WP3640.pdf?*ERROR_HTTP_404=nopdf.pdf",
+                                    "id": 4526
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.00002827072538458553
+                        },
+                        {
+                            "recId": 1323,
+                            "name": "Cellulose",
+                            "CASRN": "9004-34-6",
+                            "massPct": 0.9275,
+                            "function": "fiber",
+                            "hazards": {},
+                            "sources": [
+                                {
+                                    "name": "Fortfiber",
+                                    "url": "http://www.fortifiber.com/pdf/sds/sds_kraft_paper_and_board_products.pdf",
+                                    "id": 7355
+                                },
+                                {
+                                    "name": "Rock",
+                                    "url": "http://www.rocktenn.com/files/RT001RockTennSDSCelluloseContainerboard.pdf",
+                                    "id": 4527
+                                },
+                                {
+                                    "name": "Kraft MSDS",
+                                    "url": "http://catalog.wcpsolutions.com/aa/usr/PDF/WP3640.pdf?*ERROR_HTTP_404=nopdf.pdf",
+                                    "id": 4526
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.002703205958165266
+                        },
+                        {
+                            "recId": 3759,
+                            "name": "Limestone",
+                            "CASRN": "1317-65-3",
+                            "massPct": 0.0531,
+                            "function": "filler",
+                            "hazards": {},
+                            "sources": [
+                                {
+                                    "name": "Sappi",
+                                    "url": "http://www.sappi.com/regions/sa/SupportAndSponsorships/Knowledge%20bank/Technical%20tips1/Calcium%20Carbonate.pdf",
+                                    "id": 4530
+                                },
+                                {
+                                    "name": "PPM",
+                                    "url": "http://www.pulppapermill.com/calcium-carbonate/",
+                                    "id": 4529
+                                },
+                                {
+                                    "name": "Rock",
+                                    "url": "http://www.rocktenn.com/files/RT001RockTennSDSCelluloseContainerboard.pdf",
+                                    "id": 4527
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.00015476036267231873
+                        },
+                        {
+                            "recId": 5510,
+                            "name": "Aluminum Sulfate",
+                            "CASRN": "10043-01-3",
+                            "massPct": 0.0097,
+                            "function": "sizing agent",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-7912",
+                                        "type": "orange",
+                                        "name": "Respiratory (occupational only)",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Fortfiber",
+                                    "url": "http://www.fortifiber.com/pdf/sds/sds_kraft_paper_and_board_products.pdf",
+                                    "id": 7355
+                                },
+                                {
+                                    "name": "Abby",
+                                    "url": "http://cool.conservation-us.org/byorg/abbey/an/an17/an17-4/an17-407.html",
+                                    "id": 4531
+                                },
+                                {
+                                    "name": "Kraft MSDS",
+                                    "url": "http://catalog.wcpsolutions.com/aa/usr/PDF/WP3640.pdf?*ERROR_HTTP_404=nopdf.pdf",
+                                    "id": 4526
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.00002827072538458553
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "name": "Burroughs",
+                            "url": "https://www.google.com/patents/US3386847",
+                            "id": 4532
+                        },
+                        {
+                            "name": "3M TDS",
+                            "url": "http://multimedia.3m.com/mws/media/106417O/3mtm-secondary-liners.pdf",
+                            "id": 4525
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0029145077716067557
+                },
+                {
+                    "recId": 4547,
+                    "name": "Silicone Release Coating",
+                    "CASRN": "",
+                    "massPct": 0.02302631579,
+                    "function": "",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": 0.039867,
+                                "contributors": [
+                                    {
+                                        "recId": 5961,
+                                        "massPct": 0.039867,
+                                        "childrenIds": [
+                                            5961
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "components": [
+                        {
+                            "recId": 5961,
+                            "name": "Stannous Octoate",
+                            "CASRN": "301-10-0",
+                            "massPct": 0.039867,
+                            "function": "catalyst",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-569",
+                                        "type": "orange",
+                                        "name": "Reproductive",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Burroughs",
+                                    "url": "https://www.google.com/patents/US3386847",
+                                    "id": 4532
+                                },
+                                {
+                                    "name": "Metatin",
+                                    "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_069d/0901b8038069d693.pdf?filepath=productsafety/pdfs/noreg/233-00840.pdf&fromPage=GetDoc",
+                                    "id": 5940
+                                },
+                                {
+                                    "name": "Scott",
+                                    "url": "https://www.google.com/patents/US3463661",
+                                    "id": 4534
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.000002738548044922155
+                        },
+                        {
+                            "recId": 4548,
+                            "name": "Methylhydrogenpolysiloxane",
+                            "CASRN": "63148-57-2",
+                            "massPct": 0.9601328904,
+                            "function": "polymer",
+                            "hazards": {},
+                            "sources": [
+                                {
+                                    "name": "Burroughs",
+                                    "url": "https://www.google.com/patents/US3386847",
+                                    "id": 4532
+                                },
+                                {
+                                    "name": "SiSiB",
+                                    "url": "http://www.powerchemical.net/silicone_fluid/silicone_fluids_PF2020.html",
+                                    "id": 4537
+                                },
+                                {
+                                    "name": "Goyo",
+                                    "url": "https://www.google.com/patents/US5430120",
+                                    "id": 4535
+                                },
+                                {
+                                    "name": "Kenji",
+                                    "url": "https://www.google.com/patents/US20110274935",
+                                    "id": 4533
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "yes",
+                            "massPctOfTotal": 0.00006595354678983566
+                        }
+                    ],
+                    "sources": [],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00006869210236341222
+                }
+            ],
+            "sources": [
+                {
+                    "name": "CETCO 2",
+                    "url": "http://allco.co.nz/product_files/volclay/BBA%20Volclay%20Waterstop%20RX.pdf",
+                    "id": 4511
+                },
+                {
+                    "name": "ACC",
+                    "url": "https://www.google.com/patents/US4534926",
+                    "id": 4523
+                },
+                {
+                    "name": "Concrete",
+                    "url": "https://www.google.com/patents/US5663230",
+                    "id": 4520
+                },
+                {
+                    "name": "Tremco 2",
+                    "url": "http://www.tremcosealants.com/fileshare/pds/superstop.pdf",
+                    "id": 4518
+                },
+                {
+                    "name": "Greenstreak 2",
+                    "url": "http://usa.sika.com/dms/getdocument.get/48492ce7-ed22-3ef8-8fdb-2b02ed900154/Suggested%20Specification%20for%20Swellstop-Greenstreak.doc",
+                    "id": 4513
+                },
+                {
+                    "name": "CCW",
+                    "url": "http://www.carlisleccw.com/?page=view&mode=media&contentID=2758",
+                    "id": 4516
+                },
+                {
+                    "name": "Henry",
+                    "url": "http://us.henry.com/fileadmin/pdf/current/tds/HF302_techdata.pdf",
+                    "id": 4514
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.002983199874
+        }
+    ],
+    "impurities": [
+        {
+            "name": "(Tributyl)peroxide",
+            "CASRN": "110-05-4",
+            "massPct": null,
+            "function": "polyisobutylene residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Zinc Stearate",
+            "CASRN": "557-05-1",
+            "massPct": null,
+            "function": "butyl rubber residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Chloromethane",
+            "CASRN": "74-87-3",
+            "massPct": null,
+            "function": "butyl rubber residual",
+            "sources": [],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)"
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Sulfuric Acid",
+            "CASRN": "7664-93-9",
+            "massPct": null,
+            "function": "polyisobutylene residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ethylene",
+            "CASRN": "74-85-1",
+            "massPct": null,
+            "function": "butyl rubber residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Isoprene",
+            "CASRN": "78-79-5",
+            "massPct": null,
+            "function": "butyl rubber residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Quartz",
+            "CASRN": "14808-60-7",
+            "massPct": 0.0159522688,
+            "function": "bentonite residual",
+            "sources": [
+                {
+                    "name": "Bentonite 2",
+                    "url": "http://www.pestell.com/msds/Bentonite.pdf",
+                    "id": 4539
+                },
+                {
+                    "name": "Bentonite",
+                    "url": "https://www.naturalsourcing.com/msds/MSDS_Bentonite.pdf",
+                    "id": 4538
+                },
+                {
+                    "name": "Tremco",
+                    "url": "http://www.tremcosealants.com/fileshare/msds/523050_502_U.pdf",
+                    "id": 4517
+                },
+                {
+                    "name": "CETCO",
+                    "url": "http://www.cetco.com/DesktopModules/Bring2mind/DMX/Download.aspx?Command=Core_Download&PortalId=0&EntryId=16318",
+                    "id": 4509
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Isobutylene",
+            "CASRN": "115-11-7",
+            "massPct": null,
+            "function": "polyisobutylene and butyl rubber residual",
+            "sources": [],
+            "hazards": {}
+        },
+        {
+            "name": "Silica, amorphous",
+            "CASRN": "7631-86-9",
+            "massPct": null,
+            "function": "bentonite residual",
+            "sources": [],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Phosphorus Pentoxide",
+            "CASRN": "1314-56-3",
+            "massPct": null,
+            "function": "bentonite residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Titanium Dioxide",
+            "CASRN": "13463-67-7",
+            "massPct": null,
+            "function": "bentonite residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Polycyclic Aromatic Hydrocarbons",
+            "CASRN": "130498-29-2",
+            "massPct": 0.00000293,
+            "function": "carbon black residual",
+            "sources": [],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Magnesium Oxide",
+            "CASRN": "1309-48-4",
+            "massPct": null,
+            "function": "bentonite residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Xylene",
+            "CASRN": "1330-20-7",
+            "massPct": null,
+            "function": "residual solvent from silicone release coating",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Aluminum Oxide",
+            "CASRN": "1344-28-1",
+            "massPct": null,
+            "function": "bentonite residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Tetramethylsilane",
+            "CASRN": "75-76-3",
+            "massPct": null,
+            "function": "methylhydrogenpolysiloxane",
+            "sources": [],
+            "hazards": {}
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.014662011763244068,
+                    "contributors": [
+                        {
+                            "recId": 4542,
+                            "massPct": 0.014662011763244068,
+                            "childrenIds": [
+                                4542,
+                                1530
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.000028270725384585534,
+                    "contributors": [
+                        {
+                            "recId": 4545,
+                            "massPct": 0.000028270725384585534,
+                            "childrenIds": [
+                                4545,
+                                4546,
+                                5510
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-569",
+                    "type": "orange",
+                    "name": "Reproductive",
+                    "massPct": 0.000002738548044922155,
+                    "contributors": [
+                        {
+                            "recId": 4545,
+                            "massPct": 0.000002738548044922155,
+                            "childrenIds": [
+                                4545,
+                                4547,
+                                5961
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.014662011763244068,
+                    "contributors": [
+                        {
+                            "recId": 4542,
+                            "massPct": 0.014662011763244068,
+                            "childrenIds": [
+                                4542,
+                                1530
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "Includes all cradle-to-gate data, including raw materials extraction, energy production, transportation of ingredients to the extrusion plant, and manufacturing energy. Packaging is excluded.  \n                                           \n                                ",
+        "gabiDatasets": [
+            {
+                "name": "US: Isobutylene (Butyl rubber) by dispersion polymerization (estimation) PE [Plastic production]"
+            },
+            {
+                "name": "US: Landfilling of plastic waste PE <p-agg> [Landfill]"
+            },
+            {
+                "name": "US: Lubricants at refinery PE [Refinery products]"
+            },
+            {
+                "name": "US: Thermal energy from natural gas (eGrid) PE [Thermal energy from natural gas]"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid) PE [Electricity grid mix]"
+            },
+            {
+                "name": "GLO: Compressed air 7 bar (medium power consumption) PE <u-so> [Mechanical energy generation]"
+            },
+            {
+                "name": "GLO: Plastic extrusion profile (unspecific) PE <u-so> [Part production]"
+            },
+            {
+                "name": "EU-27: Kraft paper (EN15804 A1-A3) PE [Fleeces]"
+            },
+            {
+                "name": "DE: Phenylmethyl siloxane PE [Organic intermediate products] US: Carbon black (furnace black, general purpose) PE [Organic intermediate products]"
+            },
+            {
+                "name": "DE: Bentonite PE [Minerals production]"
+            },
+            {
+                "name": "US: Diesel mix at filling station PE [Filling station]"
+            },
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6 PE <u-so> [Truck]"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% landfilled (82% inert, 18% plastic, 0.3% paper)",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "3.77E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "2.04E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "1.43E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.13E-04"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "5.69E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "2.86E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "3.25E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "5.98E-05"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "5.21E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.13E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "5.04E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.19E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP008",
+    "name": "Hydrophilic Concrete Joint Waterstop",
+    "altNames": [
+        "Bentonite Waterstop"
+    ],
+    "uniformats": [
+        {
+            "id": "B2010",
+            "name": "Exterior Walls"
+        },
+        {
+            "id": "A4010",
+            "name": "Standard Slabs-on-Grade"
+        },
+        {
+            "id": "A1010",
+            "name": "Standard Foundations"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "03-15-13",
+            "name": "Waterstops"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Concrete joint waterstops can be metal, hydrophobic or hydrophilic.  Hydrophilic waterstops are most common in joints with limited movement (concrete cold joints) and are thus explored in this CP.  Within this group of waterstops, bentonite clay based formulations are most common.  The waterstop is used in vertical and horizontal non-moving concrete construction joints and around through penetrations to prevent water intrusion.  The preformed strip watertop swells on contact with water, creating a seal in both hydrostatic and intermittent hydrostatic conditions.  Some of these strips are self-adhering due to their tacky nature, but most technical data sheets still recommend the use of a primer or adhesive (at least on vertical surfaces).  The material is delivered in a coil, with a paper backing on one side to prevent the strip from sticking to itself.  The paper is removed upon application.\t",
+    "sources": [
+        {
+            "name": "Fortfiber",
+            "url": "http://www.fortifiber.com/pdf/sds/sds_kraft_paper_and_board_products.pdf",
+            "id": 7355
+        },
+        {
+            "name": "Metatin",
+            "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_069d/0901b8038069d693.pdf?filepath=productsafety/pdfs/noreg/233-00840.pdf&fromPage=GetDoc",
+            "id": 5940
+        },
+        {
+            "name": "CETCO",
+            "url": "http://www.cetco.com/DesktopModules/Bring2mind/DMX/Download.aspx?Command=Core_Download&PortalId=0&EntryId=16318",
+            "id": 4509
+        },
+        {
+            "name": "CETCO TDS",
+            "url": "http://allco.co.nz/product_files/volclay/waterstop/Waterstop-RX%20Tech%20Data%202005.pdf",
+            "id": 4510
+        },
+        {
+            "name": "CETCO 2",
+            "url": "http://allco.co.nz/product_files/volclay/BBA%20Volclay%20Waterstop%20RX.pdf",
+            "id": 4511
+        },
+        {
+            "name": "Greenstreak",
+            "url": "http://www.greenstreak.com/SubPacks/Swellstop_MSDS.pdf",
+            "id": 4512
+        },
+        {
+            "name": "Greenstreak 2",
+            "url": "http://usa.sika.com/dms/getdocument.get/48492ce7-ed22-3ef8-8fdb-2b02ed900154/Suggested%20Specification%20for%20Swellstop-Greenstreak.doc",
+            "id": 4513
+        },
+        {
+            "name": "Henry",
+            "url": "http://us.henry.com/fileadmin/pdf/current/tds/HF302_techdata.pdf",
+            "id": 4514
+        },
+        {
+            "name": "Henry 2",
+            "url": "http://us.henry.com/fileadmin/pdf/literature/hpd/HYDRO-FLEX%20WATERSTOP.pdf",
+            "id": 4515
+        },
+        {
+            "name": "CCW",
+            "url": "http://www.carlisleccw.com/?page=view&mode=media&contentID=2758",
+            "id": 4516
+        },
+        {
+            "name": "Tremco",
+            "url": "http://www.tremcosealants.com/fileshare/msds/523050_502_U.pdf",
+            "id": 4517
+        },
+        {
+            "name": "Tremco 2",
+            "url": "http://www.tremcosealants.com/fileshare/pds/superstop.pdf",
+            "id": 4518
+        },
+        {
+            "name": "Tremco 3",
+            "url": "http://www.tremcosealants.com/fileshare/CertificationLetters/LEEDSuperStop.pdf",
+            "id": 4519
+        },
+        {
+            "name": "Concrete",
+            "url": "https://www.google.com/patents/US5663230",
+            "id": 4520
+        },
+        {
+            "name": "BASF",
+            "url": "https://www.google.com/patents/US7901771",
+            "id": 4521
+        },
+        {
+            "name": "Amcol",
+            "url": "https://www.google.com/patents/US7022398",
+            "id": 4522
+        },
+        {
+            "name": "ACC",
+            "url": "https://www.google.com/patents/US4534926",
+            "id": 4523
+        },
+        {
+            "name": "Greenstreak 3",
+            "url": "http://usa.sika.com/dms/getdocument.get/5521253e-de2a-3349-ac7d-a00f79bc7cbf/Swellstop%20Installation-Greenstreak.doc",
+            "id": 4524
+        },
+        {
+            "name": "3M TDS",
+            "url": "http://multimedia.3m.com/mws/media/106417O/3mtm-secondary-liners.pdf",
+            "id": 4525
+        },
+        {
+            "name": "Kraft MSDS",
+            "url": "http://catalog.wcpsolutions.com/aa/usr/PDF/WP3640.pdf?*ERROR_HTTP_404=nopdf.pdf",
+            "id": 4526
+        },
+        {
+            "name": "Rock",
+            "url": "http://www.rocktenn.com/files/RT001RockTennSDSCelluloseContainerboard.pdf",
+            "id": 4527
+        },
+        {
+            "name": "Cargill",
+            "url": "http://www.cargill.com/products/industrial/papermaking/wetend/index.jsp",
+            "id": 4528
+        },
+        {
+            "name": "PPM",
+            "url": "http://www.pulppapermill.com/calcium-carbonate/",
+            "id": 4529
+        },
+        {
+            "name": "Sappi",
+            "url": "http://www.sappi.com/regions/sa/SupportAndSponsorships/Knowledge%20bank/Technical%20tips1/Calcium%20Carbonate.pdf",
+            "id": 4530
+        },
+        {
+            "name": "Abby",
+            "url": "http://cool.conservation-us.org/byorg/abbey/an/an17/an17-4/an17-407.html",
+            "id": 4531
+        },
+        {
+            "name": "Burroughs",
+            "url": "https://www.google.com/patents/US3386847",
+            "id": 4532
+        },
+        {
+            "name": "Kenji",
+            "url": "https://www.google.com/patents/US20110274935",
+            "id": 4533
+        },
+        {
+            "name": "Scott",
+            "url": "https://www.google.com/patents/US3463661",
+            "id": 4534
+        },
+        {
+            "name": "Goyo",
+            "url": "https://www.google.com/patents/US5430120",
+            "id": 4535
+        },
+        {
+            "name": "Carbide",
+            "url": "https://www.google.com/patents/US4201808",
+            "id": 4536
+        },
+        {
+            "name": "SiSiB",
+            "url": "http://www.powerchemical.net/silicone_fluid/silicone_fluids_PF2020.html",
+            "id": 4537
+        },
+        {
+            "name": "Bentonite",
+            "url": "https://www.naturalsourcing.com/msds/MSDS_Bentonite.pdf",
+            "id": 4538
+        },
+        {
+            "name": "Bentonite 2",
+            "url": "http://www.pestell.com/msds/Bentonite.pdf",
+            "id": 4539
+        },
+        {
+            "name": "Appendix B",
+            "url": "http://www.epa.gov/ttn/atw/112c6/app_b.pdf",
+            "id": 4540
+        },
+        {
+            "name": "Loparex",
+            "url": "http://www.loparex.com/product-detail.aspx?ID=24",
+            "id": 4541
+        }
+    ]
+}

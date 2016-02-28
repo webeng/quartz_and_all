@@ -1,0 +1,2404 @@
+{
+    "CPID": "CP096",
+    "timestamp": 1452102125196,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 2769,
+            "name": "Exterior Coating",
+            "CASRN": "",
+            "massPct": 0.0494,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.0583,
+                        "contributors": [
+                            {
+                                "recId": 3116,
+                                "massPct": 0.0583,
+                                "childrenIds": [
+                                    3116
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": 0.2171,
+                        "contributors": [
+                            {
+                                "recId": 1535,
+                                "massPct": 0.2171,
+                                "childrenIds": [
+                                    1535
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.1169,
+                        "contributors": [
+                            {
+                                "recId": 2766,
+                                "massPct": 0.1169,
+                                "childrenIds": [
+                                    2766
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "unknown": [
+                    {
+                        "hazardId": "unknown-11424",
+                        "type": "unknown",
+                        "name": "Unknown",
+                        "massPct": 0.6077,
+                        "contributors": [
+                            {
+                                "recId": 2765,
+                                "massPct": 0.6077,
+                                "childrenIds": [
+                                    2765
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": 0.1169,
+                        "contributors": [
+                            {
+                                "recId": 2766,
+                                "massPct": 0.1169,
+                                "childrenIds": [
+                                    2766
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 3116,
+                    "name": "Barium Sulfate",
+                    "CASRN": "7727-43-7",
+                    "massPct": 0.0583,
+                    "function": null,
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Aquapon B",
+                            "url": "http://v2.pharosproject.net/uploads/files/sources/577/1387302491.pdf",
+                            "id": 2724
+                        },
+                        {
+                            "name": "Amerlock B",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/577/Amerlock%202%20Part%20B%20-%20MSDS.pdf",
+                            "id": 2721
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00288002
+                },
+                {
+                    "recId": 1535,
+                    "name": "Talc",
+                    "CASRN": "14807-96-6",
+                    "massPct": 0.2171,
+                    "function": "filler",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-567",
+                                "type": "orange",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Aquapon B",
+                            "url": "http://v2.pharosproject.net/uploads/files/sources/577/1387302491.pdf",
+                            "id": 2724
+                        },
+                        {
+                            "name": "Amerlock B",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/577/Amerlock%202%20Part%20B%20-%20MSDS.pdf",
+                            "id": 2721
+                        },
+                        {
+                            "name": "BarRust A",
+                            "url": "http://datasheets1.international-coatings.com/msds/NDA060_USA_eng_A1.pdf",
+                            "id": 2748
+                        },
+                        {
+                            "name": "Amerlock A",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/577/Amerlock%202%20Green%20Resin%20-%20MSDS.pdf",
+                            "id": 2720
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.01072474
+                },
+                {
+                    "recId": 2765,
+                    "name": "Crosslinked Epoxy Polymer",
+                    "CASRN": "unknown",
+                    "massPct": 0.6077,
+                    "function": "",
+                    "hazards": {
+                        "unknown": [
+                            {
+                                "hazardId": "unknown-11424",
+                                "type": "unknown",
+                                "name": "Unknown",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Allied Patent 1",
+                            "url": "https://www.google.com/patents/WO2011017269A1?cl=en&dq=pipe+ininventor:Bussiere&hl=en&sa=X&ei=9KLTVKXgG4e6ggTf5ICQDQ&ved=0CC0Q6AEwAg",
+                            "id": 2692
+                        },
+                        {
+                            "name": "NuFlow",
+                            "url": "http://www.nuflowtech.com/products/epoxylining/NuLineEpoxyCoating.aspx",
+                            "id": 2711
+                        },
+                        {
+                            "name": "Durabond",
+                            "url": "http://www.dura-bond.com/distributors/pdf/3m/323_Liquid_Epoxy.pdf",
+                            "id": 2704
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.03002038
+                },
+                {
+                    "recId": 2766,
+                    "name": "Titanium Dioxide",
+                    "CASRN": "13463-67-7",
+                    "massPct": 0.1169,
+                    "function": "pigment",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-7911",
+                                "type": "red",
+                                "name": "Cancer (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Lyondell",
+                            "url": "http://www.lyondellbasell.com/techlit/techlit/PC166.pdf",
+                            "id": 2744
+                        },
+                        {
+                            "name": "Devran A",
+                            "url": "http://datasheets1.international-coatings.com/msds/NDA486_USA_eng_A0.pdf",
+                            "id": 2751
+                        },
+                        {
+                            "name": "BarRust A",
+                            "url": "http://datasheets1.international-coatings.com/msds/NDA060_USA_eng_A1.pdf",
+                            "id": 2748
+                        },
+                        {
+                            "name": "650 A",
+                            "url": "https://pharosproject.net/uploads/files/sources/568/1368732325.pdf",
+                            "id": 2733
+                        },
+                        {
+                            "name": "33 A",
+                            "url": "http://www.sherwin-williams.com/document/MSDS/en/035777559093/",
+                            "id": 2730
+                        },
+                        {
+                            "name": "Aquapon A",
+                            "url": "https://pharosproject.net/uploads/files/sources/577/1386885629.pdf",
+                            "id": 2723
+                        },
+                        {
+                            "name": "Amerlock A",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/577/Amerlock%202%20Green%20Resin%20-%20MSDS.pdf",
+                            "id": 2720
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00577486
+                }
+            ],
+            "sources": [
+                {
+                    "name": "Viking",
+                    "url": "http://www.vikinggroupinc.com/usrelated/wheatland/Sch40_rev01.pdf",
+                    "id": 2669
+                },
+                {
+                    "name": "FM Global",
+                    "url": "https://www.fmglobal.com/assets/pdf/fmapprovals/1630.pdf",
+                    "id": 2662
+                },
+                {
+                    "name": "Wheatland Tube",
+                    "url": "http://www.wheatland.com/images/specs/SprinklerBrochures_Schedule10_40.pdf",
+                    "id": 2683
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.0494
+        },
+        {
+            "recId": 7709,
+            "name": "High Performance Coating (epoxy) (cured)",
+            "CASRN": "",
+            "massPct": 0.0172,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer",
+                        "massPct": 0.2171,
+                        "contributors": [
+                            {
+                                "recId": 1535,
+                                "massPct": 0.2171,
+                                "childrenIds": [
+                                    1535
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.05828,
+                        "contributors": [
+                            {
+                                "recId": 3116,
+                                "massPct": 0.05828,
+                                "childrenIds": [
+                                    3116
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.116921,
+                        "contributors": [
+                            {
+                                "recId": 2766,
+                                "massPct": 0.116921,
+                                "childrenIds": [
+                                    2766
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "unknown": [
+                    {
+                        "hazardId": "unknown-11424",
+                        "type": "unknown",
+                        "name": "Unknown",
+                        "massPct": 0.607699,
+                        "contributors": [
+                            {
+                                "recId": 2765,
+                                "massPct": 0.607699,
+                                "childrenIds": [
+                                    2765
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": 0.116921,
+                        "contributors": [
+                            {
+                                "recId": 2766,
+                                "massPct": 0.116921,
+                                "childrenIds": [
+                                    2766
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 1535,
+                    "name": "Talc",
+                    "CASRN": "14807-96-6",
+                    "massPct": 0.2171,
+                    "function": "filler",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-567",
+                                "type": "orange",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Aquapon B",
+                            "url": "http://v2.pharosproject.net/uploads/files/sources/577/1387302491.pdf",
+                            "id": 2724
+                        },
+                        {
+                            "name": "Amerlock B",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/577/Amerlock%202%20Part%20B%20-%20MSDS.pdf",
+                            "id": 2721
+                        },
+                        {
+                            "name": "BarRust A",
+                            "url": "http://datasheets1.international-coatings.com/msds/NDA060_USA_eng_A1.pdf",
+                            "id": 2748
+                        },
+                        {
+                            "name": "Amerlock A",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/577/Amerlock%202%20Green%20Resin%20-%20MSDS.pdf",
+                            "id": 2720
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0037341199999999996
+                },
+                {
+                    "recId": 2765,
+                    "name": "Crosslinked Epoxy Polymer",
+                    "CASRN": "unknown",
+                    "massPct": 0.607699,
+                    "function": "polymer",
+                    "hazards": {
+                        "unknown": [
+                            {
+                                "hazardId": "unknown-11424",
+                                "type": "unknown",
+                                "name": "Unknown",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Allied Patent 1",
+                            "url": "https://www.google.com/patents/WO2011017269A1?cl=en&dq=pipe+ininventor:Bussiere&hl=en&sa=X&ei=9KLTVKXgG4e6ggTf5ICQDQ&ved=0CC0Q6AEwAg",
+                            "id": 2692
+                        },
+                        {
+                            "name": "NuFlow",
+                            "url": "http://www.nuflowtech.com/products/epoxylining/NuLineEpoxyCoating.aspx",
+                            "id": 2711
+                        },
+                        {
+                            "name": "Durabond",
+                            "url": "http://www.dura-bond.com/distributors/pdf/3m/323_Liquid_Epoxy.pdf",
+                            "id": 2704
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0104524228
+                },
+                {
+                    "recId": 3116,
+                    "name": "Barium Sulfate",
+                    "CASRN": "7727-43-7",
+                    "massPct": 0.05828,
+                    "function": "pigment",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Aquapon B",
+                            "url": "http://v2.pharosproject.net/uploads/files/sources/577/1387302491.pdf",
+                            "id": 2724
+                        },
+                        {
+                            "name": "Amerlock B",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/577/Amerlock%202%20Part%20B%20-%20MSDS.pdf",
+                            "id": 2721
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.001002416
+                },
+                {
+                    "recId": 2766,
+                    "name": "Titanium Dioxide",
+                    "CASRN": "13463-67-7",
+                    "massPct": 0.116921,
+                    "function": "pigment",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-7911",
+                                "type": "red",
+                                "name": "Cancer (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Lyondell",
+                            "url": "http://www.lyondellbasell.com/techlit/techlit/PC166.pdf",
+                            "id": 2744
+                        },
+                        {
+                            "name": "Devran A",
+                            "url": "http://datasheets1.international-coatings.com/msds/NDA486_USA_eng_A0.pdf",
+                            "id": 2751
+                        },
+                        {
+                            "name": "BarRust A",
+                            "url": "http://datasheets1.international-coatings.com/msds/NDA060_USA_eng_A1.pdf",
+                            "id": 2748
+                        },
+                        {
+                            "name": "650 A",
+                            "url": "https://pharosproject.net/uploads/files/sources/568/1368732325.pdf",
+                            "id": 2733
+                        },
+                        {
+                            "name": "33 A",
+                            "url": "http://www.sherwin-williams.com/document/MSDS/en/035777559093/",
+                            "id": 2730
+                        },
+                        {
+                            "name": "Aquapon A",
+                            "url": "https://pharosproject.net/uploads/files/sources/577/1386885629.pdf",
+                            "id": 2723
+                        },
+                        {
+                            "name": "Amerlock A",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/577/Amerlock%202%20Green%20Resin%20-%20MSDS.pdf",
+                            "id": 2720
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0020110412
+                }
+            ],
+            "sources": [
+                {
+                    "name": "BWU",
+                    "url": "http://www.bw.edu/resources/bng/missionstatementbng/procedures/BaldwinWallace_BandG_BuildingStandardBook.pdf",
+                    "id": 2680
+                },
+                {
+                    "name": "Spears",
+                    "url": "http://www.fergusonfire.com/pdfs/SpearsAcceptanceofBullMooseTubeCo_EddyGuardIIPipe.pdf",
+                    "id": 2681
+                },
+                {
+                    "name": "Allied Patent 1",
+                    "url": "https://www.google.com/patents/WO2011017269A1?cl=en&dq=pipe+ininventor:Bussiere&hl=en&sa=X&ei=9KLTVKXgG4e6ggTf5ICQDQ&ved=0CC0Q6AEwAg",
+                    "id": 2692
+                },
+                {
+                    "name": "Bull Moose",
+                    "url": "http://www.bullmoosetube.com/products/product-range.aspx?gid=efc08761-4513-4ad1-8b88-f889df300ebf&pg=Dn39KVTFgvj7GfAEbb4kZRZSURu%2bFO0Sc1uNAZeDzLd0KTN2LagITA%3d%3d",
+                    "id": 2695
+                },
+                {
+                    "name": "M-Coat",
+                    "url": "http://alliedtube-sprinkler.com/wp-content/uploads/2012/09/STP1301_XL-BLT-Sub-Sht_.pdf",
+                    "id": 2690
+                },
+                {
+                    "name": "Wheatland",
+                    "url": "http://www.wheatland.com/images/specs/12-JMC-0466_Brochure_Sprinkler-Brochure-v13.pdf",
+                    "id": 2665
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.0172
+        },
+        {
+            "recId": 2763,
+            "name": "Steel Pipe",
+            "CASRN": "",
+            "massPct": 0.9334,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.009899999999999999,
+                        "contributors": [
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0004,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            },
+                            {
+                                "recId": 760,
+                                "massPct": 0.0095,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": 0.0004,
+                        "contributors": [
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0004,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.009899999999999999,
+                        "contributors": [
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0004,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            },
+                            {
+                                "recId": 760,
+                                "massPct": 0.0095,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.0095,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.0095,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.0095,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.0095,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": 0.0095,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.0095,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 762,
+                    "name": "Carbon",
+                    "CASRN": "7440-44-0",
+                    "massPct": 0.0025,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Universal Tubes",
+                            "url": "http://www.universaltubes.com/products/ASTM%20A%20795%20Gr.A.pdf",
+                            "id": 2670
+                        },
+                        {
+                            "name": "Compare",
+                            "url": "http://www.turnkeyips.com/assets/pipe_specification_a795.pdf",
+                            "id": 2668
+                        },
+                        {
+                            "name": "A795",
+                            "url": "http://www.astm.org/Standards/A795.htm",
+                            "id": 2663
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0023335
+                },
+                {
+                    "recId": 774,
+                    "name": "Sulfur",
+                    "CASRN": "7704-34-9",
+                    "massPct": 0.0004,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Universal Tubes",
+                            "url": "http://www.universaltubes.com/products/ASTM%20A%20795%20Gr.A.pdf",
+                            "id": 2670
+                        },
+                        {
+                            "name": "Compare",
+                            "url": "http://www.turnkeyips.com/assets/pipe_specification_a795.pdf",
+                            "id": 2668
+                        },
+                        {
+                            "name": "A795",
+                            "url": "http://www.astm.org/Standards/A795.htm",
+                            "id": 2663
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00037336000000000004
+                },
+                {
+                    "recId": 758,
+                    "name": "Iron",
+                    "CASRN": "7439-89-6",
+                    "massPct": 0.9873,
+                    "function": "base metal",
+                    "hazards": {},
+                    "sources": [],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.92154582
+                },
+                {
+                    "recId": 9900,
+                    "name": "Phosphorus",
+                    "CASRN": "7723-14-0",
+                    "massPct": 0.0004,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Universal Tubes",
+                            "url": "http://www.universaltubes.com/products/ASTM%20A%20795%20Gr.A.pdf",
+                            "id": 2670
+                        },
+                        {
+                            "name": "Compare",
+                            "url": "http://www.turnkeyips.com/assets/pipe_specification_a795.pdf",
+                            "id": 2668
+                        },
+                        {
+                            "name": "A795",
+                            "url": "http://www.astm.org/Standards/A795.htm",
+                            "id": 2663
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00037336000000000004
+                },
+                {
+                    "recId": 760,
+                    "name": "Manganese",
+                    "CASRN": "7439-96-5",
+                    "massPct": 0.0095,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Universal Tubes",
+                            "url": "http://www.universaltubes.com/products/ASTM%20A%20795%20Gr.A.pdf",
+                            "id": 2670
+                        },
+                        {
+                            "name": "Compare",
+                            "url": "http://www.turnkeyips.com/assets/pipe_specification_a795.pdf",
+                            "id": 2668
+                        },
+                        {
+                            "name": "A795",
+                            "url": "http://www.astm.org/Standards/A795.htm",
+                            "id": 2663
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0088673
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.9334
+        }
+    ],
+    "impurities": [
+        {
+            "name": "4-Nonylphenol, branched",
+            "CASRN": "84852-15-3",
+            "massPct": null,
+            "function": "crosslinked epoxy polymer residual",
+            "sources": [
+                {
+                    "name": "KEMI",
+                    "url": "https://apps.kemi.se/flodessok/floden/kemamne_eng/nonylfenol_eng.htm",
+                    "id": 2743
+                },
+                {
+                    "name": "650 A",
+                    "url": "https://pharosproject.net/uploads/files/sources/568/1368732325.pdf",
+                    "id": 2733
+                },
+                {
+                    "name": "33 A",
+                    "url": "http://www.sherwin-williams.com/document/MSDS/en/035777559093/",
+                    "id": 2730
+                },
+                {
+                    "name": "1000 A",
+                    "url": "http://www.sherwin-williams.com/document/MSDS/en/035777365502/",
+                    "id": 2726
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "1,3,5-Trimethylbenzene",
+            "CASRN": "108-67-8",
+            "massPct": null,
+            "function": "epoxy coating residual",
+            "sources": [
+                {
+                    "name": "BarRust A",
+                    "url": "http://datasheets1.international-coatings.com/msds/NDA060_USA_eng_A1.pdf",
+                    "id": 2748
+                },
+                {
+                    "name": "1000 A",
+                    "url": "http://www.sherwin-williams.com/document/MSDS/en/035777365502/",
+                    "id": 2726
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Isophoronediamine",
+            "CASRN": "2855-13-2",
+            "massPct": null,
+            "function": "crosslinked epoxy polymer residual",
+            "sources": [
+                {
+                    "name": "IMPAX B",
+                    "url": "https://pharosproject.net/uploads/files/sources/535/1364573847.pdf",
+                    "id": 2739
+                },
+                {
+                    "name": "650 B",
+                    "url": "http://www.sherwin-williams.com/document/MSDS/en/035777559086/",
+                    "id": 2734
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Epichlorohydrin-Bisphenol A Resin",
+            "CASRN": "25068-38-6",
+            "massPct": null,
+            "function": "crosslinked epoxy polymer residual",
+            "sources": [
+                {
+                    "name": "Devran A",
+                    "url": "http://datasheets1.international-coatings.com/msds/NDA486_USA_eng_A0.pdf",
+                    "id": 2751
+                },
+                {
+                    "name": "BarRust A",
+                    "url": "http://datasheets1.international-coatings.com/msds/NDA060_USA_eng_A1.pdf",
+                    "id": 2748
+                },
+                {
+                    "name": "IMPAX A",
+                    "url": "https://pharosproject.net/uploads/files/sources/535/1364572031.pdf",
+                    "id": 2738
+                },
+                {
+                    "name": "Aquapon A",
+                    "url": "https://pharosproject.net/uploads/files/sources/577/1386885629.pdf",
+                    "id": 2723
+                },
+                {
+                    "name": "Amerlock A",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/577/Amerlock%202%20Green%20Resin%20-%20MSDS.pdf",
+                    "id": 2720
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Silica, amorphous",
+            "CASRN": "7631-86-9",
+            "massPct": null,
+            "function": "silver zinc zeolite residual",
+            "sources": [],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Magnesium Oxide",
+            "CASRN": "1309-48-4",
+            "massPct": null,
+            "function": "silver zinc zeolite residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Aluminum Oxide",
+            "CASRN": "1344-28-1",
+            "massPct": null,
+            "function": "silver zinc zeolite residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Xylene",
+            "CASRN": "1330-20-7",
+            "massPct": null,
+            "function": "epoxy coating residual",
+            "sources": [
+                {
+                    "name": "Tripoxy A",
+                    "url": "http://msdssearchengine.com/local_msds.php?id=178352",
+                    "id": 2746
+                },
+                {
+                    "name": "Lyondell",
+                    "url": "http://www.lyondellbasell.com/techlit/techlit/PC166.pdf",
+                    "id": 2744
+                },
+                {
+                    "name": "1000 A",
+                    "url": "http://www.sherwin-williams.com/document/MSDS/en/035777365502/",
+                    "id": 2726
+                },
+                {
+                    "name": "Aquapon A",
+                    "url": "https://pharosproject.net/uploads/files/sources/577/1386885629.pdf",
+                    "id": 2723
+                },
+                {
+                    "name": "Amerlock A",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/577/Amerlock%202%20Green%20Resin%20-%20MSDS.pdf",
+                    "id": 2720
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Calcium Oxide",
+            "CASRN": "1305-78-8",
+            "massPct": null,
+            "function": "silver zinc zeolite residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Zinc Oxide",
+            "CASRN": "1314-13-2",
+            "massPct": null,
+            "function": "silver zinc zeolite residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Nonylphenol (mixed isomers)",
+            "CASRN": "25154-52-3",
+            "massPct": null,
+            "function": "crosslinked epoxy polymer residual",
+            "sources": [
+                {
+                    "name": "ACC",
+                    "url": "http://environmentalnewsstand.com/sites/insideepa.com/files/documents/jan2015/epa2015_0163a.pdf",
+                    "id": 2759
+                },
+                {
+                    "name": "SNUR",
+                    "url": "http://www.lawbc.com/regulatory-developments/entry/epa-proposes-snur-for-nonylphenols-and-nonylphenol-ethoxylates/",
+                    "id": 2758
+                },
+                {
+                    "name": "KEMI",
+                    "url": "https://apps.kemi.se/flodessok/floden/kemamne_eng/nonylfenol_eng.htm",
+                    "id": 2743
+                },
+                {
+                    "name": "Amerlock B",
+                    "url": "https://www.pharosproject.net/uploads/files/sources/577/Amerlock%202%20Part%20B%20-%20MSDS.pdf",
+                    "id": 2721
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "1,4-Bis(aminocyclohexyl)methane",
+            "CASRN": "1761-71-3",
+            "massPct": null,
+            "function": "crosslinked epoxy polymer residual",
+            "sources": [
+                {
+                    "name": "Devran B",
+                    "url": "http://datasheets1.international-coatings.com/msds/NDA485_USA_eng_A0.pdf",
+                    "id": 2752
+                },
+                {
+                    "name": "33 B",
+                    "url": "https://pharosproject.net/uploads/files/sources/568/1368715820.pdf",
+                    "id": 2731
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.013123096,
+                    "contributors": [
+                        {
+                            "recId": 2769,
+                            "massPct": 0.00288002,
+                            "childrenIds": [
+                                2769,
+                                3116
+                            ]
+                        },
+                        {
+                            "recId": 7709,
+                            "massPct": 0.001002416,
+                            "childrenIds": [
+                                7709,
+                                3116
+                            ]
+                        },
+                        {
+                            "recId": 2763,
+                            "massPct": 0.00037336000000000004,
+                            "childrenIds": [
+                                2763,
+                                9900
+                            ]
+                        },
+                        {
+                            "recId": 2763,
+                            "massPct": 0.0088673,
+                            "childrenIds": [
+                                2763,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-567",
+                    "type": "orange",
+                    "name": "Cancer",
+                    "massPct": 0.01445886,
+                    "contributors": [
+                        {
+                            "recId": 2769,
+                            "massPct": 0.01072474,
+                            "childrenIds": [
+                                2769,
+                                1535
+                            ]
+                        },
+                        {
+                            "recId": 7709,
+                            "massPct": 0.0037341199999999996,
+                            "childrenIds": [
+                                7709,
+                                1535
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.0170265612,
+                    "contributors": [
+                        {
+                            "recId": 2769,
+                            "massPct": 0.00577486,
+                            "childrenIds": [
+                                2769,
+                                2766
+                            ]
+                        },
+                        {
+                            "recId": 7709,
+                            "massPct": 0.0020110412,
+                            "childrenIds": [
+                                7709,
+                                2766
+                            ]
+                        },
+                        {
+                            "recId": 2763,
+                            "massPct": 0.00037336000000000004,
+                            "childrenIds": [
+                                2763,
+                                9900
+                            ]
+                        },
+                        {
+                            "recId": 2763,
+                            "massPct": 0.0088673,
+                            "childrenIds": [
+                                2763,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.00037336000000000004,
+                    "contributors": [
+                        {
+                            "recId": 2763,
+                            "massPct": 0.00037336000000000004,
+                            "childrenIds": [
+                                2763,
+                                9900
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.0088673,
+                    "contributors": [
+                        {
+                            "recId": 2763,
+                            "massPct": 0.0088673,
+                            "childrenIds": [
+                                2763,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.0088673,
+                    "contributors": [
+                        {
+                            "recId": 2763,
+                            "massPct": 0.0088673,
+                            "childrenIds": [
+                                2763,
+                                760
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "unknown": [
+                {
+                    "hazardId": "unknown-11424",
+                    "type": "unknown",
+                    "name": "Unknown",
+                    "massPct": 0.0404728028,
+                    "contributors": [
+                        {
+                            "recId": 2769,
+                            "massPct": 0.03002038,
+                            "childrenIds": [
+                                2769,
+                                2765
+                            ]
+                        },
+                        {
+                            "recId": 7709,
+                            "massPct": 0.0104524228,
+                            "childrenIds": [
+                                7709,
+                                2765
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.0077859012,
+                    "contributors": [
+                        {
+                            "recId": 2769,
+                            "massPct": 0.00577486,
+                            "childrenIds": [
+                                2769,
+                                2766
+                            ]
+                        },
+                        {
+                            "recId": 7709,
+                            "massPct": 0.0020110412,
+                            "childrenIds": [
+                                7709,
+                                2766
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.0088673,
+                    "contributors": [
+                        {
+                            "recId": 2763,
+                            "massPct": 0.0088673,
+                            "childrenIds": [
+                                2763,
+                                760
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundary is defined as cradle-to-gate and ends with the finished product at the factory gate. Process steps are as follows: roll forming; welding, interior and exterior spray coating. Inbound transportation of significant upstream materials is included; transportation of some minor materials is not included as it is unknown and falls below the cut-off criteria.  Packaging is not included. ",
+        "gabiDatasets": [
+            {
+                "name": "US: Electricity grid mix"
+            },
+            {
+                "name": "US: Sodium hydroxide (caustic soda) mix (100%)"
+            },
+            {
+                "name": "US: Nonene"
+            },
+            {
+                "name": "GLO: Compressed air 7 bar (low power consumption)"
+            },
+            {
+                "name": "DE: Application base coat (automobile)"
+            },
+            {
+                "name": "DE: Rinsing-agent (23% solvents)"
+            },
+            {
+                "name": "GLO: Treated surface"
+            },
+            {
+                "name": "DE: Coagulant mix"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "US: Thermal energy from natural gas (eGrid)"
+            },
+            {
+                "name": "US: Water deionized"
+            },
+            {
+                "name": "US: Sodium hydroxide from Sodium chloride electrolysis (diaphragma)"
+            },
+            {
+                "name": "US: Tap water from groundwater"
+            },
+            {
+                "name": "US: Landfilling of Municipal Solid Waste"
+            },
+            {
+                "name": "NA: Steel cold rolled coil worldsteel"
+            },
+            {
+                "name": "US: Metal roll forming MCA"
+            },
+            {
+                "name": "GLO: Welding seam 1m (including welding wire)"
+            },
+            {
+                "name": "GLO: Steel wire rod worldsteel"
+            },
+            {
+                "name": "DE: Epoxy resin (EP)(internal epoxy)(copy)"
+            },
+            {
+                "name": "GLO: Steam conversion (mp)"
+            },
+            {
+                "name": "GLO: Hazardous waste (non-specific) (c rich, worst scenario)"
+            },
+            {
+                "name": "GLO: Hazardous waste (unspec.)"
+            },
+            {
+                "name": "US: Process steam from natural gas 90% (West)"
+            },
+            {
+                "name": "DE: Hydrochloric acid (100%) by-product epichlorohydrine, calcium chloride"
+            },
+            {
+                "name": "US: Nitrogen (gaseous)"
+            },
+            {
+                "name": "US: Municipal Solid Waste Incineration"
+            },
+            {
+                "name": "US: Bisphenol A"
+            },
+            {
+                "name": "US: Phenol (from cumene)"
+            },
+            {
+                "name": "US: Xylene (by product BTX) (from reformate)"
+            },
+            {
+                "name": "US: Titanium dioxide pigment"
+            },
+            {
+                "name": "EU-27: Talcum powder (filler)"
+            },
+            {
+                "name": "DE: C12-C14-Mono glycidyl ether (estimation)"
+            },
+            {
+                "name": "DE: Isophorone diisocyanate (IPDI)"
+            },
+            {
+                "name": "US: Benzene (from pyrolysis fuel)"
+            },
+            {
+                "name": "US: Bariumsulphate (BaSO4)"
+            },
+            {
+                "name": "DE: Cyclohexylamine (estimation)"
+            },
+            {
+                "name": "GLO: Aluminium silicate (zeolite type A)"
+            },
+            {
+                "name": "GLO: Steam conversion (mp) superheated"
+            },
+            {
+                "name": "US: Process steam from natural gas 90% (eGrid)"
+            },
+            {
+                "name": "US: Municipal waste water treatment (mix)"
+            },
+            {
+                "name": "GLO: Silver mix"
+            },
+            {
+                "name": "GLO: Zinc oxide"
+            },
+            {
+                "name": "DE: Epoxy resin (EP)(exterior epoxy)(copy)"
+            },
+            {
+                "name": "US: Propylene glycol monomethyl ether (Methoxypropanol) PGME"
+            },
+            {
+                "name": "US: Epichlorohydrin from glycerine"
+            },
+            {
+                "name": "DE: Iron oxide (ferrite) (Fe2O3)"
+            },
+            {
+                "name": "DE: Glycidylmethacrylate"
+            },
+            {
+                "name": "US: Butyl hydroxytoluene (BHT)"
+            },
+            {
+                "name": "US: Ethyleneamines (EDA, DETA, TETA, TEPA, PEHA)"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "18.30%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "72% recycled (product has 18.3% steel scrap input; the remainder of steel scrap is processed and credited as avoided burden); 28% to landfill (ferro metal and plastics).",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "1.04E-02"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "5.77E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "2.79E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "3.04E-08"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.45E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "3.62E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "-1.88E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "-4.84E-07"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "-8.12E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "2.88E-08"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "-1.65E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "-6.92E+00"
+                }
+            ]
+        }
+    },
+    "id": "CP096",
+    "name": "Carbon Steel Sprinkler Pipe",
+    "altNames": [
+        "Carbon Steel Pipe for Fire Suppression Systems"
+    ],
+    "uniformats": [
+        {
+            "id": "D4010",
+            "name": "Fire Suppression"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "21-13-00",
+            "name": "Fire-Suppression Sprinkler Systems"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Wet pipe fire suppression systems are the standard for most indoor spaces.  These systems load a network of pipes and sprinkler heads with pressurized water, ready to activate when heat sensors in the sprinkler head are triggered.  ASTM A795 describes the steel pipes used to create this network as being made from different “schedules”  (wall thicknesses) of steel, all with the same requirements for chemical composition.  The needs of a particular fire suppression system dictate the schedule of steel to be used. Steel sprinkler pipes can be galvanized at the customers request (at a price premium), but are typically provided with a “mill coating” of protective lacquer.  Corrosion to the inside of pipes is of significant concern.  Antimicrobial coatings aimed at slowing this corrosion are available from some of the largest pipe manufacturers in the US, so have been included as common in this review.  While all schedules of steel have the same chemical composition, schedule 40 pipes are most common and have been used to calculate dimensions.",
+    "sources": [
+        {
+            "name": "Asbestos",
+            "url": "http://www.asbestos.com/asbestos/types.php",
+            "id": 2762
+        },
+        {
+            "name": "Leachate",
+            "url": "http://water.epa.gov/lawsregs/rulesregs/sdwa/tcr/upload/permeationandleaching.pdf",
+            "id": 2761
+        },
+        {
+            "name": "Brund",
+            "url": "http://www.bfr.bund.de/cm/343/4_nonylphenol_und_nonylphenol.pdf",
+            "id": 2760
+        },
+        {
+            "name": "ACC",
+            "url": "http://environmentalnewsstand.com/sites/insideepa.com/files/documents/jan2015/epa2015_0163a.pdf",
+            "id": 2759
+        },
+        {
+            "name": "SNUR",
+            "url": "http://www.lawbc.com/regulatory-developments/entry/epa-proposes-snur-for-nonylphenols-and-nonylphenol-ethoxylates/",
+            "id": 2758
+        },
+        {
+            "name": "TRFA",
+            "url": "http://www.trfa.org/erc/docretrieval/uploadedfiles/Technical%20Papers/2006%20Meeting/Watkins-Hexion_paper.pdf",
+            "id": 2757
+        },
+        {
+            "name": "PCI",
+            "url": "http://www.pcimag.com/articles/96269-a-new-epoxy-curing-agent-with-long-pot-life-and-fast-cure",
+            "id": 2756
+        },
+        {
+            "name": "Easycast",
+            "url": "http://eti-usa.com/wp-content/uploads/2011/03/EasyCast-Hardener_MSDS_NA-English.pdf",
+            "id": 2755
+        },
+        {
+            "name": "Vanguard",
+            "url": "http://www.vanguardconcretecoating.com/types-of-epoxy-resins.htm",
+            "id": 2754
+        },
+        {
+            "name": "Dow",
+            "url": "http://www.dow.com/assets/attachments/business/pcm/dowanol/dowanol_pma/tds/dowanol_pma.pdf",
+            "id": 2753
+        },
+        {
+            "name": "Devran B",
+            "url": "http://datasheets1.international-coatings.com/msds/NDA485_USA_eng_A0.pdf",
+            "id": 2752
+        },
+        {
+            "name": "Devran A",
+            "url": "http://datasheets1.international-coatings.com/msds/NDA486_USA_eng_A0.pdf",
+            "id": 2751
+        },
+        {
+            "name": "Devran",
+            "url": "http://www.international-pc.com/PDS/4386-P-eng-A4.pdf",
+            "id": 2750
+        },
+        {
+            "name": "BarRust B",
+            "url": "http://datasheets1.international-coatings.com/msds/NDA065_USA_eng_A0.pdf",
+            "id": 2749
+        },
+        {
+            "name": "BarRust A",
+            "url": "http://datasheets1.international-coatings.com/msds/NDA060_USA_eng_A1.pdf",
+            "id": 2748
+        },
+        {
+            "name": "BarRust",
+            "url": "http://www.international-pc.com/PDS/4323-P-eng-A4.pdf",
+            "id": 2747
+        },
+        {
+            "name": "Tripoxy A",
+            "url": "http://msdssearchengine.com/local_msds.php?id=178352",
+            "id": 2746
+        },
+        {
+            "name": "Tripoxy",
+            "url": "http://www.tricoat.com/assets/files/tds/im-941P-tripoxyprimer.pdf",
+            "id": 2745
+        },
+        {
+            "name": "Lyondell",
+            "url": "http://www.lyondellbasell.com/techlit/techlit/PC166.pdf",
+            "id": 2744
+        },
+        {
+            "name": "KEMI",
+            "url": "https://apps.kemi.se/flodessok/floden/kemamne_eng/nonylfenol_eng.htm",
+            "id": 2743
+        },
+        {
+            "name": "NPE",
+            "url": "http://www.epoxyproducts.com/nonyl4u.html",
+            "id": 2742
+        },
+        {
+            "name": "Progressive",
+            "url": "http://www.epoxyproducts.com/chemistry.html",
+            "id": 2741
+        },
+        {
+            "name": "IMPAX TDS",
+            "url": "https://pharosproject.net/uploads/files/sources/535/433A_IMPAX_650_SL%20-%20TDS.pdf",
+            "id": 2740
+        },
+        {
+            "name": "IMPAX B",
+            "url": "https://pharosproject.net/uploads/files/sources/535/1364573847.pdf",
+            "id": 2739
+        },
+        {
+            "name": "IMPAX A",
+            "url": "https://pharosproject.net/uploads/files/sources/535/1364572031.pdf",
+            "id": 2738
+        },
+        {
+            "name": "VapArrest B",
+            "url": "https://pharosproject.net/uploads/files/sources/48/S-135%20VapArrest%20Part%20B%20MSDS.pdf",
+            "id": 2737
+        },
+        {
+            "name": "VapArrest A",
+            "url": "https://pharosproject.net/uploads/files/sources/48/S-135%20VapArrest%20Part%20A%20MSDS.pdf",
+            "id": 2736
+        },
+        {
+            "name": "VapArrest TDS",
+            "url": "https://pharosproject.net/uploads/files/sources/48/1348247812.pdf",
+            "id": 2735
+        },
+        {
+            "name": "650 B",
+            "url": "http://www.sherwin-williams.com/document/MSDS/en/035777559086/",
+            "id": 2734
+        },
+        {
+            "name": "650 A",
+            "url": "https://pharosproject.net/uploads/files/sources/568/1368732325.pdf",
+            "id": 2733
+        },
+        {
+            "name": "650 PDS",
+            "url": "https://pharosproject.net/uploads/files/sources/568/1368731894.pdf",
+            "id": 2732
+        },
+        {
+            "name": "33 B",
+            "url": "https://pharosproject.net/uploads/files/sources/568/1368715820.pdf",
+            "id": 2731
+        },
+        {
+            "name": "33 A",
+            "url": "http://www.sherwin-williams.com/document/MSDS/en/035777559093/",
+            "id": 2730
+        },
+        {
+            "name": "33 PDS",
+            "url": "http://www.sherwin-williams.com/document/PDS/en/035777559093/",
+            "id": 2729
+        },
+        {
+            "name": "1000 TDS",
+            "url": "http://www.sherwin-williams.com/document/PDS/en/035777365502/",
+            "id": 2728
+        },
+        {
+            "name": "1000 B",
+            "url": "https://pharosproject.net/uploads/files/sources/568/Armorseal%201000%20HS%20Part%20B%20Hardener%20-%20MSDS.pdf",
+            "id": 2727
+        },
+        {
+            "name": "1000 A",
+            "url": "http://www.sherwin-williams.com/document/MSDS/en/035777365502/",
+            "id": 2726
+        },
+        {
+            "name": "Aquapon TDS",
+            "url": "http://www.ppghighperformancecoatings.com/getmedia/eeeda5e1-40fb-488e-97c9-75be875c3650/TDS_97-130.pdf.aspx?ext=.pdf",
+            "id": 2725
+        },
+        {
+            "name": "Aquapon B",
+            "url": "http://v2.pharosproject.net/uploads/files/sources/577/1387302491.pdf",
+            "id": 2724
+        },
+        {
+            "name": "Aquapon A",
+            "url": "https://pharosproject.net/uploads/files/sources/577/1386885629.pdf",
+            "id": 2723
+        },
+        {
+            "name": "Amerlock TDS",
+            "url": "https://www.pharosproject.net/uploads/files/sources/577/Amerlock%202%20TDS.pdf",
+            "id": 2722
+        },
+        {
+            "name": "Amerlock B",
+            "url": "https://www.pharosproject.net/uploads/files/sources/577/Amerlock%202%20Part%20B%20-%20MSDS.pdf",
+            "id": 2721
+        },
+        {
+            "name": "Amerlock A",
+            "url": "https://www.pharosproject.net/uploads/files/sources/577/Amerlock%202%20Green%20Resin%20-%20MSDS.pdf",
+            "id": 2720
+        },
+        {
+            "name": "Agion MSDS",
+            "url": "http://www.bioshieldtech.com/v/vspfiles/assets/images/msds%20powder-aj%20ag%20av%20aw%20rev.%206.pdf",
+            "id": 2719
+        },
+        {
+            "name": "Pharos CML",
+            "url": "https://pharosproject.net/material/show/2006486",
+            "id": 2718
+        },
+        {
+            "name": "Pharos Epoxy B CI",
+            "url": "https://pharosproject.net/material/show/2000048",
+            "id": 2717
+        },
+        {
+            "name": "Pharos Epoxy A CI",
+            "url": "https://pharosproject.net/material/show/2000047",
+            "id": 2716
+        },
+        {
+            "name": "Pharos CI Silver",
+            "url": "https://pharosproject.net/material/show/2001818",
+            "id": 2715
+        },
+        {
+            "name": "PAN Germany",
+            "url": "http://www.pan-germany.org/download/biocides/biocide-treated_consumer_products.pdf",
+            "id": 2714
+        },
+        {
+            "name": "Hawaii",
+            "url": "http://www2.hawaii.gov//hdoa/labels/8171.1_2017.pdf",
+            "id": 2713
+        },
+        {
+            "name": "323 MSDS",
+            "url": "http://www.proline-global.com/Portals/0/PDF/323msds.pdf",
+            "id": 2712
+        },
+        {
+            "name": "NuFlow",
+            "url": "http://www.nuflowtech.com/products/epoxylining/NuLineEpoxyCoating.aspx",
+            "id": 2711
+        },
+        {
+            "name": "FPE",
+            "url": "http://magazine.sfpe.org/sprinklers/corrosion-process-inside-steel-fire-sprinkler-piping",
+            "id": 2661
+        },
+        {
+            "name": "FM Global",
+            "url": "https://www.fmglobal.com/assets/pdf/fmapprovals/1630.pdf",
+            "id": 2662
+        },
+        {
+            "name": "A795",
+            "url": "http://www.astm.org/Standards/A795.htm",
+            "id": 2663
+        },
+        {
+            "name": "Janus",
+            "url": "http://www.janusfiresystems.com/products/water-systems",
+            "id": 2664
+        },
+        {
+            "name": "Wheatland",
+            "url": "http://www.wheatland.com/images/specs/12-JMC-0466_Brochure_Sprinkler-Brochure-v13.pdf",
+            "id": 2665
+        },
+        {
+            "name": "NFPA 13",
+            "url": "http://www.nfpa.org/codes-and-standards/document-information-pages?mode=code&code=13",
+            "id": 2666
+        },
+        {
+            "name": "NIST",
+            "url": "http://fire.nist.gov/bfrlpubs/fire94/PDF/f94022.pdf",
+            "id": 2667
+        },
+        {
+            "name": "Compare",
+            "url": "http://www.turnkeyips.com/assets/pipe_specification_a795.pdf",
+            "id": 2668
+        },
+        {
+            "name": "Viking",
+            "url": "http://www.vikinggroupinc.com/usrelated/wheatland/Sch40_rev01.pdf",
+            "id": 2669
+        },
+        {
+            "name": "Universal Tubes",
+            "url": "http://www.universaltubes.com/products/ASTM%20A%20795%20Gr.A.pdf",
+            "id": 2670
+        },
+        {
+            "name": "Youngstown",
+            "url": "http://www.lipipe.com/pdf_library/Youngstown.pdf",
+            "id": 2671
+        },
+        {
+            "name": "Allied",
+            "url": "http://alliedtube-sprinkler.com/wp-content/uploads/2012/09/Sch_10_Sch_40_Product2.pdf",
+            "id": 2672
+        },
+        {
+            "name": "Garlock",
+            "url": "https://www.alliedfiresafety.com/files/MICArticle.pdf",
+            "id": 2673
+        },
+        {
+            "name": "CA Fire Code",
+            "url": "https://law.resource.org/pub/us/code/bsc.ca.gov/gov.ca.bsc.2013.09.pdf",
+            "id": 2674
+        },
+        {
+            "name": "Toolbox",
+            "url": "http://www.engineeringtoolbox.com/astm-steel-piping-tubing-d_469.html",
+            "id": 2675
+        },
+        {
+            "name": "NFSA",
+            "url": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CB4QFjAA&url=http%3A%2F%2Fwww.nfsa.tv%2Fcgi-bin%2Fdownload2.cgi%3Fdir%3Detechnotes%26ID%3D309&ei=Rz3RVPPUM4y1ggT72YHoCw&usg=AFQjCNHp2oLa-wr5FmrZHy6p2QBFuy--vA&sig2=7doL2Pcqxg5zRaJK-U3O1w&bvm=bv.85076809,d.eXY",
+            "id": 2676
+        },
+        {
+            "name": "ECS",
+            "url": "http://ecscorrosion.com/wp-content/uploads/2013/09/White-Paper-Six-Reasons-Why-Galvanized-Steel-Piping-Should-NOT-be-Used-in-Dry-and-Preaction-Fire-Sprinkler-Systems.pdf",
+            "id": 2677
+        },
+        {
+            "name": "All Steel",
+            "url": "http://www.allsteelpipe.com/black-steel-pipe.html",
+            "id": 2678
+        },
+        {
+            "name": "Shield Specs",
+            "url": "http://www.wheatland.com/images/specs/SubmittalSheet_MIC.pdf",
+            "id": 2679
+        },
+        {
+            "name": "BWU",
+            "url": "http://www.bw.edu/resources/bng/missionstatementbng/procedures/BaldwinWallace_BandG_BuildingStandardBook.pdf",
+            "id": 2680
+        },
+        {
+            "name": "Spears",
+            "url": "http://www.fergusonfire.com/pdfs/SpearsAcceptanceofBullMooseTubeCo_EddyGuardIIPipe.pdf",
+            "id": 2681
+        },
+        {
+            "name": "Bsharat",
+            "url": "http://www.nfsa.tv/info_items/detection,%20treatment%20and%20prevention%20of%20mic%20in%20water-based%20fire%20protection%20systems.pdf",
+            "id": 2682
+        },
+        {
+            "name": "Wheatland Tube",
+            "url": "http://www.wheatland.com/images/specs/SprinklerBrochures_Schedule10_40.pdf",
+            "id": 2683
+        },
+        {
+            "name": "Raychem",
+            "url": "https://www.google.com/patents/US5589019?dq=steel+pipe+%22mill+coating%22&hl=en&sa=X&ei=QoDTVLabKsqwggSTxoC4AQ&ved=0CDsQ6AEwBA",
+            "id": 2684
+        },
+        {
+            "name": "United Gas",
+            "url": "https://www.google.com/patents/US2435412?dq=steel+pipe+%22mill+coating%22&hl=en&sa=X&ei=3YHTVIufOoiqggSarIToAw&ved=0CCoQ6AEwAjgK",
+            "id": 2685
+        },
+        {
+            "name": "Residues",
+            "url": "http://www.galvanizeit.org/design-and-fabrication/fabrication-considerations/steel-residues",
+            "id": 2686
+        },
+        {
+            "name": "Hubbell",
+            "url": "http://whyrust.com/index.php/design-and-specifications/tubular-design/",
+            "id": 2687
+        },
+        {
+            "name": "Potter TDS",
+            "url": "http://www.pottersignal.com/product/datasheet/5400609_PipeShield.pdf",
+            "id": 2688
+        },
+        {
+            "name": "Potter MSDS",
+            "url": "http://www.pottersignal.com/product/datasheet/5400525_MSDSPipeShield.pdf",
+            "id": 2689
+        },
+        {
+            "name": "M-Coat",
+            "url": "http://alliedtube-sprinkler.com/wp-content/uploads/2012/09/STP1301_XL-BLT-Sub-Sht_.pdf",
+            "id": 2690
+        },
+        {
+            "name": "SteriTouch",
+            "url": "http://www.steritouch.com/we_don't_use_nano_products_or_triclosan.htm",
+            "id": 2691
+        },
+        {
+            "name": "Allied Patent 1",
+            "url": "https://www.google.com/patents/WO2011017269A1?cl=en&dq=pipe+ininventor:Bussiere&hl=en&sa=X&ei=9KLTVKXgG4e6ggTf5ICQDQ&ved=0CC0Q6AEwAg",
+            "id": 2692
+        },
+        {
+            "name": "Allied Patent 2",
+            "url": "https://www.google.com/patents/WO2002024280A1?cl=en&dq=pipe+ininventor:Bussiere&hl=en&sa=X&ei=P6nTVLa5H5KQyATi0oLwBA&ved=0CB0Q6AEwAA",
+            "id": 2693
+        },
+        {
+            "name": "Bioshield",
+            "url": "http://www.bioshieldtech.com/v/BioShield/hvac/antimicrobial-coatings.html",
+            "id": 2694
+        },
+        {
+            "name": "Bull Moose",
+            "url": "http://www.bullmoosetube.com/products/product-range.aspx?gid=efc08761-4513-4ad1-8b88-f889df300ebf&pg=Dn39KVTFgvj7GfAEbb4kZRZSURu%2bFO0Sc1uNAZeDzLd0KTN2LagITA%3d%3d",
+            "id": 2695
+        },
+        {
+            "name": "Eastman Patent",
+            "url": "https://www.google.com/patents/WO2010071671A1?cl=en&dq=steel+pipe+sprinkler+antimicrobial&hl=en&sa=X&ei=KLzTVPWaNYO-ggTnv4SgBw&ved=0CGAQ6AEwCQ",
+            "id": 2696
+        },
+        {
+            "name": "Socotherm",
+            "url": "http://www.tenaris.com/shared/documents/files/CB804.pdf",
+            "id": 2697
+        },
+        {
+            "name": "Dosage",
+            "url": "http://www.alfa-chemicals.co.uk/Divisions/Industrial/Industrial-Products/Industrial-ProductGroupDetails.aspx?p=422&Product%20Group=SteriTouch%C2%AE+antimicrobial+additives",
+            "id": 2698
+        },
+        {
+            "name": "Sharon Tube",
+            "url": "http://www.google.com/patents/US4421569",
+            "id": 2699
+        },
+        {
+            "name": "Wohl 133",
+            "url": "http://www.wohlcoatings.com/files/96935707.pdf",
+            "id": 2700
+        },
+        {
+            "name": "Wohl 133 TDS",
+            "url": "http://www.wohlcoatings.com/files/50532588.pdf",
+            "id": 2701
+        },
+        {
+            "name": "Gov specs",
+            "url": "https://www.wbdg.org/ccb/DOD/UFGS/UFGS%2021%2013%2000.00%2040.pdf",
+            "id": 2702
+        },
+        {
+            "name": "Wheatland MSDS",
+            "url": "https://www.menards.com/msds/103523_001.pdf",
+            "id": 2703
+        },
+        {
+            "name": "Durabond",
+            "url": "http://www.dura-bond.com/distributors/pdf/3m/323_Liquid_Epoxy.pdf",
+            "id": 2704
+        },
+        {
+            "name": "PCT",
+            "url": "http://www.pctworldwide.com/PIPE_COATING_DOCS/MPFC-S%20%20_MSDS_.pdf",
+            "id": 2705
+        },
+        {
+            "name": "3M",
+            "url": "http://multimedia.3m.com/mws/media/638373O/3mtmscotchkotetm-fusion-bondedepoxycoating226n.pdf?fn=SK_226N_8084906.pdf",
+            "id": 2706
+        },
+        {
+            "name": "3M MSDS",
+            "url": "http://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xl829N82Bnv70k17zHvu9lxtD7SSSSSS--",
+            "id": 2707
+        },
+        {
+            "name": "Wohl clear",
+            "url": "http://www.wohlcoatings.com/files/50590938.pdf",
+            "id": 2708
+        },
+        {
+            "name": "Weight",
+            "url": "http://www.vikinggroupinc.com/usrelated/youngstown/YTownSched10.pdf",
+            "id": 2709
+        },
+        {
+            "name": "Weight 2",
+            "url": "http://pipefabricatorsps.com/accelsite/media/mediaFile1254.pdf",
+            "id": 2710
+        }
+    ]
+}

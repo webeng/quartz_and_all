@@ -1,0 +1,801 @@
+{
+    "CPID": "CP128",
+    "timestamp": 1452102141295,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 11009,
+            "name": "Wood Adhesive",
+            "CASRN": "",
+            "massPct": 0.1018,
+            "function": "binder",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": 0.9823182711,
+                        "contributors": [
+                            {
+                                "recId": 3874,
+                                "massPct": 0.9823182711,
+                                "childrenIds": [
+                                    3874
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 3876,
+                    "name": "Urea",
+                    "CASRN": "57-13-6",
+                    "massPct": 0.01571709234,
+                    "function": "formaldehyde scavenger",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Saravia-Cortez 2013",
+                            "url": "http://dx.doi.org.er.lib.k-state.edu/10.1016/j.jclepro.2013.02.006",
+                            "id": 3865
+                        },
+                        {
+                            "name": "CORRIM PB",
+                            "url": "http://www.corrim.org/pubs/reports/2013/phase1_updates/Particleboard%20LCA%20Sept%202013.pdf",
+                            "id": 3859
+                        },
+                        {
+                            "name": "Forestia PB EPD",
+                            "url": "http://www.epd-norge.no/getfile.php/PDF/EPD/Byggevarer/NEPD00274E%20Forestia-particleboard%20GODKJENT.pdf",
+                            "id": 3860
+                        },
+                        {
+                            "name": "PB EPD",
+                            "url": "http://www.roseburg.com/UserFiles/Library/Particleboard_EPD.pdf",
+                            "id": 3855
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.001600000000212
+                },
+                {
+                    "recId": 3874,
+                    "name": "Urea Formaldehyde",
+                    "CASRN": "9011-05-6",
+                    "massPct": 0.9823182711,
+                    "function": "binder resin",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Momentive Patent",
+                            "url": "http://www.google.com/patents/US8741430",
+                            "id": 3869
+                        },
+                        {
+                            "name": "CHH MSDS",
+                            "url": "http://www.chhwoodproducts.com.au/files/msds/MSDS-MSDS-46.pdf",
+                            "id": 3861
+                        },
+                        {
+                            "name": "Forestia PB EPD",
+                            "url": "http://www.epd-norge.no/getfile.php/PDF/EPD/Byggevarer/NEPD00274E%20Forestia-particleboard%20GODKJENT.pdf",
+                            "id": 3860
+                        },
+                        {
+                            "name": "Roseburg MSDS",
+                            "url": "http://www.roseburg.com/UserFiles/Library/Roseburg_Panels_MSDS_010614.pdf",
+                            "id": 3325
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.09999999999798001
+                },
+                {
+                    "recId": 3877,
+                    "name": "Ammonium Sulfate",
+                    "CASRN": "7783-20-2",
+                    "massPct": 0.001964636542,
+                    "function": "binder catalyst",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Momentive Patent",
+                            "url": "http://www.google.com/patents/US8741430",
+                            "id": 3869
+                        },
+                        {
+                            "name": "Bergstedt 2009",
+                            "url": "http://www.cabdirect.org/abstracts/20103281511.html;jsessionid=087118DB909084342D267B328BA09781",
+                            "id": 3864
+                        },
+                        {
+                            "name": "CORRIM PB",
+                            "url": "http://www.corrim.org/pubs/reports/2013/phase1_updates/Particleboard%20LCA%20Sept%202013.pdf",
+                            "id": 3859
+                        },
+                        {
+                            "name": "PB EPD",
+                            "url": "http://www.roseburg.com/UserFiles/Library/Particleboard_EPD.pdf",
+                            "id": 3855
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0001999999999756
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.1018
+        },
+        {
+            "recId": 2921,
+            "name": "Paraffin Wax",
+            "CASRN": "8002-74-2",
+            "massPct": 0.006,
+            "function": "water resistance",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "EPA 2002",
+                    "url": "http://www.epa.gov/ttnchie1/ap42/ch10/final/c10s0603.pdf",
+                    "id": 4212
+                },
+                {
+                    "name": "Wilson 2008",
+                    "url": "http://www.corrim.org/pubs/reports/2010/phase2/Module_G.pdf",
+                    "id": 4186
+                },
+                {
+                    "name": "Glacier Clear MDF MSDS",
+                    "url": "http://www.plumcreek.com/PlumCreek/media/Library/PDFs/Resources/Fact-Sheets/Glacier-Clear-No-Added-Formaldehyde-1.pdf",
+                    "id": 4208
+                },
+                {
+                    "name": "PC Fiberboard MSDS 2008",
+                    "url": "http://www.amerhart.com/wp-content/msds/1364539262All_MSDS_PLUMCREEK.pdf",
+                    "id": 4182
+                },
+                {
+                    "name": "Egger MDF EPD",
+                    "url": "http://construction-environment.com/download/C74729484X13d335053b9X703a/EPD_EHW_2008311_E.pdf?ITServ=C1a5433a5X14c9e702b6eX5aef",
+                    "id": 4180
+                },
+                {
+                    "name": "Glunz MDF EPD",
+                    "url": "http://construction-environment.com/download/CY524faa69X13d7d151650XY5bdd/EPD_GLU_2010111_E.pdf?ITServ=C1a5433a5X14c9e702b6eX5aef",
+                    "id": 4179
+                },
+                {
+                    "name": "FINSA MDF EPD",
+                    "url": "http://www.cobuilder.com/coBuilderDocuments/getfile?&dokid=956905&code=MTAyMDc5JTJGRVBELS0tRmluc2EtTURGLnBkZg==&ext=.pdf",
+                    "id": 4178
+                },
+                {
+                    "name": "Corrim MDF",
+                    "url": "http://www.corrim.org/pubs/reports/2013/phase1_updates/MDF%20LCA%20final%20Sept%202013.pdf",
+                    "id": 4187
+                },
+                {
+                    "name": "MDF Wall EPD",
+                    "url": "http://iere.org/wp-content/uploads/DIRTT-Standard-MDF-Solid-Wall-Phoenix-2014.pdf",
+                    "id": 4184
+                },
+                {
+                    "name": "MDF EPD",
+                    "url": "http://www.awc.org/pdf/EPDs/MDF_EPD.pdf",
+                    "id": 4177
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.006
+        },
+        {
+            "recId": 3329,
+            "name": "Wood",
+            "CASRN": "unknown",
+            "massPct": 0.8912,
+            "function": "fibers",
+            "hazards": {
+                "unknown": [
+                    {
+                        "hazardId": "unknown-11424",
+                        "type": "unknown",
+                        "name": "Unknown",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "UltraStock MDF",
+                    "url": "http://www.buildgp.com/mdf-ultrastock-select",
+                    "id": 4200
+                },
+                {
+                    "name": "PC Fiberboard MSDS 2008",
+                    "url": "http://www.amerhart.com/wp-content/msds/1364539262All_MSDS_PLUMCREEK.pdf",
+                    "id": 4182
+                },
+                {
+                    "name": "Glacier Clear MDF MSDS",
+                    "url": "http://www.plumcreek.com/PlumCreek/media/Library/PDFs/Resources/Fact-Sheets/Glacier-Clear-No-Added-Formaldehyde-1.pdf",
+                    "id": 4208
+                },
+                {
+                    "name": "Glacier Green MDF MSDS",
+                    "url": "http://www.plumcreek.com/PlumCreek/media/Library/PDFs/Resources/Fact-Sheets/Glacier-Green-MDF-HDF-LDF.pdf",
+                    "id": 4207
+                },
+                {
+                    "name": "Wilson 2008",
+                    "url": "http://www.corrim.org/pubs/reports/2010/phase2/Module_G.pdf",
+                    "id": 4186
+                },
+                {
+                    "name": "Corrim MDF",
+                    "url": "http://www.corrim.org/pubs/reports/2013/phase1_updates/MDF%20LCA%20final%20Sept%202013.pdf",
+                    "id": 4187
+                },
+                {
+                    "name": "Glunz MDF EPD",
+                    "url": "http://construction-environment.com/download/CY524faa69X13d7d151650XY5bdd/EPD_GLU_2010111_E.pdf?ITServ=C1a5433a5X14c9e702b6eX5aef",
+                    "id": 4179
+                },
+                {
+                    "name": "FINSA MDF EPD",
+                    "url": "http://www.cobuilder.com/coBuilderDocuments/getfile?&dokid=956905&code=MTAyMDc5JTJGRVBELS0tRmluc2EtTURGLnBkZg==&ext=.pdf",
+                    "id": 4178
+                },
+                {
+                    "name": "MDF EPD",
+                    "url": "http://www.awc.org/pdf/EPDs/MDF_EPD.pdf",
+                    "id": 4177
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.8912
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Formaldehyde",
+            "CASRN": "50-00-0",
+            "massPct": 0.001,
+            "function": "binder residual",
+            "sources": [
+                {
+                    "name": "MDF NU Green SOYA MSDS",
+                    "url": "http://uniboard.com/uploads/FICHES%20TECHNIQUES/MSDS%20boards%20NU%20Green-Jan2014.pdf",
+                    "id": 4198
+                },
+                {
+                    "name": "Glacier Green MDF MSDS",
+                    "url": "http://www.plumcreek.com/PlumCreek/media/Library/PDFs/Resources/Fact-Sheets/Glacier-Green-MDF-HDF-LDF.pdf",
+                    "id": 4207
+                },
+                {
+                    "name": "Kronospan MDF MSDS",
+                    "url": "http://kronospanusa.com/media/msds_sheet.pdf",
+                    "id": 4206
+                },
+                {
+                    "name": "DTF MDF MSDS",
+                    "url": "http://www.deltinfiber.com/pdf/MdfMSDS.pdf",
+                    "id": 4204
+                },
+                {
+                    "name": "Clarion MDF MSDS",
+                    "url": "http://www.clarionindustries.com/assets/files/Clarion-msds-mdf.pdf",
+                    "id": 4202
+                },
+                {
+                    "name": "UltraStock MR MDF MSDS",
+                    "url": "http://www.buildgp.com/DocumentViewer.aspx?elementid=13516",
+                    "id": 4201
+                },
+                {
+                    "name": "UltraStock MDF MSDS",
+                    "url": "http://www.buildgp.com/DocumentViewer.aspx?elementid=13515",
+                    "id": 4199
+                },
+                {
+                    "name": "UB MSDS",
+                    "url": "http://uniboard.com/uploads/FICHES%20TECHNIQUES/MSDS%20boards%20except%20NU%20Green-Jan%202014.pdf",
+                    "id": 3836
+                },
+                {
+                    "name": "FB MDF MSDS",
+                    "url": "http://www.flakeboard.com/msds/Flakeboard_MDF_MSDS.pdf",
+                    "id": 4192
+                },
+                {
+                    "name": "PC Fiberboard MSDS 2008",
+                    "url": "http://www.amerhart.com/wp-content/msds/1364539262All_MSDS_PLUMCREEK.pdf",
+                    "id": 4182
+                },
+                {
+                    "name": "TI MDF MSDS 2005",
+                    "url": "http://www.amerhart.com/wp-content/msds/1364539495mdf_msds.pdf",
+                    "id": 4181
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.09999999999798001,
+                    "contributors": [
+                        {
+                            "recId": 11009,
+                            "massPct": 0.09999999999798001,
+                            "childrenIds": [
+                                11009,
+                                3874
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "unknown": [
+                {
+                    "hazardId": "unknown-11424",
+                    "type": "unknown",
+                    "name": "Unknown",
+                    "massPct": 0.8912,
+                    "contributors": [
+                        {
+                            "recId": 3329,
+                            "massPct": 0.8912,
+                            "childrenIds": [
+                                3329
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundary includes upstream forest operations, from planting through harvest, and medium density fiberboard manufacturing, including upstream transportation. Dataset represents US-CA industry average (Medium Density FiberboardEPD) and has a urea formaldehyde resin content of 9.54%, a urea content of 0.11%, a melamine urea formaldehyde resin content of 0.10%, a scavenger content of 0.20%, a catalyst content of 0.01%, a slack wax content of 0.57% and density of 745.95 kg/m3 (oven dry).",
+        "gabiDatasets": [
+            {
+                "name": "RNA: Medium Density Fiberboard"
+            }
+        ],
+        "foregroundDataSource": "CORRIM 2011",
+        "backforegroundDataSource": "CORRIM/USLCI",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "17.5% incinerated; 17.5% recycled; 65% to landfill",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "8.28E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "2.53E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "-9.23E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "3.98E-09"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "8.58E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "4.17E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "3.34E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "3.83E-05"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "6.35E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.55E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "4.62E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "6.93E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP128",
+    "name": "Medium Density Fiberboard (MDF)",
+    "altNames": [
+        "MDF"
+    ],
+    "uniformats": [
+        {
+            "id": "B1010",
+            "name": "Floor Construction"
+        },
+        {
+            "id": "B1020",
+            "name": "Roof Construction"
+        },
+        {
+            "id": "B2010",
+            "name": "Exterior Walls"
+        },
+        {
+            "id": "B2080",
+            "name": "Exterior Wall Appurtenances"
+        },
+        {
+            "id": "C2030",
+            "name": "Flooring"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "06-16-36",
+            "name": "Wood Panel Product Sheathing"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Medium Density Fiberboard (MDF) is a non-structural wood panel product constructed using wood residues from the production of primary wood products. MDF is produced by blending these wood residues with resin(s), resin catalyst, and wax, followed by curing under pressure and heat. Urea-formaldehyde (UF) is the most commonly used resin for MDF, however other resins such as melamine-urea formaldehyde or polymeric isocyanate resins may be used when moisture resistance is specified or a no added formaldehyde (NAF) resin is desired. This CP models a standard MDF product made with UF resin.",
+    "sources": [
+        {
+            "name": "Bergstedt 2009",
+            "url": "http://www.cabdirect.org/abstracts/20103281511.html;jsessionid=087118DB909084342D267B328BA09781",
+            "id": 3864
+        },
+        {
+            "name": "Roseburg MSDS",
+            "url": "http://www.roseburg.com/UserFiles/Library/Roseburg_Panels_MSDS_010614.pdf",
+            "id": 3325
+        },
+        {
+            "name": "CHH MSDS",
+            "url": "http://www.chhwoodproducts.com.au/files/msds/MSDS-MSDS-46.pdf",
+            "id": 3861
+        },
+        {
+            "name": "Momentive Patent",
+            "url": "http://www.google.com/patents/US8741430",
+            "id": 3869
+        },
+        {
+            "name": "PB EPD",
+            "url": "http://www.roseburg.com/UserFiles/Library/Particleboard_EPD.pdf",
+            "id": 3855
+        },
+        {
+            "name": "Forestia PB EPD",
+            "url": "http://www.epd-norge.no/getfile.php/PDF/EPD/Byggevarer/NEPD00274E%20Forestia-particleboard%20GODKJENT.pdf",
+            "id": 3860
+        },
+        {
+            "name": "CORRIM PB",
+            "url": "http://www.corrim.org/pubs/reports/2013/phase1_updates/Particleboard%20LCA%20Sept%202013.pdf",
+            "id": 3859
+        },
+        {
+            "name": "MDF EPD",
+            "url": "http://www.awc.org/pdf/EPDs/MDF_EPD.pdf",
+            "id": 4177
+        },
+        {
+            "name": "FINSA MDF EPD",
+            "url": "http://www.cobuilder.com/coBuilderDocuments/getfile?&dokid=956905&code=MTAyMDc5JTJGRVBELS0tRmluc2EtTURGLnBkZg==&ext=.pdf",
+            "id": 4178
+        },
+        {
+            "name": "Glunz MDF EPD",
+            "url": "http://construction-environment.com/download/CY524faa69X13d7d151650XY5bdd/EPD_GLU_2010111_E.pdf?ITServ=C1a5433a5X14c9e702b6eX5aef",
+            "id": 4179
+        },
+        {
+            "name": "Egger MDF EPD",
+            "url": "http://construction-environment.com/download/C74729484X13d335053b9X703a/EPD_EHW_2008311_E.pdf?ITServ=C1a5433a5X14c9e702b6eX5aef",
+            "id": 4180
+        },
+        {
+            "name": "TI MDF MSDS 2005",
+            "url": "http://www.amerhart.com/wp-content/msds/1364539495mdf_msds.pdf",
+            "id": 4181
+        },
+        {
+            "name": "PC Fiberboard MSDS 2008",
+            "url": "http://www.amerhart.com/wp-content/msds/1364539262All_MSDS_PLUMCREEK.pdf",
+            "id": 4182
+        },
+        {
+            "name": "MDF Buyers Guide 2014",
+            "url": "http://www.decorativesurfaces.org/userfiles/filemanager/53304a551b01a/",
+            "id": 4183
+        },
+        {
+            "name": "MDF Wall EPD",
+            "url": "http://iere.org/wp-content/uploads/DIRTT-Standard-MDF-Solid-Wall-Phoenix-2014.pdf",
+            "id": 4184
+        },
+        {
+            "name": "NAF MDF Wall EPD",
+            "url": "http://iere.org/wp-content/uploads/DIRTT-NAF-MDF-Solid-Wall-Phoenix-20141.pdf",
+            "id": 4185
+        },
+        {
+            "name": "Wilson 2008",
+            "url": "http://www.corrim.org/pubs/reports/2010/phase2/Module_G.pdf",
+            "id": 4186
+        },
+        {
+            "name": "Corrim MDF",
+            "url": "http://www.corrim.org/pubs/reports/2013/phase1_updates/MDF%20LCA%20final%20Sept%202013.pdf",
+            "id": 4187
+        },
+        {
+            "name": "SP UMDF MSDS",
+            "url": "http://www.sierrapine.com/media/module/content_item/Medite3D_Material_Safety_Data_Sheet.pdf",
+            "id": 4188
+        },
+        {
+            "name": "Medite Spec",
+            "url": "http://www.sierrapine.com/media/module/content_item/Medite_Spec_Sheet.pdf",
+            "id": 4189
+        },
+        {
+            "name": "SP NAF MDF MSDS",
+            "url": "http://www.sierrapine.com/media/module/content_item/Arreis_Material_Safety_Data_Sheet.pdf",
+            "id": 4190
+        },
+        {
+            "name": "SP Medite FR MSDS",
+            "url": "http://www.sierrapine.com/media/module/content_item/MediteFR_Material_Safety_Data_Sheet_Post_9_6_12_.pdf",
+            "id": 4191
+        },
+        {
+            "name": "FB MDF MSDS",
+            "url": "http://www.flakeboard.com/msds/Flakeboard_MDF_MSDS.pdf",
+            "id": 4192
+        },
+        {
+            "name": "FB NAF MDF MSDS",
+            "url": "http://www.flakeboard.com/msds/Flakeboard_NAUF_MDF_MSDS.pdf",
+            "id": 4193
+        },
+        {
+            "name": "Lacey Act MDF",
+            "url": "http://uniboard.com/uploads/PDFS/Formulaire_MDF_2010_lacey.pdf",
+            "id": 4195
+        },
+        {
+            "name": "UB MDF Standard Spec",
+            "url": "http://uniboard.com/uploads/PDFS/2015-02-MDF-Standard-TECH/20150127_15mdfGrade115-TECH-EN.pdf",
+            "id": 4196
+        },
+        {
+            "name": "MDF NU Green MSDS",
+            "url": "http://uniboard.com/uploads/FICHES%20TECHNIQUES/MSDS%20Standard%20MDF%20NAF%20Feb%202015.pdf",
+            "id": 4197
+        },
+        {
+            "name": "MDF NU Green SOYA MSDS",
+            "url": "http://uniboard.com/uploads/FICHES%20TECHNIQUES/MSDS%20boards%20NU%20Green-Jan2014.pdf",
+            "id": 4198
+        },
+        {
+            "name": "UltraStock MDF MSDS",
+            "url": "http://www.buildgp.com/DocumentViewer.aspx?elementid=13515",
+            "id": 4199
+        },
+        {
+            "name": "UltraStock MDF",
+            "url": "http://www.buildgp.com/mdf-ultrastock-select",
+            "id": 4200
+        },
+        {
+            "name": "UltraStock MR MDF MSDS",
+            "url": "http://www.buildgp.com/DocumentViewer.aspx?elementid=13516",
+            "id": 4201
+        },
+        {
+            "name": "Clarion MDF MSDS",
+            "url": "http://www.clarionindustries.com/assets/files/Clarion-msds-mdf.pdf",
+            "id": 4202
+        },
+        {
+            "name": "Clarion Boards",
+            "url": "http://www.clarionindustries.com/boards.php",
+            "id": 4203
+        },
+        {
+            "name": "DTF MDF MSDS",
+            "url": "http://www.deltinfiber.com/pdf/MdfMSDS.pdf",
+            "id": 4204
+        },
+        {
+            "name": "DTF NAF MDF MSDS",
+            "url": "http://www.deltinfiber.com/pdf/MrMSDS.pdf",
+            "id": 4205
+        },
+        {
+            "name": "Kronospan MDF MSDS",
+            "url": "http://kronospanusa.com/media/msds_sheet.pdf",
+            "id": 4206
+        },
+        {
+            "name": "Glacier Green MDF MSDS",
+            "url": "http://www.plumcreek.com/PlumCreek/media/Library/PDFs/Resources/Fact-Sheets/Glacier-Green-MDF-HDF-LDF.pdf",
+            "id": 4207
+        },
+        {
+            "name": "Glacier Clear MDF MSDS",
+            "url": "http://www.plumcreek.com/PlumCreek/media/Library/PDFs/Resources/Fact-Sheets/Glacier-Clear-No-Added-Formaldehyde-1.pdf",
+            "id": 4208
+        },
+        {
+            "name": "Corrim Formaldehyde Resins",
+            "url": "http://www.corrim.org/pubs/reports/2010/swst_vol42/125.pdf",
+            "id": 4209
+        },
+        {
+            "name": "Alexandropoulos et al",
+            "url": "http://www.academia.edu/167908/European_approach_to_particleboard_and_MDF_adhesives",
+            "id": 4210
+        },
+        {
+            "name": "Xing et al 2006",
+            "url": "http://web.utk.edu/~swang/Copyrighted-SWang07_IS.pdf",
+            "id": 4211
+        },
+        {
+            "name": "EPA 2002",
+            "url": "http://www.epa.gov/ttnchie1/ap42/ch10/final/c10s0603.pdf",
+            "id": 4212
+        },
+        {
+            "name": "Halvarsson 2010",
+            "url": "http://www.diva-portal.org/smash/get/diva2:324791/FULLTEXT02",
+            "id": 4213
+        },
+        {
+            "name": "IPST",
+            "url": "http://www.osti.gov/scitech/servlets/purl/892708",
+            "id": 4214
+        },
+        {
+            "name": "UB MSDS",
+            "url": "http://uniboard.com/uploads/FICHES%20TECHNIQUES/MSDS%20boards%20except%20NU%20Green-Jan%202014.pdf",
+            "id": 3836
+        },
+        {
+            "name": "Saravia-Cortez 2013",
+            "url": "http://dx.doi.org.er.lib.k-state.edu/10.1016/j.jclepro.2013.02.006",
+            "id": 3865
+        }
+    ]
+}

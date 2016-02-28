@@ -1,0 +1,824 @@
+{
+    "CPID": "CP159",
+    "timestamp": 1452102154541,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 6861,
+            "name": "Octadecyl-3-(3,5-di-tert-butyl-4-hydroxyphenyl)-propionate",
+            "CASRN": "2082-79-3",
+            "massPct": 0.004896,
+            "function": "primary antioxidant",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Russell",
+                    "url": "https://www.google.com/patents/US6284178?dq=6,284,178&hl=en&sa=X&ei=o9OCVf-yEcTt-QG2vYKoCw&ved=0CB0Q6AEwAA",
+                    "id": 6292
+                },
+                {
+                    "name": "Lubrizol",
+                    "url": "https://www.google.com/patents/US7255134",
+                    "id": 6293
+                },
+                {
+                    "name": "Noveon",
+                    "url": "http://www.google.com/patents/US7086421",
+                    "id": 6290
+                },
+                {
+                    "name": "Uponor",
+                    "url": "https://www.google.com/patents/US8470423",
+                    "id": 6294
+                },
+                {
+                    "name": "Irganox 1076",
+                    "url": "http://www.resikem.com.ar/admin/archivos/tecnica/237/TDS_Irganox_1076.PDF",
+                    "id": 6285
+                },
+                {
+                    "name": "Sahar",
+                    "url": "http://www.google.com/patents/US8889239?cl=en",
+                    "id": 6289
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.004896
+        },
+        {
+            "recId": 2766,
+            "name": "Titanium Dioxide",
+            "CASRN": "13463-67-7",
+            "massPct": 0.015912,
+            "function": "pigment",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Uponor 2",
+                    "url": "https://www.google.com/patents/US20100084037",
+                    "id": 6296
+                },
+                {
+                    "name": "Noveon",
+                    "url": "http://www.google.com/patents/US7086421",
+                    "id": 6290
+                },
+                {
+                    "name": "Russell",
+                    "url": "https://www.google.com/patents/US6284178?dq=6,284,178&hl=en&sa=X&ei=o9OCVf-yEcTt-QG2vYKoCw&ved=0CB0Q6AEwAA",
+                    "id": 6292
+                },
+                {
+                    "name": "Lubrizol",
+                    "url": "https://www.google.com/patents/US7255134",
+                    "id": 6293
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.015912
+        },
+        {
+            "recId": 6261,
+            "name": "Tris(2,4-ditert-butylphenyl) phosphite",
+            "CASRN": "31570-04-4",
+            "massPct": 0.001958,
+            "function": "secondary antioxidant",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Russell",
+                    "url": "https://www.google.com/patents/US6284178?dq=6,284,178&hl=en&sa=X&ei=o9OCVf-yEcTt-QG2vYKoCw&ved=0CB0Q6AEwAA",
+                    "id": 6292
+                },
+                {
+                    "name": "Kelley",
+                    "url": "http://www.researchgate.net/profile/Andrew_Whelton/publication/266255022_Release_of_drinking_water_contaminants_and_odor_impacts_caused_by_green_building_cross-linked_polyethylene_%28PEX%29_plumbing_systems/links/54edeebc0cf2e55866f1a2f9.pdf",
+                    "id": 6284
+                },
+                {
+                    "name": "Irgafos 168",
+                    "url": "http://shanghaiguanan.com/pic/2014916113835287.pdf",
+                    "id": 6230
+                },
+                {
+                    "name": "Noveon",
+                    "url": "http://www.google.com/patents/US7086421",
+                    "id": 6290
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.001958
+        },
+        {
+            "recId": 6492,
+            "name": "High Density Polyethylene",
+            "CASRN": "9002-88-4",
+            "massPct": 0.977234,
+            "function": "polymer",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "BorPex HE2550",
+                    "url": "http://www.matweb.com/search/datasheettext.aspx?matguid=4fdf1688290a4d63a4aad982fdef4f9b",
+                    "id": 6295
+                },
+                {
+                    "name": "Uponor",
+                    "url": "https://www.google.com/patents/US8470423",
+                    "id": 6294
+                },
+                {
+                    "name": "Sahar",
+                    "url": "http://www.google.com/patents/US8889239?cl=en",
+                    "id": 6289
+                },
+                {
+                    "name": "Akzo Nobel",
+                    "url": "https://www.akzonobel.com/polymer/system/images/AkzoNobel_Organic_peroxides_PEX_a_pipes_hp_glo_eng_flyer_tcm96-62063.pdf",
+                    "id": 6283
+                }
+            ],
+            "notes": "HDPE",
+            "lca": "yes",
+            "massPctOfTotal": 0.977234
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Isobutane",
+            "CASRN": "75-28-5",
+            "massPct": null,
+            "function": "resin solvent",
+            "sources": [
+                {
+                    "name": "Kelley",
+                    "url": "http://www.researchgate.net/profile/Andrew_Whelton/publication/266255022_Release_of_drinking_water_contaminants_and_odor_impacts_caused_by_green_building_cross-linked_polyethylene_%28PEX%29_plumbing_systems/links/54edeebc0cf2e55866f1a2f9.pdf",
+                    "id": 6284
+                },
+                {
+                    "name": "Borealis",
+                    "url": "http://www.google.com/patents/US20080226858",
+                    "id": 6291
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "(Tributyl)peroxide",
+            "CASRN": "110-05-4",
+            "massPct": null,
+            "function": "crosslinking residual",
+            "sources": [
+                {
+                    "name": "Heim",
+                    "url": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB8QFjAA&url=http%3A%2F%2Fscholar.lib.vt.edu%2Ftheses%2Favailable%2Fetd-05062006-111337%2Funrestricted%2FMSThesisTimHeim.pdf&ei=sgCDVZy3Cu_asAS367Qg&usg=AFQjCNENDyx2XhfDHm4jgQ-gD2qYvIXl2w&sig2=TdNXWxh-kuYramiCUHGrYQ&bvm=bv.96041959,d.cWc",
+                    "id": 6286
+                },
+                {
+                    "name": "Borealis",
+                    "url": "http://www.google.com/patents/US20080226858",
+                    "id": 6291
+                },
+                {
+                    "name": "Sahar",
+                    "url": "http://www.google.com/patents/US8889239?cl=en",
+                    "id": 6289
+                },
+                {
+                    "name": "Kelley",
+                    "url": "http://www.researchgate.net/profile/Andrew_Whelton/publication/266255022_Release_of_drinking_water_contaminants_and_odor_impacts_caused_by_green_building_cross-linked_polyethylene_%28PEX%29_plumbing_systems/links/54edeebc0cf2e55866f1a2f9.pdf",
+                    "id": 6284
+                },
+                {
+                    "name": "Akzo Nobel",
+                    "url": "https://www.akzonobel.com/polymer/system/images/AkzoNobel_Organic_peroxides_PEX_a_pipes_hp_glo_eng_flyer_tcm96-62063.pdf",
+                    "id": 6283
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "2-Ethyl-1-hexanol",
+            "CASRN": "104-76-7",
+            "massPct": null,
+            "function": "manufacturing aide",
+            "sources": [
+                {
+                    "name": "Durand",
+                    "url": "http://www.researchgate.net/publication/6342861_Contributions_of_silane_cross-linked_PEX_pipe_to_chemicalsolvent_odours_in_drinking_water",
+                    "id": 6297
+                },
+                {
+                    "name": "Kelley",
+                    "url": "http://www.researchgate.net/profile/Andrew_Whelton/publication/266255022_Release_of_drinking_water_contaminants_and_odor_impacts_caused_by_green_building_cross-linked_polyethylene_%28PEX%29_plumbing_systems/links/54edeebc0cf2e55866f1a2f9.pdf",
+                    "id": 6284
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Tert-Butanol",
+            "CASRN": "75-65-0",
+            "massPct": null,
+            "function": "crosslinking residual",
+            "sources": [
+                {
+                    "name": "Durand",
+                    "url": "http://www.researchgate.net/publication/6342861_Contributions_of_silane_cross-linked_PEX_pipe_to_chemicalsolvent_odours_in_drinking_water",
+                    "id": 6297
+                },
+                {
+                    "name": "Akzo Nobel",
+                    "url": "https://www.akzonobel.com/polymer/system/images/AkzoNobel_Organic_peroxides_PEX_a_pipes_hp_glo_eng_flyer_tcm96-62063.pdf",
+                    "id": 6283
+                },
+                {
+                    "name": "Tomboulian",
+                    "url": "http://www.documents.dgs.ca.gov/bsc/prpsd_chngs/documents/2007/pex/PEX%20EIR%20271%20Tomboulian,%20P.%202004.pdf",
+                    "id": 6298
+                },
+                {
+                    "name": "Heim",
+                    "url": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB8QFjAA&url=http%3A%2F%2Fscholar.lib.vt.edu%2Ftheses%2Favailable%2Fetd-05062006-111337%2Funrestricted%2FMSThesisTimHeim.pdf&ei=sgCDVZy3Cu_asAS367Qg&usg=AFQjCNENDyx2XhfDHm4jgQ-gD2qYvIXl2w&sig2=TdNXWxh-kuYramiCUHGrYQ&bvm=bv.96041959,d.cWc",
+                    "id": 6286
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ammonium Hydroxide",
+            "CASRN": "1336-21-6",
+            "massPct": null,
+            "function": "octadecyl-3-(3,5-di-tert.butyl-4-hydroxyphenyl)-propionate residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "2,4-Di-tert-butyl phenol",
+            "CASRN": "96-76-4",
+            "massPct": null,
+            "function": "degradant of antioxidant",
+            "sources": [
+                {
+                    "name": "Skjevrak",
+                    "url": "http://www.ncbi.nlm.nih.gov/pubmed/12697234",
+                    "id": 6287
+                },
+                {
+                    "name": "Kelley",
+                    "url": "http://www.researchgate.net/profile/Andrew_Whelton/publication/266255022_Release_of_drinking_water_contaminants_and_odor_impacts_caused_by_green_building_cross-linked_polyethylene_%28PEX%29_plumbing_systems/links/54edeebc0cf2e55866f1a2f9.pdf",
+                    "id": 6284
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Chromium (VI) oxide",
+            "CASRN": "1333-82-0",
+            "massPct": null,
+            "function": "high density polyethylene residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ethylene",
+            "CASRN": "74-85-1",
+            "massPct": null,
+            "function": "high density polyethylene residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.004896,
+                    "contributors": [
+                        {
+                            "recId": 6861,
+                            "massPct": 0.004896,
+                            "childrenIds": [
+                                6861
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.015912,
+                    "contributors": [
+                        {
+                            "recId": 2766,
+                            "massPct": 0.015912,
+                            "childrenIds": [
+                                2766
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.977234,
+                    "contributors": [
+                        {
+                            "recId": 6492,
+                            "massPct": 0.977234,
+                            "childrenIds": [
+                                6492
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.015912,
+                    "contributors": [
+                        {
+                            "recId": 2766,
+                            "massPct": 0.015912,
+                            "childrenIds": [
+                                2766
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundary is defined as cradle-to-gate and ends with the finished product at the factory gate. Includes all cradle-to-gate data including upsteam chemical production, energy extraction, and pipe extrustion. Inbound transportation of significant upstream materials is included. Packaging is not included.                                \n                                \n                                ",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Landfilling of plastic waste"
+            },
+            {
+                "name": "GLO: Used oil treatment (worst case scenario)"
+            },
+            {
+                "name": "US: Tris(2-chloroisopropyl)phosphate (TCPP)"
+            },
+            {
+                "name": "DE: Hydroxyethylenemethacrylate"
+            },
+            {
+                "name": "US: Cumene (isopropylbenzene) (C9H12)"
+            },
+            {
+                "name": "US: Lubricants at refinery"
+            },
+            {
+                "name": "US: Titanium dioxide pigment"
+            },
+            {
+                "name": "US: Polyethylene High Density Granulate (HDPE/PE-HD)"
+            },
+            {
+                "name": "US: Water deionized"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            }
+        ],
+        "foregroundDataSource": "GaBi; manufacturer data",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% landfill",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "1.07E-02"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.62E-03"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.81E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "6.54E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.71E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "1.18E+02"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "7.23E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "2.68E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.98E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.13E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "6.51E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.19E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP159",
+    "name": "PEX Water Pipe",
+    "altNames": [
+        "PEX pipe",
+        "PEX tube",
+        "PEX piping",
+        "PEX tubing"
+    ],
+    "uniformats": [
+        {
+            "id": "D2010",
+            "name": "Domestic Water Distribution"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "22-11-16",
+            "name": "Domestic Water Piping"
+        }
+    ],
+    "recordType": "Common",
+    "description": "PEX piping is made from polyethylene that has been crosslinked.  Three major crosslinking methods are used and are designated by the type of PEX: PEX-a (peroxide), PEX-b (silane), and PEX-c (e-beam).  Types a and b are most common and since there is more LCA data available for type a, that type will be highlighted in this CP.  PEX piping is primarily used for radiant heating and domestic cold and hot water applications.  PEX intended to transport of potable water must be evaluated and certified for this purpose.  Applicable standards are ASTM F876, ASTM F877, and NSF/ANSI 14.  Due to possible leachants from the pipe, there are special flushing requirements prior to use.  Some studies indicate that pipe additives and degradation products may be found in water coming from the pipe over extended periods of time.  These leachant materials include antioxidants (and degradants of antioxidants) that are added to PEX to protect it from oxidative degradation as well as degradation from chlorine and hypoclorous acid, often added to potable water to prevent microbial growth.  There is indication of industry movement toward antioxidants with lower leachability such as sulfur containing phenolics and HALS (Uponor,Sahar) but it is unclear to what extent these changes have been implemented. Alternatively, more resistant inner layers can be used in piping, but this does not seem to be the case for standard PEX.",
+    "sources": [
+        {
+            "name": "Irgafos 168",
+            "url": "http://shanghaiguanan.com/pic/2014916113835287.pdf",
+            "id": 6230
+        },
+        {
+            "name": "Whelton",
+            "url": "http://www.researchgate.net/publication/230887612_Contaminant_Diffusion_Solubility_and_Material_Property_Differences_between_HDPE_and_PEX_Potable_Water_Pipes",
+            "id": 6299
+        },
+        {
+            "name": "Tomboulian",
+            "url": "http://www.documents.dgs.ca.gov/bsc/prpsd_chngs/documents/2007/pex/PEX%20EIR%20271%20Tomboulian,%20P.%202004.pdf",
+            "id": 6298
+        },
+        {
+            "name": "Durand",
+            "url": "http://www.researchgate.net/publication/6342861_Contributions_of_silane_cross-linked_PEX_pipe_to_chemicalsolvent_odours_in_drinking_water",
+            "id": 6297
+        },
+        {
+            "name": "Uponor 2",
+            "url": "https://www.google.com/patents/US20100084037",
+            "id": 6296
+        },
+        {
+            "name": "BorPex HE2550",
+            "url": "http://www.matweb.com/search/datasheettext.aspx?matguid=4fdf1688290a4d63a4aad982fdef4f9b",
+            "id": 6295
+        },
+        {
+            "name": "Uponor",
+            "url": "https://www.google.com/patents/US8470423",
+            "id": 6294
+        },
+        {
+            "name": "Lubrizol",
+            "url": "https://www.google.com/patents/US7255134",
+            "id": 6293
+        },
+        {
+            "name": "Russell",
+            "url": "https://www.google.com/patents/US6284178?dq=6,284,178&hl=en&sa=X&ei=o9OCVf-yEcTt-QG2vYKoCw&ved=0CB0Q6AEwAA",
+            "id": 6292
+        },
+        {
+            "name": "Borealis",
+            "url": "http://www.google.com/patents/US20080226858",
+            "id": 6291
+        },
+        {
+            "name": "Noveon",
+            "url": "http://www.google.com/patents/US7086421",
+            "id": 6290
+        },
+        {
+            "name": "Sahar",
+            "url": "http://www.google.com/patents/US8889239?cl=en",
+            "id": 6289
+        },
+        {
+            "name": "Skjevrak",
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/12697234",
+            "id": 6287
+        },
+        {
+            "name": "Heim",
+            "url": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB8QFjAA&url=http%3A%2F%2Fscholar.lib.vt.edu%2Ftheses%2Favailable%2Fetd-05062006-111337%2Funrestricted%2FMSThesisTimHeim.pdf&ei=sgCDVZy3Cu_asAS367Qg&usg=AFQjCNENDyx2XhfDHm4jgQ-gD2qYvIXl2w&sig2=TdNXWxh-kuYramiCUHGrYQ&bvm=bv.96041959,d.cWc",
+            "id": 6286
+        },
+        {
+            "name": "Irganox 1076",
+            "url": "http://www.resikem.com.ar/admin/archivos/tecnica/237/TDS_Irganox_1076.PDF",
+            "id": 6285
+        },
+        {
+            "name": "Kelley",
+            "url": "http://www.researchgate.net/profile/Andrew_Whelton/publication/266255022_Release_of_drinking_water_contaminants_and_odor_impacts_caused_by_green_building_cross-linked_polyethylene_%28PEX%29_plumbing_systems/links/54edeebc0cf2e55866f1a2f9.pdf",
+            "id": 6284
+        },
+        {
+            "name": "Akzo Nobel",
+            "url": "https://www.akzonobel.com/polymer/system/images/AkzoNobel_Organic_peroxides_PEX_a_pipes_hp_glo_eng_flyer_tcm96-62063.pdf",
+            "id": 6283
+        }
+    ]
+}

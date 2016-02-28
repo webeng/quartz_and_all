@@ -1,0 +1,2218 @@
+{
+    "CPID": "CP147",
+    "timestamp": 1452102147362,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 7622,
+            "name": "Part B - Curing Agent",
+            "CASRN": "",
+            "massPct": 0.193081,
+            "function": "hardener",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": 0.00521,
+                        "contributors": [
+                            {
+                                "recId": 926,
+                                "massPct": 0.00521,
+                                "childrenIds": [
+                                    926
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.28944,
+                        "contributors": [
+                            {
+                                "recId": 926,
+                                "massPct": 0.00521,
+                                "childrenIds": [
+                                    926
+                                ]
+                            },
+                            {
+                                "recId": 9777,
+                                "massPct": 0.28423,
+                                "childrenIds": [
+                                    9777
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization",
+                        "massPct": 0.45003,
+                        "contributors": [
+                            {
+                                "recId": 7625,
+                                "massPct": 0.1658,
+                                "childrenIds": [
+                                    7625
+                                ]
+                            },
+                            {
+                                "recId": 9777,
+                                "massPct": 0.28423,
+                                "childrenIds": [
+                                    9777
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation",
+                        "massPct": 0.17296,
+                        "contributors": [
+                            {
+                                "recId": 7625,
+                                "massPct": 0.1658,
+                                "childrenIds": [
+                                    7625
+                                ]
+                            },
+                            {
+                                "recId": 2799,
+                                "massPct": 0.00716,
+                                "childrenIds": [
+                                    2799
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.1658,
+                        "contributors": [
+                            {
+                                "recId": 7625,
+                                "massPct": 0.1658,
+                                "childrenIds": [
+                                    7625
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": 0.45719,
+                        "contributors": [
+                            {
+                                "recId": 7625,
+                                "massPct": 0.1658,
+                                "childrenIds": [
+                                    7625
+                                ]
+                            },
+                            {
+                                "recId": 2799,
+                                "massPct": 0.00716,
+                                "childrenIds": [
+                                    2799
+                                ]
+                            },
+                            {
+                                "recId": 9777,
+                                "massPct": 0.28423,
+                                "childrenIds": [
+                                    9777
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.29139,
+                        "contributors": [
+                            {
+                                "recId": 2799,
+                                "massPct": 0.00716,
+                                "childrenIds": [
+                                    2799
+                                ]
+                            },
+                            {
+                                "recId": 9777,
+                                "massPct": 0.28423,
+                                "childrenIds": [
+                                    9777
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": 0.00716,
+                        "contributors": [
+                            {
+                                "recId": 2799,
+                                "massPct": 0.00716,
+                                "childrenIds": [
+                                    2799
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.00716,
+                        "contributors": [
+                            {
+                                "recId": 2799,
+                                "massPct": 0.00716,
+                                "childrenIds": [
+                                    2799
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": 0.00521,
+                        "contributors": [
+                            {
+                                "recId": 926,
+                                "massPct": 0.00521,
+                                "childrenIds": [
+                                    926
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": 0.45003,
+                        "contributors": [
+                            {
+                                "recId": 7625,
+                                "massPct": 0.1658,
+                                "childrenIds": [
+                                    7625
+                                ]
+                            },
+                            {
+                                "recId": 9777,
+                                "massPct": 0.28423,
+                                "childrenIds": [
+                                    9777
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental",
+                        "massPct": 0.28423,
+                        "contributors": [
+                            {
+                                "recId": 9777,
+                                "massPct": 0.28423,
+                                "childrenIds": [
+                                    9777
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT",
+                        "massPct": 0.00716,
+                        "contributors": [
+                            {
+                                "recId": 2799,
+                                "massPct": 0.00716,
+                                "childrenIds": [
+                                    2799
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 926,
+                    "name": "Quartz",
+                    "CASRN": "14808-60-7",
+                    "massPct": 0.00521,
+                    "function": "thickener",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-567",
+                                "type": "red",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Zandur 20B",
+                            "url": "http://zandurdocs.com/wp-content/uploads/2015/06/Z105B-SDS-20-Two-Part-Epoxy-Part-B.pdf",
+                            "id": 7613
+                        },
+                        {
+                            "name": "Johnsonite 996A",
+                            "url": "http://www.johnsonite.com/Portals/8/files/pdfs/MSDS/996%20A&B%20MSDS%20070109.pdf",
+                            "id": 7601
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.00100595201
+                },
+                {
+                    "recId": 7625,
+                    "name": "Diethylenetriamine",
+                    "CASRN": "111-40-0",
+                    "massPct": 0.1658,
+                    "function": "crosslinker",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-577",
+                                "type": "orange",
+                                "name": "Skin Sensitization",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-576",
+                                "type": "orange",
+                                "name": "Skin Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-575",
+                                "type": "orange",
+                                "name": "Eye Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Lonseal 650B",
+                            "url": "http://www.lonseal.com/Documents/SDS_650_Part_B_060115.pdf",
+                            "id": 7603
+                        },
+                        {
+                            "name": "Mondo 55",
+                            "url": "http://www.kieferusa.com/media/4630/MSDS_MONDO%20EP%2055%20Epoxy%20Adhesive%20(R051410).pdf",
+                            "id": 7604
+                        },
+                        {
+                            "name": "Roppe 435",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/2709/039c88a6ae6dda75b87e733d3cbdb7fe8151cb45.pdf",
+                            "id": 7605
+                        },
+                        {
+                            "name": "Roppe 7100",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/2709/6a8bcd9f80ac2a61e9cf1f1f7691489a5cd4f439.pdf",
+                            "id": 7607
+                        },
+                        {
+                            "name": "Biltrite AD535 AB",
+                            "url": "http://www2.american-biltrite.com/pub/simdut.nsf/277c8f49e0242efc85256b45006de8bd/08c35e9eb8fa8a9a85257e3e00667ae5/$FILE/ATT4TZBK.pdf/AD-535%20Part%20A&B.pdf",
+                            "id": 7597
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0320128298
+                },
+                {
+                    "recId": 2799,
+                    "name": "4-Nonylphenol, branched",
+                    "CASRN": "84852-15-3",
+                    "massPct": 0.00716,
+                    "function": "catalyst",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-576",
+                                "type": "orange",
+                                "name": "Skin Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-575",
+                                "type": "orange",
+                                "name": "Eye Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "purple": [
+                            {
+                                "hazardId": "purple-955",
+                                "type": "purple",
+                                "name": "PBT",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Mondo 55",
+                            "url": "http://www.kieferusa.com/media/4630/MSDS_MONDO%20EP%2055%20Epoxy%20Adhesive%20(R051410).pdf",
+                            "id": 7604
+                        },
+                        {
+                            "name": "Biltrite AD535 AB",
+                            "url": "http://www2.american-biltrite.com/pub/simdut.nsf/277c8f49e0242efc85256b45006de8bd/08c35e9eb8fa8a9a85257e3e00667ae5/$FILE/ATT4TZBK.pdf/AD-535%20Part%20A&B.pdf",
+                            "id": 7597
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.00138245996
+                },
+                {
+                    "recId": 9777,
+                    "name": "Bisphenol A",
+                    "CASRN": "80-05-7",
+                    "massPct": 0.28423,
+                    "function": "pre-polymer resin",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-577",
+                                "type": "orange",
+                                "name": "Skin Sensitization",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-575",
+                                "type": "orange",
+                                "name": "Eye Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "red-568",
+                                "type": "red",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Armstrong 240",
+                            "url": "http://www.armstrong.com/commflooringna/ima.jsp?itemId=50687",
+                            "id": 7595
+                        },
+                        {
+                            "name": "Henry 452B",
+                            "url": "http://www.wwhenry.com/assets/Products/Documents/Henry%20EnglishHENRY%20452%20General%20PurposeEpoxy%20Flooring%20Adhesive%20(Parts%20A%20&%20B)Part%20B%20SDS%20USA%20and%20Canada%20(English)Henry%20452%20Part%20B.pdf",
+                            "id": 7599
+                        },
+                        {
+                            "name": "Roppe 605",
+                            "url": "https://www.yumpu.com/en/document/view/25847319/605-adhesive-roppe-corporation/4",
+                            "id": 7606
+                        },
+                        {
+                            "name": "Lonseal 650B",
+                            "url": "http://www.lonseal.com/Documents/SDS_650_Part_B_060115.pdf",
+                            "id": 7603
+                        },
+                        {
+                            "name": "Mondo 55",
+                            "url": "http://www.kieferusa.com/media/4630/MSDS_MONDO%20EP%2055%20Epoxy%20Adhesive%20(R051410).pdf",
+                            "id": 7604
+                        },
+                        {
+                            "name": "Roppe 435",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/2709/039c88a6ae6dda75b87e733d3cbdb7fe8151cb45.pdf",
+                            "id": 7605
+                        },
+                        {
+                            "name": "Roppe 7100",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/2709/6a8bcd9f80ac2a61e9cf1f1f7691489a5cd4f439.pdf",
+                            "id": 7607
+                        },
+                        {
+                            "name": "Biltrite AD535 AB",
+                            "url": "http://www2.american-biltrite.com/pub/simdut.nsf/277c8f49e0242efc85256b45006de8bd/08c35e9eb8fa8a9a85257e3e00667ae5/$FILE/ATT4TZBK.pdf/AD-535%20Part%20A&B.pdf",
+                            "id": 7597
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.05487941263
+                },
+                {
+                    "recId": 5954,
+                    "name": "Dipropylene Glycol Dibenzoate",
+                    "CASRN": "27138-31-4",
+                    "massPct": 0.04737,
+                    "function": "solvating plasticizer",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Lonseal 650A",
+                            "url": "http://www.lonseal.com/Documents/SDS_650_Part_A_060115.pdf",
+                            "id": 7602
+                        },
+                        {
+                            "name": "Henry 452A",
+                            "url": "http://www.wwhenry.com/assets/Products/Documents/Henry%20EnglishHENRY%20452%20General%20PurposeEpoxy%20Flooring%20Adhesive%20(Parts%20A%20&%20B)Part%20A%20SDS%20USA%20and%20Canada%20(English)Henry%20452%20Part%20A.pdf",
+                            "id": 7598
+                        },
+                        {
+                            "name": "Mondo 55",
+                            "url": "http://www.kieferusa.com/media/4630/MSDS_MONDO%20EP%2055%20Epoxy%20Adhesive%20(R051410).pdf",
+                            "id": 7604
+                        },
+                        {
+                            "name": "Roppe 435",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/2709/039c88a6ae6dda75b87e733d3cbdb7fe8151cb45.pdf",
+                            "id": 7605
+                        },
+                        {
+                            "name": "Biltrite AD535 AB",
+                            "url": "http://www2.american-biltrite.com/pub/simdut.nsf/277c8f49e0242efc85256b45006de8bd/08c35e9eb8fa8a9a85257e3e00667ae5/$FILE/ATT4TZBK.pdf/AD-535%20Part%20A&B.pdf",
+                            "id": 7597
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.00914624697
+                },
+                {
+                    "recId": 7624,
+                    "name": "Fatty Acids, C18-unsaturated, dimers, polymers with tall-oil fatty acids and triethylenetetramine",
+                    "CASRN": "68082-29-1",
+                    "massPct": 0.42634,
+                    "function": "crosslinker",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Zandur 20B",
+                            "url": "http://zandurdocs.com/wp-content/uploads/2015/06/Z105B-SDS-20-Two-Part-Epoxy-Part-B.pdf",
+                            "id": 7613
+                        },
+                        {
+                            "name": "Roppe 7200",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/2709/c25847b712b3a0bdd1717920e038f3f1be03ed36.pdf",
+                            "id": 7609
+                        },
+                        {
+                            "name": "Roppe 8200",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/2709/6f0ba89043147d3c58ab6f5455872a110a0b734d.pdf",
+                            "id": 7610
+                        },
+                        {
+                            "name": "Johnsonite 996A",
+                            "url": "http://www.johnsonite.com/Portals/8/files/pdfs/MSDS/996%20A&B%20MSDS%20070109.pdf",
+                            "id": 7601
+                        }
+                    ],
+                    "notes": "Polyamide Resin",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.08231815354
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.193081
+        },
+        {
+            "recId": 7615,
+            "name": "Part A - Base",
+            "CASRN": "",
+            "massPct": 0.806919,
+            "function": "epoxy resin",
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": 0.5012,
+                        "contributors": [
+                            {
+                                "recId": 2800,
+                                "massPct": 0.358,
+                                "childrenIds": [
+                                    2800
+                                ]
+                            },
+                            {
+                                "recId": 7617,
+                                "massPct": 0.1432,
+                                "childrenIds": [
+                                    7617
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental",
+                        "massPct": 0.5012,
+                        "contributors": [
+                            {
+                                "recId": 2800,
+                                "massPct": 0.358,
+                                "childrenIds": [
+                                    2800
+                                ]
+                            },
+                            {
+                                "recId": 7617,
+                                "massPct": 0.1432,
+                                "childrenIds": [
+                                    7617
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": 0.00955,
+                        "contributors": [
+                            {
+                                "recId": 926,
+                                "massPct": 0.00955,
+                                "childrenIds": [
+                                    926
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.15036,
+                        "contributors": [
+                            {
+                                "recId": 2799,
+                                "massPct": 0.00716,
+                                "childrenIds": [
+                                    2799
+                                ]
+                            },
+                            {
+                                "recId": 7617,
+                                "massPct": 0.1432,
+                                "childrenIds": [
+                                    7617
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": 0.00716,
+                        "contributors": [
+                            {
+                                "recId": 2799,
+                                "massPct": 0.00716,
+                                "childrenIds": [
+                                    2799
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.00716,
+                        "contributors": [
+                            {
+                                "recId": 2799,
+                                "massPct": 0.00716,
+                                "childrenIds": [
+                                    2799
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation",
+                        "massPct": 0.00716,
+                        "contributors": [
+                            {
+                                "recId": 2799,
+                                "massPct": 0.00716,
+                                "childrenIds": [
+                                    2799
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation",
+                        "massPct": 0.00716,
+                        "contributors": [
+                            {
+                                "recId": 2799,
+                                "massPct": 0.00716,
+                                "childrenIds": [
+                                    2799
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": 0.00955,
+                        "contributors": [
+                            {
+                                "recId": 926,
+                                "massPct": 0.00955,
+                                "childrenIds": [
+                                    926
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.00955,
+                        "contributors": [
+                            {
+                                "recId": 926,
+                                "massPct": 0.00955,
+                                "childrenIds": [
+                                    926
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT",
+                        "massPct": 0.00716,
+                        "contributors": [
+                            {
+                                "recId": 2799,
+                                "massPct": 0.00716,
+                                "childrenIds": [
+                                    2799
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 3759,
+                    "name": "Limestone",
+                    "CASRN": "1317-65-3",
+                    "massPct": 0.2864,
+                    "function": "filler",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Armstrong 240",
+                            "url": "http://www.armstrong.com/commflooringna/ima.jsp?itemId=50687",
+                            "id": 7595
+                        },
+                        {
+                            "name": "Roppe 7200",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/2709/c25847b712b3a0bdd1717920e038f3f1be03ed36.pdf",
+                            "id": 7609
+                        },
+                        {
+                            "name": "Mondo 55",
+                            "url": "http://www.kieferusa.com/media/4630/MSDS_MONDO%20EP%2055%20Epoxy%20Adhesive%20(R051410).pdf",
+                            "id": 7604
+                        },
+                        {
+                            "name": "Roppe 435",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/2709/039c88a6ae6dda75b87e733d3cbdb7fe8151cb45.pdf",
+                            "id": 7605
+                        },
+                        {
+                            "name": "Roppe 7100",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/2709/6a8bcd9f80ac2a61e9cf1f1f7691489a5cd4f439.pdf",
+                            "id": 7607
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.2311016016
+                },
+                {
+                    "recId": 5954,
+                    "name": "Dipropylene Glycol Dibenzoate",
+                    "CASRN": "27138-31-4",
+                    "massPct": 0.04773,
+                    "function": "solvating plasticizer",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Lonseal 650A",
+                            "url": "http://www.lonseal.com/Documents/SDS_650_Part_A_060115.pdf",
+                            "id": 7602
+                        },
+                        {
+                            "name": "Henry 452A",
+                            "url": "http://www.wwhenry.com/assets/Products/Documents/Henry%20EnglishHENRY%20452%20General%20PurposeEpoxy%20Flooring%20Adhesive%20(Parts%20A%20&%20B)Part%20A%20SDS%20USA%20and%20Canada%20(English)Henry%20452%20Part%20A.pdf",
+                            "id": 7598
+                        },
+                        {
+                            "name": "Mondo 55",
+                            "url": "http://www.kieferusa.com/media/4630/MSDS_MONDO%20EP%2055%20Epoxy%20Adhesive%20(R051410).pdf",
+                            "id": 7604
+                        },
+                        {
+                            "name": "Roppe 435",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/2709/039c88a6ae6dda75b87e733d3cbdb7fe8151cb45.pdf",
+                            "id": 7605
+                        },
+                        {
+                            "name": "Biltrite AD535 AB",
+                            "url": "http://www2.american-biltrite.com/pub/simdut.nsf/277c8f49e0242efc85256b45006de8bd/08c35e9eb8fa8a9a85257e3e00667ae5/$FILE/ATT4TZBK.pdf/AD-535%20Part%20A&B.pdf",
+                            "id": 7597
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.038514243870000006
+                },
+                {
+                    "recId": 2800,
+                    "name": "Epichlorohydrin-Bisphenol A Resin",
+                    "CASRN": "25068-38-6",
+                    "massPct": 0.358,
+                    "function": "pre-polymer resin",
+                    "hazards": {
+                        "red": [
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "red-568",
+                                "type": "red",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Henry 452A",
+                            "url": "http://www.wwhenry.com/assets/Products/Documents/Henry%20EnglishHENRY%20452%20General%20PurposeEpoxy%20Flooring%20Adhesive%20(Parts%20A%20&%20B)Part%20A%20SDS%20USA%20and%20Canada%20(English)Henry%20452%20Part%20A.pdf",
+                            "id": 7598
+                        },
+                        {
+                            "name": "Lonseal 650A",
+                            "url": "http://www.lonseal.com/Documents/SDS_650_Part_A_060115.pdf",
+                            "id": 7602
+                        },
+                        {
+                            "name": "Roppe 7200",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/2709/c25847b712b3a0bdd1717920e038f3f1be03ed36.pdf",
+                            "id": 7609
+                        },
+                        {
+                            "name": "Armstrong 240",
+                            "url": "http://www.armstrong.com/commflooringna/ima.jsp?itemId=50687",
+                            "id": 7595
+                        },
+                        {
+                            "name": "Zandur 20A",
+                            "url": "http://zandurdocs.com/wp-content/uploads/2015/06/Z105A-SDS-20-Two-Part-Epoxy-Part-A.pdf",
+                            "id": 7612
+                        },
+                        {
+                            "name": "Roppe 605",
+                            "url": "https://www.yumpu.com/en/document/view/25847319/605-adhesive-roppe-corporation/4",
+                            "id": 7606
+                        },
+                        {
+                            "name": "Roppe 7100",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/2709/6a8bcd9f80ac2a61e9cf1f1f7691489a5cd4f439.pdf",
+                            "id": 7607
+                        },
+                        {
+                            "name": "Roppe 8200",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/2709/6f0ba89043147d3c58ab6f5455872a110a0b734d.pdf",
+                            "id": 7610
+                        },
+                        {
+                            "name": "Johnsonite 996A",
+                            "url": "http://www.johnsonite.com/Portals/8/files/pdfs/MSDS/996%20A&B%20MSDS%20070109.pdf",
+                            "id": 7601
+                        },
+                        {
+                            "name": "Biltrite AD535 AB",
+                            "url": "http://www2.american-biltrite.com/pub/simdut.nsf/277c8f49e0242efc85256b45006de8bd/08c35e9eb8fa8a9a85257e3e00667ae5/$FILE/ATT4TZBK.pdf/AD-535%20Part%20A&B.pdf",
+                            "id": 7597
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.288877002
+                },
+                {
+                    "recId": 2799,
+                    "name": "4-Nonylphenol, branched",
+                    "CASRN": "84852-15-3",
+                    "massPct": 0.00716,
+                    "function": "catalyst",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-576",
+                                "type": "orange",
+                                "name": "Skin Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-575",
+                                "type": "orange",
+                                "name": "Eye Irritation",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "purple": [
+                            {
+                                "hazardId": "purple-955",
+                                "type": "purple",
+                                "name": "PBT",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Mondo 55",
+                            "url": "http://www.kieferusa.com/media/4630/MSDS_MONDO%20EP%2055%20Epoxy%20Adhesive%20(R051410).pdf",
+                            "id": 7604
+                        },
+                        {
+                            "name": "Biltrite AD535 AB",
+                            "url": "http://www2.american-biltrite.com/pub/simdut.nsf/277c8f49e0242efc85256b45006de8bd/08c35e9eb8fa8a9a85257e3e00667ae5/$FILE/ATT4TZBK.pdf/AD-535%20Part%20A&B.pdf",
+                            "id": 7597
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.00577754004
+                },
+                {
+                    "recId": 7618,
+                    "name": "Oxirane, 2,2'-(oxybis((methyl-2,1-ethanediyl)oxymethylene)) bis-",
+                    "CASRN": "41638-13-5",
+                    "massPct": 0.0716,
+                    "function": "toughener",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Roppe 605",
+                            "url": "https://www.yumpu.com/en/document/view/25847319/605-adhesive-roppe-corporation/4",
+                            "id": 7606
+                        },
+                        {
+                            "name": "Armstrong 240",
+                            "url": "http://www.armstrong.com/commflooringna/ima.jsp?itemId=50687",
+                            "id": 7595
+                        }
+                    ],
+                    "notes": "Polymer of epichlorhydrinpolyglycol",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0577754004
+                },
+                {
+                    "recId": 4911,
+                    "name": "Alkyl (C12, C14) Glycidyl Ether",
+                    "CASRN": "68609-97-2",
+                    "massPct": 0.06683,
+                    "function": "dilutent",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Lonseal 650A",
+                            "url": "http://www.lonseal.com/Documents/SDS_650_Part_A_060115.pdf",
+                            "id": 7602
+                        },
+                        {
+                            "name": "Roppe 7200",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/2709/c25847b712b3a0bdd1717920e038f3f1be03ed36.pdf",
+                            "id": 7609
+                        },
+                        {
+                            "name": "Zandur 20A",
+                            "url": "http://zandurdocs.com/wp-content/uploads/2015/06/Z105A-SDS-20-Two-Part-Epoxy-Part-A.pdf",
+                            "id": 7612
+                        },
+                        {
+                            "name": "Johnsonite 996A",
+                            "url": "http://www.johnsonite.com/Portals/8/files/pdfs/MSDS/996%20A&B%20MSDS%20070109.pdf",
+                            "id": 7601
+                        },
+                        {
+                            "name": "Biltrite AD535 AB",
+                            "url": "http://www2.american-biltrite.com/pub/simdut.nsf/277c8f49e0242efc85256b45006de8bd/08c35e9eb8fa8a9a85257e3e00667ae5/$FILE/ATT4TZBK.pdf/AD-535%20Part%20A&B.pdf",
+                            "id": 7597
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.05392639677
+                },
+                {
+                    "recId": 926,
+                    "name": "Quartz",
+                    "CASRN": "14808-60-7",
+                    "massPct": 0.00955,
+                    "function": "thickener",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-567",
+                                "type": "red",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Zandur 20B",
+                            "url": "http://zandurdocs.com/wp-content/uploads/2015/06/Z105B-SDS-20-Two-Part-Epoxy-Part-B.pdf",
+                            "id": 7613
+                        },
+                        {
+                            "name": "Johnsonite 996A",
+                            "url": "http://www.johnsonite.com/Portals/8/files/pdfs/MSDS/996%20A&B%20MSDS%20070109.pdf",
+                            "id": 7601
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.00770607645
+                },
+                {
+                    "recId": 7617,
+                    "name": "Bisphenol A Diglycidyl Ether",
+                    "CASRN": "25085-99-8",
+                    "massPct": 0.1432,
+                    "function": "pre-polymer resin",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "red-568",
+                                "type": "red",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Mondo 55",
+                            "url": "http://www.kieferusa.com/media/4630/MSDS_MONDO%20EP%2055%20Epoxy%20Adhesive%20(R051410).pdf",
+                            "id": 7604
+                        },
+                        {
+                            "name": "Roppe 435",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/2709/039c88a6ae6dda75b87e733d3cbdb7fe8151cb45.pdf",
+                            "id": 7605
+                        },
+                        {
+                            "name": "Biltrite AD535 AB",
+                            "url": "http://www2.american-biltrite.com/pub/simdut.nsf/277c8f49e0242efc85256b45006de8bd/08c35e9eb8fa8a9a85257e3e00667ae5/$FILE/ATT4TZBK.pdf/AD-535%20Part%20A&B.pdf",
+                            "id": 7597
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.1155508008
+                },
+                {
+                    "recId": 7621,
+                    "name": "Dimethyl Silicone Polymer with Silica",
+                    "CASRN": "67762-90-7",
+                    "massPct": 0.00955,
+                    "function": "defoamer",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Mondo 55",
+                            "url": "http://www.kieferusa.com/media/4630/MSDS_MONDO%20EP%2055%20Epoxy%20Adhesive%20(R051410).pdf",
+                            "id": 7604
+                        },
+                        {
+                            "name": "Roppe 435",
+                            "url": "https://www.pharosproject.net/uploads/files/sources/2709/039c88a6ae6dda75b87e733d3cbdb7fe8151cb45.pdf",
+                            "id": 7605
+                        },
+                        {
+                            "name": "Biltrite AD535 AB",
+                            "url": "http://www2.american-biltrite.com/pub/simdut.nsf/277c8f49e0242efc85256b45006de8bd/08c35e9eb8fa8a9a85257e3e00667ae5/$FILE/ATT4TZBK.pdf/AD-535%20Part%20A&B.pdf",
+                            "id": 7597
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.00770607645
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.806919
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Glycidol",
+            "CASRN": "556-52-5",
+            "massPct": null,
+            "function": "alkyl epoxy resin residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Chlorine",
+            "CASRN": "7782-50-5",
+            "massPct": null,
+            "function": "epichlorohydrin-BPA resin, BADGE, oxirane residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Phenol",
+            "CASRN": "108-95-2",
+            "massPct": null,
+            "function": "epichlorohydrin-BPA resin, BADGE, 4-nonylphenol residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Epichlorohydrin",
+            "CASRN": "106-89-8",
+            "massPct": null,
+            "function": "epichlorohydrin-BPA resin, BADGE, oxirane residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Triethylenetetramine",
+            "CASRN": "112-24-3",
+            "massPct": null,
+            "function": "Polyamide resin residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.00871202846,
+                    "contributors": [
+                        {
+                            "recId": 7622,
+                            "massPct": 0.00100595201,
+                            "childrenIds": [
+                                7622,
+                                926
+                            ]
+                        },
+                        {
+                            "recId": 7615,
+                            "massPct": 0.00770607645,
+                            "childrenIds": [
+                                7615,
+                                926
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.06359144108999999,
+                    "contributors": [
+                        {
+                            "recId": 7622,
+                            "massPct": 0.00100595201,
+                            "childrenIds": [
+                                7622,
+                                926
+                            ]
+                        },
+                        {
+                            "recId": 7622,
+                            "massPct": 0.05487941263,
+                            "childrenIds": [
+                                7622,
+                                9777
+                            ]
+                        },
+                        {
+                            "recId": 7615,
+                            "massPct": 0.00770607645,
+                            "childrenIds": [
+                                7615,
+                                926
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-577",
+                    "type": "orange",
+                    "name": "Skin Sensitization",
+                    "massPct": 0.08689224243,
+                    "contributors": [
+                        {
+                            "recId": 7622,
+                            "massPct": 0.0320128298,
+                            "childrenIds": [
+                                7622,
+                                7625
+                            ]
+                        },
+                        {
+                            "recId": 7622,
+                            "massPct": 0.05487941263,
+                            "childrenIds": [
+                                7622,
+                                9777
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-576",
+                    "type": "orange",
+                    "name": "Skin Irritation",
+                    "massPct": 0.0391728298,
+                    "contributors": [
+                        {
+                            "recId": 7622,
+                            "massPct": 0.0320128298,
+                            "childrenIds": [
+                                7622,
+                                7625
+                            ]
+                        },
+                        {
+                            "recId": 7622,
+                            "massPct": 0.00138245996,
+                            "childrenIds": [
+                                7622,
+                                2799
+                            ]
+                        },
+                        {
+                            "recId": 7615,
+                            "massPct": 0.00577754004,
+                            "childrenIds": [
+                                7615,
+                                2799
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.0320128298,
+                    "contributors": [
+                        {
+                            "recId": 7622,
+                            "massPct": 0.0320128298,
+                            "childrenIds": [
+                                7622,
+                                7625
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-575",
+                    "type": "orange",
+                    "name": "Eye Irritation",
+                    "massPct": 0.09405224243,
+                    "contributors": [
+                        {
+                            "recId": 7622,
+                            "massPct": 0.0320128298,
+                            "childrenIds": [
+                                7622,
+                                7625
+                            ]
+                        },
+                        {
+                            "recId": 7622,
+                            "massPct": 0.00138245996,
+                            "childrenIds": [
+                                7622,
+                                2799
+                            ]
+                        },
+                        {
+                            "recId": 7622,
+                            "massPct": 0.05487941263,
+                            "childrenIds": [
+                                7622,
+                                9777
+                            ]
+                        },
+                        {
+                            "recId": 7615,
+                            "massPct": 0.00577754004,
+                            "childrenIds": [
+                                7615,
+                                2799
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.17759021343,
+                    "contributors": [
+                        {
+                            "recId": 7622,
+                            "massPct": 0.00138245996,
+                            "childrenIds": [
+                                7622,
+                                2799
+                            ]
+                        },
+                        {
+                            "recId": 7622,
+                            "massPct": 0.05487941263,
+                            "childrenIds": [
+                                7622,
+                                9777
+                            ]
+                        },
+                        {
+                            "recId": 7615,
+                            "massPct": 0.00577754004,
+                            "childrenIds": [
+                                7615,
+                                2799
+                            ]
+                        },
+                        {
+                            "recId": 7615,
+                            "massPct": 0.1155508008,
+                            "childrenIds": [
+                                7615,
+                                7617
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-569",
+                    "type": "orange",
+                    "name": "Reproductive",
+                    "massPct": 0.00716,
+                    "contributors": [
+                        {
+                            "recId": 7622,
+                            "massPct": 0.00138245996,
+                            "childrenIds": [
+                                7622,
+                                2799
+                            ]
+                        },
+                        {
+                            "recId": 7615,
+                            "massPct": 0.00577754004,
+                            "childrenIds": [
+                                7615,
+                                2799
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.00716,
+                    "contributors": [
+                        {
+                            "recId": 7622,
+                            "massPct": 0.00138245996,
+                            "childrenIds": [
+                                7622,
+                                2799
+                            ]
+                        },
+                        {
+                            "recId": 7615,
+                            "massPct": 0.00577754004,
+                            "childrenIds": [
+                                7615,
+                                2799
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-567",
+                    "type": "red",
+                    "name": "Cancer",
+                    "massPct": 0.00871202846,
+                    "contributors": [
+                        {
+                            "recId": 7622,
+                            "massPct": 0.00100595201,
+                            "childrenIds": [
+                                7622,
+                                926
+                            ]
+                        },
+                        {
+                            "recId": 7615,
+                            "massPct": 0.00770607645,
+                            "childrenIds": [
+                                7615,
+                                926
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.49132004523,
+                    "contributors": [
+                        {
+                            "recId": 7622,
+                            "massPct": 0.0320128298,
+                            "childrenIds": [
+                                7622,
+                                7625
+                            ]
+                        },
+                        {
+                            "recId": 7622,
+                            "massPct": 0.05487941263,
+                            "childrenIds": [
+                                7622,
+                                9777
+                            ]
+                        },
+                        {
+                            "recId": 7615,
+                            "massPct": 0.288877002,
+                            "childrenIds": [
+                                7615,
+                                2800
+                            ]
+                        },
+                        {
+                            "recId": 7615,
+                            "massPct": 0.1155508008,
+                            "childrenIds": [
+                                7615,
+                                7617
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-568",
+                    "type": "red",
+                    "name": "Developmental",
+                    "massPct": 0.45930721543,
+                    "contributors": [
+                        {
+                            "recId": 7622,
+                            "massPct": 0.05487941263,
+                            "childrenIds": [
+                                7622,
+                                9777
+                            ]
+                        },
+                        {
+                            "recId": 7615,
+                            "massPct": 0.288877002,
+                            "childrenIds": [
+                                7615,
+                                2800
+                            ]
+                        },
+                        {
+                            "recId": 7615,
+                            "massPct": 0.1155508008,
+                            "childrenIds": [
+                                7615,
+                                7617
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "purple": [
+                {
+                    "hazardId": "purple-955",
+                    "type": "purple",
+                    "name": "PBT",
+                    "massPct": 0.00716,
+                    "contributors": [
+                        {
+                            "recId": 7622,
+                            "massPct": 0.00138245996,
+                            "childrenIds": [
+                                7622,
+                                2799
+                            ]
+                        },
+                        {
+                            "recId": 7615,
+                            "massPct": 0.00577754004,
+                            "childrenIds": [
+                                7615,
+                                2799
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "Includes all cradle-to-gate data, including raw materials extraction, energy production, inbound transportation, and energy for the production of epoxy resin adhesive. Packaging is excluded.",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Epichlorohydrin (by product calcium chloride, hydrochloric acid)"
+            },
+            {
+                "name": "DE: Hexamethylene tetramine"
+            },
+            {
+                "name": "DE: Diethylene glycol by product ethylene glycol from ethene and oxygen via EO"
+            },
+            {
+                "name": "DE: Silicone resin emulsion (54%)"
+            },
+            {
+                "name": "US: Limestone flour (5mm)"
+            },
+            {
+                "name": "EU-27: Quartz sand (extraction and processing)"
+            },
+            {
+                "name": "DE: Fatty acid from tall oil"
+            },
+            {
+                "name": "EU-27: Dipropyleneglycol dibenzoate plast"
+            },
+            {
+                "name": "DE: C12-C14-Mono glycidyl ether (estimation)"
+            },
+            {
+                "name": "US: Nonene"
+            },
+            {
+                "name": "US: Phenol (from cumene)"
+            },
+            {
+                "name": "US: Bisphenol A"
+            },
+            {
+                "name": "US: Municipal Solid Waste Incineration"
+            },
+            {
+                "name": "US: Sodium hydroxide (caustic soda) mix (100%)"
+            },
+            {
+                "name": "US: Nitrogen (gaseous)"
+            },
+            {
+                "name": "DE: Hydrochloric acid (100%) by-product epichlorohydrine, calcium chloride"
+            },
+            {
+                "name": "US: Process steam from natural gas 90% (West)"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "US: Water deionized"
+            },
+            {
+                "name": "GLO: Hazardous waste (unspec.)"
+            },
+            {
+                "name": "GLO: Hazardous waste (non-specific) (c rich, worst scenario)"
+            },
+            {
+                "name": "GLO: Steam conversion (mp)"
+            },
+            {
+                "name": "DE: Epoxy resin (EP), modified for specific epoxy mix"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% to landfill ",
+        "inUseNotes": "0.71% released as NMVOC (unspecified)",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "1.05E-02"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "9.38E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.56E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "4.01E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.88E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "9.86E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "0.00E+00"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.97E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "0.00E+00"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "7.23E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "2.68E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.98E-03"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.13E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "6.51E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.19E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP147",
+    "name": "Epoxy flooring adhesive",
+    "altNames": [
+        "Two-part epoxy flooring adhesive"
+    ],
+    "uniformats": [
+        {
+            "id": "C2030",
+            "name": "Flooring"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "09-60-00",
+            "name": "Flooring"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Epoxy flooring adhesive is an adhesive used for adhering linoleum, vinyl tiles, rubber tiles, or rubber sheets to a variety of flooring substrates (concrete, plywood, existing resiliant flooring, radiant heating subfloors, steel, aluminum, and cereamic tile, among others). Epoxy flooring adhesive comes as a two-part epoxy (Part A is an epoxy pre-polymer resin base and Part B is typically a polyamine hardener/curing agent) that must be mixed by drill on-site. Most commercial epoxy flooring adhesives come in a pack with Part A and Part B pre-measured to the appropriate mix ratio. Adhesive must set for 12-72 hours after flooring is installed before it can withstand heavy foot-traffic or rolling traffic.",
+    "sources": [
+        {
+            "name": "Zandur Spec",
+            "url": "http://zandurdocs.com/wp-content/uploads/2015/01/Z104-20-Two-Part-Epoxy-Specifications.pdf",
+            "id": 7614
+        },
+        {
+            "name": "Zandur 20B",
+            "url": "http://zandurdocs.com/wp-content/uploads/2015/06/Z105B-SDS-20-Two-Part-Epoxy-Part-B.pdf",
+            "id": 7613
+        },
+        {
+            "name": "Zandur 20A",
+            "url": "http://zandurdocs.com/wp-content/uploads/2015/06/Z105A-SDS-20-Two-Part-Epoxy-Part-A.pdf",
+            "id": 7612
+        },
+        {
+            "name": "Roppe Info",
+            "url": "http://sweets.construction.com/swts_content_files/1658/296692.pdf",
+            "id": 7611
+        },
+        {
+            "name": "Roppe 8200",
+            "url": "https://www.pharosproject.net/uploads/files/sources/2709/6f0ba89043147d3c58ab6f5455872a110a0b734d.pdf",
+            "id": 7610
+        },
+        {
+            "name": "Roppe 7200",
+            "url": "https://www.pharosproject.net/uploads/files/sources/2709/c25847b712b3a0bdd1717920e038f3f1be03ed36.pdf",
+            "id": 7609
+        },
+        {
+            "name": "Roppe 7100 Tech",
+            "url": "http://www.roppe.com/documents/adhesives/7100%20Low%20Viscosity%20Epoxy%20Adhesive,%20Quick%20Spec.pdf",
+            "id": 7608
+        },
+        {
+            "name": "Roppe 7100",
+            "url": "https://www.pharosproject.net/uploads/files/sources/2709/6a8bcd9f80ac2a61e9cf1f1f7691489a5cd4f439.pdf",
+            "id": 7607
+        },
+        {
+            "name": "Roppe 605",
+            "url": "https://www.yumpu.com/en/document/view/25847319/605-adhesive-roppe-corporation/4",
+            "id": 7606
+        },
+        {
+            "name": "Roppe 435",
+            "url": "https://www.pharosproject.net/uploads/files/sources/2709/039c88a6ae6dda75b87e733d3cbdb7fe8151cb45.pdf",
+            "id": 7605
+        },
+        {
+            "name": "Mondo 55",
+            "url": "http://www.kieferusa.com/media/4630/MSDS_MONDO%20EP%2055%20Epoxy%20Adhesive%20(R051410).pdf",
+            "id": 7604
+        },
+        {
+            "name": "Lonseal 650B",
+            "url": "http://www.lonseal.com/Documents/SDS_650_Part_B_060115.pdf",
+            "id": 7603
+        },
+        {
+            "name": "Lonseal 650A",
+            "url": "http://www.lonseal.com/Documents/SDS_650_Part_A_060115.pdf",
+            "id": 7602
+        },
+        {
+            "name": "Johnsonite 996A",
+            "url": "http://www.johnsonite.com/Portals/8/files/pdfs/MSDS/996%20A&B%20MSDS%20070109.pdf",
+            "id": 7601
+        },
+        {
+            "name": "Henry Tech",
+            "url": "http://www.wwhenry.com/assets/Products/Documents/HT-133%20HEN-452%20Tech%20Data%20ENG.pdf",
+            "id": 7600
+        },
+        {
+            "name": "Henry 452B",
+            "url": "http://www.wwhenry.com/assets/Products/Documents/Henry%20EnglishHENRY%20452%20General%20PurposeEpoxy%20Flooring%20Adhesive%20(Parts%20A%20&%20B)Part%20B%20SDS%20USA%20and%20Canada%20(English)Henry%20452%20Part%20B.pdf",
+            "id": 7599
+        },
+        {
+            "name": "Henry 452A",
+            "url": "http://www.wwhenry.com/assets/Products/Documents/Henry%20EnglishHENRY%20452%20General%20PurposeEpoxy%20Flooring%20Adhesive%20(Parts%20A%20&%20B)Part%20A%20SDS%20USA%20and%20Canada%20(English)Henry%20452%20Part%20A.pdf",
+            "id": 7598
+        },
+        {
+            "name": "Biltrite AD535 AB",
+            "url": "http://www2.american-biltrite.com/pub/simdut.nsf/277c8f49e0242efc85256b45006de8bd/08c35e9eb8fa8a9a85257e3e00667ae5/$FILE/ATT4TZBK.pdf/AD-535%20Part%20A&B.pdf",
+            "id": 7597
+        },
+        {
+            "name": "Armstrong 240",
+            "url": "http://www.armstrong.com/commflooringna/ima.jsp?itemId=50687",
+            "id": 7595
+        }
+    ]
+}

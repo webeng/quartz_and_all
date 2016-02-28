@@ -1,0 +1,1719 @@
+{
+    "CPID": "CP017",
+    "timestamp": 1452102097545,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 11422,
+            "name": "Steel (ASTM A992)",
+            "CASRN": "",
+            "massPct": 1,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.013591191785000001,
+                        "contributors": [
+                            {
+                                "recId": 768,
+                                "massPct": 0.001102530307,
+                                "childrenIds": [
+                                    768
+                                ]
+                            },
+                            {
+                                "recId": 760,
+                                "massPct": 0.008419322345,
+                                "childrenIds": [
+                                    760
+                                ]
+                            },
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0001002300279,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            },
+                            {
+                                "recId": 878,
+                                "massPct": 0.000456046627,
+                                "childrenIds": [
+                                    878
+                                ]
+                            },
+                            {
+                                "recId": 778,
+                                "massPct": 0.0008068517247,
+                                "childrenIds": [
+                                    778
+                                ]
+                            },
+                            {
+                                "recId": 770,
+                                "massPct": 0.0006765526884,
+                                "childrenIds": [
+                                    770
+                                ]
+                            },
+                            {
+                                "recId": 766,
+                                "massPct": 0.002029658065,
+                                "childrenIds": [
+                                    766
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization",
+                        "massPct": 0.0025859347201000003,
+                        "contributors": [
+                            {
+                                "recId": 768,
+                                "massPct": 0.001102530307,
+                                "childrenIds": [
+                                    768
+                                ]
+                            },
+                            {
+                                "recId": 778,
+                                "massPct": 0.0008068517247,
+                                "childrenIds": [
+                                    778
+                                ]
+                            },
+                            {
+                                "recId": 770,
+                                "massPct": 0.0006765526884,
+                                "childrenIds": [
+                                    770
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": 0.0012027603349,
+                        "contributors": [
+                            {
+                                "recId": 768,
+                                "massPct": 0.001102530307,
+                                "childrenIds": [
+                                    768
+                                ]
+                            },
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0001002300279,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.0117018557591,
+                        "contributors": [
+                            {
+                                "recId": 768,
+                                "massPct": 0.001102530307,
+                                "childrenIds": [
+                                    768
+                                ]
+                            },
+                            {
+                                "recId": 760,
+                                "massPct": 0.008419322345,
+                                "childrenIds": [
+                                    760
+                                ]
+                            },
+                            {
+                                "recId": 776,
+                                "massPct": 0.000696598694,
+                                "childrenIds": [
+                                    776
+                                ]
+                            },
+                            {
+                                "recId": 778,
+                                "massPct": 0.0008068517247,
+                                "childrenIds": [
+                                    778
+                                ]
+                            },
+                            {
+                                "recId": 770,
+                                "massPct": 0.0006765526884,
+                                "childrenIds": [
+                                    770
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.008419322345,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.008419322345,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.0105492104379,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.008419322345,
+                                "childrenIds": [
+                                    760
+                                ]
+                            },
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0001002300279,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            },
+                            {
+                                "recId": 766,
+                                "massPct": 0.002029658065,
+                                "childrenIds": [
+                                    766
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity",
+                        "massPct": 0.0021800031070999997,
+                        "contributors": [
+                            {
+                                "recId": 776,
+                                "massPct": 0.000696598694,
+                                "childrenIds": [
+                                    776
+                                ]
+                            },
+                            {
+                                "recId": 778,
+                                "massPct": 0.0008068517247,
+                                "childrenIds": [
+                                    778
+                                ]
+                            },
+                            {
+                                "recId": 770,
+                                "massPct": 0.0006765526884,
+                                "childrenIds": [
+                                    770
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": 0.0017840944968,
+                        "contributors": [
+                            {
+                                "recId": 778,
+                                "massPct": 0.0008068517247,
+                                "childrenIds": [
+                                    778
+                                ]
+                            },
+                            {
+                                "recId": 770,
+                                "massPct": 0.0006765526884,
+                                "childrenIds": [
+                                    770
+                                ]
+                            },
+                            {
+                                "recId": 772,
+                                "massPct": 0.0003006900837,
+                                "childrenIds": [
+                                    772
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": 0.001799129001,
+                        "contributors": [
+                            {
+                                "recId": 768,
+                                "massPct": 0.001102530307,
+                                "childrenIds": [
+                                    768
+                                ]
+                            },
+                            {
+                                "recId": 776,
+                                "massPct": 0.000696598694,
+                                "childrenIds": [
+                                    776
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": 0.008419322345,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.008419322345,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity",
+                        "massPct": 0.002029658065,
+                        "contributors": [
+                            {
+                                "recId": 766,
+                                "massPct": 0.002029658065,
+                                "childrenIds": [
+                                    766
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 768,
+                    "name": "Nickel",
+                    "CASRN": "7440-02-0",
+                    "massPct": 0.001102530307,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-577",
+                                "type": "orange",
+                                "name": "Skin Sensitization",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-567",
+                                "type": "red",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "SMOW",
+                            "url": "http://www.steelmillsoftheworld.com/qualities/steel_grades_american_standards.pdf",
+                            "id": 864
+                        },
+                        {
+                            "name": "Rutgers",
+                            "url": "http://cait.rutgers.edu/files/CAIT-UTC-021-final_1.pdf",
+                            "id": 870
+                        },
+                        {
+                            "name": "MetalPass",
+                            "url": "http://www.metalpass.com/metaldoc/paper.aspx?docID=703",
+                            "id": 869
+                        },
+                        {
+                            "name": "AISC2",
+                            "url": "http://www.aisc.org/WorkArea/showcontent.aspx?id=29130",
+                            "id": 863
+                        },
+                        {
+                            "name": "OSHA",
+                            "url": "https://www.osha.gov/doc/engineering/2008/2008_12_19_attachment_a.html",
+                            "id": 865
+                        }
+                    ],
+                    "notes": "AISC2 and A992-04a Standard lists content as < or = 0.45%. OSHA beam samples  (four I-beams that comply with ASTM A992 specifications) found content of .04, .14, .10 and .05%. \"Nickel (Ni) is a powerful anti-corrosion agent, and also is one of the most important elements to improve the fracture toughness of the steel.\" (MetalPass) Rutgers (Material 1, Table 2) analysis of A992 steel found 0.12% nickel.",
+                    "lca": "",
+                    "massPctOfTotal": 0.001102530307
+                },
+                {
+                    "recId": 762,
+                    "name": "Carbon",
+                    "CASRN": "7440-44-0",
+                    "massPct": 0.0009321392596,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Rutgers",
+                            "url": "http://cait.rutgers.edu/files/CAIT-UTC-021-final_1.pdf",
+                            "id": 870
+                        },
+                        {
+                            "name": "MetalPass",
+                            "url": "http://www.metalpass.com/metaldoc/paper.aspx?docID=703",
+                            "id": 869
+                        },
+                        {
+                            "name": "Oneal",
+                            "url": "http://www.onealsteel.com/carbon-steel-beam-a992.html",
+                            "id": 867
+                        },
+                        {
+                            "name": "OSHA",
+                            "url": "https://www.osha.gov/doc/engineering/2008/2008_12_19_attachment_a.html",
+                            "id": 865
+                        },
+                        {
+                            "name": "SMOW",
+                            "url": "http://www.steelmillsoftheworld.com/qualities/steel_grades_american_standards.pdf",
+                            "id": 864
+                        }
+                    ],
+                    "notes": "A992-04a Standard lists max. as 0.23%; OSHA beam samples  (four I-beams that comply with ASTM A992 specifications) found carbon content values of 0.08, 0.10, 0.16 and 0.08. Oneal: 0.23% max.  Rutgers (Material 1, Table 2) analysis of A992 steel found 0.086% carbon",
+                    "lca": "",
+                    "massPctOfTotal": 0.0009321392596
+                },
+                {
+                    "recId": 760,
+                    "name": "Manganese",
+                    "CASRN": "7439-96-5",
+                    "massPct": 0.008419322345,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Rutgers",
+                            "url": "http://cait.rutgers.edu/files/CAIT-UTC-021-final_1.pdf",
+                            "id": 870
+                        },
+                        {
+                            "name": "MetalPass",
+                            "url": "http://www.metalpass.com/metaldoc/paper.aspx?docID=703",
+                            "id": 869
+                        },
+                        {
+                            "name": "AISC2",
+                            "url": "http://www.aisc.org/WorkArea/showcontent.aspx?id=29130",
+                            "id": 863
+                        },
+                        {
+                            "name": "Brown-Strauss",
+                            "url": "http://www.brown-strauss.com/content/product_conten/22a992.htm",
+                            "id": 868
+                        },
+                        {
+                            "name": "Oneal",
+                            "url": "http://www.onealsteel.com/carbon-steel-beam-a992.html",
+                            "id": 867
+                        },
+                        {
+                            "name": "OSHA",
+                            "url": "https://www.osha.gov/doc/engineering/2008/2008_12_19_attachment_a.html",
+                            "id": 865
+                        },
+                        {
+                            "name": "SMOW",
+                            "url": "http://www.steelmillsoftheworld.com/qualities/steel_grades_american_standards.pdf",
+                            "id": 864
+                        }
+                    ],
+                    "notes": "AISC2 and A992-04a Standard lists content as 0.5-1.5%. OSHA beam samples  (four I-beams that comply with ASTM A992 specifications) found content  0.84, 0.83, 0.93 and 0.83%. Oneal lists range as 0.5% to 1.6%.  Rutgers (Material 1, Table 2) analysis of A992 steel found 1.06% manganese.",
+                    "lca": "",
+                    "massPctOfTotal": 0.008419322345
+                },
+                {
+                    "recId": 776,
+                    "name": "Vanadium",
+                    "CASRN": "7440-62-2",
+                    "massPct": 0.000696598694,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-571",
+                                "type": "orange",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-567",
+                                "type": "red",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "MetalPass",
+                            "url": "http://www.metalpass.com/metaldoc/paper.aspx?docID=703",
+                            "id": 869
+                        },
+                        {
+                            "name": "AISC2",
+                            "url": "http://www.aisc.org/WorkArea/showcontent.aspx?id=29130",
+                            "id": 863
+                        },
+                        {
+                            "name": "Brown-Strauss",
+                            "url": "http://www.brown-strauss.com/content/product_conten/22a992.htm",
+                            "id": 868
+                        },
+                        {
+                            "name": "Oneal",
+                            "url": "http://www.onealsteel.com/carbon-steel-beam-a992.html",
+                            "id": 867
+                        },
+                        {
+                            "name": "SMOW",
+                            "url": "http://www.steelmillsoftheworld.com/qualities/steel_grades_american_standards.pdf",
+                            "id": 864
+                        }
+                    ],
+                    "notes": "A992-04a Standard lists  max as 0.05%. OSHA beam samples (four I-beams that comply with ASTM A992 specifications) found content ranging of  Rutgers (Material 1, Table 2) analysis of A992 steel found 0.012% vanadium.",
+                    "lca": "",
+                    "massPctOfTotal": 0.000696598694
+                },
+                {
+                    "recId": 9900,
+                    "name": "Phosphorus",
+                    "CASRN": "7723-14-0",
+                    "massPct": 0.0001002300279,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Rutgers",
+                            "url": "http://cait.rutgers.edu/files/CAIT-UTC-021-final_1.pdf",
+                            "id": 870
+                        },
+                        {
+                            "name": "MetalPass",
+                            "url": "http://www.metalpass.com/metaldoc/paper.aspx?docID=703",
+                            "id": 869
+                        },
+                        {
+                            "name": "AISC2",
+                            "url": "http://www.aisc.org/WorkArea/showcontent.aspx?id=29130",
+                            "id": 863
+                        },
+                        {
+                            "name": "Oneal",
+                            "url": "http://www.onealsteel.com/carbon-steel-beam-a992.html",
+                            "id": 867
+                        },
+                        {
+                            "name": "Gerdau",
+                            "url": "http://boydmetals.com/Carbon%20Steel.pdf",
+                            "id": 866
+                        },
+                        {
+                            "name": "OSHA",
+                            "url": "https://www.osha.gov/doc/engineering/2008/2008_12_19_attachment_a.html",
+                            "id": 865
+                        },
+                        {
+                            "name": "SMOW",
+                            "url": "http://www.steelmillsoftheworld.com/qualities/steel_grades_american_standards.pdf",
+                            "id": 864
+                        }
+                    ],
+                    "notes": "AISC2 and A992 max. = 0.035%. OSHA beam samples  (four I-beams that comply with ASTM A992 specifications) found content of 0.01% for all four sampled beams.  Oneal: 0.035% max. \"Phosphorus (Ρ) (has) significant detrimental effects on the ductility and weldability of the steel.\" (MetalPass)   Rutgers (Material 1, Table 2) analysis of A992 steel found 0.014% phosphorus.",
+                    "lca": "",
+                    "massPctOfTotal": 0.0001002300279
+                },
+                {
+                    "recId": 878,
+                    "name": "Tin",
+                    "CASRN": "7740-31-5",
+                    "massPct": 0.000456046627,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Rutgers",
+                            "url": "http://cait.rutgers.edu/files/CAIT-UTC-021-final_1.pdf",
+                            "id": 870
+                        },
+                        {
+                            "name": "Gerdau",
+                            "url": "http://boydmetals.com/Carbon%20Steel.pdf",
+                            "id": 866
+                        }
+                    ],
+                    "notes": "Gerdau: 0.08%. Rutgers (Material 1, Table 2) analysis of A992 steel found 0.011% tin.",
+                    "lca": "",
+                    "massPctOfTotal": 0.000456046627
+                },
+                {
+                    "recId": 778,
+                    "name": "Niobium",
+                    "CASRN": "7440-03-1",
+                    "massPct": 0.0008068517247,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-571",
+                                "type": "orange",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-577",
+                                "type": "orange",
+                                "name": "Skin Sensitization",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Rutgers",
+                            "url": "http://cait.rutgers.edu/files/CAIT-UTC-021-final_1.pdf",
+                            "id": 870
+                        },
+                        {
+                            "name": "MetalPass",
+                            "url": "http://www.metalpass.com/metaldoc/paper.aspx?docID=703",
+                            "id": 869
+                        },
+                        {
+                            "name": "Oneal",
+                            "url": "http://www.onealsteel.com/carbon-steel-beam-a992.html",
+                            "id": 867
+                        },
+                        {
+                            "name": "SMOW",
+                            "url": "http://www.steelmillsoftheworld.com/qualities/steel_grades_american_standards.pdf",
+                            "id": 864
+                        }
+                    ],
+                    "notes": "A992-04a Standard lists  max as 0.15%. Oneal: 0.05% max.  Rutgers (Material 1, Table 2) analysis of A992 steel found 0.011% niobium.",
+                    "lca": "",
+                    "massPctOfTotal": 0.0008068517247
+                },
+                {
+                    "recId": 758,
+                    "name": "Iron",
+                    "CASRN": "7439-89-6",
+                    "massPct": 0.9822542736,
+                    "function": "base metal",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Glon",
+                            "url": "http://s3.amazonaws.com/suncam/npdocs/127.pdf",
+                            "id": 872
+                        },
+                        {
+                            "name": "Wisconsin",
+                            "url": "https://ay14-15.moodle.wisc.edu/prod/pluginfile.php/70770/mod_resource/content/3/STEEL_PROPERTIES.pdf",
+                            "id": 871
+                        },
+                        {
+                            "name": "SteadyBlue",
+                            "url": "https://www.studyblue.com/notes/note/n/chapter-4/deck/12551291",
+                            "id": 874
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.9822542736
+                },
+                {
+                    "recId": 836,
+                    "name": "Silicon",
+                    "CASRN": "7440-21-3",
+                    "massPct": 0.00190437053,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Rutgers",
+                            "url": "http://cait.rutgers.edu/files/CAIT-UTC-021-final_1.pdf",
+                            "id": 870
+                        },
+                        {
+                            "name": "MetalPass",
+                            "url": "http://www.metalpass.com/metaldoc/paper.aspx?docID=703",
+                            "id": 869
+                        },
+                        {
+                            "name": "Oneal",
+                            "url": "http://www.onealsteel.com/carbon-steel-beam-a992.html",
+                            "id": 867
+                        },
+                        {
+                            "name": "OSHA",
+                            "url": "https://www.osha.gov/doc/engineering/2008/2008_12_19_attachment_a.html",
+                            "id": 865
+                        },
+                        {
+                            "name": "SMOW",
+                            "url": "http://www.steelmillsoftheworld.com/qualities/steel_grades_american_standards.pdf",
+                            "id": 864
+                        }
+                    ],
+                    "notes": "A992 content limit: < or = 0.40%. OSHA beam samples (four I-beams that comply with ASTM A992 specifications) found content of 0.19, 0.25, 0.18, 0.16%. Oneal: 0.4% max. Rutgers (Material 1, Table 2) analysis of A992 steel found 0.19% silicon.",
+                    "lca": null,
+                    "massPctOfTotal": 0.00190437053
+                },
+                {
+                    "recId": 879,
+                    "name": "Nitrogen",
+                    "CASRN": "7727-37-9",
+                    "massPct": 0.0001202760335,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "MetalPass",
+                            "url": "http://www.metalpass.com/metaldoc/paper.aspx?docID=703",
+                            "id": 869
+                        },
+                        {
+                            "name": "AISC2",
+                            "url": "http://www.aisc.org/WorkArea/showcontent.aspx?id=29130",
+                            "id": 863
+                        },
+                        {
+                            "name": "Brown-Strauss",
+                            "url": "http://www.brown-strauss.com/content/product_conten/22a992.htm",
+                            "id": 868
+                        }
+                    ],
+                    "notes": "A992: \"When vanadium is added as the only nitrogen-binding element, nitrogen shall be reported and the ratio of vanadium to nitrogen shall be 4:1 or higher if the nitrogen is greater than 0.012%.\"  MetalPass: \"Nitrogen (Ν) will be present as well; in combination with some elements it enhances steel strength. However, free nitrogen is an important factor in the strain aging that may occur in certain steels under certain conditions; this is not considered a critical issue for structural steels.\"  ",
+                    "lca": "",
+                    "massPctOfTotal": 0.0001202760335
+                },
+                {
+                    "recId": 770,
+                    "name": "Chromium",
+                    "CASRN": "7440-47-3",
+                    "massPct": 0.0006765526884,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-577",
+                                "type": "orange",
+                                "name": "Skin Sensitization",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-571",
+                                "type": "orange",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "SMOW",
+                            "url": "http://www.steelmillsoftheworld.com/qualities/steel_grades_american_standards.pdf",
+                            "id": 864
+                        },
+                        {
+                            "name": "Rutgers",
+                            "url": "http://cait.rutgers.edu/files/CAIT-UTC-021-final_1.pdf",
+                            "id": 870
+                        },
+                        {
+                            "name": "MetalPass",
+                            "url": "http://www.metalpass.com/metaldoc/paper.aspx?docID=703",
+                            "id": 869
+                        },
+                        {
+                            "name": "AISC2",
+                            "url": "http://www.aisc.org/WorkArea/showcontent.aspx?id=29130",
+                            "id": 863
+                        },
+                        {
+                            "name": "OSHA",
+                            "url": "https://www.osha.gov/doc/engineering/2008/2008_12_19_attachment_a.html",
+                            "id": 865
+                        }
+                    ],
+                    "notes": "AISC2 and A992-04a Standard lists content as < or = 0.35%. OSHA beam samples  (four I-beams that comply with ASTM A992 specifications) found content of 0.02, .05, .13 and .03%.  Rutgers (Material 1, Table 2) analysis of A992 steel found 0.085% chromium.",
+                    "lca": "",
+                    "massPctOfTotal": 0.0006765526884
+                },
+                {
+                    "recId": 772,
+                    "name": "Molybdenum",
+                    "CASRN": "7439-98-7",
+                    "massPct": 0.0003006900837,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Rutgers",
+                            "url": "http://cait.rutgers.edu/files/CAIT-UTC-021-final_1.pdf",
+                            "id": 870
+                        },
+                        {
+                            "name": "MetalPass",
+                            "url": "http://www.metalpass.com/metaldoc/paper.aspx?docID=703",
+                            "id": 869
+                        },
+                        {
+                            "name": "Oneal",
+                            "url": "http://www.onealsteel.com/carbon-steel-beam-a992.html",
+                            "id": 867
+                        },
+                        {
+                            "name": "OSHA",
+                            "url": "https://www.osha.gov/doc/engineering/2008/2008_12_19_attachment_a.html",
+                            "id": 865
+                        },
+                        {
+                            "name": "SMOW",
+                            "url": "http://www.steelmillsoftheworld.com/qualities/steel_grades_american_standards.pdf",
+                            "id": 864
+                        }
+                    ],
+                    "notes": "A992-04a Standard lists  max as 0.05%. OSHA beam samples (four I-beams that comply with ASTM A992 specifications) found content of 0.01, 0.03, 0.03, and 0.01%. Rutgers (Material 1, Table 2) analysis of A992 steel found 0.03% molybdenum.",
+                    "lca": "",
+                    "massPctOfTotal": 0.0003006900837
+                },
+                {
+                    "recId": 774,
+                    "name": "Sulfur",
+                    "CASRN": "7704-34-9",
+                    "massPct": 0.0002004600558,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Rutgers",
+                            "url": "http://cait.rutgers.edu/files/CAIT-UTC-021-final_1.pdf",
+                            "id": 870
+                        },
+                        {
+                            "name": "MetalPass",
+                            "url": "http://www.metalpass.com/metaldoc/paper.aspx?docID=703",
+                            "id": 869
+                        },
+                        {
+                            "name": "AISC2",
+                            "url": "http://www.aisc.org/WorkArea/showcontent.aspx?id=29130",
+                            "id": 863
+                        },
+                        {
+                            "name": "Oneal",
+                            "url": "http://www.onealsteel.com/carbon-steel-beam-a992.html",
+                            "id": 867
+                        },
+                        {
+                            "name": "OSHA",
+                            "url": "https://www.osha.gov/doc/engineering/2008/2008_12_19_attachment_a.html",
+                            "id": 865
+                        },
+                        {
+                            "name": "SMOW",
+                            "url": "http://www.steelmillsoftheworld.com/qualities/steel_grades_american_standards.pdf",
+                            "id": 864
+                        }
+                    ],
+                    "notes": "AISC2 lists max as 0.045%. OSHA beam samples  (four I-beams that comply with ASTM A992 specifications) found content of 0.02, 0.04, .02 and .02%. Oneal: 0.045 max.  \"Phosphorus (Ρ) and sulphur (S), which have significant detrimental effects on the ductility and weldability of the steel.\" (MetalPass). Rutgers (Material 1, Table 2) analysis of A992 steel found 0.017% sulfur.",
+                    "lca": "",
+                    "massPctOfTotal": 0.0002004600558
+                },
+                {
+                    "recId": 766,
+                    "name": "Copper",
+                    "CASRN": "7440-50-8",
+                    "massPct": 0.002029658065,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-571",
+                                "type": "red",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "SMOW",
+                            "url": "http://www.steelmillsoftheworld.com/qualities/steel_grades_american_standards.pdf",
+                            "id": 864
+                        },
+                        {
+                            "name": "Rutgers",
+                            "url": "http://cait.rutgers.edu/files/CAIT-UTC-021-final_1.pdf",
+                            "id": 870
+                        },
+                        {
+                            "name": "MetalPass",
+                            "url": "http://www.metalpass.com/metaldoc/paper.aspx?docID=703",
+                            "id": 869
+                        },
+                        {
+                            "name": "AISC2",
+                            "url": "http://www.aisc.org/WorkArea/showcontent.aspx?id=29130",
+                            "id": 863
+                        },
+                        {
+                            "name": "OSHA",
+                            "url": "https://www.osha.gov/doc/engineering/2008/2008_12_19_attachment_a.html",
+                            "id": 865
+                        }
+                    ],
+                    "notes": null,
+                    "lca": null,
+                    "massPctOfTotal": 0.002029658065
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 1
+        }
+    ],
+    "impurities": [
+        {
+            "name": null,
+            "CASRN": null,
+            "massPct": 0,
+            "function": null,
+            "sources": [],
+            "hazards": {}
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.013591191785000001,
+                    "contributors": [
+                        {
+                            "recId": 11422,
+                            "massPct": 0.001102530307,
+                            "childrenIds": [
+                                11422,
+                                768
+                            ]
+                        },
+                        {
+                            "recId": 11422,
+                            "massPct": 0.008419322345,
+                            "childrenIds": [
+                                11422,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 11422,
+                            "massPct": 0.0001002300279,
+                            "childrenIds": [
+                                11422,
+                                9900
+                            ]
+                        },
+                        {
+                            "recId": 11422,
+                            "massPct": 0.000456046627,
+                            "childrenIds": [
+                                11422,
+                                878
+                            ]
+                        },
+                        {
+                            "recId": 11422,
+                            "massPct": 0.0008068517247,
+                            "childrenIds": [
+                                11422,
+                                778
+                            ]
+                        },
+                        {
+                            "recId": 11422,
+                            "massPct": 0.0006765526884,
+                            "childrenIds": [
+                                11422,
+                                770
+                            ]
+                        },
+                        {
+                            "recId": 11422,
+                            "massPct": 0.002029658065,
+                            "childrenIds": [
+                                11422,
+                                766
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-577",
+                    "type": "orange",
+                    "name": "Skin Sensitization",
+                    "massPct": 0.0025859347201000003,
+                    "contributors": [
+                        {
+                            "recId": 11422,
+                            "massPct": 0.001102530307,
+                            "childrenIds": [
+                                11422,
+                                768
+                            ]
+                        },
+                        {
+                            "recId": 11422,
+                            "massPct": 0.0008068517247,
+                            "childrenIds": [
+                                11422,
+                                778
+                            ]
+                        },
+                        {
+                            "recId": 11422,
+                            "massPct": 0.0006765526884,
+                            "childrenIds": [
+                                11422,
+                                770
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.0012027603349,
+                    "contributors": [
+                        {
+                            "recId": 11422,
+                            "massPct": 0.001102530307,
+                            "childrenIds": [
+                                11422,
+                                768
+                            ]
+                        },
+                        {
+                            "recId": 11422,
+                            "massPct": 0.0001002300279,
+                            "childrenIds": [
+                                11422,
+                                9900
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.0117018557591,
+                    "contributors": [
+                        {
+                            "recId": 11422,
+                            "massPct": 0.001102530307,
+                            "childrenIds": [
+                                11422,
+                                768
+                            ]
+                        },
+                        {
+                            "recId": 11422,
+                            "massPct": 0.008419322345,
+                            "childrenIds": [
+                                11422,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 11422,
+                            "massPct": 0.000696598694,
+                            "childrenIds": [
+                                11422,
+                                776
+                            ]
+                        },
+                        {
+                            "recId": 11422,
+                            "massPct": 0.0008068517247,
+                            "childrenIds": [
+                                11422,
+                                778
+                            ]
+                        },
+                        {
+                            "recId": 11422,
+                            "massPct": 0.0006765526884,
+                            "childrenIds": [
+                                11422,
+                                770
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.008419322345,
+                    "contributors": [
+                        {
+                            "recId": 11422,
+                            "massPct": 0.008419322345,
+                            "childrenIds": [
+                                11422,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.0105492104379,
+                    "contributors": [
+                        {
+                            "recId": 11422,
+                            "massPct": 0.008419322345,
+                            "childrenIds": [
+                                11422,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 11422,
+                            "massPct": 0.0001002300279,
+                            "childrenIds": [
+                                11422,
+                                9900
+                            ]
+                        },
+                        {
+                            "recId": 11422,
+                            "massPct": 0.002029658065,
+                            "childrenIds": [
+                                11422,
+                                766
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-571",
+                    "type": "orange",
+                    "name": "Mutagenicity",
+                    "massPct": 0.0021800031070999997,
+                    "contributors": [
+                        {
+                            "recId": 11422,
+                            "massPct": 0.000696598694,
+                            "childrenIds": [
+                                11422,
+                                776
+                            ]
+                        },
+                        {
+                            "recId": 11422,
+                            "massPct": 0.0008068517247,
+                            "childrenIds": [
+                                11422,
+                                778
+                            ]
+                        },
+                        {
+                            "recId": 11422,
+                            "massPct": 0.0006765526884,
+                            "childrenIds": [
+                                11422,
+                                770
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-569",
+                    "type": "orange",
+                    "name": "Reproductive",
+                    "massPct": 0.0017840944968,
+                    "contributors": [
+                        {
+                            "recId": 11422,
+                            "massPct": 0.0008068517247,
+                            "childrenIds": [
+                                11422,
+                                778
+                            ]
+                        },
+                        {
+                            "recId": 11422,
+                            "massPct": 0.0006765526884,
+                            "childrenIds": [
+                                11422,
+                                770
+                            ]
+                        },
+                        {
+                            "recId": 11422,
+                            "massPct": 0.0003006900837,
+                            "childrenIds": [
+                                11422,
+                                772
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-567",
+                    "type": "red",
+                    "name": "Cancer",
+                    "massPct": 0.001799129001,
+                    "contributors": [
+                        {
+                            "recId": 11422,
+                            "massPct": 0.001102530307,
+                            "childrenIds": [
+                                11422,
+                                768
+                            ]
+                        },
+                        {
+                            "recId": 11422,
+                            "massPct": 0.000696598694,
+                            "childrenIds": [
+                                11422,
+                                776
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.008419322345,
+                    "contributors": [
+                        {
+                            "recId": 11422,
+                            "massPct": 0.008419322345,
+                            "childrenIds": [
+                                11422,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-571",
+                    "type": "red",
+                    "name": "Mutagenicity",
+                    "massPct": 0.002029658065,
+                    "contributors": [
+                        {
+                            "recId": 11422,
+                            "massPct": 0.002029658065,
+                            "childrenIds": [
+                                11422,
+                                766
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "Cradle-to-gate. Electric arc furnace (EAF) route. Includes all upstream manufacturing and transportation.",
+        "gabiDatasets": [
+            {
+                "name": "NA: Steel sections (interim data) worldsteel"
+            }
+        ],
+        "foregroundDataSource": "worldsteel",
+        "backforegroundDataSource": "n/a",
+        "postConsumerRecycledContent": "100%",
+        "referenceCountry": "North America",
+        "referenceYear": "2007",
+        "endOfLifeTreatment": "97.5% recycled (product has 113% scrap input, difference in mass results in EoL burden); 2.5% to landfill (ferro metal)",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "4.42E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.12E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "9.38E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "6.05E-08"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "4.39E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "1.17E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": 0.00054
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": 0.0000029
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": 0.227
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": -7.9e-9
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": 0.00499
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": 1.98
+                }
+            ]
+        }
+    },
+    "id": "CP017",
+    "name": "Structural Steel (I-beams)",
+    "altNames": [
+        "Structural Beams",
+        "Structural Steel",
+        "I-beams",
+        "Steel Columns"
+    ],
+    "uniformats": [
+        {
+            "id": "B2010",
+            "name": "Exterior Walls"
+        },
+        {
+            "id": "B1020",
+            "name": "Roof Construction"
+        },
+        {
+            "id": "B1010",
+            "name": "Floor Construction"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "05-12-24",
+            "name": "Structural Steel for Buildings"
+        }
+    ],
+    "recordType": "Common",
+    "description": "ASTM Standard A992 grade used for structural (I) beams was first standardized in 1998 and has largely replaced A36 and other grades \"because of its high yield strength and tensile strength, especially under seismic stress.\" (AISC)",
+    "sources": [
+        {
+            "name": "SteadyBlue",
+            "url": "https://www.studyblue.com/notes/note/n/chapter-4/deck/12551291",
+            "id": 874
+        },
+        {
+            "name": "TRB",
+            "url": "http://onlinepubs.trb.org/onlinepubs/shrp2/SHRP2prepubR19AGuide.pdf",
+            "id": 873
+        },
+        {
+            "name": "Glon",
+            "url": "http://s3.amazonaws.com/suncam/npdocs/127.pdf",
+            "id": 872
+        },
+        {
+            "name": "Wisconsin",
+            "url": "https://ay14-15.moodle.wisc.edu/prod/pluginfile.php/70770/mod_resource/content/3/STEEL_PROPERTIES.pdf",
+            "id": 871
+        },
+        {
+            "name": "Rutgers",
+            "url": "http://cait.rutgers.edu/files/CAIT-UTC-021-final_1.pdf",
+            "id": 870
+        },
+        {
+            "name": "MetalPass",
+            "url": "http://www.metalpass.com/metaldoc/paper.aspx?docID=703",
+            "id": 869
+        },
+        {
+            "name": "Brown-Strauss",
+            "url": "http://www.brown-strauss.com/content/product_conten/22a992.htm",
+            "id": 868
+        },
+        {
+            "name": "Oneal",
+            "url": "http://www.onealsteel.com/carbon-steel-beam-a992.html",
+            "id": 867
+        },
+        {
+            "name": "Gerdau",
+            "url": "http://boydmetals.com/Carbon%20Steel.pdf",
+            "id": 866
+        },
+        {
+            "name": "OSHA",
+            "url": "https://www.osha.gov/doc/engineering/2008/2008_12_19_attachment_a.html",
+            "id": 865
+        },
+        {
+            "name": "SMOW",
+            "url": "http://www.steelmillsoftheworld.com/qualities/steel_grades_american_standards.pdf",
+            "id": 864
+        },
+        {
+            "name": "AISC2",
+            "url": "http://www.aisc.org/WorkArea/showcontent.aspx?id=29130",
+            "id": 863
+        },
+        {
+            "name": "AISC",
+            "url": "http://msc.aisc.org/globalassets/modern-steel/archives/2007/08/2007v08_structural_steel.pdf",
+            "id": 862
+        }
+    ]
+}

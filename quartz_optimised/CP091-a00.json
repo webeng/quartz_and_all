@@ -1,0 +1,931 @@
+{
+    "CPID": "CP091",
+    "timestamp": 1452102122359,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 2923,
+            "name": "Calcium Stearate",
+            "CASRN": "1592-23-0",
+            "massPct": 0.009166891345,
+            "function": "lubricant",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Vinidex",
+                    "url": "http://www.vinidex.com.au/wp-content/uploads/2013/03/20110601-Vx_MSDS-010_PVC_Pipes-1.pdf",
+                    "id": 2911
+                },
+                {
+                    "name": "Sassol",
+                    "url": "http://www.sasolwax.us.com/pvc.html",
+                    "id": 2905
+                },
+                {
+                    "name": "PPI",
+                    "url": "http://plasticpipe.org/pdf/tr-2-2014.pdf",
+                    "id": 2898
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.009166891345
+        },
+        {
+            "recId": 2766,
+            "name": "Titanium Dioxide",
+            "CASRN": "13463-67-7",
+            "massPct": 0.02059854408,
+            "function": "pigment",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Struktol",
+                    "url": "http://www.struktol.com/pdfs/TD%20Calcium%20Stearate.pdf",
+                    "id": 6070
+                },
+                {
+                    "name": "Vinidex",
+                    "url": "http://www.vinidex.com.au/wp-content/uploads/2013/03/20110601-Vx_MSDS-010_PVC_Pipes-1.pdf",
+                    "id": 2911
+                },
+                {
+                    "name": "PPI",
+                    "url": "http://plasticpipe.org/pdf/tr-2-2014.pdf",
+                    "id": 2898
+                },
+                {
+                    "name": "Dupont",
+                    "url": "http://www2.dupont.com/Titanium_Technologies/en_US/tech_info/literature/Plastics/DTT_H88383-9_Plastics_Grade.pdf",
+                    "id": 2909
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.02059854408
+        },
+        {
+            "recId": 2924,
+            "name": "Dimethyl Tin",
+            "CASRN": "57583-35-4",
+            "massPct": 0.006255055271,
+            "function": "stabilizer",
+            "hazards": {
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Vinidex",
+                    "url": "http://www.vinidex.com.au/wp-content/uploads/2013/03/20110601-Vx_MSDS-010_PVC_Pipes-1.pdf",
+                    "id": 2911
+                },
+                {
+                    "name": "PVC Europe",
+                    "url": "http://www.pvc.org/en/p/organotin-stabilisers",
+                    "id": 2908
+                },
+                {
+                    "name": "Adams",
+                    "url": "http://www.ncbi.nlm.nih.gov/pubmed/21728330",
+                    "id": 2907
+                },
+                {
+                    "name": "Advastab",
+                    "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_069d/0901b8038069d684.pdf?filepath=productsafety/pdfs/noreg/233-00776.pdf&fromPage=GetDoc",
+                    "id": 2906
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.006255055271
+        },
+        {
+            "recId": 2921,
+            "name": "Paraffin Wax",
+            "CASRN": "8002-74-2",
+            "massPct": 0.01024534915,
+            "function": "lubricant",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Vinidex",
+                    "url": "http://www.vinidex.com.au/wp-content/uploads/2013/03/20110601-Vx_MSDS-010_PVC_Pipes-1.pdf",
+                    "id": 2911
+                },
+                {
+                    "name": "Sassol",
+                    "url": "http://www.sasolwax.us.com/pvc.html",
+                    "id": 2905
+                },
+                {
+                    "name": "PPI",
+                    "url": "http://plasticpipe.org/pdf/tr-2-2014.pdf",
+                    "id": 2898
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.01024534915
+        },
+        {
+            "recId": 2925,
+            "name": "Synthetic Calcium Carbonate",
+            "CASRN": "471-34-1",
+            "massPct": 0.03974117013,
+            "function": "filler",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Vinidex",
+                    "url": "http://www.vinidex.com.au/wp-content/uploads/2013/03/20110601-Vx_MSDS-010_PVC_Pipes-1.pdf",
+                    "id": 2911
+                },
+                {
+                    "name": "Ktron",
+                    "url": "http://www.ktron.com/industries_served/Plastics/Calcium_Carbonate_in_Plastics_Compounding.cfm",
+                    "id": 2910
+                },
+                {
+                    "name": "PPI",
+                    "url": "http://plasticpipe.org/pdf/tr-2-2014.pdf",
+                    "id": 2898
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.03974117013
+        },
+        {
+            "recId": 2922,
+            "name": "Polyethylene Wax",
+            "CASRN": "9002-88-4",
+            "massPct": 0.002803990294,
+            "function": "lubricant",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Vinidex",
+                    "url": "http://www.vinidex.com.au/wp-content/uploads/2013/03/20110601-Vx_MSDS-010_PVC_Pipes-1.pdf",
+                    "id": 2911
+                },
+                {
+                    "name": "Sassol",
+                    "url": "http://www.sasolwax.us.com/pvc.html",
+                    "id": 2905
+                },
+                {
+                    "name": "PPI",
+                    "url": "http://plasticpipe.org/pdf/tr-2-2014.pdf",
+                    "id": 2898
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.002803990294
+        },
+        {
+            "recId": 2920,
+            "name": "Polyvinyl Chloride",
+            "CASRN": "9002-86-2",
+            "massPct": 0.9031544891,
+            "function": "base resin",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "red-572",
+                        "type": "red",
+                        "name": "Respiratory",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "Vinidex",
+                    "url": "http://www.vinidex.com.au/wp-content/uploads/2013/03/20110601-Vx_MSDS-010_PVC_Pipes-1.pdf",
+                    "id": 2911
+                },
+                {
+                    "name": "PPI",
+                    "url": "http://plasticpipe.org/pdf/tr-2-2014.pdf",
+                    "id": 2898
+                },
+                {
+                    "name": "IAMPO",
+                    "url": "http://www.iapmostandards.org/Summary%20of%20Changes/Summary%20of%20Changes%20-%20ASTM%20D2665%20%282011-2012%29.pdf",
+                    "id": 2894
+                },
+                {
+                    "name": "D2665",
+                    "url": "http://www.astm.org/Standards/D2665.htm",
+                    "id": 2892
+                },
+                {
+                    "name": "JM Eagle",
+                    "url": "http://www.jmeagle.com/pdfs/2008%20Submittal%20Data%20Sheets/Solvent%20Weld.pdf",
+                    "id": 2890
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.9031544891
+        },
+        {
+            "recId": 2926,
+            "name": "Poly(methyl methacrylate)",
+            "CASRN": "25852-37-3",
+            "massPct": 0.009436505797,
+            "function": "processing aid",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "Vinidex",
+                    "url": "http://www.vinidex.com.au/wp-content/uploads/2013/03/20110601-Vx_MSDS-010_PVC_Pipes-1.pdf",
+                    "id": 2911
+                },
+                {
+                    "name": "PPI",
+                    "url": "http://plasticpipe.org/pdf/tr-2-2014.pdf",
+                    "id": 2898
+                },
+                {
+                    "name": "KM334",
+                    "url": "http://harwickstandard.com/msds_sheets/0374009.pdf",
+                    "id": 2917
+                },
+                {
+                    "name": "Soluaid 106",
+                    "url": "http://rulings.cbp.gov/detail.asp?ru=n113944&ac=pr",
+                    "id": 2916
+                },
+                {
+                    "name": "550 MSDS",
+                    "url": "http://www.quickfds.com/out/17209-71561-21729-014945.pdf",
+                    "id": 2913
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.009436505797
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Butyl Acrylate",
+            "CASRN": "141-32-2",
+            "massPct": null,
+            "function": "pmma residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Methyl Methacrylate",
+            "CASRN": "80-62-6",
+            "massPct": null,
+            "function": "pmma residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Chromium (VI) oxide",
+            "CASRN": "1333-82-0",
+            "massPct": null,
+            "function": "polyethylene residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.02059854408,
+                    "contributors": [
+                        {
+                            "recId": 2766,
+                            "massPct": 0.02059854408,
+                            "childrenIds": [
+                                2766
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.9031544891,
+                    "contributors": [
+                        {
+                            "recId": 2920,
+                            "massPct": 0.9031544891,
+                            "childrenIds": [
+                                2920
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.9031544891,
+                    "contributors": [
+                        {
+                            "recId": 2920,
+                            "massPct": 0.9031544891,
+                            "childrenIds": [
+                                2920
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.02059854408,
+                    "contributors": [
+                        {
+                            "recId": 2766,
+                            "massPct": 0.02059854408,
+                            "childrenIds": [
+                                2766
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-568",
+                    "type": "red",
+                    "name": "Developmental",
+                    "massPct": 0.9031544891,
+                    "contributors": [
+                        {
+                            "recId": 2920,
+                            "massPct": 0.9031544891,
+                            "childrenIds": [
+                                2920
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-572",
+                    "type": "red",
+                    "name": "Respiratory",
+                    "massPct": 0.9031544891,
+                    "contributors": [
+                        {
+                            "recId": 2920,
+                            "massPct": 0.9031544891,
+                            "childrenIds": [
+                                2920
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "purple": [
+                {
+                    "hazardId": "purple-955",
+                    "type": "purple",
+                    "name": "PBT",
+                    "massPct": 0.006255055271,
+                    "contributors": [
+                        {
+                            "recId": 2924,
+                            "massPct": 0.006255055271,
+                            "childrenIds": [
+                                2924
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundaries comprise the cradle-to-gate process for manufacturing polyvinyl chloride (PVC) waste pipe. The manufacturing process was modelled based as follows compounding of raw materials-->PVC pipe extrusion. Upstream data includes virgin PVC production, lubrianct, stabilizer, pigment, filler, and processing aid production, energy production, and transportation of raw materials to manufacturing facility. Downstream data includes landfilling of municipal solid waste. Packaging is excluded. ",
+        "gabiDatasets": [
+            {
+                "name": "US: Lubricants at refinery"
+            },
+            {
+                "name": "US: Landfilling of plastic waste PE"
+            },
+            {
+                "name": "US: Plastics EoL PE"
+            },
+            {
+                "name": "US: Landfilling of untreated wood"
+            },
+            {
+                "name": "US: Landfilling of Municipal Solid Waste"
+            },
+            {
+                "name": "EU-27: Wooden pallets (EURO, 40% moisture)"
+            },
+            {
+                "name": "NA: Steel cold rolled coil worldsteel"
+            },
+            {
+                "name": "US: Diesel mix at refinery"
+            },
+            {
+                "name": "US: Thermal energy from natural gas (eGrid)"
+            },
+            {
+                "name": "US: Thermal energy from light fuel oil (LFO) (eGrid)"
+            },
+            {
+                "name": "US: PVC Extrusion Process"
+            },
+            {
+                "name": "US: Polyethylene High Density Granulate (HDPE/PE-HD)"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "DE: Polymethylmethacrylate granulate (PMMA)"
+            },
+            {
+                "name": "US: Limestone (CaCO3, washed)"
+            },
+            {
+                "name": "US: Titanium dioxide pigment"
+            },
+            {
+                "name": "GLO: Tin"
+            },
+            {
+                "name": "EU-27: Calcium stearate (stabilizer)"
+            },
+            {
+                "name": "US: Polyvinylchloride granulate (Suspension, S-PVC)"
+            },
+            {
+                "name": "US: Wax / Paraffins at refinery"
+            },
+            {
+                "name": "US: PVC Compound"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "Recovery rate of PVC in the United States is 0% [EPA, 2014]; 100% to landfill",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "8.26E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "6.51E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "3.20E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "4.67E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.36E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "7.12E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "7.23E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "2.68E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.98E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.13E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "6.50E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.19E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP091",
+    "name": "Solvent Weld Soil and Waste Pipe",
+    "altNames": [
+        ""
+    ],
+    "uniformats": [
+        {
+            "id": "D2020",
+            "name": "Sanitary Drainage"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "22-13-19",
+            "name": "Sanitary Wate Piping Specialties"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Soil and waste pipes together remove sanitary wastes from buildings. Typically made from unplasticized PVC, the pipes are “welded” together through the use of a chemical solvent that dissolves a small portion of the joining pipe and pipe fittings to fuse them into a solid piece of plastic. Referred to as “DWV” (drain, waste, and vent) pipes, these pipe systems are not pressurized as water intake plumbing systems would be, however most PVC pipes intended for plumbing are specified for and dual-labeled for either purpose.  Schedule 40 is most typical.  Neither ASTM standards or industry sources limit the composition of PVC for this purpose. The ingredients below are common in PVC piping made in the USA.",
+    "sources": [
+        {
+            "name": "Struktol",
+            "url": "http://www.struktol.com/pdfs/TD%20Calcium%20Stearate.pdf",
+            "id": 6070
+        },
+        {
+            "name": "Martin",
+            "url": "http://www.brettmartin.com/en-gb/plumbing-and-drainage/products/plumbing/solvent-weld-soil.aspx",
+            "id": 2888
+        },
+        {
+            "name": "Martin guide",
+            "url": "http://www.brettmartin.com/~/media/Files/Plumbing%20and%20Drainage/Plumbing/Plumbing%20Product%20Guide.pdf",
+            "id": 2889
+        },
+        {
+            "name": "JM Eagle",
+            "url": "http://www.jmeagle.com/pdfs/2008%20Submittal%20Data%20Sheets/Solvent%20Weld.pdf",
+            "id": 2890
+        },
+        {
+            "name": "D1875",
+            "url": "http://www.astm.org/Standards/D1785.htm",
+            "id": 2891
+        },
+        {
+            "name": "D2665",
+            "url": "http://www.astm.org/Standards/D2665.htm",
+            "id": 2892
+        },
+        {
+            "name": "Unknown specs",
+            "url": "www.hengxing-group.com/download.html?download=6",
+            "id": 2893
+        },
+        {
+            "name": "IAMPO",
+            "url": "http://www.iapmostandards.org/Summary%20of%20Changes/Summary%20of%20Changes%20-%20ASTM%20D2665%20%282011-2012%29.pdf",
+            "id": 2894
+        },
+        {
+            "name": "D1784",
+            "url": "http://www.astm.org/Standards/D1784.htm",
+            "id": 2895
+        },
+        {
+            "name": "Thornton",
+            "url": "http://www.healthybuilding.net/uploads/files/environmental-impacts-of-polyvinyl-chloride-building-materials.pdf",
+            "id": 2896
+        },
+        {
+            "name": "Plastics News",
+            "url": "http://www.plasticsnews.com/article/20130906/NEWS/130909958/chinas-pvc-pipe-makers-under-pressure-to-give-up-lead-stabilizers",
+            "id": 2897
+        },
+        {
+            "name": "PPI",
+            "url": "http://plasticpipe.org/pdf/tr-2-2014.pdf",
+            "id": 2898
+        },
+        {
+            "name": "Interstab",
+            "url": "http://www.akcros.com/allproducts/productsusa/interstabt5277.aspx",
+            "id": 2899
+        },
+        {
+            "name": "Thermolite",
+            "url": "http://pmcvinyladditives.com/products/thermolite/",
+            "id": 2900
+        },
+        {
+            "name": "Promodentivest",
+            "url": "http://promodentchem.com/analog-brand-product/2698",
+            "id": 2901
+        },
+        {
+            "name": "K120N MSDS",
+            "url": "http://terpconnect.umd.edu/~choi/MSDS/Rohm%20and%20Haas/Methyl%20methacrylate.pdf",
+            "id": 2902
+        },
+        {
+            "name": "Makwell",
+            "url": "http://www.makwellgroup.com/AcrylicProcessingAid.php",
+            "id": 2903
+        },
+        {
+            "name": "Sassol",
+            "url": "http://www.sasolwax.us.com/pvc.html",
+            "id": 2905
+        },
+        {
+            "name": "Advastab",
+            "url": "http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_069d/0901b8038069d684.pdf?filepath=productsafety/pdfs/noreg/233-00776.pdf&fromPage=GetDoc",
+            "id": 2906
+        },
+        {
+            "name": "Adams",
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21728330",
+            "id": 2907
+        },
+        {
+            "name": "PVC Europe",
+            "url": "http://www.pvc.org/en/p/organotin-stabilisers",
+            "id": 2908
+        },
+        {
+            "name": "Dupont",
+            "url": "http://www2.dupont.com/Titanium_Technologies/en_US/tech_info/literature/Plastics/DTT_H88383-9_Plastics_Grade.pdf",
+            "id": 2909
+        },
+        {
+            "name": "Ktron",
+            "url": "http://www.ktron.com/industries_served/Plastics/Calcium_Carbonate_in_Plastics_Compounding.cfm",
+            "id": 2910
+        },
+        {
+            "name": "Vinidex",
+            "url": "http://www.vinidex.com.au/wp-content/uploads/2013/03/20110601-Vx_MSDS-010_PVC_Pipes-1.pdf",
+            "id": 2911
+        },
+        {
+            "name": "Harvel",
+            "url": "http://www.harvel.com/sites/www.harvel.com/files/documents/Specifications-PVC_Pipe-Sch40.pdf",
+            "id": 2912
+        },
+        {
+            "name": "550 MSDS",
+            "url": "http://www.quickfds.com/out/17209-71561-21729-014945.pdf",
+            "id": 2913
+        },
+        {
+            "name": "551 MSDS",
+            "url": "http://www.quickfds.com/out/17209-71542-21729-011732.pdf",
+            "id": 2914
+        },
+        {
+            "name": "770 MSDS",
+            "url": "http://www.quickfds.com/out/17209-71551-21729-019479.pdf",
+            "id": 2915
+        },
+        {
+            "name": "Soluaid 106",
+            "url": "http://rulings.cbp.gov/detail.asp?ru=n113944&ac=pr",
+            "id": 2916
+        },
+        {
+            "name": "KM334",
+            "url": "http://harwickstandard.com/msds_sheets/0374009.pdf",
+            "id": 2917
+        },
+        {
+            "name": "Charlotte",
+            "url": "https://www.charlottepipe.com/Documents/Specs/Spec_PVCSolid_Wal_DWV.pdf",
+            "id": 2918
+        },
+        {
+            "name": "Sappco",
+            "url": "http://www.sappco-dammam.com/pages.php?id=17",
+            "id": 2919
+        }
+    ]
+}

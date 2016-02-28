@@ -1,0 +1,936 @@
+{
+    "CPID": "CP090",
+    "timestamp": 1452102121545,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 2994,
+            "name": "Low Carbon Steel",
+            "CASRN": "",
+            "massPct": 0.994202057,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.0043,
+                        "contributors": [
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0003,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            },
+                            {
+                                "recId": 760,
+                                "massPct": 0.004,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": 0.0003,
+                        "contributors": [
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0003,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.0043,
+                        "contributors": [
+                            {
+                                "recId": 9900,
+                                "massPct": 0.0003,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            },
+                            {
+                                "recId": 760,
+                                "massPct": 0.004,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.004,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.004,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.004,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.004,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": 0.004,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.004,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 9900,
+                    "name": "Phosphorus",
+                    "CASRN": "7723-14-0",
+                    "massPct": 0.0003,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "ASTM A568",
+                            "url": "http://www.astm.org/Standards/A568.htm",
+                            "id": 1888
+                        },
+                        {
+                            "name": "Alro",
+                            "url": "http://www.alro.com/datacatalog/005-plate.pdf#page=3",
+                            "id": 2982
+                        },
+                        {
+                            "name": "O'Neal",
+                            "url": "http://www.onealsteel.com/carbon-steel-sheet-hr-a1011.html",
+                            "id": 2981
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00029826061709999996
+                },
+                {
+                    "recId": 760,
+                    "name": "Manganese",
+                    "CASRN": "7439-96-5",
+                    "massPct": 0.004,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "ASTM A568",
+                            "url": "http://www.astm.org/Standards/A568.htm",
+                            "id": 1888
+                        },
+                        {
+                            "name": "Alro",
+                            "url": "http://www.alro.com/datacatalog/005-plate.pdf#page=3",
+                            "id": 2982
+                        },
+                        {
+                            "name": "O'Neal",
+                            "url": "http://www.onealsteel.com/carbon-steel-sheet-hr-a1011.html",
+                            "id": 2981
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.003976808228
+                },
+                {
+                    "recId": 774,
+                    "name": "Sulfur",
+                    "CASRN": "7704-34-9",
+                    "massPct": 0.00035,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "ASTM A568",
+                            "url": "http://www.astm.org/Standards/A568.htm",
+                            "id": 1888
+                        },
+                        {
+                            "name": "Alro",
+                            "url": "http://www.alro.com/datacatalog/005-plate.pdf#page=3",
+                            "id": 2982
+                        },
+                        {
+                            "name": "O'Neal",
+                            "url": "http://www.onealsteel.com/carbon-steel-sheet-hr-a1011.html",
+                            "id": 2981
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.00034797071994999997
+                },
+                {
+                    "recId": 758,
+                    "name": "Iron",
+                    "CASRN": "7439-89-6",
+                    "massPct": 0.99435,
+                    "function": "base metal",
+                    "hazards": {},
+                    "sources": [],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.98858481537795
+                },
+                {
+                    "recId": 762,
+                    "name": "Carbon",
+                    "CASRN": "7440-44-0",
+                    "massPct": 0.001,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "ASTM A568",
+                            "url": "http://www.astm.org/Standards/A568.htm",
+                            "id": 1888
+                        },
+                        {
+                            "name": "Alro",
+                            "url": "http://www.alro.com/datacatalog/005-plate.pdf#page=3",
+                            "id": 2982
+                        },
+                        {
+                            "name": "O'Neal",
+                            "url": "http://www.onealsteel.com/carbon-steel-sheet-hr-a1011.html",
+                            "id": 2981
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.000994202057
+                }
+            ],
+            "sources": [
+                {
+                    "name": "Ferguson",
+                    "url": "http://www.ferguson.com/downloads/FNW104HangerBrochure.pdf",
+                    "id": 2978
+                },
+                {
+                    "name": "Flamco",
+                    "url": "https://www.flamcogroup.com/files/brochure/Clevis_hangers_2013.pdf",
+                    "id": 2990
+                },
+                {
+                    "name": "Fastanal",
+                    "url": "https://www.fastenal.com/content/product_specifications/PH.C.SD.Z.pdf",
+                    "id": 2989
+                },
+                {
+                    "name": "PHD",
+                    "url": "http://www.phd-mfg.com/products/index.cfm?do=2&main=3&id=6",
+                    "id": 2980
+                },
+                {
+                    "name": "Garth",
+                    "url": "http://www.garthindustrial.com/pdf/Pipe-Hangers-Supports-Spec-Sheets.pdf",
+                    "id": 2979
+                },
+                {
+                    "name": "Cooper",
+                    "url": "http://www.cooperindustries.com/content/dam/public/bline/Resources/Library/catalogs/pipe_hangers/pipe_hangers_and_supports/Hangers.pdf",
+                    "id": 2975
+                },
+                {
+                    "name": "Anvil",
+                    "url": "http://www.anvilintl.com/products/pipe-hangers-and-hardware/clevis/260-figure-adjustable-clevis-hanger",
+                    "id": 2970
+                },
+                {
+                    "name": "Empire",
+                    "url": "http://www.empireindustries.com/wp-content/uploads/2014/05/11-11GI-clevis-hanger-empire.pdf",
+                    "id": 2971
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.994202057
+        },
+        {
+            "recId": 2995,
+            "name": "Electro-Galvanized Zinc Plating",
+            "CASRN": "",
+            "massPct": 0.005797942956,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": 1,
+                        "contributors": [
+                            {
+                                "recId": 782,
+                                "massPct": 1,
+                                "childrenIds": [
+                                    782
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 782,
+                    "name": "Zinc",
+                    "CASRN": "7440-66-6",
+                    "massPct": 1,
+                    "function": "corrosion protection",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Galvanize It",
+                            "url": "http://www.galvanizeit.org/uploads/publications/Zinc_Coatings.pdf",
+                            "id": 2991
+                        },
+                        {
+                            "name": "Fastanal",
+                            "url": "https://www.fastenal.com/content/product_specifications/PH.C.SD.Z.pdf",
+                            "id": 2989
+                        },
+                        {
+                            "name": "Garth",
+                            "url": "http://www.garthindustrial.com/pdf/Pipe-Hangers-Supports-Spec-Sheets.pdf",
+                            "id": 2979
+                        },
+                        {
+                            "name": "Ferguson",
+                            "url": "http://www.ferguson.com/downloads/FNW104HangerBrochure.pdf",
+                            "id": 2978
+                        },
+                        {
+                            "name": "B633",
+                            "url": "http://www.astm.org/Standards/B633.htm",
+                            "id": 2987
+                        },
+                        {
+                            "name": "Cooper",
+                            "url": "http://www.cooperindustries.com/content/dam/public/bline/Resources/Library/catalogs/pipe_hangers/pipe_hangers_and_supports/Hangers.pdf",
+                            "id": 2975
+                        },
+                        {
+                            "name": "Anvil",
+                            "url": "http://www.anvilintl.com/products/pipe-hangers-and-hardware/clevis/260-figure-adjustable-clevis-hanger",
+                            "id": 2970
+                        },
+                        {
+                            "name": "Empire",
+                            "url": "http://www.empireindustries.com/wp-content/uploads/2014/05/11-11GI-clevis-hanger-empire.pdf",
+                            "id": 2971
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.005797942956
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.005797942956
+        }
+    ],
+    "impurities": [
+        {
+            "name": null,
+            "CASRN": null,
+            "massPct": 0,
+            "function": null,
+            "sources": [],
+            "hazards": {}
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.0042750688451,
+                    "contributors": [
+                        {
+                            "recId": 2994,
+                            "massPct": 0.00029826061709999996,
+                            "childrenIds": [
+                                2994,
+                                9900
+                            ]
+                        },
+                        {
+                            "recId": 2994,
+                            "massPct": 0.003976808228,
+                            "childrenIds": [
+                                2994,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.00029826061709999996,
+                    "contributors": [
+                        {
+                            "recId": 2994,
+                            "massPct": 0.00029826061709999996,
+                            "childrenIds": [
+                                2994,
+                                9900
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.0042750688451,
+                    "contributors": [
+                        {
+                            "recId": 2994,
+                            "massPct": 0.00029826061709999996,
+                            "childrenIds": [
+                                2994,
+                                9900
+                            ]
+                        },
+                        {
+                            "recId": 2994,
+                            "massPct": 0.003976808228,
+                            "childrenIds": [
+                                2994,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.003976808228,
+                    "contributors": [
+                        {
+                            "recId": 2994,
+                            "massPct": 0.003976808228,
+                            "childrenIds": [
+                                2994,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.003976808228,
+                    "contributors": [
+                        {
+                            "recId": 2994,
+                            "massPct": 0.003976808228,
+                            "childrenIds": [
+                                2994,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.005797942956,
+                    "contributors": [
+                        {
+                            "recId": 2995,
+                            "massPct": 0.005797942956,
+                            "childrenIds": [
+                                2995,
+                                782
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.003976808228,
+                    "contributors": [
+                        {
+                            "recId": 2994,
+                            "massPct": 0.003976808228,
+                            "childrenIds": [
+                                2994,
+                                760
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundaries comprise the cradle-to-gate process for manufacturing electro-galvanized steel pipe hangers. The final manufacturing process includes the following processing steps to create the body of the hanger: Stamping-->Bending-->Punching.  1.31% cuttings in relation to steel sheet input for the punching was assumed, based on the diameters of the holes needed for the cross bolt and rod. The cross bolt is modeled by CP018:Steel fasteners. Upstream data includes steel manufacturing, energy production, zinc production, lubricants production, and transportation of raw materials to the production facility. A transportation distance of 500 km is assumed. Packaging is exluded. ",
+        "gabiDatasets": [
+            {
+                "name": "US: Electricity grid mix"
+            },
+            {
+                "name": "US: Lubricants at refinery"
+            },
+            {
+                "name": "GLO: Compressed air 7 bar (medium power consumption)"
+            },
+            {
+                "name": "GLO: Steel sheet stamping and bending (5% loss)"
+            },
+            {
+                "name": "US: Hydrochloric acid 32% (primarily from chlorine, H2 Cracker)"
+            },
+            {
+                "name": "US: Nitric acid (60%)"
+            },
+            {
+                "name": "EU-27: Zinc ammonium chloride (estimation)"
+            },
+            {
+                "name": "DE: Aluminium fluoride"
+            },
+            {
+                "name": "DE: Zinc redistilled mix"
+            },
+            {
+                "name": "GLO: Electrolytic galvanisation (1 m² steel sheet part, electrolytic)"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "NA: Steel cold rolled coil worldsteel"
+            },
+            {
+                "name": "GLO: Punching steel sheet small part"
+            },
+            {
+                "name": "GLO: Steel wire rod worldsteel"
+            },
+            {
+                "name": "US: Municipal waste water treatment (mix)"
+            },
+            {
+                "name": "US: Water deionized"
+            },
+            {
+                "name": "US: Methanol from natural gas mix"
+            },
+            {
+                "name": "US: Thermal energy from natural gas (eGrid)"
+            },
+            {
+                "name": "DE: Screw (hardening)"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "13.90%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "72% recycled (product has 13.9% steel scrap input; the remainder of steel scrap is processed and credited as avoided burden; no credit is given for the recycling of zinc coating); 28% to landfill (ferro metal).",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "9.79E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "4.93E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "2.70E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "2.85E-08"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.35E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "3.34E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "-1.99E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "-6.37E-06"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "-8.57E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "3.04E-08"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "-1.75E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "-7.31E+00"
+                }
+            ]
+        }
+    },
+    "id": "CP090",
+    "name": "Steel Pipe Hanger",
+    "altNames": [
+        ""
+    ],
+    "uniformats": [
+        {
+            "id": "D2060",
+            "name": "Process Support Plumbing Systems"
+        },
+        {
+            "id": "D2030",
+            "name": "Building Support Plumbing Systems"
+        },
+        {
+            "id": "D2020",
+            "name": "Sanitary Drainage"
+        },
+        {
+            "id": "D2010",
+            "name": "Domestic Water Distribution"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "22-05-29",
+            "name": "Hangers and Supports for Plumbing Piping and Equipment"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Channel struts provide a steel track from which pipe hangers and other hardware are suspended or otherwise attached to support the weight of traversing pipes, conduits, etc.  A Clevis Hanger is a common and versatile type of pipe hanger designed to attach to a channel strut and was selected for this CP as an example pipe hanger likely to be seen in commercial construction projects.  Clevis Hangers are made from low carbon steel and are typically electro-galvanized with zinc to provide resistance to rust and corrosion.  While not included in this review, note that where a steel hanger will support copper pipes, a plastic coating will need to be applied to the hanger to prevent electrolysis between the two metals.",
+    "sources": [
+        {
+            "name": "ASTM A568",
+            "url": "http://www.astm.org/Standards/A568.htm",
+            "id": 1888
+        },
+        {
+            "name": "Alma Bolt",
+            "url": "http://almabolt.com/pages/catalog/nuts/combinedspecs.htm",
+            "id": 2993
+        },
+        {
+            "name": "Anvil II",
+            "url": "http://www.anvilintl.com/usercontent/submittal-info-sheet/9515_HG-SUB-FIG260.pdf#page=2",
+            "id": 2992
+        },
+        {
+            "name": "Galvanize It",
+            "url": "http://www.galvanizeit.org/uploads/publications/Zinc_Coatings.pdf",
+            "id": 2991
+        },
+        {
+            "name": "Flamco",
+            "url": "https://www.flamcogroup.com/files/brochure/Clevis_hangers_2013.pdf",
+            "id": 2990
+        },
+        {
+            "name": "Fastanal",
+            "url": "https://www.fastenal.com/content/product_specifications/PH.C.SD.Z.pdf",
+            "id": 2989
+        },
+        {
+            "name": "DSM",
+            "url": "http://www.dsmmfg.com/documents/platingref.pdf",
+            "id": 2988
+        },
+        {
+            "name": "B633",
+            "url": "http://www.astm.org/Standards/B633.htm",
+            "id": 2987
+        },
+        {
+            "name": "AISI 1008",
+            "url": "http://www.azom.com/article.aspx?ArticleID=6538",
+            "id": 2985
+        },
+        {
+            "name": "A569",
+            "url": "http://www.astm.org/DATABASE.CART/WITHDRAWN/A569A569M.htm",
+            "id": 2984
+        },
+        {
+            "name": "Anvil Catalog",
+            "url": "http://www.anvilintl.com/SharedContent/Pdf/Literature_Catalog/Pipe_Hangers.pdf",
+            "id": 2983
+        },
+        {
+            "name": "Alro",
+            "url": "http://www.alro.com/datacatalog/005-plate.pdf#page=3",
+            "id": 2982
+        },
+        {
+            "name": "O'Neal",
+            "url": "http://www.onealsteel.com/carbon-steel-sheet-hr-a1011.html",
+            "id": 2981
+        },
+        {
+            "name": "PHD",
+            "url": "http://www.phd-mfg.com/products/index.cfm?do=2&main=3&id=6",
+            "id": 2980
+        },
+        {
+            "name": "Garth",
+            "url": "http://www.garthindustrial.com/pdf/Pipe-Hangers-Supports-Spec-Sheets.pdf",
+            "id": 2979
+        },
+        {
+            "name": "Ferguson",
+            "url": "http://www.ferguson.com/downloads/FNW104HangerBrochure.pdf",
+            "id": 2978
+        },
+        {
+            "name": "316",
+            "url": "http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MQ316J",
+            "id": 2977
+        },
+        {
+            "name": "304",
+            "url": "http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MQ304A",
+            "id": 2976
+        },
+        {
+            "name": "Cooper",
+            "url": "http://www.cooperindustries.com/content/dam/public/bline/Resources/Library/catalogs/pipe_hangers/pipe_hangers_and_supports/Hangers.pdf",
+            "id": 2975
+        },
+        {
+            "name": "ANSI",
+            "url": "http://webstore.ansi.org/RecordDetail.aspx?sku=ANSI%2FMSS+SP-58-2009",
+            "id": 2974
+        },
+        {
+            "name": "B-line",
+            "url": "http://www.cooperindustries.com/content/dam/public/bline/Resources/Library/catalogs/pipe_hangers/pipe_hangers_and_supports/specification.pdf",
+            "id": 2973
+        },
+        {
+            "name": "A1011",
+            "url": "http://www.astm.org/Standards/A1011.htm",
+            "id": 2972
+        },
+        {
+            "name": "Empire",
+            "url": "http://www.empireindustries.com/wp-content/uploads/2014/05/11-11GI-clevis-hanger-empire.pdf",
+            "id": 2971
+        },
+        {
+            "name": "Anvil",
+            "url": "http://www.anvilintl.com/products/pipe-hangers-and-hardware/clevis/260-figure-adjustable-clevis-hanger",
+            "id": 2970
+        },
+        {
+            "name": "NPH Strut",
+            "url": "http://www.nationalpipehanger.com/pages/pdf/NPHStrut.pdf",
+            "id": 2969
+        }
+    ]
+}

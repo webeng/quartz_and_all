@@ -1,0 +1,3079 @@
+{
+    "CPID": "CP175",
+    "timestamp": 1452102161979,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 9903,
+            "name": "Primary Exterior Coating",
+            "CASRN": "",
+            "massPct": 0.00492,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": 1,
+                        "contributors": [
+                            {
+                                "recId": 782,
+                                "massPct": 1,
+                                "childrenIds": [
+                                    782
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 782,
+                    "name": "Zinc",
+                    "CASRN": "7440-66-6",
+                    "massPct": 1,
+                    "function": "pre-finish",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "US Pipe Patent",
+                            "url": "https://www.google.com/patents/US8697251?dq=water+based+asphaltic+coating+ductile+pipe&hl=en&sa=X&ved=0CE8Q6AEwBzgKahUKEwimtuH2q6THAhVGkx4KHfkFCV8",
+                            "id": 9874
+                        },
+                        {
+                            "name": "American Spec",
+                            "url": "http://www.american-usa.com/system/assets/391/original/Final_Zinc_Flyer.pdf",
+                            "id": 9891
+                        },
+                        {
+                            "name": "US Pipe",
+                            "url": "http://www.uspipe.com/products/special-coatings-linings/metallic-zinc-coating",
+                            "id": 9858
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.00492
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.00492
+        },
+        {
+            "recId": 9901,
+            "name": "Primary Interior Lining",
+            "CASRN": "",
+            "massPct": 0.13955,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": 0.59821,
+                        "contributors": [
+                            {
+                                "recId": 1470,
+                                "massPct": 0.59821,
+                                "childrenIds": [
+                                    1470
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.59821,
+                        "contributors": [
+                            {
+                                "recId": 1470,
+                                "massPct": 0.59821,
+                                "childrenIds": [
+                                    1470
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": 0.59821,
+                        "contributors": [
+                            {
+                                "recId": 1470,
+                                "massPct": 0.59821,
+                                "childrenIds": [
+                                    1470
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 9902,
+                    "name": "High Alumina Cement",
+                    "CASRN": "65997-16-2",
+                    "massPct": 0.40179,
+                    "function": "binder",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Amstead",
+                            "url": "https://www.google.com/patents/US5955162?dq=water+based+asphaltic+coating+ductile+pipe&hl=en&sa=X&ved=0CCoQ6AEwAjgKahUKEwimtuH2q6THAhVGkx4KHfkFCV8",
+                            "id": 9873
+                        },
+                        {
+                            "name": "Seal",
+                            "url": "http://www.sealforlife.com/markets/water-pipelines",
+                            "id": 9878
+                        },
+                        {
+                            "name": "Karau",
+                            "url": "https://www.google.com/patents/WO2014154573A1?cl=en",
+                            "id": 9888
+                        },
+                        {
+                            "name": "China",
+                            "url": "https://www.google.com/patents/CN101973727A?cl=en&dq=cement+lining+ductile+pipe&hl=en&sa=X&ved=0CEEQ6AEwBGoVChMImZ7AlKykxwIVi3Y-Ch2YkgBK",
+                            "id": 9872
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0560697945
+                },
+                {
+                    "recId": 1470,
+                    "name": "Sand",
+                    "CASRN": "14808-60-7",
+                    "massPct": 0.59821,
+                    "function": "aggregate",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-567",
+                                "type": "red",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Karau",
+                            "url": "https://www.google.com/patents/WO2014154573A1?cl=en",
+                            "id": 9888
+                        },
+                        {
+                            "name": "Seal",
+                            "url": "http://www.sealforlife.com/markets/water-pipelines",
+                            "id": 9878
+                        },
+                        {
+                            "name": "China",
+                            "url": "https://www.google.com/patents/CN101973727A?cl=en&dq=cement+lining+ductile+pipe&hl=en&sa=X&ved=0CEEQ6AEwBGoVChMImZ7AlKykxwIVi3Y-Ch2YkgBK",
+                            "id": 9872
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0834802055
+                }
+            ],
+            "sources": [
+                {
+                    "name": "American Spec",
+                    "url": "http://www.american-usa.com/system/assets/391/original/Final_Zinc_Flyer.pdf",
+                    "id": 9891
+                },
+                {
+                    "name": "Custom",
+                    "url": "http://www.custompipe.com/Products/pdfs/Coatings%20and%20Linings.pdf",
+                    "id": 9864
+                },
+                {
+                    "name": "US Pipe",
+                    "url": "http://www.uspipe.com/products/special-coatings-linings/metallic-zinc-coating",
+                    "id": 9858
+                },
+                {
+                    "name": "Video",
+                    "url": "https://www.youtube.com/watch?v=kJGlgSZe4k4",
+                    "id": 9854
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.13955
+        },
+        {
+            "recId": 9904,
+            "name": "Exterior Asphaltic Finish",
+            "CASRN": "",
+            "massPct": 0.00097,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization",
+                        "massPct": 0.05315,
+                        "contributors": [
+                            {
+                                "recId": 8554,
+                                "massPct": 0.05315,
+                                "childrenIds": [
+                                    8554
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.05315,
+                        "contributors": [
+                            {
+                                "recId": 8554,
+                                "massPct": 0.05315,
+                                "childrenIds": [
+                                    8554
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 8554,
+                    "name": "Gum Rosin",
+                    "CASRN": "8050-09-7",
+                    "massPct": 0.05315,
+                    "function": "emulsifier",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-577",
+                                "type": "orange",
+                                "name": "Skin Sensitization",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Pinova",
+                            "url": "http://www.pinovasolutions.com/products/vinsol-pulverized",
+                            "id": 9883
+                        },
+                        {
+                            "name": "HE027 MSDS",
+                            "url": "http://us.henry.com/fileadmin%2Fpdf%2Fcurrent%2Fmsds%2FHE027_msds.pdf",
+                            "id": 9877
+                        },
+                        {
+                            "name": "Vinsol",
+                            "url": "http://www.pinovasolutions.com/uploads/files/resources/pinova-vinsol-brochure.pdf",
+                            "id": 9882
+                        },
+                        {
+                            "name": "Kimberton",
+                            "url": "http://www.google.com/patents/US5713996",
+                            "id": 9871
+                        },
+                        {
+                            "name": "Henry",
+                            "url": "https://www.google.com/patents/US8557909?dq=water+based+asphaltic+coating+ductile+pipe&hl=en&sa=X&ved=0CCwQ6AEwAmoVChMI8vLugpykxwIVx7geCh07Fwe_",
+                            "id": 9870
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.000051555500000000005
+                },
+                {
+                    "recId": 6979,
+                    "name": "Petroleum Asphalt",
+                    "CASRN": "8052-42-4",
+                    "massPct": 0.92828,
+                    "function": "binder",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "PCT",
+                            "url": "http://www.pctworldwide.com/PIPE_COATING_DOCS/MPFC-S%20%20_MSDS_.pdf",
+                            "id": 2705
+                        },
+                        {
+                            "name": "HE027 MSDS",
+                            "url": "http://us.henry.com/fileadmin%2Fpdf%2Fcurrent%2Fmsds%2FHE027_msds.pdf",
+                            "id": 9877
+                        },
+                        {
+                            "name": "Kimberton",
+                            "url": "http://www.google.com/patents/US5713996",
+                            "id": 9871
+                        },
+                        {
+                            "name": "Henry",
+                            "url": "https://www.google.com/patents/US8557909?dq=water+based+asphaltic+coating+ductile+pipe&hl=en&sa=X&ved=0CCwQ6AEwAmoVChMI8vLugpykxwIVx7geCh07Fwe_",
+                            "id": 9870
+                        },
+                        {
+                            "name": "Malden",
+                            "url": "http://www.wwscorp.com/images/wwsc_msds_2011.pdf",
+                            "id": 9869
+                        },
+                        {
+                            "name": "Tyler",
+                            "url": "http://www.tylerpipe.com/upl/downloads/catalog/products/soil-pipe-coating-1e134dd3.pdf",
+                            "id": 9868
+                        },
+                        {
+                            "name": "Professional",
+                            "url": "http://www.pctworldwide.com/PIPE_COATING_DOCS/MOS-50%20OD%20MSDS.pdf",
+                            "id": 9865
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0009004316
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.00097
+        },
+        {
+            "recId": 9899,
+            "name": "Cast Iron",
+            "CASRN": "",
+            "massPct": 0.85457,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.01751,
+                        "contributors": [
+                            {
+                                "recId": 9900,
+                                "massPct": 0.00233,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            },
+                            {
+                                "recId": 760,
+                                "massPct": 0.0097,
+                                "childrenIds": [
+                                    760
+                                ]
+                            },
+                            {
+                                "recId": 768,
+                                "massPct": 0.00097,
+                                "childrenIds": [
+                                    768
+                                ]
+                            },
+                            {
+                                "recId": 770,
+                                "massPct": 0.0016,
+                                "childrenIds": [
+                                    770
+                                ]
+                            },
+                            {
+                                "recId": 784,
+                                "massPct": 0.00291,
+                                "childrenIds": [
+                                    784
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": 0.0033,
+                        "contributors": [
+                            {
+                                "recId": 9900,
+                                "massPct": 0.00233,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            },
+                            {
+                                "recId": 768,
+                                "massPct": 0.00097,
+                                "childrenIds": [
+                                    768
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.01203,
+                        "contributors": [
+                            {
+                                "recId": 9900,
+                                "massPct": 0.00233,
+                                "childrenIds": [
+                                    9900
+                                ]
+                            },
+                            {
+                                "recId": 760,
+                                "massPct": 0.0097,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.01317,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.0097,
+                                "childrenIds": [
+                                    760
+                                ]
+                            },
+                            {
+                                "recId": 963,
+                                "massPct": 0.00056,
+                                "childrenIds": [
+                                    963
+                                ]
+                            },
+                            {
+                                "recId": 784,
+                                "massPct": 0.00291,
+                                "childrenIds": [
+                                    784
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.01518,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.0097,
+                                "childrenIds": [
+                                    760
+                                ]
+                            },
+                            {
+                                "recId": 768,
+                                "massPct": 0.00097,
+                                "childrenIds": [
+                                    768
+                                ]
+                            },
+                            {
+                                "recId": 770,
+                                "massPct": 0.0016,
+                                "childrenIds": [
+                                    770
+                                ]
+                            },
+                            {
+                                "recId": 784,
+                                "massPct": 0.00291,
+                                "childrenIds": [
+                                    784
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization",
+                        "massPct": 0.0025700000000000002,
+                        "contributors": [
+                            {
+                                "recId": 768,
+                                "massPct": 0.00097,
+                                "childrenIds": [
+                                    768
+                                ]
+                            },
+                            {
+                                "recId": 770,
+                                "massPct": 0.0016,
+                                "childrenIds": [
+                                    770
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-10360",
+                        "type": "orange",
+                        "name": "Neurotoxicity",
+                        "massPct": 0.00056,
+                        "contributors": [
+                            {
+                                "recId": 963,
+                                "massPct": 0.00056,
+                                "childrenIds": [
+                                    963
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity",
+                        "massPct": 0.00216,
+                        "contributors": [
+                            {
+                                "recId": 963,
+                                "massPct": 0.00056,
+                                "childrenIds": [
+                                    963
+                                ]
+                            },
+                            {
+                                "recId": 770,
+                                "massPct": 0.0016,
+                                "childrenIds": [
+                                    770
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": 0.0016,
+                        "contributors": [
+                            {
+                                "recId": 770,
+                                "massPct": 0.0016,
+                                "childrenIds": [
+                                    770
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": 0.01026,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.0097,
+                                "childrenIds": [
+                                    760
+                                ]
+                            },
+                            {
+                                "recId": 963,
+                                "massPct": 0.00056,
+                                "childrenIds": [
+                                    963
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": 0.0015300000000000001,
+                        "contributors": [
+                            {
+                                "recId": 768,
+                                "massPct": 0.00097,
+                                "childrenIds": [
+                                    768
+                                ]
+                            },
+                            {
+                                "recId": 963,
+                                "massPct": 0.00056,
+                                "childrenIds": [
+                                    963
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental",
+                        "massPct": 0.00056,
+                        "contributors": [
+                            {
+                                "recId": 963,
+                                "massPct": 0.00056,
+                                "childrenIds": [
+                                    963
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT",
+                        "massPct": 0.00056,
+                        "contributors": [
+                            {
+                                "recId": 963,
+                                "massPct": 0.00056,
+                                "childrenIds": [
+                                    963
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 762,
+                    "name": "Carbon",
+                    "CASRN": "7440-44-0",
+                    "massPct": 0.0291,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Leth",
+                            "url": "http://www.lethiron.com/downloads/pdf/MSDS-%20042%20DUCTILE%20IRON.pdf",
+                            "id": 9885
+                        },
+                        {
+                            "name": "American MSDS",
+                            "url": "http://www.american-usa.com/system/assets/355/original/MSDS_Ductile_Iron_Pipe.pdf",
+                            "id": 9863
+                        },
+                        {
+                            "name": "Handbook",
+                            "url": "http://www.cispi.videoideas.com/CISPI/files/8b/8b6004bc-1eaa-405c-b452-29061680a58e.pdf",
+                            "id": 9856
+                        },
+                        {
+                            "name": "CISPI",
+                            "url": "http://www.cispi.org/CISPI/files/76/76953996-dfd0-489b-a970-a0a0e30958a4.pdf",
+                            "id": 9855
+                        },
+                        {
+                            "name": "GSA",
+                            "url": "http://www.gsa.gov/portal/content/111738",
+                            "id": 9853
+                        },
+                        {
+                            "name": "Casting",
+                            "url": "http://www.castingquality.com/casting-technology/casting-material/grey-cast-iron-property-and-chemistry.html",
+                            "id": 9852
+                        },
+                        {
+                            "name": "ASTM A74",
+                            "url": "http://www.astm.org/Standards/A74.htm",
+                            "id": 9848
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.024867987
+                },
+                {
+                    "recId": 774,
+                    "name": "Sulfur",
+                    "CASRN": "7704-34-9",
+                    "massPct": 0.00121,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "American MSDS",
+                            "url": "http://www.american-usa.com/system/assets/355/original/MSDS_Ductile_Iron_Pipe.pdf",
+                            "id": 9863
+                        },
+                        {
+                            "name": "Handbook",
+                            "url": "http://www.cispi.videoideas.com/CISPI/files/8b/8b6004bc-1eaa-405c-b452-29061680a58e.pdf",
+                            "id": 9856
+                        },
+                        {
+                            "name": "CISPI",
+                            "url": "http://www.cispi.org/CISPI/files/76/76953996-dfd0-489b-a970-a0a0e30958a4.pdf",
+                            "id": 9855
+                        },
+                        {
+                            "name": "GSA",
+                            "url": "http://www.gsa.gov/portal/content/111738",
+                            "id": 9853
+                        },
+                        {
+                            "name": "Casting",
+                            "url": "http://www.castingquality.com/casting-technology/casting-material/grey-cast-iron-property-and-chemistry.html",
+                            "id": 9852
+                        },
+                        {
+                            "name": "ASTM A74",
+                            "url": "http://www.astm.org/Standards/A74.htm",
+                            "id": 9848
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0010340297
+                },
+                {
+                    "recId": 9900,
+                    "name": "Phosphorus",
+                    "CASRN": "7723-14-0",
+                    "massPct": 0.00233,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "American MSDS",
+                            "url": "http://www.american-usa.com/system/assets/355/original/MSDS_Ductile_Iron_Pipe.pdf",
+                            "id": 9863
+                        },
+                        {
+                            "name": "Handbook",
+                            "url": "http://www.cispi.videoideas.com/CISPI/files/8b/8b6004bc-1eaa-405c-b452-29061680a58e.pdf",
+                            "id": 9856
+                        },
+                        {
+                            "name": "CISPI",
+                            "url": "http://www.cispi.org/CISPI/files/76/76953996-dfd0-489b-a970-a0a0e30958a4.pdf",
+                            "id": 9855
+                        },
+                        {
+                            "name": "Casting",
+                            "url": "http://www.castingquality.com/casting-technology/casting-material/grey-cast-iron-property-and-chemistry.html",
+                            "id": 9852
+                        },
+                        {
+                            "name": "ASTM A74",
+                            "url": "http://www.astm.org/Standards/A74.htm",
+                            "id": 9848
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0019911481000000003
+                },
+                {
+                    "recId": 760,
+                    "name": "Manganese",
+                    "CASRN": "7439-96-5",
+                    "massPct": 0.0097,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Leth",
+                            "url": "http://www.lethiron.com/downloads/pdf/MSDS-%20042%20DUCTILE%20IRON.pdf",
+                            "id": 9885
+                        },
+                        {
+                            "name": "American MSDS",
+                            "url": "http://www.american-usa.com/system/assets/355/original/MSDS_Ductile_Iron_Pipe.pdf",
+                            "id": 9863
+                        },
+                        {
+                            "name": "Handbook",
+                            "url": "http://www.cispi.videoideas.com/CISPI/files/8b/8b6004bc-1eaa-405c-b452-29061680a58e.pdf",
+                            "id": 9856
+                        },
+                        {
+                            "name": "GSA",
+                            "url": "http://www.gsa.gov/portal/content/111738",
+                            "id": 9853
+                        },
+                        {
+                            "name": "Casting",
+                            "url": "http://www.castingquality.com/casting-technology/casting-material/grey-cast-iron-property-and-chemistry.html",
+                            "id": 9852
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.008289329000000002
+                },
+                {
+                    "recId": 768,
+                    "name": "Nickel",
+                    "CASRN": "7440-02-0",
+                    "massPct": 0.00097,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-577",
+                                "type": "orange",
+                                "name": "Skin Sensitization",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-578",
+                                "type": "orange",
+                                "name": "Organ Toxicant",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-567",
+                                "type": "red",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Leth",
+                            "url": "http://www.lethiron.com/downloads/pdf/MSDS-%20042%20DUCTILE%20IRON.pdf",
+                            "id": 9885
+                        },
+                        {
+                            "name": "American MSDS",
+                            "url": "http://www.american-usa.com/system/assets/355/original/MSDS_Ductile_Iron_Pipe.pdf",
+                            "id": 9863
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0008289329000000001
+                },
+                {
+                    "recId": 837,
+                    "name": "Magnesium",
+                    "CASRN": "7439-95-4",
+                    "massPct": 0.0098,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "American MSDS",
+                            "url": "http://www.american-usa.com/system/assets/355/original/MSDS_Ductile_Iron_Pipe.pdf",
+                            "id": 9863
+                        },
+                        {
+                            "name": "Video",
+                            "url": "https://www.youtube.com/watch?v=kJGlgSZe4k4",
+                            "id": 9854
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.008374786
+                },
+                {
+                    "recId": 780,
+                    "name": "Titanium",
+                    "CASRN": "7440-32-6",
+                    "massPct": 0.00291,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "American MSDS",
+                            "url": "http://www.american-usa.com/system/assets/355/original/MSDS_Ductile_Iron_Pipe.pdf",
+                            "id": 9863
+                        },
+                        {
+                            "name": "CISPI",
+                            "url": "http://www.cispi.org/CISPI/files/76/76953996-dfd0-489b-a970-a0a0e30958a4.pdf",
+                            "id": 9855
+                        },
+                        {
+                            "name": "ASTM A74",
+                            "url": "http://www.astm.org/Standards/A74.htm",
+                            "id": 9848
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0024867987
+                },
+                {
+                    "recId": 758,
+                    "name": "Iron",
+                    "CASRN": "7439-89-6",
+                    "massPct": 0.91465,
+                    "function": "base metal",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Leth",
+                            "url": "http://www.lethiron.com/downloads/pdf/MSDS-%20042%20DUCTILE%20IRON.pdf",
+                            "id": 9885
+                        },
+                        {
+                            "name": "American MSDS",
+                            "url": "http://www.american-usa.com/system/assets/355/original/MSDS_Ductile_Iron_Pipe.pdf",
+                            "id": 9863
+                        },
+                        {
+                            "name": "Handbook",
+                            "url": "http://www.cispi.videoideas.com/CISPI/files/8b/8b6004bc-1eaa-405c-b452-29061680a58e.pdf",
+                            "id": 9856
+                        },
+                        {
+                            "name": "GSA",
+                            "url": "http://www.gsa.gov/portal/content/111738",
+                            "id": 9853
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.7816324505
+                },
+                {
+                    "recId": 963,
+                    "name": "Lead",
+                    "CASRN": "7439-92-1",
+                    "massPct": 0.00056,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-10360",
+                                "type": "orange",
+                                "name": "Neurotoxicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-571",
+                                "type": "orange",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "red-568",
+                                "type": "red",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "red-567",
+                                "type": "red",
+                                "name": "Cancer",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "purple": [
+                            {
+                                "hazardId": "purple-955",
+                                "type": "purple",
+                                "name": "PBT",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "American MSDS",
+                            "url": "http://www.american-usa.com/system/assets/355/original/MSDS_Ductile_Iron_Pipe.pdf",
+                            "id": 9863
+                        },
+                        {
+                            "name": "CISPI",
+                            "url": "http://www.cispi.org/CISPI/files/76/76953996-dfd0-489b-a970-a0a0e30958a4.pdf",
+                            "id": 9855
+                        },
+                        {
+                            "name": "ASTM A74",
+                            "url": "http://www.astm.org/Standards/A74.htm",
+                            "id": 9848
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0004785592
+                },
+                {
+                    "recId": 836,
+                    "name": "Silicon",
+                    "CASRN": "7440-21-3",
+                    "massPct": 0.02425,
+                    "function": "alloying element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Leth",
+                            "url": "http://www.lethiron.com/downloads/pdf/MSDS-%20042%20DUCTILE%20IRON.pdf",
+                            "id": 9885
+                        },
+                        {
+                            "name": "American MSDS",
+                            "url": "http://www.american-usa.com/system/assets/355/original/MSDS_Ductile_Iron_Pipe.pdf",
+                            "id": 9863
+                        },
+                        {
+                            "name": "Handbook",
+                            "url": "http://www.cispi.videoideas.com/CISPI/files/8b/8b6004bc-1eaa-405c-b452-29061680a58e.pdf",
+                            "id": 9856
+                        },
+                        {
+                            "name": "Casting",
+                            "url": "http://www.castingquality.com/casting-technology/casting-material/grey-cast-iron-property-and-chemistry.html",
+                            "id": 9852
+                        },
+                        {
+                            "name": "Saint Gobain",
+                            "url": "http://www.saint-gobain-pam-cast-iron.com/sites/default/files/document/cast-iron-drainage-systems-for-buildings.pdf",
+                            "id": 9849
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.020723322500000002
+                },
+                {
+                    "recId": 770,
+                    "name": "Chromium",
+                    "CASRN": "7440-47-3",
+                    "massPct": 0.0016,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-577",
+                                "type": "orange",
+                                "name": "Skin Sensitization",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-571",
+                                "type": "orange",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Leth",
+                            "url": "http://www.lethiron.com/downloads/pdf/MSDS-%20042%20DUCTILE%20IRON.pdf",
+                            "id": 9885
+                        },
+                        {
+                            "name": "American MSDS",
+                            "url": "http://www.american-usa.com/system/assets/355/original/MSDS_Ductile_Iron_Pipe.pdf",
+                            "id": 9863
+                        },
+                        {
+                            "name": "CISPI",
+                            "url": "http://www.cispi.org/CISPI/files/76/76953996-dfd0-489b-a970-a0a0e30958a4.pdf",
+                            "id": 9855
+                        },
+                        {
+                            "name": "ASTM A74",
+                            "url": "http://www.astm.org/Standards/A74.htm",
+                            "id": 9848
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.001367312
+                },
+                {
+                    "recId": 784,
+                    "name": "Aluminum",
+                    "CASRN": "7429-90-5",
+                    "massPct": 0.00291,
+                    "function": "alloying element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "American MSDS",
+                            "url": "http://www.american-usa.com/system/assets/355/original/MSDS_Ductile_Iron_Pipe.pdf",
+                            "id": 9863
+                        },
+                        {
+                            "name": "CISPI",
+                            "url": "http://www.cispi.org/CISPI/files/76/76953996-dfd0-489b-a970-a0a0e30958a4.pdf",
+                            "id": 9855
+                        },
+                        {
+                            "name": "ASTM A74",
+                            "url": "http://www.astm.org/Standards/A74.htm",
+                            "id": 9848
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0024867987
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.85457
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Potassium Hydroxide",
+            "CASRN": "1310-58-3",
+            "massPct": null,
+            "function": "asphalt reactant",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Anthracene",
+            "CASRN": "120-12-7",
+            "massPct": 0,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "Barksdale",
+                    "url": "http://onlinepubs.trb.org/onlinepubs/shrp/SHRP-A-650.pdf",
+                    "id": 7029
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Dibenzanthracenes",
+            "CASRN": "various",
+            "massPct": 1.481374721e-9,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Indeno(1,2,3-cd)pyrene",
+            "CASRN": "193-39-5",
+            "massPct": 1.077363433e-9,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Perylene",
+            "CASRN": "198-55-0",
+            "massPct": 2.64851844e-9,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "EPA",
+                    "url": "http://nepis.epa.gov/Exe/ZyNET.exe/9100RXZK.txt?ZyActionD=ZyDocument&Client=EPA&Index=1976%20Thru%201980&Docs=&Query=%28benzo%29%20OR%20FNAME%3D%229100RXZK.txt%22%20AND%20FNAME%3D%229100RXZK.txt%22&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C76THRU80%5CTXT%5C00000018%5C9100RXZK.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=19&SeekPage=f",
+                    "id": 6484
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Coronene",
+            "CASRN": "191-07-1",
+            "massPct": 1.795605722e-10,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "Barksdale",
+                    "url": "http://onlinepubs.trb.org/onlinepubs/shrp/SHRP-A-650.pdf",
+                    "id": 7029
+                },
+                {
+                    "name": "EPA",
+                    "url": "http://nepis.epa.gov/Exe/ZyNET.exe/9100RXZK.txt?ZyActionD=ZyDocument&Client=EPA&Index=1976%20Thru%201980&Docs=&Query=%28benzo%29%20OR%20FNAME%3D%229100RXZK.txt%22%20AND%20FNAME%3D%229100RXZK.txt%22&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C76THRU80%5CTXT%5C00000018%5C9100RXZK.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=19&SeekPage=f",
+                    "id": 6484
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Chrysene",
+            "CASRN": "218-01-9",
+            "massPct": 8.97802861e-10,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "Barksdale",
+                    "url": "http://onlinepubs.trb.org/onlinepubs/shrp/SHRP-A-650.pdf",
+                    "id": 7029
+                },
+                {
+                    "name": "EPA",
+                    "url": "http://nepis.epa.gov/Exe/ZyNET.exe/9100RXZK.txt?ZyActionD=ZyDocument&Client=EPA&Index=1976%20Thru%201980&Docs=&Query=%28benzo%29%20OR%20FNAME%3D%229100RXZK.txt%22%20AND%20FNAME%3D%229100RXZK.txt%22&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C76THRU80%5CTXT%5C00000018%5C9100RXZK.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=19&SeekPage=f",
+                    "id": 6484
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Acenaphthene",
+            "CASRN": "83-32-9",
+            "massPct": 3.142310013e-10,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Naphthalene",
+            "CASRN": "91-20-3",
+            "massPct": 2.468957868e-9,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Fluorene",
+            "CASRN": "86-73-7",
+            "massPct": 3.591211444e-10,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Fluoranthene",
+            "CASRN": "206-44-0",
+            "massPct": 3.68099173e-10,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "Barksdale",
+                    "url": "http://onlinepubs.trb.org/onlinepubs/shrp/SHRP-A-650.pdf",
+                    "id": 7029
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Benzo[a]-anthracene",
+            "CASRN": "56-55-3",
+            "massPct": 5.970389025e-10,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "Barksdale",
+                    "url": "http://onlinepubs.trb.org/onlinepubs/shrp/SHRP-A-650.pdf",
+                    "id": 7029
+                },
+                {
+                    "name": "EPA",
+                    "url": "http://nepis.epa.gov/Exe/ZyNET.exe/9100RXZK.txt?ZyActionD=ZyDocument&Client=EPA&Index=1976%20Thru%201980&Docs=&Query=%28benzo%29%20OR%20FNAME%3D%229100RXZK.txt%22%20AND%20FNAME%3D%229100RXZK.txt%22&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C76THRU80%5CTXT%5C00000018%5C9100RXZK.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=19&SeekPage=f",
+                    "id": 6484
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Benzo[ghi]perylene",
+            "CASRN": "191-24-2",
+            "massPct": 2.154726866e-9,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "EPA",
+                    "url": "http://nepis.epa.gov/Exe/ZyNET.exe/9100RXZK.txt?ZyActionD=ZyDocument&Client=EPA&Index=1976%20Thru%201980&Docs=&Query=%28benzo%29%20OR%20FNAME%3D%229100RXZK.txt%22%20AND%20FNAME%3D%229100RXZK.txt%22&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C76THRU80%5CTXT%5C00000018%5C9100RXZK.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=19&SeekPage=f",
+                    "id": 6484
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Tri-Phenylene",
+            "CASRN": "217-59-4",
+            "massPct": 2.917859298e-9,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "EPA",
+                    "url": "http://nepis.epa.gov/Exe/ZyNET.exe/9100RXZK.txt?ZyActionD=ZyDocument&Client=EPA&Index=1976%20Thru%201980&Docs=&Query=%28benzo%29%20OR%20FNAME%3D%229100RXZK.txt%22%20AND%20FNAME%3D%229100RXZK.txt%22&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C76THRU80%5CTXT%5C00000018%5C9100RXZK.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=19&SeekPage=f",
+                    "id": 6484
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Benzo(e)pyrene",
+            "CASRN": "192-97-2",
+            "massPct": 3.411650872e-9,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "EPA",
+                    "url": "http://nepis.epa.gov/Exe/ZyNET.exe/9100RXZK.txt?ZyActionD=ZyDocument&Client=EPA&Index=1976%20Thru%201980&Docs=&Query=%28benzo%29%20OR%20FNAME%3D%229100RXZK.txt%22%20AND%20FNAME%3D%229100RXZK.txt%22&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C76THRU80%5CTXT%5C00000018%5C9100RXZK.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=19&SeekPage=f",
+                    "id": 6484
+                },
+                {
+                    "name": "NPS",
+                    "url": "http://www.nature.nps.gov/hazardssafety/toxic/asphalt.pdf",
+                    "id": 7031
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Benzo(a)pyrene",
+            "CASRN": "50-32-8",
+            "massPct": 9.875831471e-10,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "Barksdale",
+                    "url": "http://onlinepubs.trb.org/onlinepubs/shrp/SHRP-A-650.pdf",
+                    "id": 7029
+                },
+                {
+                    "name": "EPA",
+                    "url": "http://nepis.epa.gov/Exe/ZyNET.exe/9100RXZK.txt?ZyActionD=ZyDocument&Client=EPA&Index=1976%20Thru%201980&Docs=&Query=%28benzo%29%20OR%20FNAME%3D%229100RXZK.txt%22%20AND%20FNAME%3D%229100RXZK.txt%22&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C76THRU80%5CTXT%5C00000018%5C9100RXZK.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=19&SeekPage=f",
+                    "id": 6484
+                },
+                {
+                    "name": "NPS",
+                    "url": "http://www.nature.nps.gov/hazardssafety/toxic/asphalt.pdf",
+                    "id": 7031
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Benzofluoroanthenes",
+            "CASRN": "various",
+            "massPct": 5.386817166e-10,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Anthanthrene",
+            "CASRN": "191-26-4",
+            "massPct": 0,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "Barksdale",
+                    "url": "http://onlinepubs.trb.org/onlinepubs/shrp/SHRP-A-650.pdf",
+                    "id": 7029
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Pyrene",
+            "CASRN": "129-00-0",
+            "massPct": 8.080225749e-10,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "Barksdale",
+                    "url": "http://onlinepubs.trb.org/onlinepubs/shrp/SHRP-A-650.pdf",
+                    "id": 7029
+                },
+                {
+                    "name": "EPA",
+                    "url": "http://nepis.epa.gov/Exe/ZyNET.exe/9100RXZK.txt?ZyActionD=ZyDocument&Client=EPA&Index=1976%20Thru%201980&Docs=&Query=%28benzo%29%20OR%20FNAME%3D%229100RXZK.txt%22%20AND%20FNAME%3D%229100RXZK.txt%22&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C76THRU80%5CTXT%5C00000018%5C9100RXZK.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=19&SeekPage=f",
+                    "id": 6484
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Phenanthrene",
+            "CASRN": "85-01-8",
+            "massPct": 2.06494658e-9,
+            "function": "asphalt residual",
+            "sources": [
+                {
+                    "name": "Asphalt Institute",
+                    "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+                    "id": 1566
+                },
+                {
+                    "name": "NIH",
+                    "url": "http://www.ncbi.nlm.nih.gov/books/NBK294237/?report=printable",
+                    "id": 7032
+                },
+                {
+                    "name": "Barksdale",
+                    "url": "http://onlinepubs.trb.org/onlinepubs/shrp/SHRP-A-650.pdf",
+                    "id": 7029
+                },
+                {
+                    "name": "EPA",
+                    "url": "http://nepis.epa.gov/Exe/ZyNET.exe/9100RXZK.txt?ZyActionD=ZyDocument&Client=EPA&Index=1976%20Thru%201980&Docs=&Query=%28benzo%29%20OR%20FNAME%3D%229100RXZK.txt%22%20AND%20FNAME%3D%229100RXZK.txt%22&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C76THRU80%5CTXT%5C00000018%5C9100RXZK.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=19&SeekPage=f",
+                    "id": 6484
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.00492,
+                    "contributors": [
+                        {
+                            "recId": 9903,
+                            "massPct": 0.00492,
+                            "childrenIds": [
+                                9903,
+                                782
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.0863002865,
+                    "contributors": [
+                        {
+                            "recId": 9901,
+                            "massPct": 0.0834802055,
+                            "childrenIds": [
+                                9901,
+                                1470
+                            ]
+                        },
+                        {
+                            "recId": 9899,
+                            "massPct": 0.0019911481000000003,
+                            "childrenIds": [
+                                9899,
+                                9900
+                            ]
+                        },
+                        {
+                            "recId": 9899,
+                            "massPct": 0.0008289329000000001,
+                            "childrenIds": [
+                                9899,
+                                768
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.0984437262,
+                    "contributors": [
+                        {
+                            "recId": 9901,
+                            "massPct": 0.0834802055,
+                            "childrenIds": [
+                                9901,
+                                1470
+                            ]
+                        },
+                        {
+                            "recId": 9899,
+                            "massPct": 0.0019911481000000003,
+                            "childrenIds": [
+                                9899,
+                                9900
+                            ]
+                        },
+                        {
+                            "recId": 9899,
+                            "massPct": 0.008289329000000002,
+                            "childrenIds": [
+                                9899,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 9899,
+                            "massPct": 0.0008289329000000001,
+                            "childrenIds": [
+                                9899,
+                                768
+                            ]
+                        },
+                        {
+                            "recId": 9899,
+                            "massPct": 0.001367312,
+                            "childrenIds": [
+                                9899,
+                                770
+                            ]
+                        },
+                        {
+                            "recId": 9899,
+                            "massPct": 0.0024867987,
+                            "childrenIds": [
+                                9899,
+                                784
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-577",
+                    "type": "orange",
+                    "name": "Skin Sensitization",
+                    "massPct": 0.0022478004,
+                    "contributors": [
+                        {
+                            "recId": 9904,
+                            "massPct": 0.000051555500000000005,
+                            "childrenIds": [
+                                9904,
+                                8554
+                            ]
+                        },
+                        {
+                            "recId": 9899,
+                            "massPct": 0.0008289329000000001,
+                            "childrenIds": [
+                                9899,
+                                768
+                            ]
+                        },
+                        {
+                            "recId": 9899,
+                            "massPct": 0.001367312,
+                            "childrenIds": [
+                                9899,
+                                770
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.013023928100000002,
+                    "contributors": [
+                        {
+                            "recId": 9904,
+                            "massPct": 0.000051555500000000005,
+                            "childrenIds": [
+                                9904,
+                                8554
+                            ]
+                        },
+                        {
+                            "recId": 9899,
+                            "massPct": 0.008289329000000002,
+                            "childrenIds": [
+                                9899,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 9899,
+                            "massPct": 0.0008289329000000001,
+                            "childrenIds": [
+                                9899,
+                                768
+                            ]
+                        },
+                        {
+                            "recId": 9899,
+                            "massPct": 0.001367312,
+                            "childrenIds": [
+                                9899,
+                                770
+                            ]
+                        },
+                        {
+                            "recId": 9899,
+                            "massPct": 0.0024867987,
+                            "childrenIds": [
+                                9899,
+                                784
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.010280477100000001,
+                    "contributors": [
+                        {
+                            "recId": 9899,
+                            "massPct": 0.0019911481000000003,
+                            "childrenIds": [
+                                9899,
+                                9900
+                            ]
+                        },
+                        {
+                            "recId": 9899,
+                            "massPct": 0.008289329000000002,
+                            "childrenIds": [
+                                9899,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.011254686900000001,
+                    "contributors": [
+                        {
+                            "recId": 9899,
+                            "massPct": 0.008289329000000002,
+                            "childrenIds": [
+                                9899,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 9899,
+                            "massPct": 0.0004785592,
+                            "childrenIds": [
+                                9899,
+                                963
+                            ]
+                        },
+                        {
+                            "recId": 9899,
+                            "massPct": 0.0024867987,
+                            "childrenIds": [
+                                9899,
+                                784
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-10360",
+                    "type": "orange",
+                    "name": "Neurotoxicity",
+                    "massPct": 0.0004785592,
+                    "contributors": [
+                        {
+                            "recId": 9899,
+                            "massPct": 0.0004785592,
+                            "childrenIds": [
+                                9899,
+                                963
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-571",
+                    "type": "orange",
+                    "name": "Mutagenicity",
+                    "massPct": 0.0018458712,
+                    "contributors": [
+                        {
+                            "recId": 9899,
+                            "massPct": 0.0004785592,
+                            "childrenIds": [
+                                9899,
+                                963
+                            ]
+                        },
+                        {
+                            "recId": 9899,
+                            "massPct": 0.001367312,
+                            "childrenIds": [
+                                9899,
+                                770
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-569",
+                    "type": "orange",
+                    "name": "Reproductive",
+                    "massPct": 0.001367312,
+                    "contributors": [
+                        {
+                            "recId": 9899,
+                            "massPct": 0.001367312,
+                            "childrenIds": [
+                                9899,
+                                770
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-567",
+                    "type": "red",
+                    "name": "Cancer",
+                    "massPct": 0.0847876976,
+                    "contributors": [
+                        {
+                            "recId": 9901,
+                            "massPct": 0.0834802055,
+                            "childrenIds": [
+                                9901,
+                                1470
+                            ]
+                        },
+                        {
+                            "recId": 9899,
+                            "massPct": 0.0008289329000000001,
+                            "childrenIds": [
+                                9899,
+                                768
+                            ]
+                        },
+                        {
+                            "recId": 9899,
+                            "massPct": 0.0004785592,
+                            "childrenIds": [
+                                9899,
+                                963
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.0087678882,
+                    "contributors": [
+                        {
+                            "recId": 9899,
+                            "massPct": 0.008289329000000002,
+                            "childrenIds": [
+                                9899,
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 9899,
+                            "massPct": 0.0004785592,
+                            "childrenIds": [
+                                9899,
+                                963
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-568",
+                    "type": "red",
+                    "name": "Developmental",
+                    "massPct": 0.0004785592,
+                    "contributors": [
+                        {
+                            "recId": 9899,
+                            "massPct": 0.0004785592,
+                            "childrenIds": [
+                                9899,
+                                963
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "purple": [
+                {
+                    "hazardId": "purple-955",
+                    "type": "purple",
+                    "name": "PBT",
+                    "massPct": 0.0004785592,
+                    "contributors": [
+                        {
+                            "recId": 9899,
+                            "massPct": 0.0004785592,
+                            "childrenIds": [
+                                9899,
+                                963
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "Steel scrap, cast iron scrap and alloy components are melted in a cupola furnace. A model is formed in sand (as moulding material), the model is removed and the resting cavity effused with melted metal. The life cycle analysis of the grey iron part covers the cradle-to-gate phase. The system boundaries are represented by the finished product at the factory gate. Transports from the factory to the building site are not considered and must be included according to the system boundaries. In the present data set 100 per cent secondary material is assumed as basic material. Increased demand for steel scrap is satisfied with primary steel. Raw materials extraction, energy production, coating energy, and transportation of other raw materials to the plant are included. Packaging is excluded. ",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "GLO: Value of scrap worldsteel"
+            },
+            {
+                "name": "US: Gum rosin (CN import from pine tree plantation)"
+            },
+            {
+                "name": "US: Bitumen at refinery"
+            },
+            {
+                "name": "GLO: Zinc mix"
+            },
+            {
+                "name": "EU-27: Sand 0/2"
+            },
+            {
+                "name": "US: High alumina cement (HAC)"
+            },
+            {
+                "name": "US: Cast iron component (estimation)"
+            },
+            {
+                "name": "DE: Application base coat (automobile)"
+            },
+            {
+                "name": "US: Landfilling of Municipal Solid Waste"
+            },
+            {
+                "name": "US: Tap water from groundwater"
+            },
+            {
+                "name": "US: Water deionized"
+            },
+            {
+                "name": "US: Thermal energy from natural gas (eGrid)"
+            },
+            {
+                "name": "US: Electricity grid mix (eGrid)"
+            },
+            {
+                "name": "DE: Coagulant mix"
+            },
+            {
+                "name": "DE: Rinsing-agent (23% solvents)"
+            },
+            {
+                "name": "GLO: Compressed air 7 bar (low power consumption)"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "100% post-consumer recycled content",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "72% recycled (product has 100% steel scrap input); 28% to landfill (ferro metal and glass/inert).\t\t\t\t\n\t\t\t\t",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "7.59E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "4.54E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "2.88E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "-1.43E-08"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "8.28E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "4.03E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "1.32E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.02E-05"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "3.09E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "4.57E-13"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "3.38E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "4.67E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP175",
+    "name": "Cast Iron Pipes",
+    "altNames": [
+        "Ductile Iron Pipe"
+    ],
+    "uniformats": [
+        {
+            "id": "D2020",
+            "name": "Sanitary Drainage"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "22-13-16",
+            "name": "Sanitary Waste and Vent Piping"
+        }
+    ],
+    "recordType": "Common",
+    "description": "“Cast iron” is a generic term for product made by pouring molten iron into molds where the metal is cast in the shape of the mold. Ductile iron pipes are one such cast iron product. Standard industry practice is to use 100% waste scrap iron and steel for these castings, and add a small amount of magnesium, which gives the finished pipe its ductile qualities. The liquid alloy is poured into a centrifugal mold and spun at a high speed to form a pipe of the desired dimension. The metal cools quickly, becoming solid, and is removed from the mold and tempered to increase it strength. Because the bare iron casting is vulnerable to rust, standard practice is to coat all surfaces of the pipe while at the factory. The exterior of the pipe receives a pre-finish of zinc, and an asphaltic coating to seal out moisture and other corrosive elements. Pipes intended to carry sewage or wastewater are coated on the inside with a high alumina cement, a specialty cement resistant to the corrosive properties of these effluents. (Pipes carrying potable water would be lined with a standard Portland cement). The asphaltic coating used on the pipe exterior can also be applied to the interior of the pipe walls if water chemistries necessitate an additional protective layer. Depending on soil characteristics (pH, permeability, etc), the pipes can be installed below grade with a protective polyethylene sleeve surrounding the pipe.",
+    "sources": [
+        {
+            "name": "Toolbox",
+            "url": "http://www.engineeringtoolbox.com/metal-alloys-densities-d_50.html",
+            "id": 9798
+        },
+        {
+            "name": "PCT",
+            "url": "http://www.pctworldwide.com/PIPE_COATING_DOCS/MPFC-S%20%20_MSDS_.pdf",
+            "id": 2705
+        },
+        {
+            "name": "Asphalt Institute",
+            "url": "http://www.asphaltinstitute.org/wp-content/uploads/public/IS230_2ndedition.pdf",
+            "id": 1566
+        },
+        {
+            "name": "NIH",
+            "url": "http://www.ncbi.nlm.nih.gov/books/NBK294237/?report=printable",
+            "id": 7032
+        },
+        {
+            "name": "Study",
+            "url": "https://bib.irb.hr/datoteka/360481.Ukrainczyk.pdf",
+            "id": 9898
+        },
+        {
+            "name": "Charlotte",
+            "url": "http://www.charlottepipe.com/Documents/MSDS/MSDS_Cast_Iron_Pipe_Fittings.pdf",
+            "id": 9897
+        },
+        {
+            "name": "Toolbox",
+            "url": "http://www.engineeringtoolbox.com/cast-iron-soil-pipe-dimensions-d_1751.html",
+            "id": 9895
+        },
+        {
+            "name": "USGS",
+            "url": "http://minerals.usgs.gov/minerals/pubs/commodity/clays/claysmyb03.pdf",
+            "id": 9894
+        },
+        {
+            "name": "WHO",
+            "url": "http://www.who.int/ipcs/publications/ehc/ehc_231.pdf",
+            "id": 9893
+        },
+        {
+            "name": "Petersen",
+            "url": "http://www.petersenproducts.com/Specifications/Pipe_Iron.aspx",
+            "id": 9892
+        },
+        {
+            "name": "NPS",
+            "url": "http://www.nature.nps.gov/hazardssafety/toxic/asphalt.pdf",
+            "id": 7031
+        },
+        {
+            "name": "EPA",
+            "url": "http://nepis.epa.gov/Exe/ZyNET.exe/9100RXZK.txt?ZyActionD=ZyDocument&Client=EPA&Index=1976%20Thru%201980&Docs=&Query=%28benzo%29%20OR%20FNAME%3D%229100RXZK.txt%22%20AND%20FNAME%3D%229100RXZK.txt%22&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C76THRU80%5CTXT%5C00000018%5C9100RXZK.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=p%7Cf&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=19&SeekPage=f",
+            "id": 6484
+        },
+        {
+            "name": "Barksdale",
+            "url": "http://onlinepubs.trb.org/onlinepubs/shrp/SHRP-A-650.pdf",
+            "id": 7029
+        },
+        {
+            "name": "Toolbox 3",
+            "url": "http://www.engineeringtoolbox.com/density-materials-d_1652.html",
+            "id": 9846
+        },
+        {
+            "name": "SIMetric",
+            "url": "http://www.simetric.co.uk/si_materials.htm",
+            "id": 9847
+        },
+        {
+            "name": "ASTM A74",
+            "url": "http://www.astm.org/Standards/A74.htm",
+            "id": 9848
+        },
+        {
+            "name": "Saint Gobain",
+            "url": "http://www.saint-gobain-pam-cast-iron.com/sites/default/files/document/cast-iron-drainage-systems-for-buildings.pdf",
+            "id": 9849
+        },
+        {
+            "name": "ASTM A48",
+            "url": "http://www.astm.org/Standards/A48.htm",
+            "id": 9850
+        },
+        {
+            "name": "ASTM A377",
+            "url": "http://www.astm.org/Standards/A377.htm",
+            "id": 9851
+        },
+        {
+            "name": "Casting",
+            "url": "http://www.castingquality.com/casting-technology/casting-material/grey-cast-iron-property-and-chemistry.html",
+            "id": 9852
+        },
+        {
+            "name": "GSA",
+            "url": "http://www.gsa.gov/portal/content/111738",
+            "id": 9853
+        },
+        {
+            "name": "Video",
+            "url": "https://www.youtube.com/watch?v=kJGlgSZe4k4",
+            "id": 9854
+        },
+        {
+            "name": "CISPI",
+            "url": "http://www.cispi.org/CISPI/files/76/76953996-dfd0-489b-a970-a0a0e30958a4.pdf",
+            "id": 9855
+        },
+        {
+            "name": "Handbook",
+            "url": "http://www.cispi.videoideas.com/CISPI/files/8b/8b6004bc-1eaa-405c-b452-29061680a58e.pdf",
+            "id": 9856
+        },
+        {
+            "name": "AB&I",
+            "url": "https://www.youtube.com/watch?v=s3hHPEaY3NA&feature=g-upl",
+            "id": 9857
+        },
+        {
+            "name": "US Pipe",
+            "url": "http://www.uspipe.com/products/special-coatings-linings/metallic-zinc-coating",
+            "id": 9858
+        },
+        {
+            "name": "Polywrap",
+            "url": "http://www.northtowncompany.com/polywrap.html",
+            "id": 9859
+        },
+        {
+            "name": "AWWA",
+            "url": "http://www.awwa.org/store/productdetail.aspx?productid=21700",
+            "id": 9861
+        },
+        {
+            "name": "American",
+            "url": "http://www.american-usa.com/products/ductile-iron-pipe-and-fittings/coatings/standard-asphaltic-coating",
+            "id": 9862
+        },
+        {
+            "name": "American MSDS",
+            "url": "http://www.american-usa.com/system/assets/355/original/MSDS_Ductile_Iron_Pipe.pdf",
+            "id": 9863
+        },
+        {
+            "name": "Custom",
+            "url": "http://www.custompipe.com/Products/pdfs/Coatings%20and%20Linings.pdf",
+            "id": 9864
+        },
+        {
+            "name": "Professional",
+            "url": "http://www.pctworldwide.com/PIPE_COATING_DOCS/MOS-50%20OD%20MSDS.pdf",
+            "id": 9865
+        },
+        {
+            "name": "Professsional WB-TDS",
+            "url": "http://www.pctworldwide.com/PIPE_COATING_DOCS/MPFC-S%20TECH.pdf",
+            "id": 9867
+        },
+        {
+            "name": "Tyler",
+            "url": "http://www.tylerpipe.com/upl/downloads/catalog/products/soil-pipe-coating-1e134dd3.pdf",
+            "id": 9868
+        },
+        {
+            "name": "Malden",
+            "url": "http://www.wwscorp.com/images/wwsc_msds_2011.pdf",
+            "id": 9869
+        },
+        {
+            "name": "Henry",
+            "url": "https://www.google.com/patents/US8557909?dq=water+based+asphaltic+coating+ductile+pipe&hl=en&sa=X&ved=0CCwQ6AEwAmoVChMI8vLugpykxwIVx7geCh07Fwe_",
+            "id": 9870
+        },
+        {
+            "name": "Kimberton",
+            "url": "http://www.google.com/patents/US5713996",
+            "id": 9871
+        },
+        {
+            "name": "China",
+            "url": "https://www.google.com/patents/CN101973727A?cl=en&dq=cement+lining+ductile+pipe&hl=en&sa=X&ved=0CEEQ6AEwBGoVChMImZ7AlKykxwIVi3Y-Ch2YkgBK",
+            "id": 9872
+        },
+        {
+            "name": "Amstead",
+            "url": "https://www.google.com/patents/US5955162?dq=water+based+asphaltic+coating+ductile+pipe&hl=en&sa=X&ved=0CCoQ6AEwAjgKahUKEwimtuH2q6THAhVGkx4KHfkFCV8",
+            "id": 9873
+        },
+        {
+            "name": "US Pipe Patent",
+            "url": "https://www.google.com/patents/US8697251?dq=water+based+asphaltic+coating+ductile+pipe&hl=en&sa=X&ved=0CE8Q6AEwBzgKahUKEwimtuH2q6THAhVGkx4KHfkFCV8",
+            "id": 9874
+        },
+        {
+            "name": "DIPRA",
+            "url": "http://www.dipra.org/ductile-iron-pipe-resources/technical-publications/hydraulics?download=17:cement-mortar-linings-for-ductile-iron-pipe",
+            "id": 9875
+        },
+        {
+            "name": "HE027",
+            "url": "http://us.henry.com/fileadmin%2Fpdf%2Fcurrent%2Ftds%2FHE027_techdata.pdf",
+            "id": 9876
+        },
+        {
+            "name": "HE027 MSDS",
+            "url": "http://us.henry.com/fileadmin%2Fpdf%2Fcurrent%2Fmsds%2FHE027_msds.pdf",
+            "id": 9877
+        },
+        {
+            "name": "Seal",
+            "url": "http://www.sealforlife.com/markets/water-pipelines",
+            "id": 9878
+        },
+        {
+            "name": "TATA",
+            "url": "http://www.tmdipl.com/products/ductile-iron-pipes.aspx",
+            "id": 9879
+        },
+        {
+            "name": "Jindal",
+            "url": "http://www.jindalsaw.com/Products/M__17",
+            "id": 9880
+        },
+        {
+            "name": "Bentonite",
+            "url": "http://www.bentonite.com/bpm/asphalt-emulsifiers.page?node-id=hlf0nkyw",
+            "id": 9881
+        },
+        {
+            "name": "Vinsol",
+            "url": "http://www.pinovasolutions.com/uploads/files/resources/pinova-vinsol-brochure.pdf",
+            "id": 9882
+        },
+        {
+            "name": "Pinova",
+            "url": "http://www.pinovasolutions.com/products/vinsol-pulverized",
+            "id": 9883
+        },
+        {
+            "name": "Canada",
+            "url": "http://www.canadapipe.com/products/ductile-iron-pipe/",
+            "id": 9884
+        },
+        {
+            "name": "Leth",
+            "url": "http://www.lethiron.com/downloads/pdf/MSDS-%20042%20DUCTILE%20IRON.pdf",
+            "id": 9885
+        },
+        {
+            "name": "Texas",
+            "url": "http://ftp.dot.state.tx.us/pub/txdot-info/cst/tips/calcium_concrete.pdf",
+            "id": 9886
+        },
+        {
+            "name": "Almatis",
+            "url": "http://almatiswv.thewercs.com/private/document.aspx?prd=993~~PDF~~MTR~~CLP1~~EN~~0001-01-01%2000%3A00%3A00~~CALCIUM%20ALUMINATE%20CEMENT~~&productID=993&productID_option=d__~value~&productName_option=d__~value~",
+            "id": 9887
+        },
+        {
+            "name": "Karau",
+            "url": "https://www.google.com/patents/WO2014154573A1?cl=en",
+            "id": 9888
+        },
+        {
+            "name": "Fishwick",
+            "url": "http://www.concreteconstruction.net/Images/Calcium%20Aluminate%20Cement%20Concrete_tcm45-340927.pdf",
+            "id": 9889
+        },
+        {
+            "name": "Ashland",
+            "url": "http://www.ashland.com/Ashland/Static/Documents/AAFI/PRO-250-11G_Natrosol11G.pdf",
+            "id": 9890
+        },
+        {
+            "name": "American Spec",
+            "url": "http://www.american-usa.com/system/assets/391/original/Final_Zinc_Flyer.pdf",
+            "id": 9891
+        }
+    ]
+}

@@ -1,0 +1,1523 @@
+{
+    "CPID": "CP044",
+    "timestamp": 1452102109921,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 10986,
+            "name": "Anodized Coating",
+            "CASRN": "",
+            "massPct": 0.0121,
+            "function": "coating",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 1,
+                        "contributors": [
+                            {
+                                "recId": 839,
+                                "massPct": 1,
+                                "childrenIds": [
+                                    839
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 1,
+                        "contributors": [
+                            {
+                                "recId": 839,
+                                "massPct": 1,
+                                "childrenIds": [
+                                    839
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 1,
+                        "contributors": [
+                            {
+                                "recId": 839,
+                                "massPct": 1,
+                                "childrenIds": [
+                                    839
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 839,
+                    "name": "Hydrated Aluminum Oxide",
+                    "CASRN": "1318-23-6",
+                    "massPct": 1,
+                    "function": "",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Edge",
+                            "url": "http://www.engineersedge.com/chromic_anodize.htm",
+                            "id": 809
+                        },
+                        {
+                            "name": "Anodizing World",
+                            "url": "http://aluminumsurface.blogspot.com/2009/04/why-sealing-process-is-so-important.html",
+                            "id": 801
+                        },
+                        {
+                            "name": "Coastline",
+                            "url": "http://www.coastlinemetalfinishing.com/anodizing/sulfuric-anodizing",
+                            "id": 808
+                        },
+                        {
+                            "name": "Aluminum Design",
+                            "url": "http://www.aluminiumdesign.net/design-support/aluminium-surface-treatment/",
+                            "id": 800
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0121
+                }
+            ],
+            "sources": [
+                {
+                    "name": "Infiniti",
+                    "url": "http://www.rlh-llc.com/estimating/Production%20-%20Current%20Projects/Infiniti%20of%20Augusta/Specifications/08%204413%20BSD-Glazed%20Aluminum%20Curtain%20Walls.pdf",
+                    "id": 813
+                },
+                {
+                    "name": "Trulite",
+                    "url": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CDEQFjAD&url=http%3A%2F%2Ftrulite.com%2Fassets%2Fdocs%2F08%252044%252013-Trulite%2520CW.doc&ei=KxOGVI_eHMeEgwS1sYLoAw&usg=AFQjCNGwf6kP7XR3kITu3TJNfxpUNgDGcg&sig2=HLNIp58fzqsFHgpkVz7bhw&bvm=bv.80642063,d.eXY",
+                    "id": 819
+                },
+                {
+                    "name": "Capitol",
+                    "url": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CCwQFjAC&url=http%3A%2F%2Fwww.capitol-windows.com%2Findex.php%2Fdownload_file%2F300%2F190%2F&ei=KxOGVI_eHMeEgwS1sYLoAw&usg=AFQjCNEd0VlECefSYBGuwKSEu3XA9rLUng&sig2=FJFyK4ZNTJwOVnvR0YM-Cw&bvm=bv.80642063,d.eXY",
+                    "id": 807
+                },
+                {
+                    "name": "Bulletin 7",
+                    "url": "http://www.anodizing.org/Publications/bulletin_7.html",
+                    "id": 806
+                },
+                {
+                    "name": "FAQs",
+                    "url": "http://asphaltrecycling.com/display.php?cnt_id=24",
+                    "id": 811
+                },
+                {
+                    "name": "AAC",
+                    "url": "http://www.anodizing.org/Anodizing/what_is_anodizing.html",
+                    "id": 823
+                },
+                {
+                    "name": "US Aluminum",
+                    "url": "http://www.crl-arch.com/docs/us_aluminum/curtain_wall/3250/adm_3250.pdf",
+                    "id": 821
+                },
+                {
+                    "name": "EFCO",
+                    "url": "http://sweets.construction.com/swts_content_files/4/150288.pdf",
+                    "id": 810
+                },
+                {
+                    "name": "Manko",
+                    "url": "http://www.mankowindows.com/images/brochure_page_graphics/brochure_PDFs/Aluminum_Framing/Curtain_Wall.pdf",
+                    "id": 815
+                },
+                {
+                    "name": "Kawneer",
+                    "url": "http://www.kawneer.com/kawneer/cad_na/4271/999_Specifications/010_1600UT%20Curtain%20Wall%20System/010.pdf",
+                    "id": 814
+                },
+                {
+                    "name": "TubeLite",
+                    "url": "http://www.tubeliteinc.com/product_types/crw_300ES/300ES%20Curtainwall.pdf",
+                    "id": 820
+                },
+                {
+                    "name": "ThermlBlock Specs",
+                    "url": "http://www.tubeliteinc.com/literature/Tubelite_300ES.pdf",
+                    "id": 818
+                }
+            ],
+            "notes": "Anodizing is accomplished by immersing the aluminum into an acid electrolyte bath and passing an electric current through the medium. A cathode is mounted to the inside of the anodizing tank; the aluminum acts as an anode, so that oxygen ions are released from the electrolyte to combine with the aluminum atoms at the surface of the part being anodized. Anodizing is, therefore, a matter of highly controlled oxidation—the enhancement of a naturally occurring phenomenon. (AAC) curtain walls, specifically (FAQs)",
+            "lca": "",
+            "massPctOfTotal": 0.0121
+        },
+        {
+            "recId": 835,
+            "name": "Aluminum Alloy 6063-T5 Or 6063-T6",
+            "CASRN": "",
+            "massPct": 0.9879,
+            "function": "base metal",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization",
+                        "massPct": 0.00101,
+                        "contributors": [
+                            {
+                                "recId": 770,
+                                "massPct": 0.00101,
+                                "childrenIds": [
+                                    770
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.97168,
+                        "contributors": [
+                            {
+                                "recId": 770,
+                                "massPct": 0.00101,
+                                "childrenIds": [
+                                    770
+                                ]
+                            },
+                            {
+                                "recId": 766,
+                                "massPct": 0.00101,
+                                "childrenIds": [
+                                    766
+                                ]
+                            },
+                            {
+                                "recId": 784,
+                                "massPct": 0.96865,
+                                "childrenIds": [
+                                    784
+                                ]
+                            },
+                            {
+                                "recId": 760,
+                                "massPct": 0.00101,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": 0.9706699999999999,
+                        "contributors": [
+                            {
+                                "recId": 770,
+                                "massPct": 0.00101,
+                                "childrenIds": [
+                                    770
+                                ]
+                            },
+                            {
+                                "recId": 784,
+                                "massPct": 0.96865,
+                                "childrenIds": [
+                                    784
+                                ]
+                            },
+                            {
+                                "recId": 760,
+                                "massPct": 0.00101,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity",
+                        "massPct": 0.00101,
+                        "contributors": [
+                            {
+                                "recId": 770,
+                                "massPct": 0.00101,
+                                "childrenIds": [
+                                    770
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": 0.00101,
+                        "contributors": [
+                            {
+                                "recId": 770,
+                                "massPct": 0.00101,
+                                "childrenIds": [
+                                    770
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": 0.00101,
+                        "contributors": [
+                            {
+                                "recId": 782,
+                                "massPct": 0.00101,
+                                "childrenIds": [
+                                    782
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.00202,
+                        "contributors": [
+                            {
+                                "recId": 766,
+                                "massPct": 0.00101,
+                                "childrenIds": [
+                                    766
+                                ]
+                            },
+                            {
+                                "recId": 760,
+                                "massPct": 0.00101,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.96966,
+                        "contributors": [
+                            {
+                                "recId": 784,
+                                "massPct": 0.96865,
+                                "childrenIds": [
+                                    784
+                                ]
+                            },
+                            {
+                                "recId": 760,
+                                "massPct": 0.00101,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity",
+                        "massPct": 0.00101,
+                        "contributors": [
+                            {
+                                "recId": 766,
+                                "massPct": 0.00101,
+                                "childrenIds": [
+                                    766
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": 0.00101,
+                        "contributors": [
+                            {
+                                "recId": 760,
+                                "massPct": 0.00101,
+                                "childrenIds": [
+                                    760
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 770,
+                    "name": "Chromium",
+                    "CASRN": "7440-47-3",
+                    "massPct": 0.00101,
+                    "function": "alloy element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-577",
+                                "type": "orange",
+                                "name": "Skin Sensitization",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-571",
+                                "type": "orange",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-569",
+                                "type": "orange",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "ASTM B945",
+                            "url": "http://www.astm.org/Standards/B945.htm",
+                            "id": 805
+                        },
+                        {
+                            "name": "ASTM B807",
+                            "url": "http://www.astm.org/Standards/B807.htm",
+                            "id": 804
+                        },
+                        {
+                            "name": "ASTM B221",
+                            "url": "http://www.astm.org/Standards/B221.htm",
+                            "id": 803
+                        },
+                        {
+                            "name": "T6 ASM",
+                            "url": "http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6063T6",
+                            "id": 817
+                        },
+                        {
+                            "name": "T5 ASM",
+                            "url": "http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6063T5",
+                            "id": 816
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.000997779
+                },
+                {
+                    "recId": 780,
+                    "name": "Titanium",
+                    "CASRN": "7440-32-6",
+                    "massPct": 0.00101,
+                    "function": "alloy element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "ASTM B945",
+                            "url": "http://www.astm.org/Standards/B945.htm",
+                            "id": 805
+                        },
+                        {
+                            "name": "ASTM B807",
+                            "url": "http://www.astm.org/Standards/B807.htm",
+                            "id": 804
+                        },
+                        {
+                            "name": "ASTM B221",
+                            "url": "http://www.astm.org/Standards/B221.htm",
+                            "id": 803
+                        },
+                        {
+                            "name": "T6 ASM",
+                            "url": "http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6063T6",
+                            "id": 817
+                        },
+                        {
+                            "name": "T5 ASM",
+                            "url": "http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6063T5",
+                            "id": 816
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.000997779
+                },
+                {
+                    "recId": 758,
+                    "name": "Iron",
+                    "CASRN": "7439-89-6",
+                    "massPct": 0.35,
+                    "function": "alloy element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "ASTM B945",
+                            "url": "http://www.astm.org/Standards/B945.htm",
+                            "id": 805
+                        },
+                        {
+                            "name": "ASTM B807",
+                            "url": "http://www.astm.org/Standards/B807.htm",
+                            "id": 804
+                        },
+                        {
+                            "name": "ASTM B221",
+                            "url": "http://www.astm.org/Standards/B221.htm",
+                            "id": 803
+                        },
+                        {
+                            "name": "T6 ASM",
+                            "url": "http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6063T6",
+                            "id": 817
+                        },
+                        {
+                            "name": "T5 ASM",
+                            "url": "http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6063T5",
+                            "id": 816
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.345765
+                },
+                {
+                    "recId": 782,
+                    "name": "Zinc",
+                    "CASRN": "7440-66-6",
+                    "massPct": 0.00101,
+                    "function": "alloy element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "ASTM B945",
+                            "url": "http://www.astm.org/Standards/B945.htm",
+                            "id": 805
+                        },
+                        {
+                            "name": "ASTM B807",
+                            "url": "http://www.astm.org/Standards/B807.htm",
+                            "id": 804
+                        },
+                        {
+                            "name": "ASTM B221",
+                            "url": "http://www.astm.org/Standards/B221.htm",
+                            "id": 803
+                        },
+                        {
+                            "name": "T6 ASM",
+                            "url": "http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6063T6",
+                            "id": 817
+                        },
+                        {
+                            "name": "T5 ASM",
+                            "url": "http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6063T5",
+                            "id": 816
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.000997779
+                },
+                {
+                    "recId": 837,
+                    "name": "Magnesium",
+                    "CASRN": "7439-95-4",
+                    "massPct": 0.00675,
+                    "function": "alloy element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "ASTM B945",
+                            "url": "http://www.astm.org/Standards/B945.htm",
+                            "id": 805
+                        },
+                        {
+                            "name": "ASTM B807",
+                            "url": "http://www.astm.org/Standards/B807.htm",
+                            "id": 804
+                        },
+                        {
+                            "name": "ASTM B221",
+                            "url": "http://www.astm.org/Standards/B221.htm",
+                            "id": 803
+                        },
+                        {
+                            "name": "T6 ASM",
+                            "url": "http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6063T6",
+                            "id": 817
+                        },
+                        {
+                            "name": "T5 ASM",
+                            "url": "http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6063T5",
+                            "id": 816
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.006668325
+                },
+                {
+                    "recId": 766,
+                    "name": "Copper",
+                    "CASRN": "7440-50-8",
+                    "massPct": 0.00101,
+                    "function": "alloy element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-571",
+                                "type": "red",
+                                "name": "Mutagenicity",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "ASTM B945",
+                            "url": "http://www.astm.org/Standards/B945.htm",
+                            "id": 805
+                        },
+                        {
+                            "name": "ASTM B807",
+                            "url": "http://www.astm.org/Standards/B807.htm",
+                            "id": 804
+                        },
+                        {
+                            "name": "ASTM B221",
+                            "url": "http://www.astm.org/Standards/B221.htm",
+                            "id": 803
+                        },
+                        {
+                            "name": "T6 ASM",
+                            "url": "http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6063T6",
+                            "id": 817
+                        },
+                        {
+                            "name": "T5 ASM",
+                            "url": "http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6063T5",
+                            "id": 816
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.000997779
+                },
+                {
+                    "recId": 784,
+                    "name": "Aluminum",
+                    "CASRN": "7429-90-5",
+                    "massPct": 0.96865,
+                    "function": "alloy element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "ASTM B945",
+                            "url": "http://www.astm.org/Standards/B945.htm",
+                            "id": 805
+                        },
+                        {
+                            "name": "ASTM B807",
+                            "url": "http://www.astm.org/Standards/B807.htm",
+                            "id": 804
+                        },
+                        {
+                            "name": "ASTM B221",
+                            "url": "http://www.astm.org/Standards/B221.htm",
+                            "id": 803
+                        },
+                        {
+                            "name": "T6 ASM",
+                            "url": "http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6063T6",
+                            "id": 817
+                        },
+                        {
+                            "name": "T5 ASM",
+                            "url": "http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6063T5",
+                            "id": 816
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.956929335
+                },
+                {
+                    "recId": 836,
+                    "name": "Silicon",
+                    "CASRN": "7440-21-3",
+                    "massPct": 0.004,
+                    "function": "alloy element",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "ASTM B945",
+                            "url": "http://www.astm.org/Standards/B945.htm",
+                            "id": 805
+                        },
+                        {
+                            "name": "ASTM B807",
+                            "url": "http://www.astm.org/Standards/B807.htm",
+                            "id": 804
+                        },
+                        {
+                            "name": "ASTM B221",
+                            "url": "http://www.astm.org/Standards/B221.htm",
+                            "id": 803
+                        },
+                        {
+                            "name": "T6 ASM",
+                            "url": "http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6063T6",
+                            "id": 817
+                        },
+                        {
+                            "name": "T5 ASM",
+                            "url": "http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6063T5",
+                            "id": 816
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0039516
+                },
+                {
+                    "recId": 760,
+                    "name": "Manganese",
+                    "CASRN": "7439-96-5",
+                    "massPct": 0.00101,
+                    "function": "alloy element",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-572",
+                                "type": "orange",
+                                "name": "Respiratory",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "ASTM B945",
+                            "url": "http://www.astm.org/Standards/B945.htm",
+                            "id": 805
+                        },
+                        {
+                            "name": "ASTM B807",
+                            "url": "http://www.astm.org/Standards/B807.htm",
+                            "id": 804
+                        },
+                        {
+                            "name": "ASTM B221",
+                            "url": "http://www.astm.org/Standards/B221.htm",
+                            "id": 803
+                        },
+                        {
+                            "name": "T6 ASM",
+                            "url": "http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6063T6",
+                            "id": 817
+                        },
+                        {
+                            "name": "T5 ASM",
+                            "url": "http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6063T5",
+                            "id": 816
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.000997779
+                }
+            ],
+            "sources": [
+                {
+                    "name": "Hiboldt",
+                    "url": "http://www.hilboldt.com/customcurtainwall.php",
+                    "id": 812
+                },
+                {
+                    "name": "EFCO",
+                    "url": "http://sweets.construction.com/swts_content_files/4/150288.pdf",
+                    "id": 810
+                },
+                {
+                    "name": "Kawneer",
+                    "url": "http://www.kawneer.com/kawneer/cad_na/4271/999_Specifications/010_1600UT%20Curtain%20Wall%20System/010.pdf",
+                    "id": 814
+                },
+                {
+                    "name": "Trulite",
+                    "url": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CDEQFjAD&url=http%3A%2F%2Ftrulite.com%2Fassets%2Fdocs%2F08%252044%252013-Trulite%2520CW.doc&ei=KxOGVI_eHMeEgwS1sYLoAw&usg=AFQjCNGwf6kP7XR3kITu3TJNfxpUNgDGcg&sig2=HLNIp58fzqsFHgpkVz7bhw&bvm=bv.80642063,d.eXY",
+                    "id": 819
+                },
+                {
+                    "name": "Capitol",
+                    "url": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CCwQFjAC&url=http%3A%2F%2Fwww.capitol-windows.com%2Findex.php%2Fdownload_file%2F300%2F190%2F&ei=KxOGVI_eHMeEgwS1sYLoAw&usg=AFQjCNEd0VlECefSYBGuwKSEu3XA9rLUng&sig2=FJFyK4ZNTJwOVnvR0YM-Cw&bvm=bv.80642063,d.eXY",
+                    "id": 807
+                },
+                {
+                    "name": "Manko",
+                    "url": "http://www.mankowindows.com/images/brochure_page_graphics/brochure_PDFs/Aluminum_Framing/Curtain_Wall.pdf",
+                    "id": 815
+                },
+                {
+                    "name": "US Aluminum",
+                    "url": "http://www.crl-arch.com/docs/us_aluminum/curtain_wall/3250/adm_3250.pdf",
+                    "id": 821
+                },
+                {
+                    "name": "TubeLite",
+                    "url": "http://www.tubeliteinc.com/product_types/crw_300ES/300ES%20Curtainwall.pdf",
+                    "id": 820
+                }
+            ],
+            "notes": "ASTM does not differentiate between T5 and T6 tempers in its analysis of metals in the 6063 alloy.  Likewise, source documents ASM T6 and ASM T5 provide identical chemical make ups for the two tempers.",
+            "lca": "",
+            "massPctOfTotal": 0.9879
+        }
+    ],
+    "impurities": [
+        {
+            "name": null,
+            "CASRN": null,
+            "massPct": 0,
+            "function": null,
+            "sources": [],
+            "hazards": {}
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.9720226719999999,
+                    "contributors": [
+                        {
+                            "recId": 10986,
+                            "massPct": 0.0121,
+                            "childrenIds": [
+                                10986,
+                                839
+                            ]
+                        },
+                        {
+                            "recId": 835,
+                            "massPct": 0.000997779,
+                            "childrenIds": [
+                                835,
+                                770
+                            ]
+                        },
+                        {
+                            "recId": 835,
+                            "massPct": 0.000997779,
+                            "childrenIds": [
+                                835,
+                                766
+                            ]
+                        },
+                        {
+                            "recId": 835,
+                            "massPct": 0.956929335,
+                            "childrenIds": [
+                                835,
+                                784
+                            ]
+                        },
+                        {
+                            "recId": 835,
+                            "massPct": 0.000997779,
+                            "childrenIds": [
+                                835,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.971024893,
+                    "contributors": [
+                        {
+                            "recId": 10986,
+                            "massPct": 0.0121,
+                            "childrenIds": [
+                                10986,
+                                839
+                            ]
+                        },
+                        {
+                            "recId": 835,
+                            "massPct": 0.000997779,
+                            "childrenIds": [
+                                835,
+                                770
+                            ]
+                        },
+                        {
+                            "recId": 835,
+                            "massPct": 0.956929335,
+                            "childrenIds": [
+                                835,
+                                784
+                            ]
+                        },
+                        {
+                            "recId": 835,
+                            "massPct": 0.000997779,
+                            "childrenIds": [
+                                835,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.970027114,
+                    "contributors": [
+                        {
+                            "recId": 10986,
+                            "massPct": 0.0121,
+                            "childrenIds": [
+                                10986,
+                                839
+                            ]
+                        },
+                        {
+                            "recId": 835,
+                            "massPct": 0.956929335,
+                            "childrenIds": [
+                                835,
+                                784
+                            ]
+                        },
+                        {
+                            "recId": 835,
+                            "massPct": 0.000997779,
+                            "childrenIds": [
+                                835,
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-577",
+                    "type": "orange",
+                    "name": "Skin Sensitization",
+                    "massPct": 0.000997779,
+                    "contributors": [
+                        {
+                            "recId": 835,
+                            "massPct": 0.000997779,
+                            "childrenIds": [
+                                835,
+                                770
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-571",
+                    "type": "orange",
+                    "name": "Mutagenicity",
+                    "massPct": 0.000997779,
+                    "contributors": [
+                        {
+                            "recId": 835,
+                            "massPct": 0.000997779,
+                            "childrenIds": [
+                                835,
+                                770
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-569",
+                    "type": "orange",
+                    "name": "Reproductive",
+                    "massPct": 0.000997779,
+                    "contributors": [
+                        {
+                            "recId": 835,
+                            "massPct": 0.000997779,
+                            "childrenIds": [
+                                835,
+                                770
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.000997779,
+                    "contributors": [
+                        {
+                            "recId": 835,
+                            "massPct": 0.000997779,
+                            "childrenIds": [
+                                835,
+                                782
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.001995558,
+                    "contributors": [
+                        {
+                            "recId": 835,
+                            "massPct": 0.000997779,
+                            "childrenIds": [
+                                835,
+                                766
+                            ]
+                        },
+                        {
+                            "recId": 835,
+                            "massPct": 0.000997779,
+                            "childrenIds": [
+                                835,
+                                760
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-571",
+                    "type": "red",
+                    "name": "Mutagenicity",
+                    "massPct": 0.000997779,
+                    "contributors": [
+                        {
+                            "recId": 835,
+                            "massPct": 0.000997779,
+                            "childrenIds": [
+                                835,
+                                766
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.000997779,
+                    "contributors": [
+                        {
+                            "recId": 835,
+                            "massPct": 0.000997779,
+                            "childrenIds": [
+                                835,
+                                760
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "All materials input, from mining of bauxite through extrusion of the finished products, are included in the LCA model. The data comes a recent survey and report from the Aluminum Association and North American industry averages to describe various characteristics of the product, including recycling content, finishing, and alloying elements. The aluminum rod input into the extrusion process is modeled with an average post-consumer recycled content of 29%. The dataset accounts for average finishing processes, including anodized, painted, lacquered, and mill-finished options. ",
+        "gabiDatasets": [
+            {
+                "name": "NA: Extruded Aluminum"
+            }
+        ],
+        "foregroundDataSource": "GaBi",
+        "backforegroundDataSource": "n/a",
+        "postConsumerRecycledContent": "29%",
+        "referenceCountry": "North America",
+        "referenceYear": 2015,
+        "endOfLifeTreatment": "95% recovered (includes recycling, scrap preparation, and avoided burden credit); 5% landfilled (inert material). Distance to landfill: 20 miles.\nDistance to recycling:100 miles.",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "3.75E-02"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "6.99E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "6.57E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "4.41E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "3.27E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "1.02E+02"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "-2.83E-02"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "-4.51E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "-4.30E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "-1.94E-10"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "-2.18E-01"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "-6.61E+01"
+                }
+            ]
+        }
+    },
+    "id": "CP044",
+    "name": "Anodized Aluminum Curtainwall Extrusion",
+    "altNames": [
+        "Aluminum extrusion",
+        "Curtainwall",
+        "Curtainwall Aluminum"
+    ],
+    "uniformats": [
+        {
+            "id": "B2010",
+            "name": "Exterior Walls"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "08-44-13",
+            "name": "Glazed Aluminum Curtain Walls"
+        }
+    ],
+    "recordType": "Common",
+    "description": "This common product describes an aluminum extrusion, anodized with a clear surface coating, as is common in curtain walls. The aluminum alloys typically used in curtain walls come from the 6xxx series, more specifically 6063 in either a T5 or T6 temper. These tempers are chemically identical, but have been put through different heat treatments to impart slightly different strength and performance characteristics. Because they are part of a building exterior, extruded aluminum for use in curtain walls includes a surface treatment. Anodized treatments and PVDF coatings are most common for this application (see PVDF-Coated Aluminum Curtainwall Extrusion).  Anodizing is a process similar to electroplating, where electrical current is passed through a conductive bath in which the item being anodized is submerged. The current accelerates the oxidizing process that would naturally occur to the aluminum if exposed to the elements over time, and produces a surface layer of protective aluminum oxide. There are several types of conductive baths that can be used, but sulfuric acid is most common. Anodizing can include the use of added colorants and dyes to create a variety of colors, however this is a review of extrusions without added colorants. After anodizing, the extrusion must be sealed.  Boiling in deionized water is the simplest technique for sealing. The end result of the anodizing process is that the surface layer of aluminum has been chemically converted into hydrated aluminum oxide, which protects the underlying aluminum from damage. The dimensions of curtain wall framing are customizable. Based on a sample review of product literature, percentages are based on a segment of anodized aluminum extrusion 24 feet long, 2.5 inches wide, 6 inches deep, and .125 inches thick. For estimation purposes, we’ve assumed a simplified geometry and have excluded grooves, etc. from our calculation of surface area.",
+    "sources": [
+        {
+            "name": "What Is It?",
+            "url": "http://www.anodizing.org/?page=what_is_anodizing",
+            "id": 832
+        },
+        {
+            "name": "SAF",
+            "url": "http://www.saf.com/how-to-specify/how-to-decide-between-anodizing-painting-and-powder-coating/",
+            "id": 831
+        },
+        {
+            "name": "MRooker",
+            "url": "http://mrooker.com/JMUmetals/technical/Anodizing.html",
+            "id": 830
+        },
+        {
+            "name": "Lintec",
+            "url": "http://www.linetec.com/anodize/anodize_overview.html",
+            "id": 829
+        },
+        {
+            "name": "Hydro",
+            "url": "http://www.tubeliteinc.com/wp-content/uploads/2014/02/MSDS.pdf",
+            "id": 828
+        },
+        {
+            "name": "Draft",
+            "url": "http://www.aamanet.org/mp/611-xx_d3_3-5-14.pdf",
+            "id": 827
+        },
+        {
+            "name": "AlumaSeal TDS",
+            "url": "http://www.hillbrothers.com/specs/ab-aluma-seal-144-tds.pdf",
+            "id": 826
+        },
+        {
+            "name": "AlumaSeal MSDS",
+            "url": "http://www.hillbrothers.com/msds/pdf/n/aluma-seal-144.pdf",
+            "id": 825
+        },
+        {
+            "name": "Alcoa",
+            "url": "http://www.buildlog.net/documents/Extruded_Alloy_6063.pdf",
+            "id": 824
+        },
+        {
+            "name": "AAC",
+            "url": "http://www.anodizing.org/Anodizing/what_is_anodizing.html",
+            "id": 823
+        },
+        {
+            "name": "AA LCA",
+            "url": "http://www.aluminum.org/sites/default/files/LCA_Report_Aluminum_Association_12_13.pdf",
+            "id": 822
+        },
+        {
+            "name": "US Aluminum",
+            "url": "http://www.crl-arch.com/docs/us_aluminum/curtain_wall/3250/adm_3250.pdf",
+            "id": 821
+        },
+        {
+            "name": "TubeLite",
+            "url": "http://www.tubeliteinc.com/product_types/crw_300ES/300ES%20Curtainwall.pdf",
+            "id": 820
+        },
+        {
+            "name": "Trulite",
+            "url": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CDEQFjAD&url=http%3A%2F%2Ftrulite.com%2Fassets%2Fdocs%2F08%252044%252013-Trulite%2520CW.doc&ei=KxOGVI_eHMeEgwS1sYLoAw&usg=AFQjCNGwf6kP7XR3kITu3TJNfxpUNgDGcg&sig2=HLNIp58fzqsFHgpkVz7bhw&bvm=bv.80642063,d.eXY",
+            "id": 819
+        },
+        {
+            "name": "ThermlBlock Specs",
+            "url": "http://www.tubeliteinc.com/literature/Tubelite_300ES.pdf",
+            "id": 818
+        },
+        {
+            "name": "T6 ASM",
+            "url": "http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6063T6",
+            "id": 817
+        },
+        {
+            "name": "T5 ASM",
+            "url": "http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6063T5",
+            "id": 816
+        },
+        {
+            "name": "Manko",
+            "url": "http://www.mankowindows.com/images/brochure_page_graphics/brochure_PDFs/Aluminum_Framing/Curtain_Wall.pdf",
+            "id": 815
+        },
+        {
+            "name": "Kawneer",
+            "url": "http://www.kawneer.com/kawneer/cad_na/4271/999_Specifications/010_1600UT%20Curtain%20Wall%20System/010.pdf",
+            "id": 814
+        },
+        {
+            "name": "Infiniti",
+            "url": "http://www.rlh-llc.com/estimating/Production%20-%20Current%20Projects/Infiniti%20of%20Augusta/Specifications/08%204413%20BSD-Glazed%20Aluminum%20Curtain%20Walls.pdf",
+            "id": 813
+        },
+        {
+            "name": "Hiboldt",
+            "url": "http://www.hilboldt.com/customcurtainwall.php",
+            "id": 812
+        },
+        {
+            "name": "FAQs",
+            "url": "http://asphaltrecycling.com/display.php?cnt_id=24",
+            "id": 811
+        },
+        {
+            "name": "EFCO",
+            "url": "http://sweets.construction.com/swts_content_files/4/150288.pdf",
+            "id": 810
+        },
+        {
+            "name": "Edge",
+            "url": "http://www.engineersedge.com/chromic_anodize.htm",
+            "id": 809
+        },
+        {
+            "name": "Coastline",
+            "url": "http://www.coastlinemetalfinishing.com/anodizing/sulfuric-anodizing",
+            "id": 808
+        },
+        {
+            "name": "Capitol",
+            "url": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CCwQFjAC&url=http%3A%2F%2Fwww.capitol-windows.com%2Findex.php%2Fdownload_file%2F300%2F190%2F&ei=KxOGVI_eHMeEgwS1sYLoAw&usg=AFQjCNEd0VlECefSYBGuwKSEu3XA9rLUng&sig2=FJFyK4ZNTJwOVnvR0YM-Cw&bvm=bv.80642063,d.eXY",
+            "id": 807
+        },
+        {
+            "name": "Bulletin 7",
+            "url": "http://www.anodizing.org/Publications/bulletin_7.html",
+            "id": 806
+        },
+        {
+            "name": "ASTM B945",
+            "url": "http://www.astm.org/Standards/B945.htm",
+            "id": 805
+        },
+        {
+            "name": "ASTM B807",
+            "url": "http://www.astm.org/Standards/B807.htm",
+            "id": 804
+        },
+        {
+            "name": "ASTM B221",
+            "url": "http://www.astm.org/Standards/B221.htm",
+            "id": 803
+        },
+        {
+            "name": "Anodizing World II",
+            "url": "http://aluminumsurface.blogspot.com/2010/03/how-to-decide-what-kind-of-sealing-has.html",
+            "id": 802
+        },
+        {
+            "name": "Anodizing World",
+            "url": "http://aluminumsurface.blogspot.com/2009/04/why-sealing-process-is-so-important.html",
+            "id": 801
+        },
+        {
+            "name": "Aluminum Design",
+            "url": "http://www.aluminiumdesign.net/design-support/aluminium-surface-treatment/",
+            "id": 800
+        },
+        {
+            "name": "AACOA",
+            "url": "http://www.aacoa.com/anodizing/process.htm",
+            "id": 799
+        }
+    ]
+}

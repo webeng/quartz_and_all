@@ -1,0 +1,1578 @@
+{
+    "CPID": "CP150",
+    "timestamp": 1452102149469,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 9167,
+            "name": "Polyvinyl Chloride Rigid Tile",
+            "CASRN": "",
+            "massPct": 1,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)",
+                        "massPct": 0.057515000000000004,
+                        "contributors": [
+                            {
+                                "recId": 9168,
+                                "massPct": 0.0563,
+                                "childrenIds": [
+                                    9168,
+                                    2920
+                                ]
+                            },
+                            {
+                                "recId": 9170,
+                                "massPct": 0.00045900000000000004,
+                                "childrenIds": [
+                                    9170,
+                                    1531
+                                ]
+                            },
+                            {
+                                "recId": 9170,
+                                "massPct": 0.0007560000000000002,
+                                "childrenIds": [
+                                    9170,
+                                    9172,
+                                    9173
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.0563,
+                        "contributors": [
+                            {
+                                "recId": 9168,
+                                "massPct": 0.0563,
+                                "childrenIds": [
+                                    9168,
+                                    2920
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.0067,
+                        "contributors": [
+                            {
+                                "recId": 2766,
+                                "massPct": 0.0067,
+                                "childrenIds": [
+                                    2766
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental",
+                        "massPct": 0.0563,
+                        "contributors": [
+                            {
+                                "recId": 9168,
+                                "massPct": 0.0563,
+                                "childrenIds": [
+                                    9168,
+                                    2920
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-572",
+                        "type": "red",
+                        "name": "Respiratory",
+                        "massPct": 0.0563,
+                        "contributors": [
+                            {
+                                "recId": 9168,
+                                "massPct": 0.0563,
+                                "childrenIds": [
+                                    9168,
+                                    2920
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)",
+                        "massPct": 0.0067,
+                        "contributors": [
+                            {
+                                "recId": 2766,
+                                "massPct": 0.0067,
+                                "childrenIds": [
+                                    2766
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "unknown": [
+                    {
+                        "hazardId": "unknown-11424",
+                        "type": "unknown",
+                        "name": "Unknown",
+                        "massPct": 0.015,
+                        "contributors": [
+                            {
+                                "recId": 9169,
+                                "massPct": 0.015,
+                                "childrenIds": [
+                                    9169
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 9168,
+                    "name": "Vinyl Chloride Resin",
+                    "CASRN": "",
+                    "massPct": 0.1126,
+                    "function": "polymer",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": 0.5,
+                                "contributors": [
+                                    {
+                                        "recId": 2920,
+                                        "massPct": 0.5,
+                                        "childrenIds": [
+                                            2920
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": 0.5,
+                                "contributors": [
+                                    {
+                                        "recId": 2920,
+                                        "massPct": 0.5,
+                                        "childrenIds": [
+                                            2920
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-568",
+                                "type": "red",
+                                "name": "Developmental",
+                                "massPct": 0.5,
+                                "contributors": [
+                                    {
+                                        "recId": 2920,
+                                        "massPct": 0.5,
+                                        "childrenIds": [
+                                            2920
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "hazardId": "red-572",
+                                "type": "red",
+                                "name": "Respiratory",
+                                "massPct": 0.5,
+                                "contributors": [
+                                    {
+                                        "recId": 2920,
+                                        "massPct": 0.5,
+                                        "childrenIds": [
+                                            2920
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "components": [
+                        {
+                            "recId": 5335,
+                            "name": "Vinyl Chloride-Vinyl Acetate Copolymer",
+                            "CASRN": "9003-22-9",
+                            "massPct": 0.5,
+                            "function": "polymer",
+                            "hazards": {},
+                            "sources": [
+                                {
+                                    "name": "Petco CR-80A copolymer MSDS",
+                                    "url": "http://jtsenterprisesinc.com/images/MSDS_for_all_Copolymer_resins.pdf",
+                                    "id": 9147
+                                },
+                                {
+                                    "name": "Mannington 2009",
+                                    "url": "http://www.google.com/patents/US20090226662",
+                                    "id": 9144
+                                },
+                                {
+                                    "name": "Armstrong VCT EPD",
+                                    "url": "http://www.floorexpert.com/servlet/fileField?id=0BE30000000TPOH",
+                                    "id": 9132
+                                },
+                                {
+                                    "name": "BEES Generic VCT",
+                                    "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Vinyl%20Composition%20Tile.pdf",
+                                    "id": 9127
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.0563
+                        },
+                        {
+                            "recId": 2920,
+                            "name": "Polyvinyl Chloride",
+                            "CASRN": "9002-86-2",
+                            "massPct": 0.5,
+                            "function": "polymer",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-7912",
+                                        "type": "orange",
+                                        "name": "Respiratory (occupational only)",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "orange-568",
+                                        "type": "orange",
+                                        "name": "Developmental",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ],
+                                "red": [
+                                    {
+                                        "hazardId": "red-568",
+                                        "type": "red",
+                                        "name": "Developmental",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    },
+                                    {
+                                        "hazardId": "red-572",
+                                        "type": "red",
+                                        "name": "Respiratory",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "Oxy 185 PVC MSDS",
+                                    "url": "http://sds.oxy.com/private/document.aspx?prd=M40722~~PDF~~MTR~~ANSI~~EN~~2015-04-08%2007:29:52.000~~OXYVINYLS|TS%20%20PVC%20HOMOPOLYMER%20SUSPENSION%20RESIN%20%20(PRIME%20GRADES)%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20",
+                                    "id": 9146
+                                },
+                                {
+                                    "name": "Georgia Gulf 1050 PVC MSDS",
+                                    "url": "http://www.axiall.com/pdf/PVC%20Resin%202011%20Europe.pdf",
+                                    "id": 9145
+                                },
+                                {
+                                    "name": "Mannington 2009",
+                                    "url": "http://www.google.com/patents/US20090226662",
+                                    "id": 9144
+                                },
+                                {
+                                    "name": "Armstrong VCT EPD",
+                                    "url": "http://www.floorexpert.com/servlet/fileField?id=0BE30000000TPOH",
+                                    "id": 9132
+                                }
+                            ],
+                            "notes": "PVC",
+                            "lca": "",
+                            "massPctOfTotal": 0.0563
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "name": "Mannington 2009",
+                            "url": "http://www.google.com/patents/US20090226662",
+                            "id": 9144
+                        },
+                        {
+                            "name": "BEES Generic VCT",
+                            "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Vinyl%20Composition%20Tile.pdf",
+                            "id": 9127
+                        },
+                        {
+                            "name": "RFCI VCT EPD",
+                            "url": "http://www.rfci.com/wordpress/wp-content/uploads/2013/09/RFCI_105.1_EPD_VinylCompositionTile_11July2013_FINAL.pdf",
+                            "id": 9128
+                        },
+                        {
+                            "name": "Tarkett 2015",
+                            "url": "https://www.google.com/patents/WO2015028390A1",
+                            "id": 9149
+                        },
+                        {
+                            "name": "Armstrong VCT EPD",
+                            "url": "http://www.floorexpert.com/servlet/fileField?id=0BE30000000TPOH",
+                            "id": 9132
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.1126
+                },
+                {
+                    "recId": 7687,
+                    "name": "Di(2-ethylhexyl) terephthalate",
+                    "CASRN": "6422-86-2",
+                    "massPct": 0.0396,
+                    "function": "plasticizer",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Ortho-phthalate statements",
+                            "url": "http://bishopdistributing.com/ortho-phthalate-statement/",
+                            "id": 9140
+                        },
+                        {
+                            "name": "Lott 2014",
+                            "url": "http://healthybuilding.net/uploads/files/phthalate-free-plasticizers-in-pvc.pdf",
+                            "id": 9138
+                        },
+                        {
+                            "name": "Mannington 2009",
+                            "url": "http://www.google.com/patents/US20090226662",
+                            "id": 9144
+                        },
+                        {
+                            "name": "BEES Generic VCT",
+                            "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Vinyl%20Composition%20Tile.pdf",
+                            "id": 9127
+                        },
+                        {
+                            "name": "Armstrong VCT EPD",
+                            "url": "http://www.floorexpert.com/servlet/fileField?id=0BE30000000TPOH",
+                            "id": 9132
+                        },
+                        {
+                            "name": "RFCI VCT EPD",
+                            "url": "http://www.rfci.com/wordpress/wp-content/uploads/2013/09/RFCI_105.1_EPD_VinylCompositionTile_11July2013_FINAL.pdf",
+                            "id": 9128
+                        }
+                    ],
+                    "notes": "DEHT,DOTP",
+                    "lca": "",
+                    "massPctOfTotal": 0.0396
+                },
+                {
+                    "recId": 2766,
+                    "name": "Titanium Dioxide",
+                    "CASRN": "13463-67-7",
+                    "massPct": 0.0067,
+                    "function": "pigment",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-7911",
+                                "type": "red",
+                                "name": "Cancer (occupational only)",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Tarkett 2015",
+                            "url": "https://www.google.com/patents/WO2015028390A1",
+                            "id": 9149
+                        },
+                        {
+                            "name": "RFCI VCT EPD",
+                            "url": "http://www.rfci.com/wordpress/wp-content/uploads/2013/09/RFCI_105.1_EPD_VinylCompositionTile_11July2013_FINAL.pdf",
+                            "id": 9128
+                        },
+                        {
+                            "name": "Upofloor Quartz MSDS",
+                            "url": "http://www.upofloor.com/globalassets/upofloor/us/technical/upofloor_quartztiles_msds_us.pdf",
+                            "id": 9135
+                        },
+                        {
+                            "name": "Armstrong VCT EPD",
+                            "url": "http://www.floorexpert.com/servlet/fileField?id=0BE30000000TPOH",
+                            "id": 9132
+                        }
+                    ],
+                    "notes": "Representative CAS",
+                    "lca": "",
+                    "massPctOfTotal": 0.0067
+                },
+                {
+                    "recId": 9169,
+                    "name": "Recycled VCT",
+                    "CASRN": "unknown",
+                    "massPct": 0.015,
+                    "function": "filler",
+                    "hazards": {
+                        "unknown": [
+                            {
+                                "hazardId": "unknown-11424",
+                                "type": "unknown",
+                                "name": "Unknown",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Armstrong VCT EPD",
+                            "url": "http://www.floorexpert.com/servlet/fileField?id=0BE30000000TPOH",
+                            "id": 9132
+                        },
+                        {
+                            "name": "Progressions Spec",
+                            "url": "http://www.mannington.com/commercial/assets/pdfs/Progressions%20Spec%202015.pdf",
+                            "id": 9130
+                        },
+                        {
+                            "name": "RFCI VCT EPD",
+                            "url": "http://www.rfci.com/wordpress/wp-content/uploads/2013/09/RFCI_105.1_EPD_VinylCompositionTile_11July2013_FINAL.pdf",
+                            "id": 9128
+                        },
+                        {
+                            "name": "BEES Generic VCT",
+                            "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Vinyl%20Composition%20Tile.pdf",
+                            "id": 9127
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.015
+                },
+                {
+                    "recId": 3759,
+                    "name": "Limestone",
+                    "CASRN": "1317-65-3",
+                    "massPct": 0.8234,
+                    "function": "filler",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Progressions Spec",
+                            "url": "http://www.mannington.com/commercial/assets/pdfs/Progressions%20Spec%202015.pdf",
+                            "id": 9130
+                        },
+                        {
+                            "name": "Upofloor Quartz MSDS",
+                            "url": "http://www.upofloor.com/globalassets/upofloor/us/technical/upofloor_quartztiles_msds_us.pdf",
+                            "id": 9135
+                        },
+                        {
+                            "name": "Mannington 2009",
+                            "url": "http://www.google.com/patents/US20090226662",
+                            "id": 9144
+                        },
+                        {
+                            "name": "Tarkett VCT Specs",
+                            "url": "http://www.johnsonite.com/Portals/8/files/pdfs/Product%20Spec/VCT%20JoSpecs.pdf",
+                            "id": 9139
+                        },
+                        {
+                            "name": "Armstrong VCT EPD",
+                            "url": "http://www.floorexpert.com/servlet/fileField?id=0BE30000000TPOH",
+                            "id": 9132
+                        },
+                        {
+                            "name": "Essentials Specification",
+                            "url": "http://www.mannington.com/commercial/assets/pdfs/Essentials%20Spec%202015.pdf",
+                            "id": 9129
+                        },
+                        {
+                            "name": "RFCI VCT EPD",
+                            "url": "http://www.rfci.com/wordpress/wp-content/uploads/2013/09/RFCI_105.1_EPD_VinylCompositionTile_11July2013_FINAL.pdf",
+                            "id": 9128
+                        },
+                        {
+                            "name": "BEES Generic VCT",
+                            "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Vinyl%20Composition%20Tile.pdf",
+                            "id": 9127
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.8234
+                },
+                {
+                    "recId": 9170,
+                    "name": "Calcium Zinc Compound",
+                    "CASRN": "",
+                    "massPct": 0.0027,
+                    "function": "heat stabilizer",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-7912",
+                                "type": "orange",
+                                "name": "Respiratory (occupational only)",
+                                "massPct": 0.45000000000000007,
+                                "contributors": [
+                                    {
+                                        "recId": 1531,
+                                        "massPct": 0.17,
+                                        "childrenIds": [
+                                            1531
+                                        ]
+                                    },
+                                    {
+                                        "recId": 9172,
+                                        "massPct": 0.28,
+                                        "childrenIds": [
+                                            9172,
+                                            9173
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "components": [
+                        {
+                            "recId": 2923,
+                            "name": "Calcium Stearate",
+                            "CASRN": "1592-23-0",
+                            "massPct": 0.18,
+                            "function": "heat stabilizer",
+                            "hazards": {},
+                            "sources": [
+                                {
+                                    "name": "EPA 2008",
+                                    "url": "http://www2.epa.gov/sites/production/files/2014-01/documents/wire_lca_full.pdf",
+                                    "id": 9148
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.000486
+                        },
+                        {
+                            "recId": 1531,
+                            "name": "Zinc Stearate",
+                            "CASRN": "557-05-1",
+                            "massPct": 0.17,
+                            "function": "heat stabilizer",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-7912",
+                                        "type": "orange",
+                                        "name": "Respiratory (occupational only)",
+                                        "massPct": null,
+                                        "contributors": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sources": [
+                                {
+                                    "name": "EPA 2008",
+                                    "url": "http://www2.epa.gov/sites/production/files/2014-01/documents/wire_lca_full.pdf",
+                                    "id": 9148
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.00045900000000000004
+                        },
+                        {
+                            "recId": 9172,
+                            "name": "Hydrotalcite/Zeolite",
+                            "CASRN": "",
+                            "massPct": 0.56,
+                            "function": "acid absorber",
+                            "hazards": {
+                                "orange": [
+                                    {
+                                        "hazardId": "orange-7912",
+                                        "type": "orange",
+                                        "name": "Respiratory (occupational only)",
+                                        "massPct": 0.5,
+                                        "contributors": [
+                                            {
+                                                "recId": 9173,
+                                                "massPct": 0.5,
+                                                "childrenIds": [
+                                                    9173
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "components": [
+                                {
+                                    "recId": 9173,
+                                    "name": "Hydrotalcite",
+                                    "CASRN": "11097-59-9",
+                                    "massPct": 0.5,
+                                    "function": "",
+                                    "hazards": {
+                                        "orange": [
+                                            {
+                                                "hazardId": "orange-7912",
+                                                "type": "orange",
+                                                "name": "Respiratory (occupational only)",
+                                                "massPct": null,
+                                                "contributors": [
+                                                    {}
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    "sources": [],
+                                    "notes": "",
+                                    "lca": "",
+                                    "massPctOfTotal": 0.0007560000000000002
+                                },
+                                {
+                                    "recId": 9174,
+                                    "name": "Zeolite",
+                                    "CASRN": "1318-02-1",
+                                    "massPct": 0.5,
+                                    "function": "",
+                                    "hazards": {},
+                                    "sources": [],
+                                    "notes": "",
+                                    "lca": "",
+                                    "massPctOfTotal": 0.0007560000000000002
+                                }
+                            ],
+                            "sources": [
+                                {
+                                    "name": "EPA 2008",
+                                    "url": "http://www2.epa.gov/sites/production/files/2014-01/documents/wire_lca_full.pdf",
+                                    "id": 9148
+                                }
+                            ],
+                            "notes": "",
+                            "lca": "",
+                            "massPctOfTotal": 0.0015120000000000003
+                        }
+                    ],
+                    "sources": [
+                        {
+                            "name": "RFCI VCT EPD",
+                            "url": "http://www.rfci.com/wordpress/wp-content/uploads/2013/09/RFCI_105.1_EPD_VinylCompositionTile_11July2013_FINAL.pdf",
+                            "id": 9128
+                        },
+                        {
+                            "name": "Mannington 2009",
+                            "url": "http://www.google.com/patents/US20090226662",
+                            "id": 9144
+                        },
+                        {
+                            "name": "Armstrong VCT EPD",
+                            "url": "http://www.floorexpert.com/servlet/fileField?id=0BE30000000TPOH",
+                            "id": 9132
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "",
+                    "massPctOfTotal": 0.0027
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 1
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Butyl Benzyl Phthalate",
+            "CASRN": "85-68-7",
+            "massPct": null,
+            "function": "recycled vct residual",
+            "sources": [
+                {
+                    "name": "Vallette 2015",
+                    "url": "http://healthybuilding.net/uploads/files/post-consumer-polyvinyl-chloride-pvc-report.pdf",
+                    "id": 9162
+                },
+                {
+                    "name": "Mannington 2009",
+                    "url": "http://www.google.com/patents/US20090226662",
+                    "id": 9144
+                },
+                {
+                    "name": "RFCI VCT EPD",
+                    "url": "http://www.rfci.com/wordpress/wp-content/uploads/2013/09/RFCI_105.1_EPD_VinylCompositionTile_11July2013_FINAL.pdf",
+                    "id": 9128
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Vinyl Chloride Monomer",
+            "CASRN": "75-01-4",
+            "massPct": null,
+            "function": "polyvinyl chloride and vinyl chloride-vinyl acetate copolymer residual",
+            "sources": [
+                {
+                    "name": "Petco CR-80A copolymer MSDS",
+                    "url": "http://jtsenterprisesinc.com/images/MSDS_for_all_Copolymer_resins.pdf",
+                    "id": 9147
+                },
+                {
+                    "name": "Oxy 185 PVC MSDS",
+                    "url": "http://sds.oxy.com/private/document.aspx?prd=M40722~~PDF~~MTR~~ANSI~~EN~~2015-04-08%2007:29:52.000~~OXYVINYLS|TS%20%20PVC%20HOMOPOLYMER%20SUSPENSION%20RESIN%20%20(PRIME%20GRADES)%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20",
+                    "id": 9146
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Diisononyl Phthalate",
+            "CASRN": "68515-48-0",
+            "massPct": 0.001,
+            "function": "recycled vct residual",
+            "sources": [
+                {
+                    "name": "Vallette 2015",
+                    "url": "http://healthybuilding.net/uploads/files/post-consumer-polyvinyl-chloride-pvc-report.pdf",
+                    "id": 9162
+                },
+                {
+                    "name": "Mannington 2009",
+                    "url": "http://www.google.com/patents/US20090226662",
+                    "id": 9144
+                },
+                {
+                    "name": "RFCI VCT EPD",
+                    "url": "http://www.rfci.com/wordpress/wp-content/uploads/2013/09/RFCI_105.1_EPD_VinylCompositionTile_11July2013_FINAL.pdf",
+                    "id": 9128
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Dibutyltin Dilaurate",
+            "CASRN": "77-58-7",
+            "massPct": null,
+            "function": "recycled vct residual",
+            "sources": [
+                {
+                    "name": "Helm 2014",
+                    "url": "http://www.floordaily.net/floorfocus/the_greening_of_lvt_mannington_armstrong_tarket.aspx",
+                    "id": 9165
+                },
+                {
+                    "name": "Stabilizer Fact Tables",
+                    "url": "https://pharosproject.net/uploads/files/sources/1828/1364381266.pdf",
+                    "id": 9164
+                },
+                {
+                    "name": "PVC Task Group Stabilizers",
+                    "url": "http://tsac-pvc.obiki.org/stabilizers.html",
+                    "id": 9163
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Quartz",
+            "CASRN": "14808-60-7",
+            "massPct": null,
+            "function": "limestone and zeolite residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Silica, amorphous",
+            "CASRN": "7631-86-9",
+            "massPct": null,
+            "function": "titanium dioxide residual",
+            "sources": [],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-7911",
+                        "type": "red",
+                        "name": "Cancer (occupational only)"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Vinyl Acetate",
+            "CASRN": "108-05-4",
+            "massPct": null,
+            "function": "vinyl chloride-vinyl acetate copolymer residual",
+            "sources": [
+                {
+                    "name": "Petco CR-80A copolymer MSDS",
+                    "url": "http://jtsenterprisesinc.com/images/MSDS_for_all_Copolymer_resins.pdf",
+                    "id": 9147
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Di-2(ethylhexyl) Phthalate",
+            "CASRN": "117-81-7",
+            "massPct": null,
+            "function": "recycled vct residual",
+            "sources": [
+                {
+                    "name": "Vallette 2015",
+                    "url": "http://healthybuilding.net/uploads/files/post-consumer-polyvinyl-chloride-pvc-report.pdf",
+                    "id": 9162
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Aluminum Oxide",
+            "CASRN": "1344-28-1",
+            "massPct": null,
+            "function": "zeolite and titanium dioxide residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-7912",
+                    "type": "orange",
+                    "name": "Respiratory (occupational only)",
+                    "massPct": 0.057515000000000004,
+                    "contributors": [
+                        {
+                            "recId": 9167,
+                            "massPct": 0.0563,
+                            "childrenIds": [
+                                9167,
+                                9168,
+                                2920
+                            ]
+                        },
+                        {
+                            "recId": 9167,
+                            "massPct": 0.00045900000000000004,
+                            "childrenIds": [
+                                9167,
+                                9170,
+                                1531
+                            ]
+                        },
+                        {
+                            "recId": 9167,
+                            "massPct": 0.0007560000000000002,
+                            "childrenIds": [
+                                9167,
+                                9170,
+                                9172,
+                                9173
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.0563,
+                    "contributors": [
+                        {
+                            "recId": 9167,
+                            "massPct": 0.0563,
+                            "childrenIds": [
+                                9167,
+                                9168,
+                                2920
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.0067,
+                    "contributors": [
+                        {
+                            "recId": 9167,
+                            "massPct": 0.0067,
+                            "childrenIds": [
+                                9167,
+                                2766
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-568",
+                    "type": "red",
+                    "name": "Developmental",
+                    "massPct": 0.0563,
+                    "contributors": [
+                        {
+                            "recId": 9167,
+                            "massPct": 0.0563,
+                            "childrenIds": [
+                                9167,
+                                9168,
+                                2920
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-572",
+                    "type": "red",
+                    "name": "Respiratory",
+                    "massPct": 0.0563,
+                    "contributors": [
+                        {
+                            "recId": 9167,
+                            "massPct": 0.0563,
+                            "childrenIds": [
+                                9167,
+                                9168,
+                                2920
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-7911",
+                    "type": "red",
+                    "name": "Cancer (occupational only)",
+                    "massPct": 0.0067,
+                    "contributors": [
+                        {
+                            "recId": 9167,
+                            "massPct": 0.0067,
+                            "childrenIds": [
+                                9167,
+                                2766
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "unknown": [
+                {
+                    "hazardId": "unknown-11424",
+                    "type": "unknown",
+                    "name": "Unknown",
+                    "massPct": 0.015,
+                    "contributors": [
+                        {
+                            "recId": 9167,
+                            "massPct": 0.015,
+                            "childrenIds": [
+                                9167,
+                                9169
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "Cradle-to-gate system boundary includes upstream raw material production, on-site manufacturing, and upstream transportation. Packaging is included. Composition from industry average EPD (RFCI VCT EPD): dolomite, limestone, 84.1%;polyvinyl chloride, 11.3%; DOTP, 3.5%; various additives, 0.8%; other components, 0.8%.  ",
+        "gabiDatasets": [
+            {
+                "name": "NA: Vinyl composition tile [A1-A3] RFCI"
+            }
+        ],
+        "foregroundDataSource": "RFCI",
+        "backforegroundDataSource": "GaBi",
+        "postConsumerRecycledContent": "6.90%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% landfilled (plastic waste)",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "2.77E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "3.70E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "9.59E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.18E-09"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "5.51E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "1.95E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "7.23E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "2.68E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "4.98E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.13E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "6.51E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.19E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP150",
+    "name": "Vinyl Composition Tile",
+    "altNames": [
+        "VCT,Vinyl Tile"
+    ],
+    "uniformats": [
+        {
+            "id": "C2040",
+            "name": "Stair Finishes"
+        },
+        {
+            "id": "C2030",
+            "name": "Flooring"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "09-65-00",
+            "name": "Resilient Flooring"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Vinyl Composition Tile (VCT) is a rigid floor tile widely used in commercial flooring applications and in small amounts residentially. VCT is commonly available as a 12 in x 12 in (305 mm x 305 mm) 1/8 in thick tile. VCT is composed largely of limestone with smaller proportions of vinyl resins, plasticizer, stabilizers, and pigments. These ingredients are mixed, heated, formed into a sheet, cut into tiles, and finally cooled before packaging. VCT typically has a factory applied acrylic finish to protect it through installation. Once installed, additonal layers of acrylic finish are added. Due to the small proportion of this finish within the overall product as manufacturered, this component is not included in this CP. Historically, phthalate plasticizers were commonly used in VCT. However, recently the market has phased out the use of phthalate plasticizers, making their non-phthalate alternatives more widely prevalent. VCT commonly contains some recycled content, typically at least 1% wt. of the finished product. This content may be post-industrial recyclate coming from other industries, post-consumer coming from manufacturer recycling programs or both. One manufacturer discussed the use of both recycle streams, while two others disclosed their recyclate as post-consumer VCT. This CP assumes a controlled recycle stream from post-consumer VCT, which replaces a portion of the limestone filler. This content introduces at minimum some residual phthalates while other recyclate streams, especially third party PVC scrap, could introduce multiple other hazardous residuals.",
+    "sources": [
+        {
+            "name": "BEES Generic VCT",
+            "url": "http://ws680.nist.gov/bees/ProductListFiles/Generic%20Vinyl%20Composition%20Tile.pdf",
+            "id": 9127
+        },
+        {
+            "name": "RFCI VCT EPD",
+            "url": "http://www.rfci.com/wordpress/wp-content/uploads/2013/09/RFCI_105.1_EPD_VinylCompositionTile_11July2013_FINAL.pdf",
+            "id": 9128
+        },
+        {
+            "name": "Essentials Specification",
+            "url": "http://www.mannington.com/commercial/assets/pdfs/Essentials%20Spec%202015.pdf",
+            "id": 9129
+        },
+        {
+            "name": "Progressions Spec",
+            "url": "http://www.mannington.com/commercial/assets/pdfs/Progressions%20Spec%202015.pdf",
+            "id": 9130
+        },
+        {
+            "name": "Standard Excelon PDS",
+            "url": "http://www.armstrong.com/pdbupimages/200880.pdf",
+            "id": 9131
+        },
+        {
+            "name": "Armstrong VCT EPD",
+            "url": "http://www.floorexpert.com/servlet/fileField?id=0BE30000000TPOH",
+            "id": 9132
+        },
+        {
+            "name": "VCT Sustainable Design Sheet",
+            "url": "http://www.armstrong.com/common/c2002/content/files/43083.pdf",
+            "id": 9133
+        },
+        {
+            "name": "Congoleum ortho-phthalate statement",
+            "url": "http://bishopdistributing.com/247/doc/congoleum-ortho-phthalate-statement.pdf",
+            "id": 9134
+        },
+        {
+            "name": "Upofloor Quartz MSDS",
+            "url": "http://www.upofloor.com/globalassets/upofloor/us/technical/upofloor_quartztiles_msds_us.pdf",
+            "id": 9135
+        },
+        {
+            "name": "Upofloor Quartz Brochure 2014",
+            "url": "http://www.upofloor.com/globalassets/upofloor/us/upofloor_qvt_us_2013.pdf",
+            "id": 9136
+        },
+        {
+            "name": "Podium Naturale biobased plasticizer",
+            "url": "http://ecofloors.co.nz/images/Podium_Naturale_-_with_new_bio_based_plasticizer_-_Upofloor_Oy.pdf",
+            "id": 9137
+        },
+        {
+            "name": "Lott 2014",
+            "url": "http://healthybuilding.net/uploads/files/phthalate-free-plasticizers-in-pvc.pdf",
+            "id": 9138
+        },
+        {
+            "name": "Tarkett VCT Specs",
+            "url": "http://www.johnsonite.com/Portals/8/files/pdfs/Product%20Spec/VCT%20JoSpecs.pdf",
+            "id": 9139
+        },
+        {
+            "name": "Ortho-phthalate statements",
+            "url": "http://bishopdistributing.com/ortho-phthalate-statement/",
+            "id": 9140
+        },
+        {
+            "name": "Congoleum Silver",
+            "url": "http://www.congoleum.com/Silver/",
+            "id": 9141
+        },
+        {
+            "name": "Congoleum Nylon & Aluminum Oxide",
+            "url": "http://www.congoleum.com/Nylon--Aluminum-Oxide/",
+            "id": 9142
+        },
+        {
+            "name": "Azrock Installation",
+            "url": "http://www.azrock.com/portals/3/resources/installation/vct_az_installmain.pdf",
+            "id": 9143
+        },
+        {
+            "name": "Mannington 2009",
+            "url": "http://www.google.com/patents/US20090226662",
+            "id": 9144
+        },
+        {
+            "name": "Georgia Gulf 1050 PVC MSDS",
+            "url": "http://www.axiall.com/pdf/PVC%20Resin%202011%20Europe.pdf",
+            "id": 9145
+        },
+        {
+            "name": "Oxy 185 PVC MSDS",
+            "url": "http://sds.oxy.com/private/document.aspx?prd=M40722~~PDF~~MTR~~ANSI~~EN~~2015-04-08%2007:29:52.000~~OXYVINYLS|TS%20%20PVC%20HOMOPOLYMER%20SUSPENSION%20RESIN%20%20(PRIME%20GRADES)%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20",
+            "id": 9146
+        },
+        {
+            "name": "Petco CR-80A copolymer MSDS",
+            "url": "http://jtsenterprisesinc.com/images/MSDS_for_all_Copolymer_resins.pdf",
+            "id": 9147
+        },
+        {
+            "name": "EPA 2008",
+            "url": "http://www2.epa.gov/sites/production/files/2014-01/documents/wire_lca_full.pdf",
+            "id": 9148
+        },
+        {
+            "name": "Tarkett 2015",
+            "url": "https://www.google.com/patents/WO2015028390A1",
+            "id": 9149
+        },
+        {
+            "name": "VCT Maintenance",
+            "url": "http://www.armstrong.com/pdbupimages/191542.pdf",
+            "id": 9150
+        },
+        {
+            "name": "Fickes 2007",
+            "url": "http://webcpm.com/articles/2007/12/01/floor-shields.aspx",
+            "id": 9151
+        },
+        {
+            "name": "Advanced Concrete Technologies 2015",
+            "url": "https://www.google.com/patents/US20150114260",
+            "id": 9152
+        },
+        {
+            "name": "Johnsonite Maintenance",
+            "url": "http://www.johnsonite.com/Portals/8/files/pdfs/Installation&%20Maintenance/Johnsonite%20VCT%20Maintenance.pdf",
+            "id": 9153
+        },
+        {
+            "name": "ATSDR TP202-c4",
+            "url": "http://www.atsdr.cdc.gov/toxprofiles/tp202-c4.pdf",
+            "id": 9154
+        },
+        {
+            "name": "Xiameter Guide",
+            "url": "https://www.xiameter.com/Documents/95-731-01%20SilanesSelectorGuide.pdf",
+            "id": 9155
+        },
+        {
+            "name": "Xiameter OFS-0777 MSDS",
+            "url": "https://www.xiameter.com/EN/Pages/RetrieveDocument.aspx?type=SDS&DocumentId=0902770181f587ab&s=73643",
+            "id": 9156
+        },
+        {
+            "name": "Dow Corning Z-6020 MSDS",
+            "url": "http://www.dowcorning.com/DataFiles/09027701822700fd.pdf",
+            "id": 9157
+        },
+        {
+            "name": "Lithium Polysilicate MSDS",
+            "url": "http://www.chempoint.com/products/download?grade=2648&type=msds",
+            "id": 9158
+        },
+        {
+            "name": "PLIOTEC PA90 TDS",
+            "url": "https://www.omnova.com/products/chemicals/documents/PliotecPA90_FSPolymer_TDS.pdf",
+            "id": 9159
+        },
+        {
+            "name": "AVANSE MV-100 MSDS",
+            "url": "http://doc.ccc-group.com/msds/english/206197.pdf",
+            "id": 9160
+        },
+        {
+            "name": "Ludox Lithium Polysilicate",
+            "url": "http://www.chempoint.com/products/catalog/grace/ludox-monodispersed-colloidal-silica/lithium-polysilicate",
+            "id": 9161
+        },
+        {
+            "name": "Vallette 2015",
+            "url": "http://healthybuilding.net/uploads/files/post-consumer-polyvinyl-chloride-pvc-report.pdf",
+            "id": 9162
+        },
+        {
+            "name": "PVC Task Group Stabilizers",
+            "url": "http://tsac-pvc.obiki.org/stabilizers.html",
+            "id": 9163
+        },
+        {
+            "name": "Stabilizer Fact Tables",
+            "url": "https://pharosproject.net/uploads/files/sources/1828/1364381266.pdf",
+            "id": 9164
+        },
+        {
+            "name": "Helm 2014",
+            "url": "http://www.floordaily.net/floorfocus/the_greening_of_lvt_mannington_armstrong_tarket.aspx",
+            "id": 9165
+        },
+        {
+            "name": "EPA WARM",
+            "url": "http://epa.gov/climatechange/wycd/waste/downloads/vinyl-flooring-chapter10-28-10.pdf",
+            "id": 9166
+        }
+    ]
+}

@@ -1,0 +1,579 @@
+{
+    "CPID": "CP111",
+    "timestamp": 1452102129610,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 758,
+            "name": "Iron",
+            "CASRN": "7439-89-6",
+            "massPct": 0.99425,
+            "function": "base metal",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "AISI 1008",
+                    "url": "http://www.azom.com/article.aspx?ArticleID=6538",
+                    "id": 2985
+                },
+                {
+                    "name": "AISI 1006",
+                    "url": "http://www.azom.com/article.aspx?ArticleID=6537",
+                    "id": 1759
+                },
+                {
+                    "name": "Insteel MSDS",
+                    "url": "http://www.insteel.com/media/25005/sds_-iwp_-__5-29-15.pdf",
+                    "id": 1750
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.99425
+        },
+        {
+            "recId": 762,
+            "name": "Carbon",
+            "CASRN": "7440-44-0",
+            "massPct": 0.00135,
+            "function": "alloying metal",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "AISI 1008",
+                    "url": "http://www.azom.com/article.aspx?ArticleID=6538",
+                    "id": 2985
+                },
+                {
+                    "name": "USITC",
+                    "url": "https://books.google.com/books?id=-GkfnHcoN9QC&pg=SL1-PA3&lpg=SL1-PA3&dq=welded+wire+fabric+carbon+content&source=bl&ots=pyxsiPSZPU&sig=9qNxiF8IrGYTqUsqvMKEJnpsIzM&hl=en&sa=X&ei=skvBVJ3KAYb1yATvpYKwBg&ved=0CF4Q6AEwCQ#v=onepage&q=welded%20wire%20fabric%20carbon%20content&f=false",
+                    "id": 1762
+                },
+                {
+                    "name": "AISI 1006",
+                    "url": "http://www.azom.com/article.aspx?ArticleID=6537",
+                    "id": 1759
+                },
+                {
+                    "name": "Domoplex",
+                    "url": "http://www.domoplex.com.cy/p1_concrete.htm",
+                    "id": 1758
+                },
+                {
+                    "name": "Insteel MSDS",
+                    "url": "http://www.insteel.com/media/25005/sds_-iwp_-__5-29-15.pdf",
+                    "id": 1750
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.00135
+        },
+        {
+            "recId": 760,
+            "name": "Manganese",
+            "CASRN": "7439-96-5",
+            "massPct": 0.0035,
+            "function": "alloying metal",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "AISI 1008",
+                    "url": "http://www.azom.com/article.aspx?ArticleID=6538",
+                    "id": 2985
+                },
+                {
+                    "name": "AISI 1006",
+                    "url": "http://www.azom.com/article.aspx?ArticleID=6537",
+                    "id": 1759
+                },
+                {
+                    "name": "Insteel MSDS",
+                    "url": "http://www.insteel.com/media/25005/sds_-iwp_-__5-29-15.pdf",
+                    "id": 1750
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.0035
+        },
+        {
+            "recId": 9900,
+            "name": "Phosphorus",
+            "CASRN": "7723-14-0",
+            "massPct": 0.0004,
+            "function": "alloying metal",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "AISI 1008",
+                    "url": "http://www.azom.com/article.aspx?ArticleID=6538",
+                    "id": 2985
+                },
+                {
+                    "name": "AISI 1006",
+                    "url": "http://www.azom.com/article.aspx?ArticleID=6537",
+                    "id": 1759
+                },
+                {
+                    "name": "Domoplex",
+                    "url": "http://www.domoplex.com.cy/p1_concrete.htm",
+                    "id": 1758
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.0004
+        },
+        {
+            "recId": 774,
+            "name": "Sulfur",
+            "CASRN": "7704-34-9",
+            "massPct": 0.0005,
+            "function": "alloying metal",
+            "hazards": {},
+            "sources": [
+                {
+                    "name": "AISI 1008",
+                    "url": "http://www.azom.com/article.aspx?ArticleID=6538",
+                    "id": 2985
+                },
+                {
+                    "name": "AISI 1006",
+                    "url": "http://www.azom.com/article.aspx?ArticleID=6537",
+                    "id": 1759
+                },
+                {
+                    "name": "Domoplex",
+                    "url": "http://www.domoplex.com.cy/p1_concrete.htm",
+                    "id": 1758
+                }
+            ],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.0005
+        }
+    ],
+    "impurities": [
+        {
+            "name": null,
+            "CASRN": null,
+            "massPct": 0,
+            "function": null,
+            "sources": [],
+            "hazards": {}
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.0035,
+                    "contributors": [
+                        {
+                            "recId": 760,
+                            "massPct": 0.0035,
+                            "childrenIds": [
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 0.0035,
+                    "contributors": [
+                        {
+                            "recId": 760,
+                            "massPct": 0.0035,
+                            "childrenIds": [
+                                760
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.0039000000000000003,
+                    "contributors": [
+                        {
+                            "recId": 760,
+                            "massPct": 0.0035,
+                            "childrenIds": [
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 9900,
+                            "massPct": 0.0004,
+                            "childrenIds": [
+                                9900
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.0039000000000000003,
+                    "contributors": [
+                        {
+                            "recId": 760,
+                            "massPct": 0.0035,
+                            "childrenIds": [
+                                760
+                            ]
+                        },
+                        {
+                            "recId": 9900,
+                            "massPct": 0.0004,
+                            "childrenIds": [
+                                9900
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.0004,
+                    "contributors": [
+                        {
+                            "recId": 9900,
+                            "massPct": 0.0004,
+                            "childrenIds": [
+                                9900
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.0035,
+                    "contributors": [
+                        {
+                            "recId": 760,
+                            "massPct": 0.0035,
+                            "childrenIds": [
+                                760
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundaries comprise the cradle-to-gate process for manufacturing welded wire mesh reinforcement. The final manufacturing step -- the welding of individual wires -- assumes an average of 16 spot welds per kg of steel, based on common wire mesh reinforcement sizes and spacings (source: Manual). The 16 welds represents a mesh with 6\"x6\" (152mm x 152mm) openings and 0.04\" (26mm x 26mm) diameter wire. Upstream data includes steel manufacturing, energy production, and spot welding energy requirements, as well as transportation to the roll forming facility. Packaging is excluded.",
+        "gabiDatasets": [
+            {
+                "name": "US: Electricity grid mix"
+            },
+            {
+                "name": "GLO: Steel sheet (1 to 3mm) spot welding"
+            },
+            {
+                "name": "GLO: Steel wire rod"
+            }
+        ],
+        "foregroundDataSource": "Manual",
+        "backforegroundDataSource": "worldsteel;GaBi 2014",
+        "postConsumerRecycledContent": "28%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "72% recycled (product has 28% scrap input while remaineder is processed and credited as avoided burden); 28% to landfill (ferro metal)",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "7.47E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "3.54E-04"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "2.76E+00"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.13E-08"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "9.13E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "3.29E+01"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "-1.52E-03"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "-4.03E-06"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "-6.55E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "2.34E-08"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "-1.32E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "-5.57E+00"
+                }
+            ]
+        }
+    },
+    "id": "CP111",
+    "name": "Welded Wire Mesh Concrete Reinforcement",
+    "altNames": [
+        "Welded Wire Reinforcement",
+        "Welded Wire Fabric",
+        "WWR",
+        "WWF"
+    ],
+    "uniformats": [
+        {
+            "id": "A4010",
+            "name": "Standard Slabs-on-Grade"
+        },
+        {
+            "id": "A1010",
+            "name": "Standard Foundations"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "03-22-00",
+            "name": "Welded Wire Fabric Reinforcing"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Welded wire reinforcement is made from a low carbon steel suitable for welding.  Sections of steel wire of varying diameter are crossed perpendicularly with other sections of steel wire, and welded into a grid.  These intersections are joined using resistance welding which uses electrical current to melt the wires together, therefore no additional materials are needed to complete the weld.  Welded wire reinforcement is specified under ASTM 1064, however the standard does not require that any specific steel alloy or material composition be used.",
+    "sources": [
+        {
+            "name": "AISI 1008",
+            "url": "http://www.azom.com/article.aspx?ArticleID=6538",
+            "id": 2985
+        },
+        {
+            "name": "USITC",
+            "url": "https://books.google.com/books?id=-GkfnHcoN9QC&pg=SL1-PA3&lpg=SL1-PA3&dq=welded+wire+fabric+carbon+content&source=bl&ots=pyxsiPSZPU&sig=9qNxiF8IrGYTqUsqvMKEJnpsIzM&hl=en&sa=X&ei=skvBVJ3KAYb1yATvpYKwBg&ved=0CF4Q6AEwCQ#v=onepage&q=welded%20wire%20fabric%20carbon%20content&f=false",
+            "id": 1762
+        },
+        {
+            "name": "RangaRajan",
+            "url": "http://www.sefindia.org/forum/files/welded_wire_mesh_403.pdf",
+            "id": 1761
+        },
+        {
+            "name": "AISI 1006",
+            "url": "http://www.azom.com/article.aspx?ArticleID=6537",
+            "id": 1759
+        },
+        {
+            "name": "Domoplex",
+            "url": "http://www.domoplex.com.cy/p1_concrete.htm",
+            "id": 1758
+        },
+        {
+            "name": "TWI",
+            "url": "http://www.twi-global.com/technologies/welding-surface-engineering-and-material-processing/resistance-welding/",
+            "id": 1757
+        },
+        {
+            "name": "Manual",
+            "url": "http://rebar.ecn.purdue.edu/wwr/Library%5CWRI%20Manual%20of%20Standard%20Practice.pdf",
+            "id": 1756
+        },
+        {
+            "name": "Sample Specs",
+            "url": "http://www.wirereinforcementinstitute.org/cast-in-place.html",
+            "id": 1755
+        },
+        {
+            "name": "A1064",
+            "url": "http://www.astm.org/Standards/A1064.htm",
+            "id": 1754
+        },
+        {
+            "name": "E200",
+            "url": "http://www.concrete.org/Portals/0/Files/PDF/fE2-00.pdf",
+            "id": 1753
+        },
+        {
+            "name": "A497",
+            "url": "http://www.astm.org/Standards/A497.htm",
+            "id": 1752
+        },
+        {
+            "name": "ACI 315-99",
+            "url": "http://web.itu.edu.tr/celep/files/y5.pdf",
+            "id": 1751
+        },
+        {
+            "name": "Insteel MSDS",
+            "url": "http://www.insteel.com/media/25005/sds_-iwp_-__5-29-15.pdf",
+            "id": 1750
+        },
+        {
+            "name": "Brochure",
+            "url": "http://www.insteel.com/media/5361/wwr_brochure.pdf",
+            "id": 1749
+        },
+        {
+            "name": "WWR",
+            "url": "http://www.insteel.com/media/5000/wwr_material_information.pdf",
+            "id": 1748
+        },
+        {
+            "name": "Insteel",
+            "url": "http://www.insteel.com/1105",
+            "id": 1747
+        }
+    ]
+}

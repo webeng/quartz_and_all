@@ -1,0 +1,2406 @@
+{
+    "CPID": "CP109",
+    "timestamp": 1452102128166,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 11196,
+            "name": "Additives",
+            "CASRN": "",
+            "massPct": 0.04576736946,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.03065366416,
+                        "contributors": [
+                            {
+                                "recId": 1206,
+                                "massPct": 0.03065366416,
+                                "childrenIds": [
+                                    1206
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": 0.002857544964,
+                        "contributors": [
+                            {
+                                "recId": 1204,
+                                "massPct": 0.002857544964,
+                                "childrenIds": [
+                                    1204
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine",
+                        "massPct": 0.002857544964,
+                        "contributors": [
+                            {
+                                "recId": 1204,
+                                "massPct": 0.002857544964,
+                                "childrenIds": [
+                                    1204
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive",
+                        "massPct": 0.002857544964,
+                        "contributors": [
+                            {
+                                "recId": 1204,
+                                "massPct": 0.002857544964,
+                                "childrenIds": [
+                                    1204
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental",
+                        "massPct": 0.002857544964,
+                        "contributors": [
+                            {
+                                "recId": 1204,
+                                "massPct": 0.002857544964,
+                                "childrenIds": [
+                                    1204
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 1202,
+                    "name": "Vermiculite",
+                    "CASRN": "1318-00-9",
+                    "massPct": 0.1006635158,
+                    "function": "fire resistance",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Athena 2011",
+                            "url": "www.pharosproject.net/uploads/files/sources/1238/1337635897.pdf",
+                            "id": 7788
+                        },
+                        {
+                            "name": "American Gypsum MSDS",
+                            "url": "http://www.americangypsum.com/pdfs/msds.pdf",
+                            "id": 1297
+                        },
+                        {
+                            "name": "Type X EPD",
+                            "url": "http://www.gypsum.org/wp/wp-content/uploads/2013/12/Gypsum-2014-FINAL-May-13-.pdf",
+                            "id": 1225
+                        },
+                        {
+                            "name": "GP MSDS",
+                            "url": "http://www.pharosproject.net/uploads/files/sources/1187/1409838398.pdf",
+                            "id": 1215
+                        }
+                    ],
+                    "notes": "Fire resistance (listed as standard ingredient in regular wallboard by Athena2011)",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.004607104318761148
+                },
+                {
+                    "recId": 1205,
+                    "name": "Napthalenesulfonic Acid",
+                    "CASRN": "37293-74-6",
+                    "massPct": 0.06364531966,
+                    "function": "dispersant",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Lomar D MSDS",
+                            "url": "http://www.geosc.com/Assets/Files/MSDS-Files/LOMAR-D-LIQUID/MSDS-1687S-PRD-ANSI-EN.",
+                            "id": 1237
+                        },
+                        {
+                            "name": "Diloflo MSDS",
+                            "url": "http://www.geosc.com/Products/Diloflo-CA?Application=Dispersants",
+                            "id": 1236
+                        },
+                        {
+                            "name": "USG patent",
+                            "url": "http://www.google.com.br/patents/US7731794",
+                            "id": 1235
+                        }
+                    ],
+                    "notes": "Formaldehyde polymer, calcium salt, Formaldehyde-based, %s are of dispersant formulation and will need to be adjusted; \"The naphthalenesulfonate dispersant is present in an amount of about 0.1%-3.0% by weight based on the weight of dry stucco.\"- USG patent",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.002912878859279022
+                },
+                {
+                    "recId": 1106,
+                    "name": "Water",
+                    "CASRN": "7732-18-5",
+                    "massPct": 0.7083589368,
+                    "function": "binder",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Type X EPD",
+                            "url": "http://www.gypsum.org/wp/wp-content/uploads/2013/12/Gypsum-2014-FINAL-May-13-.pdf",
+                            "id": 1225
+                        }
+                    ],
+                    "notes": "Moisture content of finished product = 3.3% per Athena 2011.",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.032419725170818384
+                },
+                {
+                    "recId": 1203,
+                    "name": "Starch",
+                    "CASRN": "9005-25-8",
+                    "massPct": 0.09351965338,
+                    "function": "accelerator, binder, edge paste",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "PABCO MSDS",
+                            "url": "http://www.pabcogypsum.com/TechData/MSDS-PABCO%20GYPSUM%20PRODUCTS.pdf",
+                            "id": 10928
+                        },
+                        {
+                            "name": "USG patent",
+                            "url": "http://www.google.com.br/patents/US7731794",
+                            "id": 1235
+                        },
+                        {
+                            "name": "Type X EPD",
+                            "url": "http://www.gypsum.org/wp/wp-content/uploads/2013/12/Gypsum-2014-FINAL-May-13-.pdf",
+                            "id": 1225
+                        }
+                    ],
+                    "notes": "Patent Proportions tab puts this at .2%",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.004280148528013597
+                },
+                {
+                    "recId": 1206,
+                    "name": "Calcium Sulfate Dihydrate",
+                    "CASRN": "10101-41-4",
+                    "massPct": 0.03065366416,
+                    "function": "accelerator",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Hercules",
+                            "url": "https://www.google.com/patents/US20070246178?dq=latex+gypsum+paper&ei=WxAPVILHLarbsASd8IKACQ&cl=en",
+                            "id": 1222
+                        },
+                        {
+                            "name": "USG 1985",
+                            "url": "https://www.google.com/patents/US4548676?dq=silicone+emulsion+paper+wallboard&hl=en&sa=X&ei=dBAOVI_aMI3lsATziIIo&ved=0CB0Q6AEwAA",
+                            "id": 1219
+                        }
+                    ],
+                    "notes": "AKA land plaster, which is formed after gypsum rock is pulverized and dried. (In wallboard manufacture, this is then calcinated to remove water to produce stucco, the main component of wallboard) (Certainteed TSD)",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0014029375729134805
+                },
+                {
+                    "recId": 1204,
+                    "name": "Boric Acid",
+                    "CASRN": "10043-35-3",
+                    "massPct": 0.002857544964,
+                    "function": "biocide, paper adhesion",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-574",
+                                "type": "orange",
+                                "name": "Mammalian",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "orange-570",
+                                "type": "orange",
+                                "name": "Endocrine",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ],
+                        "red": [
+                            {
+                                "hazardId": "red-569",
+                                "type": "red",
+                                "name": "Reproductive",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            },
+                            {
+                                "hazardId": "red-568",
+                                "type": "red",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Athena 2011",
+                            "url": "www.pharosproject.net/uploads/files/sources/1238/1337635897.pdf",
+                            "id": 7788
+                        },
+                        {
+                            "name": "Borax doc",
+                            "url": "http://www.borax.com/docs/euf_pdfs/euf-borates-boratesingypsumboard.pdf?sfvrsn=2",
+                            "id": 1233
+                        },
+                        {
+                            "name": "I.E DuPont patent",
+                            "url": "http://www.google.nl/patents/US6703331",
+                            "id": 1232
+                        },
+                        {
+                            "name": "GP MSDS",
+                            "url": "http://www.pharosproject.net/uploads/files/sources/1187/1409838398.pdf",
+                            "id": 1215
+                        }
+                    ],
+                    "notes": "Biocide, paper adhesion, prevents wrinkles. Present in base wallboard and in gypsum paper GADSL requires reporting over 0.1%. Also see:  Reg. (EC) No 1907/2006 (REACH Candidate List); [0.16 lbs. from base wallboard and (0.01%) and 0.04 lbs. from gypsum paper]",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0001307823161159504
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.04576736946
+        },
+        {
+            "recId": 11192,
+            "name": "Gypsum",
+            "CASRN": "",
+            "massPct": 0.8808783457,
+            "function": "",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.4062626535,
+                        "contributors": [
+                            {
+                                "recId": 1198,
+                                "massPct": 0.4062626535,
+                                "childrenIds": [
+                                    1198
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "unknown": [
+                    {
+                        "hazardId": "unknown-11424",
+                        "type": "unknown",
+                        "name": "Unknown",
+                        "massPct": 0.5937373465,
+                        "contributors": [
+                            {
+                                "recId": 925,
+                                "massPct": 0.5750438656,
+                                "childrenIds": [
+                                    925
+                                ]
+                            },
+                            {
+                                "recId": 1245,
+                                "massPct": 0.0186934809,
+                                "childrenIds": [
+                                    1245
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 1198,
+                    "name": "Natural Gypsum Ore",
+                    "CASRN": "13397-24-5",
+                    "massPct": 0.4062626535,
+                    "function": "body",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Athena 2011",
+                            "url": "www.pharosproject.net/uploads/files/sources/1238/1337635897.pdf",
+                            "id": 7788
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.35786797413477234
+                },
+                {
+                    "recId": 925,
+                    "name": "FGD Synthetic Gypsum",
+                    "CASRN": "unknown",
+                    "massPct": 0.5750438656,
+                    "function": "body",
+                    "hazards": {
+                        "unknown": [
+                            {
+                                "hazardId": "unknown-11424",
+                                "type": "unknown",
+                                "name": "Unknown",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Athena 2011",
+                            "url": "www.pharosproject.net/uploads/files/sources/1238/1337635897.pdf",
+                            "id": 7788
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.5065436890346612
+                },
+                {
+                    "recId": 1245,
+                    "name": "Post-Consumer Gypsum",
+                    "CASRN": "unknown",
+                    "massPct": 0.0186934809,
+                    "function": "body",
+                    "hazards": {
+                        "unknown": [
+                            {
+                                "hazardId": "unknown-11424",
+                                "type": "unknown",
+                                "name": "Unknown",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Athena 2011",
+                            "url": "www.pharosproject.net/uploads/files/sources/1238/1337635897.pdf",
+                            "id": 7788
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.01646668253056655
+                }
+            ],
+            "sources": [
+                {
+                    "name": "Athena 2011",
+                    "url": "www.pharosproject.net/uploads/files/sources/1238/1337635897.pdf",
+                    "id": 7788
+                }
+            ],
+            "notes": "Gypsum may be up to 100% post-industrial flue gas desulphurization waste from coal-fired power plants (see residuals).",
+            "lca": "",
+            "massPctOfTotal": 0.8808783457
+        },
+        {
+            "recId": 11194,
+            "name": "Gypsum Paper",
+            "CASRN": "",
+            "massPct": 0.06353012571,
+            "function": "",
+            "hazards": {
+                "unknown": [
+                    {
+                        "hazardId": "unknown-11424",
+                        "type": "unknown",
+                        "name": "Unknown",
+                        "massPct": 0.0002170576424,
+                        "contributors": [
+                            {
+                                "recId": 2042,
+                                "massPct": 0.0002170576424,
+                                "childrenIds": [
+                                    2042
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "orange": [
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental",
+                        "massPct": 0.2726680752,
+                        "contributors": [
+                            {
+                                "recId": 1206,
+                                "massPct": 0.2726680752,
+                                "childrenIds": [
+                                    1206
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "recId": 1201,
+                    "name": "Polymer Latex",
+                    "CASRN": "9003-55-8",
+                    "massPct": 0.02785319048,
+                    "function": "binder",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "Hercules",
+                            "url": "https://www.google.com/patents/US20070246178?dq=latex+gypsum+paper&ei=WxAPVILHLarbsASd8IKACQ&cl=en",
+                            "id": 1222
+                        },
+                        {
+                            "name": "USG 1985",
+                            "url": "https://www.google.com/patents/US4548676?dq=silicone+emulsion+paper+wallboard&hl=en&sa=X&ei=dBAOVI_aMI3lsATziIIo&ved=0CB0Q6AEwAA",
+                            "id": 1219
+                        }
+                    ],
+                    "notes": "SBR is a representative material stand in for things described as SBR latex, latex, or acrylic. There is variation of the exact polymer used between manufacturers.",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.0017695166926189753
+                },
+                {
+                    "recId": 2042,
+                    "name": "Silicone Emulsion",
+                    "CASRN": "",
+                    "massPct": 0.0002170576424,
+                    "function": "sizing agent",
+                    "hazards": {
+                        "unknown": [
+                            {
+                                "hazardId": "unknown-11424",
+                                "type": "unknown",
+                                "name": "Unknown",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Momentive 29 TDS",
+                            "url": "http://www.momentive.com/products/showtechnicaldatasheet.aspx?id=15207",
+                            "id": 1309
+                        },
+                        {
+                            "name": "USG 1985",
+                            "url": "https://www.google.com/patents/US4548676?dq=silicone+emulsion+paper+wallboard&hl=en&sa=X&ei=dBAOVI_aMI3lsATziIIo&ved=0CB0Q6AEwAA",
+                            "id": 1219
+                        },
+                        {
+                            "name": "National Gypsum patent 2",
+                            "url": "https://www.google.com/patents/US3389042?dq=3,389,042&hl=en&sa=X&ei=K_cJVK3zMomnggT3noCACQ&ved=0CB0Q6AEwAA",
+                            "id": 1217
+                        },
+                        {
+                            "name": "Daniel R English",
+                            "url": "https://www.google.com/patents/CA1116066A1?cl=en&dq=greyback+paper+liner&hl=en&sa=X&ei=TfYJVJnTGNWPNr6LgaAD&ved=0CCYQ6AEwAQ",
+                            "id": 1243
+                        },
+                        {
+                            "name": "USG patent 2",
+                            "url": "https://www.google.com/patents/EP0956946B1?cl=en&dq=gypsum+paper&hl=en&sa=X&ei=Ke0JVLqHMIPBggT_hIKICw&sqi=2&pjf=1&ved=0CCQQ6AEwAQ",
+                            "id": 1242
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.000013789699307988225
+                },
+                {
+                    "recId": 1206,
+                    "name": "Calcium Sulfate Dihydrate",
+                    "CASRN": "10101-41-4",
+                    "massPct": 0.2726680752,
+                    "function": "filler",
+                    "hazards": {
+                        "orange": [
+                            {
+                                "hazardId": "orange-568",
+                                "type": "orange",
+                                "name": "Developmental",
+                                "massPct": null,
+                                "contributors": [
+                                    {}
+                                ]
+                            }
+                        ]
+                    },
+                    "sources": [
+                        {
+                            "name": "Hercules",
+                            "url": "https://www.google.com/patents/US20070246178?dq=latex+gypsum+paper&ei=WxAPVILHLarbsASd8IKACQ&cl=en",
+                            "id": 1222
+                        },
+                        {
+                            "name": "USG 1985",
+                            "url": "https://www.google.com/patents/US4548676?dq=silicone+emulsion+paper+wallboard&hl=en&sa=X&ei=dBAOVI_aMI3lsATziIIo&ved=0CB0Q6AEwAA",
+                            "id": 1219
+                        }
+                    ],
+                    "notes": "",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.017322637094559733
+                },
+                {
+                    "recId": 1199,
+                    "name": "Waste Paper",
+                    "CASRN": "9004-34-6",
+                    "massPct": 0.6992616767,
+                    "function": "paper",
+                    "hazards": {},
+                    "sources": [
+                        {
+                            "name": "How Products are Made",
+                            "url": "http://www.madehow.com/Volume-2/Drywall.html",
+                            "id": 1220
+                        },
+                        {
+                            "name": "USG 1985",
+                            "url": "https://www.google.com/patents/US4548676?dq=silicone+emulsion+paper+wallboard&hl=en&sa=X&ei=dBAOVI_aMI3lsATziIIo&ved=0CB0Q6AEwAA",
+                            "id": 1219
+                        },
+                        {
+                            "name": "Eagle",
+                            "url": "http://www.eaglematerials.com/products/paperboard.html",
+                            "id": 1218
+                        },
+                        {
+                            "name": "National Gypsum patent 2",
+                            "url": "https://www.google.com/patents/US3389042?dq=3,389,042&hl=en&sa=X&ei=K_cJVK3zMomnggT3noCACQ&ved=0CB0Q6AEwAA",
+                            "id": 1217
+                        }
+                    ],
+                    "notes": "cardboard boxes, newspaper, kraft cuttings",
+                    "lca": "yes",
+                    "massPctOfTotal": 0.044424182224936375
+                }
+            ],
+            "sources": [],
+            "notes": "",
+            "lca": "",
+            "massPctOfTotal": 0.06353012571
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Cobalt",
+            "CASRN": "7440-48-4",
+            "massPct": 0.000001379,
+            "function": "",
+            "sources": [
+                {
+                    "name": "EPA2009",
+                    "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004UPQ.PDF?Dockey=P1004UPQ.PDF",
+                    "id": 8643
+                },
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Lead",
+            "CASRN": "7439-92-1",
+            "massPct": 0.000001828,
+            "function": "",
+            "sources": [
+                {
+                    "name": "EPA2009",
+                    "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004UPQ.PDF?Dockey=P1004UPQ.PDF",
+                    "id": 8643
+                },
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-10360",
+                        "type": "orange",
+                        "name": "Neurotoxicity"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Uranium",
+            "CASRN": "7440-61-1",
+            "massPct": 2.59e-7,
+            "function": "",
+            "sources": [
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Arsenic",
+            "CASRN": "7440-38-2",
+            "massPct": 0.000001187,
+            "function": "",
+            "sources": [
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-10360",
+                        "type": "orange",
+                        "name": "Neurotoxicity"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Nickel",
+            "CASRN": "7440-02-0",
+            "massPct": 0.000004394,
+            "function": "",
+            "sources": [
+                {
+                    "name": "EPA2009",
+                    "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004UPQ.PDF?Dockey=P1004UPQ.PDF",
+                    "id": 8643
+                },
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Manganese",
+            "CASRN": "7439-96-5",
+            "massPct": 0.00004025,
+            "function": "",
+            "sources": [
+                {
+                    "name": "EPA2009",
+                    "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004UPQ.PDF?Dockey=P1004UPQ.PDF",
+                    "id": 8643
+                },
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Selenium",
+            "CASRN": "7782-49-2",
+            "massPct": 6.9e-7,
+            "function": "",
+            "sources": [
+                {
+                    "name": "EPA2009",
+                    "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004UPQ.PDF?Dockey=P1004UPQ.PDF",
+                    "id": 8643
+                },
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Potassium",
+            "CASRN": "7440-09-7",
+            "massPct": 0.00028767,
+            "function": "",
+            "sources": [
+                {
+                    "name": "EPA2009",
+                    "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004UPQ.PDF?Dockey=P1004UPQ.PDF",
+                    "id": 8643
+                },
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Formaldehyde",
+            "CASRN": "50-00-0",
+            "massPct": null,
+            "function": "Napthalenesulfonic acid, Formaldehyde polymer, calcium salt residual",
+            "sources": [],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Beryllium",
+            "CASRN": "7440-41-7",
+            "massPct": 4e-8,
+            "function": "",
+            "sources": [
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Antimony",
+            "CASRN": "7440-36-0",
+            "massPct": 4.69e-9,
+            "function": "",
+            "sources": [
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Zinc",
+            "CASRN": "7440-66-6",
+            "massPct": 0.000007821,
+            "function": "",
+            "sources": [
+                {
+                    "name": "EPA2009",
+                    "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004UPQ.PDF?Dockey=P1004UPQ.PDF",
+                    "id": 8643
+                },
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-7912",
+                        "type": "orange",
+                        "name": "Respiratory (occupational only)"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Zirconium",
+            "CASRN": "7440-67-7",
+            "massPct": 5.46e-7,
+            "function": "",
+            "sources": [
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Sodium",
+            "CASRN": "7440-23-5",
+            "massPct": 0.00013058,
+            "function": "",
+            "sources": [
+                {
+                    "name": "EPA2009",
+                    "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004UPQ.PDF?Dockey=P1004UPQ.PDF",
+                    "id": 8643
+                },
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Quartz",
+            "CASRN": "14808-60-7",
+            "massPct": 0.00982416,
+            "function": "gypsum residual",
+            "sources": [
+                {
+                    "name": "American Gypsum MSDS",
+                    "url": "http://www.americangypsum.com/pdfs/msds.pdf",
+                    "id": 1297
+                },
+                {
+                    "name": "GP MSDS",
+                    "url": "http://www.pharosproject.net/uploads/files/sources/1187/1409838398.pdf",
+                    "id": 1215
+                },
+                {
+                    "name": "National Gypsum",
+                    "url": "http://www.nationalgypsum.com/File/msds01501.pdf",
+                    "id": 1212
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Styrene",
+            "CASRN": "100-42-5",
+            "massPct": 1.80158e-7,
+            "function": "polymer latex monomers",
+            "sources": [
+                {
+                    "name": "Rovene 4002",
+                    "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=fda58407a3234db6a2e025ee7d6e89b3",
+                    "id": 7055
+                },
+                {
+                    "name": "Rovene 4019",
+                    "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=5b2503aed9264320a46fec26a7132e4e",
+                    "id": 2048
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-568",
+                        "type": "orange",
+                        "name": "Developmental"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Cadmium",
+            "CASRN": "7440-43-9",
+            "massPct": 3.95e-8,
+            "function": "",
+            "sources": [
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Vanadium",
+            "CASRN": "7440-62-2",
+            "massPct": 0.000002028,
+            "function": "",
+            "sources": [
+                {
+                    "name": "EPA2009",
+                    "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004UPQ.PDF?Dockey=P1004UPQ.PDF",
+                    "id": 8643
+                },
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "1,3-Butadiene",
+            "CASRN": "106-99-0",
+            "massPct": 1.80158e-7,
+            "function": "polymer latex monomers",
+            "sources": [
+                {
+                    "name": "Rovene 4002",
+                    "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=fda58407a3234db6a2e025ee7d6e89b3",
+                    "id": 7055
+                },
+                {
+                    "name": "Rovene 4019",
+                    "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=5b2503aed9264320a46fec26a7132e4e",
+                    "id": 2048
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-571",
+                        "type": "red",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    },
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Chromium",
+            "CASRN": "7440-47-3",
+            "massPct": 0.00000221,
+            "function": "",
+            "sources": [
+                {
+                    "name": "EPA2009",
+                    "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004UPQ.PDF?Dockey=P1004UPQ.PDF",
+                    "id": 8643
+                },
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Mercury",
+            "CASRN": "7439-97-6",
+            "massPct": 1.444e-7,
+            "function": "FGD residual",
+            "sources": [
+                {
+                    "name": "Yost",
+                    "url": "https://drive.google.com/file/d/0B6_XRxBjnX_da3VVQmk2aHdUYVU/view",
+                    "id": 8642
+                },
+                {
+                    "name": "USG",
+                    "url": "https://www.netl.doe.gov/File%20Library/Research/Coal/ewr/42080FinalRpt20080624.pdf",
+                    "id": 8063
+                },
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                },
+                {
+                    "name": "EAP2009",
+                    "url": "\"Drywall Sample Analysis,\" US EPA, May 2009, nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P1004UPQ.txt; ",
+                    "id": 1261
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-570",
+                        "type": "orange",
+                        "name": "Endocrine"
+                    },
+                    {
+                        "hazardId": "orange-567",
+                        "type": "orange",
+                        "name": "Cancer"
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant"
+                    },
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization"
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-569",
+                        "type": "red",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "red-568",
+                        "type": "red",
+                        "name": "Developmental"
+                    }
+                ],
+                "purple": [
+                    {
+                        "hazardId": "purple-955",
+                        "type": "purple",
+                        "name": "PBT"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Thorium",
+            "CASRN": "7440-29-1",
+            "massPct": 2e-7,
+            "function": "",
+            "sources": [
+                {
+                    "name": "Gypsum Wallboard Closed-loop Recycling",
+                    "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+                    "id": 8641
+                }
+            ],
+            "hazards": {
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-568",
+                    "type": "orange",
+                    "name": "Developmental",
+                    "massPct": 0.37659354880224555,
+                    "contributors": [
+                        {
+                            "recId": 11196,
+                            "massPct": 0.0014029375729134805,
+                            "childrenIds": [
+                                11196,
+                                1206
+                            ]
+                        },
+                        {
+                            "recId": 11192,
+                            "massPct": 0.35786797413477234,
+                            "childrenIds": [
+                                11192,
+                                1198
+                            ]
+                        },
+                        {
+                            "recId": 11194,
+                            "massPct": 0.017322637094559733,
+                            "childrenIds": [
+                                11194,
+                                1206
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 0.0001307823161159504,
+                    "contributors": [
+                        {
+                            "recId": 11196,
+                            "massPct": 0.0001307823161159504,
+                            "childrenIds": [
+                                11196,
+                                1204
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-570",
+                    "type": "orange",
+                    "name": "Endocrine",
+                    "massPct": 0.0001307823161159504,
+                    "contributors": [
+                        {
+                            "recId": 11196,
+                            "massPct": 0.0001307823161159504,
+                            "childrenIds": [
+                                11196,
+                                1204
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-569",
+                    "type": "red",
+                    "name": "Reproductive",
+                    "massPct": 0.0001307823161159504,
+                    "contributors": [
+                        {
+                            "recId": 11196,
+                            "massPct": 0.0001307823161159504,
+                            "childrenIds": [
+                                11196,
+                                1204
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "red-568",
+                    "type": "red",
+                    "name": "Developmental",
+                    "massPct": 0.0001307823161159504,
+                    "contributors": [
+                        {
+                            "recId": 11196,
+                            "massPct": 0.0001307823161159504,
+                            "childrenIds": [
+                                11196,
+                                1204
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "unknown": [
+                {
+                    "hazardId": "unknown-11424",
+                    "type": "unknown",
+                    "name": "Unknown",
+                    "massPct": 0.5230241612645358,
+                    "contributors": [
+                        {
+                            "recId": 11192,
+                            "massPct": 0.5065436890346612,
+                            "childrenIds": [
+                                11192,
+                                925
+                            ]
+                        },
+                        {
+                            "recId": 11192,
+                            "massPct": 0.01646668253056655,
+                            "childrenIds": [
+                                11192,
+                                1245
+                            ]
+                        },
+                        {
+                            "recId": 11194,
+                            "massPct": 0.000013789699307988225,
+                            "childrenIds": [
+                                11194,
+                                2042
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundary is defined as cradle-to-gate and ends with the finished product at the factory gate. Inbound transportation of significant upstream materials is included; transportation of some minor materials is not included as it is unknown and falls below the cut-off criteria. Operating materials are likewise excluded as they are unknown and fall below the cut-off criteria.",
+        "gabiDatasets": [
+            {
+                "name": "US: Calcium hydroxide (Ca(OH)2, dry, slaked lime)"
+            },
+            {
+                "name": "US: Gypsum (FGD) from hard coal power plant"
+            },
+            {
+                "name": "EU-27: Diesel fuel supplied and combusted in diesel generator"
+            },
+            {
+                "name": "EU-27: Gasoline (Super) supplied and combusted"
+            },
+            {
+                "name": "US: Thermal energy from propane"
+            },
+            {
+                "name": "US: Thermal energy from natural gas"
+            },
+            {
+                "name": "US: Electricity grid mix (direct)"
+            },
+            {
+                "name": "DE: Styrene-Butadiene Rubber (SBR) Mix"
+            },
+            {
+                "name": "EU-27: Quartz sand (extraction and processing)"
+            },
+            {
+                "name": "DE: Silicone resin emulsion (54%)"
+            },
+            {
+                "name": "EU-27: Gypsum stone (CaSO4-Dihydrate) (EN15804 A1-A3)"
+            },
+            {
+                "name": "DE: Boric acid (estimation)"
+            },
+            {
+                "name": "US: Starch (Polyglucose)"
+            },
+            {
+                "name": "GLO: Vermiculite"
+            },
+            {
+                "name": "US: Tap water from groundwater"
+            },
+            {
+                "name": "DE: Gypsum stone (CaSO4-Dihydrate) (EN15804 A1-A3)"
+            }
+        ],
+        "foregroundDataSource": "American Gypsum Association (AGA) [via Athena 2011]",
+        "backforegroundDataSource": "GaBi 2014",
+        "postConsumerRecycledContent": "6.2% (recycled gypsum and waste paper)",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "100% landfilled (4.5% paper waste, 95.5% inert material)",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "9.68E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "6.90E-05"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "3.60E-01"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.86E-11"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "1.92E-02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "5.91E+00"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "3.41E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "3.74E-05"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "8.78E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "1.13E-12"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "5.01E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "8.19E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP109",
+    "name": "Drywall (Mixed Gypsum)",
+    "altNames": [
+        "Gypsum board",
+        "Plasterboard",
+        "Wallboard",
+        "Gypsum wallboard"
+    ],
+    "uniformats": [
+        {
+            "id": "A2010",
+            "name": "Walls for Subgrade Enclosures"
+        },
+        {
+            "id": "B1080",
+            "name": "Stairs"
+        },
+        {
+            "id": "B2010",
+            "name": "Exterior Walls"
+        },
+        {
+            "id": "B3080",
+            "name": "Overhead Exterior Enclosures"
+        },
+        {
+            "id": "C1010",
+            "name": "Interior Partitions"
+        },
+        {
+            "id": "C1070",
+            "name": "Suspended Ceiling Construction"
+        },
+        {
+            "id": "C2050",
+            "name": "Ceiling Finishes"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "09-29-00",
+            "name": "Gypsum Board"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Drywall is ubiquitously used in building construction as interior wall enclosures, ceilings, and partitions in both load-bearing and non-load-bearing cases. There are many strains of Drywall including but not limited to acoustical, fire-resistant, moisture-resistant and mold-resistant varieties. This Common Product profile represents a regular Drywall product. Drywall is composed of gypsum plaster pressed between a paper or cardboard lining. The key material is gypsum (calcium sulfate), which is available in different hydration levels, and in anhydrous form. Natural gypsum stone is calcium sulfate-dihydrate (CaSO4*2H2O). The anhydrous calcium sulfate can be found in nature as anhydrite (CaSO4). Gypsum also occurs in large quantities as the industry by-product, otherwise known as flue-gas desulphurized (FGD) gypsum. This common product profile characterizes a drywall product made of a combination of naturally mined gypsum, FGD and some post-consumer gypsum.",
+    "sources": [
+        {
+            "name": "Cedepal FA-406 MSDS",
+            "url": "http://www.stepan.com/msds/00064600.pdf",
+            "id": 8631
+        },
+        {
+            "name": "EAP2009",
+            "url": "\"Drywall Sample Analysis,\" US EPA, May 2009, nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P1004UPQ.txt; ",
+            "id": 1261
+        },
+        {
+            "name": "Yost",
+            "url": "https://drive.google.com/file/d/0B6_XRxBjnX_da3VVQmk2aHdUYVU/view",
+            "id": 8642
+        },
+        {
+            "name": "Gypsum Wallboard Closed-loop Recycling",
+            "url": "https://hb2015america.files.wordpress.com/2014/10/hb2015_program_vfin.pdf",
+            "id": 8641
+        },
+        {
+            "name": "USG",
+            "url": "https://www.netl.doe.gov/File%20Library/Research/Coal/ewr/42080FinalRpt20080624.pdf",
+            "id": 8063
+        },
+        {
+            "name": "Rovene 4019",
+            "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=5b2503aed9264320a46fec26a7132e4e",
+            "id": 2048
+        },
+        {
+            "name": "Rovene 4002",
+            "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=fda58407a3234db6a2e025ee7d6e89b3",
+            "id": 7055
+        },
+        {
+            "name": "Xiameter MHX-1107 MSDS",
+            "url": " https://www.xiameter.com/EN/Pages/RetrieveDocument.aspx?type=SDS&DocumentId=090277018159fb66&s=45314.",
+            "id": 7864
+        },
+        {
+            "name": "Whitepaper",
+            "url": "http://us.henry.com/fileadmin/pdf/literature/EHS_Global_Gypsum_Conference.pdf",
+            "id": 7863
+        },
+        {
+            "name": "Wacker 2004",
+            "url": "https://www.google.com/patents/DE10003495C2?cl=en",
+            "id": 7862
+        },
+        {
+            "name": "Viscocrete",
+            "url": "http://www.sika.com/dms/getdocument.get/f91ccc2d-db63-3075-9f56-ada6cd5341a3/ss_gypsum&mortar_selection_guide_022011_GB.pdf",
+            "id": 7861
+        },
+        {
+            "name": "USG patent 2",
+            "url": "https://www.google.com/patents/EP0956946B1?cl=en&dq=gypsum+paper&hl=en&sa=X&ei=Ke0JVLqHMIPBggT_hIKICw&sqi=2&pjf=1&ved=0CCQQ6AEwAQ",
+            "id": 1242
+        },
+        {
+            "name": "USG patent",
+            "url": "http://www.google.com.br/patents/US7731794",
+            "id": 1235
+        },
+        {
+            "name": "USG msds",
+            "url": "http://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/sheetrock-gypsum-sheathing-msds-en-54030002.pdf",
+            "id": 7858
+        },
+        {
+            "name": "USG catylist",
+            "url": "http://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/usg-gypsum-plaster-accelerator-alum-catalyst-msds-en-53630001.pdf",
+            "id": 7857
+        },
+        {
+            "name": "USG 2014",
+            "url": "https://www.google.com/patents/CA2616102C?cl=en&dq=silicone+wallboard&hl=en&sa=X&ei=AUYTVKHGDIe1sQTpw4LYDA&ved=0CCMQ6AEwATgK",
+            "id": 7856
+        },
+        {
+            "name": "USG 1985",
+            "url": "https://www.google.com/patents/US4548676?dq=silicone+emulsion+paper+wallboard&hl=en&sa=X&ei=dBAOVI_aMI3lsATziIIo&ved=0CB0Q6AEwAA",
+            "id": 1219
+        },
+        {
+            "name": "US 20030144384 A1",
+            "url": "http://www.google.com/patents/US20030144384",
+            "id": 7854
+        },
+        {
+            "name": "Type X EPD",
+            "url": "http://www.gypsum.org/wp/wp-content/uploads/2013/12/Gypsum-2014-FINAL-May-13-.pdf",
+            "id": 1225
+        },
+        {
+            "name": "Tri-Tex",
+            "url": "http://tritex.com/upload/pdf_000_138/Tribond_P_2375_E_.pdf",
+            "id": 7852
+        },
+        {
+            "name": "Traver",
+            "url": "https://www.google.com/patents/US4258102?dq=4,258,102&hl=en&sa=X&ei=w6wRVJTlFqjLsASQ6ILQDQ&ved=0CB0Q6AEwAA",
+            "id": 7851
+        },
+        {
+            "name": "Silres 46 TDS",
+            "url": "http://www.wacker.com/cms/en/products/product/product.jsp?product=10088",
+            "id": 7850
+        },
+        {
+            "name": "Silres 46 MSDS",
+            "url": "http://www.wacker.com/cms/en/products/product/product.jsp?product=10089",
+            "id": 7849
+        },
+        {
+            "name": "Sika",
+            "url": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CB8QFjAA&url=http%3A%2F%2Fdeu.sika.com%2Fdms%2Fgetdocument.get%2F799fb9ce-ceea-38f2-b392-898594cd5219%2Finternational-gypsum-conference-10-2011.pdf&ei=OcQIVNXJMsKUyASSpoDICA&usg=AFQjCNGDnjWhx6-jDmkRg3y5l_S6_hHYvQ&sig2=xMHLCck7csjJr5CNR_Em-Q&bvm=bv.74649129,d.aWw",
+            "id": 7848
+        },
+        {
+            "name": "Sigma Aldrich",
+            "url": "http://www.chemistry.mcgill.ca/msds/msds/9011-13-6.pdf",
+            "id": 7847
+        },
+        {
+            "name": "Sanderson",
+            "url": "Sanderson, Jessica, Gary M. Blythe and Mandi Richardson, Fate of Mercury in Synthetic Gypsum Used for Wallboard Production, USG Corporation, June 2008. and Evaluation of Potential Human Health Inhalation Risks from Mercury in Building and Construction Materials Containing Coal Combustion Products, Electrric Power Research Institute, 2009",
+            "id": 7846
+        },
+        {
+            "name": "Sakakibara patent",
+            "url": "https://www.google.com/patents/US4392896?dq=edta+wallboard&hl=en&sa=X&ei=_4MQVLOaOveBsQTCooLQAw&sqi=2&pjf=1&ved=0CDkQ6AEwBA",
+            "id": 7845
+        },
+        {
+            "name": "Roth",
+            "url": "https://www.google.com/patents/US4835014?dq=4,835,014+roth&hl=en&sa=X&ei=dawRVKLvJPaNsQTUuYGACg&ved=0CB0Q6AEwAA",
+            "id": 7844
+        },
+        {
+            "name": "Romero",
+            "url": "https://www.google.com/patents/US20130053481?dq=momentive&ei=2iQPVL7NK-TksAS_o4LoCQ&cl=en",
+            "id": 7843
+        },
+        {
+            "name": "Quilon C MSDS",
+            "url": "http://www.zaclon.com/pdf/quilon_c_msds.pdf",
+            "id": 7842
+        },
+        {
+            "name": "PulpPaperMill.com",
+            "url": "http://www.pulppapermill.com/sizing-agents/",
+            "id": 7841
+        },
+        {
+            "name": "PABCO MSDS",
+            "url": "http://www.pabcogypsum.com/TechData/MSDS-PABCO%20GYPSUM%20PRODUCTS.pdf",
+            "id": 10928
+        },
+        {
+            "name": "Original CI",
+            "url": "",
+            "id": 10927
+        },
+        {
+            "name": "Olsen",
+            "url": "https://www.google.com/patents/US5512615?dq=silicone+wallboard&hl=en&sa=X&ei=AUYTVKHGDIe1sQTpw4LYDA&ved=0CD8Q6AEwBTgK",
+            "id": 7838
+        },
+        {
+            "name": "Noerchem",
+            "url": "http://www.norchem.com/pdf/technical-papers-articles-gapinksi-scanlon.pdf",
+            "id": 7837
+        },
+        {
+            "name": "National Gypsum patent 2",
+            "url": "https://www.google.com/patents/US3389042?dq=3,389,042&hl=en&sa=X&ei=K_cJVK3zMomnggT3noCACQ&ved=0CB0Q6AEwAA",
+            "id": 1217
+        },
+        {
+            "name": "National Gypsum patent",
+            "url": "https://www.google.com/patents/US1932956",
+            "id": 7835
+        },
+        {
+            "name": "National Gypsum 1999",
+            "url": "https://www.google.com/patents/US5879446?dq=US+5879446+A&hl=en&sa=X&ei=SYwQVJHCOtW1sQSQr4KgCQ&ved=0CB8Q6AEwAA",
+            "id": 7834
+        },
+        {
+            "name": "National Gypsum",
+            "url": "http://www.nationalgypsum.com/File/msds01501.pdf",
+            "id": 1212
+        },
+        {
+            "name": "Momentive 29 TDS",
+            "url": "http://www.momentive.com/products/showtechnicaldatasheet.aspx?id=15207",
+            "id": 1309
+        },
+        {
+            "name": "Millipore",
+            "url": "http://www.emdmillipore.com/US/en/product/Poly%28methyl-hydrogen-siloxane%29,MDA_CHEM-818063#anchor_MSD",
+            "id": 7831
+        },
+        {
+            "name": "Michem Emulsion TDS",
+            "url": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CCgQFjAB&url=http%3A%2F%2Fwww.michelman.com%2Fproducts%2Fdownload%2F%3Fpcode%3DME61335&ei=igIKVKuxDYPzgwTp7YKIAQ&usg=AFQjCNFiPXSkFIAgq93lJycFv20ro2KDAQ&sig2=8DUpUCP5n5NolEYBAy6qTg&bvm=bv.74649129,d.eXY",
+            "id": 7830
+        },
+        {
+            "name": "Merisalo Thesis",
+            "url": "http://lib.tkk.fi/Dipl/2009/urn100102.pdf",
+            "id": 7829
+        },
+        {
+            "name": "Lomar D MSDS",
+            "url": "http://www.geosc.com/Assets/Files/MSDS-Files/LOMAR-D-LIQUID/MSDS-1687S-PRD-ANSI-EN.",
+            "id": 1237
+        },
+        {
+            "name": "Lafarge patent",
+            "url": "https://www.google.com/patents/EP1349818A4?cl=en&dq=gypsum+edge+paste&hl=en&sa=X&ei=cdYIVMOMMYWqyATG_oLIBg&ved=0CB8Q6AEwAA",
+            "id": 1344
+        },
+        {
+            "name": "IE-2404",
+            "url": "http://www.dowcorning.com/DataFiles/0902770180c6aba8.pdf",
+            "id": 7826
+        },
+        {
+            "name": "ICL",
+            "url": "http://www.icl-pp.com/en-us/Solutions/Industrial/Construction/Pages/Wallboard.aspx#NorthAmerica",
+            "id": 7825
+        },
+        {
+            "name": "I.E DuPont patent",
+            "url": "http://www.google.nl/patents/US6703331",
+            "id": 1232
+        },
+        {
+            "name": "How Products are Made",
+            "url": "http://www.madehow.com/Volume-2/Drywall.html",
+            "id": 1220
+        },
+        {
+            "name": "Hexion",
+            "url": "https://www.google.com/patents/US7374610?dq=magnesium+sulfate+wax+emulsion&hl=en&sa=X&ei=JOIRVLvLNreMsQT4lIKIAw&ved=0CB8Q6AEwAA",
+            "id": 7822
+        },
+        {
+            "name": "Hercules",
+            "url": "https://www.google.com/patents/US20070246178?dq=latex+gypsum+paper&ei=WxAPVILHLarbsASd8IKACQ&cl=en",
+            "id": 1222
+        },
+        {
+            "name": "Henry 2010",
+            "url": "http://www.google.com/patents/US7842731",
+            "id": 7820
+        },
+        {
+            "name": "HB Fuller",
+            "url": "http://www.hbfuller.com/north-america/products-solutions/markets-and-applications/polymers/polymers-for-building-and-construction?product=yes&sectionid=758004",
+            "id": 7819
+        },
+        {
+            "name": "Gypsum Association LCA",
+            "url": "http://www.gypsum.org/wp/wp-content/uploads/2014/02/Life-CycleAssessmentSummary02-13.pdf",
+            "id": 1299
+        },
+        {
+            "name": "GP MSDS",
+            "url": "http://www.pharosproject.net/uploads/files/sources/1187/1409838398.pdf",
+            "id": 1215
+        },
+        {
+            "name": "GE 1998",
+            "url": "http://www.google.com/patents/US5814411",
+            "id": 7815
+        },
+        {
+            "name": "GE 1981",
+            "url": "https://www.google.com/patents/WO1981000232A1?cl=en",
+            "id": 7814
+        },
+        {
+            "name": "G2 MSDS",
+            "url": "http://usa.sika.com/dms/getdocument.get/1e98364f-eb54-31a7-81c6-d24e4698edf4/msds-cpd-Sika%20Viscocrete%20G-2-us.pdf",
+            "id": 7813
+        },
+        {
+            "name": "EPA2009",
+            "url": "http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004UPQ.PDF?Dockey=P1004UPQ.PDF",
+            "id": 8643
+        },
+        {
+            "name": "Eagle",
+            "url": "http://www.eaglematerials.com/products/paperboard.html",
+            "id": 1218
+        },
+        {
+            "name": "DuraTape",
+            "url": "http://www.google.com/patents/US20080128070",
+            "id": 7810
+        },
+        {
+            "name": "Dow Siloxanes",
+            "url": "http://www.dowcorning.com/content/publishedlit/26-1402-01.pdf",
+            "id": 7809
+        },
+        {
+            "name": "DISAL",
+            "url": "http://www.handy-chemicals.com/Products_Gypsum-and-cement-wallboard_Disal-GPS.htm",
+            "id": 7808
+        },
+        {
+            "name": "American Gypsum MSDS",
+            "url": "http://www.americangypsum.com/pdfs/msds.pdf",
+            "id": 1297
+        },
+        {
+            "name": "Aqualite",
+            "url": "http://us.henry.com/performance-additives/wax-emulsions/",
+            "id": 7786
+        },
+        {
+            "name": "Aqualite70 msds",
+            "url": "http://us.henry.com/fileadmin/pdf/current/msds/AQ070_msds.pdf",
+            "id": 7787
+        },
+        {
+            "name": "Athena 2011",
+            "url": "www.pharosproject.net/uploads/files/sources/1238/1337635897.pdf",
+            "id": 7788
+        },
+        {
+            "name": "AWCI",
+            "url": "http://www.awci.org/cd/pdfs/9102_d.pdf",
+            "id": 7789
+        },
+        {
+            "name": "BASF AKD",
+            "url": "http://www.basf.com/group/corporate/en/literature-document:/GPS+Safety+Summaries--Alkyl+Ketene+Dimer+AKD-English.pdf",
+            "id": 7790
+        },
+        {
+            "name": "BASF1",
+            "url": "https://www.dispersions-pigments.basf.com/portal/load/fid790646/Vinapor_GYP_10_e.pdf",
+            "id": 7791
+        },
+        {
+            "name": "BASF2",
+            "url": "https://www.dispersions-pigments.basf.com/portal/load/fid790619/Melflux_PCE_239L_35_ND_e.pdf",
+            "id": 7792
+        },
+        {
+            "name": "BASF3",
+            "url": "http://www.basf.com/group/corporate/en_GB/literature-document:/Brand+Collacral-Brochure--Product+Overview+Additives+for+Architectural+Coatings+and+Construction+Chemicals-English.pdf",
+            "id": 7793
+        },
+        {
+            "name": "Bayer",
+            "url": "https://www.google.com/patents/US4643771?dq=4,643,771,&hl=en&sa=X&ei=o6wRVLD4I7WIsQScqYH4Aw&ved=0CB0Q6AEwAA",
+            "id": 7794
+        },
+        {
+            "name": "Betz",
+            "url": "http://www.google.com/patents/US5482595",
+            "id": 7795
+        },
+        {
+            "name": "Borax doc",
+            "url": "http://www.borax.com/docs/euf_pdfs/euf-borates-boratesingypsumboard.pdf?sfvrsn=2",
+            "id": 1233
+        },
+        {
+            "name": "BP EPD",
+            "url": "http://gryphon.environdec.com/data/files/6/9768/epd507_British_Gypsum_12_5mm_Moisture_Resistant.pdf",
+            "id": 7797
+        },
+        {
+            "name": "Burkyard patent",
+            "url": "https://www.google.com/patents/US3920465?dq=gypsum+accelerator&hl=en&sa=X&ei=r8cIVLzGBJezyASLgYH4Dg&ved=0CB0Q6AEwAA",
+            "id": 1239
+        },
+        {
+            "name": "Busan 11-M1",
+            "url": "http://www.ulprospector.com/en/na/Coatings/Detail/2435/71918/Busan-11-M1",
+            "id": 7799
+        },
+        {
+            "name": "CELVOL",
+            "url": "http://www.sekisui-sc.com/msds/pdf/Selvol(Celvol)PVOH_80523_NA_EN.pdf",
+            "id": 7801
+        },
+        {
+            "name": "CertainTeed MSDS",
+            "url": "http://www.certainteed.com/resources/CTG_5-16_Gypsum_Board_MSDS_Eng.pdf",
+            "id": 7802
+        },
+        {
+            "name": "CertainTeed TSD",
+            "url": "http://yosemite.epa.gov/R9/air/EPSS.NSF/735056a63c1390e08825657e0075d180/5cdee927d9eaeeae882576b200672c44/$FILE/00004_T5_20091103_TSD.pdf",
+            "id": 7803
+        },
+        {
+            "name": "CPSC",
+            "url": "http://www.cpsc.gov//PageFiles/89863/drywalllabels.pdf",
+            "id": 1336
+        },
+        {
+            "name": "Daniel R English",
+            "url": "https://www.google.com/patents/CA1116066A1?cl=en&dq=greyback+paper+liner&hl=en&sa=X&ei=TfYJVJnTGNWPNr6LgaAD&ved=0CCYQ6AEwAQ",
+            "id": 1243
+        },
+        {
+            "name": "Daxad 19",
+            "url": "http://www.geosc.com/Products/Daxad-19?Application=Dispersants",
+            "id": 1298
+        },
+        {
+            "name": "Diloflo MSDS",
+            "url": "http://www.geosc.com/Products/Diloflo-CA?Application=Dispersants",
+            "id": 1236
+        }
+    ]
+}

@@ -1,0 +1,759 @@
+{
+    "CPID": "CP038",
+    "timestamp": 1452102107007,
+    "version": "a00",
+    "components": [
+        {
+            "recId": 3112,
+            "name": "Trivalent Chromium",
+            "CASRN": "7440-47-3",
+            "massPct": 0.98,
+            "function": "chromium passivate coating",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "IGC White Rust",
+                    "url": "http://az276019.vo.msecnd.net/valmontstaging/coatings-faqs/tech-tips-06---white-rust-(storage-stain)-on-galvanized-coatings.pdf?sfvrsn=4",
+                    "id": 3091
+                },
+                {
+                    "name": "SurTec 680 LC",
+                    "url": "http://www.surtec.com/ecomaXL/files/surtec_5317459381418130160680LCE.pdf&download=1",
+                    "id": 4842
+                },
+                {
+                    "name": "SurTec 680",
+                    "url": "http://www.surtec.com/ecomaXL/files/surtec_6644562951418130159680E.pdf&download=1",
+                    "id": 4841
+                },
+                {
+                    "name": "US20070243397",
+                    "url": "https://www.google.com/patents/US20070243397",
+                    "id": 4845
+                },
+                {
+                    "name": "CN103741128A",
+                    "url": "https://www.google.com/patents/CN103741128A",
+                    "id": 4844
+                },
+                {
+                    "name": "US6287704",
+                    "url": "https://www.google.com/patents/US6287704",
+                    "id": 4843
+                },
+                {
+                    "name": "TURI",
+                    "url": "http://www.turi.org/content/download/8713/145357/file/2006%20M&P%20Report%20Special%20Five%20Chemicals%20Alternatives%20Assessments.pdf",
+                    "id": 4830
+                },
+                {
+                    "name": "ECHA",
+                    "url": "http://echa.europa.eu/documents/10162/6adce2d9-590a-4cea-b9f3-0da9ca176e89",
+                    "id": 4847
+                },
+                {
+                    "name": "PDM MSDS",
+                    "url": "http://www.pdmsteel.com/pdf/Material-Safety-Data-Sheets2.pdf",
+                    "id": 4833
+                },
+                {
+                    "name": "Asterion",
+                    "url": "http://asterionstc.com/chromates-and-passivates/",
+                    "id": 4835
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.98
+        },
+        {
+            "recId": 3113,
+            "name": "Cobalt Nitrate, Hexahydrate",
+            "CASRN": "10026-22-9",
+            "massPct": 0.02,
+            "function": "additional corrosion protection",
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-577",
+                        "type": "orange",
+                        "name": "Skin Sensitization",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-572",
+                        "type": "orange",
+                        "name": "Respiratory",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-578",
+                        "type": "orange",
+                        "name": "Organ Toxicant",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    },
+                    {
+                        "hazardId": "orange-571",
+                        "type": "orange",
+                        "name": "Mutagenicity",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ],
+                "red": [
+                    {
+                        "hazardId": "red-567",
+                        "type": "red",
+                        "name": "Cancer",
+                        "massPct": null,
+                        "contributors": [
+                            {}
+                        ]
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "name": "SurTec 680 LC",
+                    "url": "http://www.surtec.com/ecomaXL/files/surtec_5317459381418130160680LCE.pdf&download=1",
+                    "id": 4842
+                },
+                {
+                    "name": "SurTec 680",
+                    "url": "http://www.surtec.com/ecomaXL/files/surtec_6644562951418130159680E.pdf&download=1",
+                    "id": 4841
+                },
+                {
+                    "name": "US20070243397",
+                    "url": "https://www.google.com/patents/US20070243397",
+                    "id": 4845
+                },
+                {
+                    "name": "CN103741128A",
+                    "url": "https://www.google.com/patents/CN103741128A",
+                    "id": 4844
+                },
+                {
+                    "name": "US6287704",
+                    "url": "https://www.google.com/patents/US6287704",
+                    "id": 4843
+                },
+                {
+                    "name": "TURI",
+                    "url": "http://www.turi.org/content/download/8713/145357/file/2006%20M&P%20Report%20Special%20Five%20Chemicals%20Alternatives%20Assessments.pdf",
+                    "id": 4830
+                },
+                {
+                    "name": "ECHA",
+                    "url": "http://echa.europa.eu/documents/10162/6adce2d9-590a-4cea-b9f3-0da9ca176e89",
+                    "id": 4847
+                }
+            ],
+            "notes": "",
+            "lca": "yes",
+            "massPctOfTotal": 0.02
+        }
+    ],
+    "impurities": [
+        {
+            "name": "Nitric Acid",
+            "CASRN": "7697-37-2",
+            "massPct": null,
+            "function": "coating bath",
+            "sources": [
+                {
+                    "name": "SurTec 680 LC",
+                    "url": "http://www.surtec.com/ecomaXL/files/surtec_5317459381418130160680LCE.pdf&download=1",
+                    "id": 4842
+                },
+                {
+                    "name": "SurTec 680",
+                    "url": "http://www.surtec.com/ecomaXL/files/surtec_6644562951418130159680E.pdf&download=1",
+                    "id": 4841
+                },
+                {
+                    "name": "CN103741128A",
+                    "url": "https://www.google.com/patents/CN103741128A",
+                    "id": 4844
+                },
+                {
+                    "name": "Bonderite 1310 REPL ZAL MSDS",
+                    "url": "http://hybris.cms.henkel.com/henkel/msdspdf?matnr=596063&country=US&language=EN",
+                    "id": 4837
+                },
+                {
+                    "name": "Bonderite 1310 MSDS",
+                    "url": "http://hybris.cms.henkel.com/henkel/msdspdf?matnr=595567&country=US&language=EN",
+                    "id": 4836
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    },
+                    {
+                        "hazardId": "orange-574",
+                        "type": "orange",
+                        "name": "Mammalian"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Oxalic Acid",
+            "CASRN": "144-62-7",
+            "massPct": null,
+            "function": "coating bath",
+            "sources": [
+                {
+                    "name": "US20070243397",
+                    "url": "https://www.google.com/patents/US20070243397",
+                    "id": 4845
+                },
+                {
+                    "name": "US20060054248",
+                    "url": "https://www.google.com/patents/US20060054248",
+                    "id": 4846
+                },
+                {
+                    "name": "TURI",
+                    "url": "http://www.turi.org/content/download/8713/145357/file/2006%20M&P%20Report%20Special%20Five%20Chemicals%20Alternatives%20Assessments.pdf",
+                    "id": 4830
+                }
+            ],
+            "hazards": {
+                "orange": [
+                    {
+                        "hazardId": "orange-576",
+                        "type": "orange",
+                        "name": "Skin Irritation"
+                    },
+                    {
+                        "hazardId": "orange-569",
+                        "type": "orange",
+                        "name": "Reproductive"
+                    },
+                    {
+                        "hazardId": "orange-575",
+                        "type": "orange",
+                        "name": "Eye Irritation"
+                    }
+                ]
+            }
+        }
+    ],
+    "health": {
+        "hazards": {
+            "orange": [
+                {
+                    "hazardId": "orange-577",
+                    "type": "orange",
+                    "name": "Skin Sensitization",
+                    "massPct": 1,
+                    "contributors": [
+                        {
+                            "recId": 3112,
+                            "massPct": 0.98,
+                            "childrenIds": [
+                                3112
+                            ]
+                        },
+                        {
+                            "recId": 3113,
+                            "massPct": 0.02,
+                            "childrenIds": [
+                                3113
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-571",
+                    "type": "orange",
+                    "name": "Mutagenicity",
+                    "massPct": 1,
+                    "contributors": [
+                        {
+                            "recId": 3112,
+                            "massPct": 0.98,
+                            "childrenIds": [
+                                3112
+                            ]
+                        },
+                        {
+                            "recId": 3113,
+                            "massPct": 0.02,
+                            "childrenIds": [
+                                3113
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-574",
+                    "type": "orange",
+                    "name": "Mammalian",
+                    "massPct": 1,
+                    "contributors": [
+                        {
+                            "recId": 3112,
+                            "massPct": 0.98,
+                            "childrenIds": [
+                                3112
+                            ]
+                        },
+                        {
+                            "recId": 3113,
+                            "massPct": 0.02,
+                            "childrenIds": [
+                                3113
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-572",
+                    "type": "orange",
+                    "name": "Respiratory",
+                    "massPct": 1,
+                    "contributors": [
+                        {
+                            "recId": 3112,
+                            "massPct": 0.98,
+                            "childrenIds": [
+                                3112
+                            ]
+                        },
+                        {
+                            "recId": 3113,
+                            "massPct": 0.02,
+                            "childrenIds": [
+                                3113
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-569",
+                    "type": "orange",
+                    "name": "Reproductive",
+                    "massPct": 0.98,
+                    "contributors": [
+                        {
+                            "recId": 3112,
+                            "massPct": 0.98,
+                            "childrenIds": [
+                                3112
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "hazardId": "orange-578",
+                    "type": "orange",
+                    "name": "Organ Toxicant",
+                    "massPct": 0.02,
+                    "contributors": [
+                        {
+                            "recId": 3113,
+                            "massPct": 0.02,
+                            "childrenIds": [
+                                3113
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "red": [
+                {
+                    "hazardId": "red-567",
+                    "type": "red",
+                    "name": "Cancer",
+                    "massPct": 0.02,
+                    "contributors": [
+                        {
+                            "recId": 3113,
+                            "massPct": 0.02,
+                            "childrenIds": [
+                                3113
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "environmental": {
+        "systemBoundary": "The system boundary is defined as cradle-to-gate and ends with the finished product at the factory gate. Process steps include mixing of pre-treatment chemicals and passivation by dip coating. A coating weight of 11.45 ug/in2 was assumed based on research from CP100: Steel Conduit. Inbound transportation of upstream materials is assumed to be 500 km.  Packaging is not included. ",
+        "gabiDatasets": [
+            {
+                "name": "US: Truck - Medium Heavy-duty Diesel Truck / 17,333 lb payload - 6"
+            },
+            {
+                "name": "US: Electricity grid mix"
+            },
+            {
+                "name": "US: Diesel mix at filling station"
+            },
+            {
+                "name": "US: Landfilling of ferro metals"
+            },
+            {
+                "name": "US: Chromate passivation coating (industry)(estimation)"
+            },
+            {
+                "name": "US: Acetic acid"
+            },
+            {
+                "name": "GLO: Cobalt mix"
+            },
+            {
+                "name": "EU-27: Cobalt(II) Nitrate (estimation)"
+            },
+            {
+                "name": "GLO: Chrome concentrate"
+            },
+            {
+                "name": "US: Nitric acid (60%)"
+            },
+            {
+                "name": "US: Tap water from groundwater"
+            },
+            {
+                "name": "GLO: Compressed air 7 bar (low power consumption)"
+            },
+            {
+                "name": "US: Water deionized"
+            },
+            {
+                "name": "US: Municipal waste water treatment (sludge incineration)"
+            },
+            {
+                "name": "US: Municipal waste water treatment (mix)"
+            },
+            {
+                "name": "US: Thermal energy from natural gas (eGrid)"
+            }
+        ],
+        "foregroundDataSource": "GaBi 2014",
+        "backforegroundDataSource": "GaBi 2014",
+        "postConsumerRecycledContent": "0%",
+        "referenceCountry": "United States",
+        "referenceYear": "2015",
+        "endOfLifeTreatment": "Assume recycling rate for coating is the same as recycling rate of structural steel. 72% recycled (no burden or credit associated with recycling); 28% to landfill (plastic). Distance to landfill: 20 mi; Distance to recycling: 100 mi",
+        "lcaResults": {
+            "cradleToGate": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "3.37E+01"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "6.65E+00"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "1.59E+04"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "2.65E-06"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "4.16E+02"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "2.39E+05"
+                }
+            ],
+            "inUse": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ"
+                }
+            ],
+            "endOfLife": [
+                {
+                    "name": "Acidification Potential",
+                    "unit": "kg SO2 eq",
+                    "value": "1.33E-04"
+                },
+                {
+                    "name": "Eutrophication Potential",
+                    "unit": "kg N eq",
+                    "value": "1.03E-05"
+                },
+                {
+                    "name": "Global Warming Potential",
+                    "unit": "kg CO2 eq",
+                    "value": "3.11E-02"
+                },
+                {
+                    "name": "Ozone Depletion Potential",
+                    "unit": "kg CFC-11 eq",
+                    "value": "4.59E-13"
+                },
+                {
+                    "name": "Smog Formation Potential",
+                    "unit": "kg O3 eq",
+                    "value": "3.41E-03"
+                },
+                {
+                    "name": "Primary Energy Demand",
+                    "unit": "MJ",
+                    "value": "4.70E-01"
+                }
+            ]
+        }
+    },
+    "id": "CP038",
+    "name": "Chromate Pretreatment for Steel",
+    "altNames": [
+        ""
+    ],
+    "uniformats": [
+        {
+            "id": "B2010",
+            "name": "Exterior Walls"
+        }
+    ],
+    "masterformats": [
+        {
+            "id": "09-97-13",
+            "name": "Steel coatings"
+        }
+    ],
+    "recordType": "Common",
+    "description": "Chromate treatments are primarily used as passivation (corrosion reduction) coatings to protect newly galvanized surfaces which are susceptible to white rust. Chromium coatings may also serve as conversion coatings which prepare the surface for paint adhesion. Chromate treatments are typically comprised of trivalent chromium; however, that alone does not provide adequate protection. Therefore, conventional chromate treatments have included hexavalent chromium residuals that would act as a sacrificial anodes and create a \"self-healing surface.\" While still available, regulations have moved the market towards coatings free of hexavalent chromium, using instead cobalt (II) salts such as cobalt (II) nitrate. Chromate treatments are appropriate for a variety of metal surfaces, including those consisting of zinc, cadmium, aluminum and alloys of these metals among each other and/or with iron or other metals.",
+    "sources": [
+        {
+            "name": "Azo",
+            "url": "http://www.azom.com/article.aspx?ArticleID=1282",
+            "id": 3055
+        },
+        {
+            "name": "Hex Chrome WP",
+            "url": "http://www.nema.org/Products/Documents/white+paper+chromium+nema.pdf",
+            "id": 3039
+        },
+        {
+            "name": "IGC White Rust",
+            "url": "http://az276019.vo.msecnd.net/valmontstaging/coatings-faqs/tech-tips-06---white-rust-(storage-stain)-on-galvanized-coatings.pdf?sfvrsn=4",
+            "id": 3091
+        },
+        {
+            "name": "ECHA",
+            "url": "http://echa.europa.eu/documents/10162/6adce2d9-590a-4cea-b9f3-0da9ca176e89",
+            "id": 4847
+        },
+        {
+            "name": "US20060054248",
+            "url": "https://www.google.com/patents/US20060054248",
+            "id": 4846
+        },
+        {
+            "name": "US20070243397",
+            "url": "https://www.google.com/patents/US20070243397",
+            "id": 4845
+        },
+        {
+            "name": "CN103741128A",
+            "url": "https://www.google.com/patents/CN103741128A",
+            "id": 4844
+        },
+        {
+            "name": "US6287704",
+            "url": "https://www.google.com/patents/US6287704",
+            "id": 4843
+        },
+        {
+            "name": "SurTec 680 LC",
+            "url": "http://www.surtec.com/ecomaXL/files/surtec_5317459381418130160680LCE.pdf&download=1",
+            "id": 4842
+        },
+        {
+            "name": "SurTec 680",
+            "url": "http://www.surtec.com/ecomaXL/files/surtec_6644562951418130159680E.pdf&download=1",
+            "id": 4841
+        },
+        {
+            "name": "ELV 7100",
+            "url": "http://performancematerials.macdermid.com/pdfs/TriPass%20ELV%207100_I%202p.pdf",
+            "id": 4840
+        },
+        {
+            "name": "Tripass",
+            "url": "http://industrial.macdermid.com/pdfs/TriPassSystems.pdf",
+            "id": 4839
+        },
+        {
+            "name": "Bhatt 2009",
+            "url": "http://db.materialoptions.com/ASETSDefense/SEDB/CCC_Alts/Qual_Eng_Data/Reports/TriCr_conversion-Metalast-Bhatt.pdf",
+            "id": 4838
+        },
+        {
+            "name": "Bonderite 1310 REPL ZAL MSDS",
+            "url": "http://hybris.cms.henkel.com/henkel/msdspdf?matnr=596063&country=US&language=EN",
+            "id": 4837
+        },
+        {
+            "name": "Bonderite 1310 MSDS",
+            "url": "http://hybris.cms.henkel.com/henkel/msdspdf?matnr=595567&country=US&language=EN",
+            "id": 4836
+        },
+        {
+            "name": "Asterion",
+            "url": "http://asterionstc.com/chromates-and-passivates/",
+            "id": 4835
+        },
+        {
+            "name": "Fera",
+            "url": "http://www.fera.org.uk/pdf/Feram%20seminar%202%20Feb%2006%20-%20Clive%20Pearce%20-%20Anochrome%20-%20ppt%202.pdf",
+            "id": 4834
+        },
+        {
+            "name": "PDM MSDS",
+            "url": "http://www.pdmsteel.com/pdf/Material-Safety-Data-Sheets2.pdf",
+            "id": 4833
+        },
+        {
+            "name": "Linden Group",
+            "url": "http://thelindgrengroup.com/wp-content/uploads/2013/05/703891_POSTER.pdf",
+            "id": 4832
+        },
+        {
+            "name": "Galvanizeit 1999",
+            "url": "http://www.galvanizeit.org/education-and-resources/resources/technical-faq-dr-galv/chemical-reaction-between-chromates-and-galvanized-steel",
+            "id": 4831
+        },
+        {
+            "name": "TURI",
+            "url": "http://www.turi.org/content/download/8713/145357/file/2006%20M&P%20Report%20Special%20Five%20Chemicals%20Alternatives%20Assessments.pdf",
+            "id": 4830
+        },
+        {
+            "name": "B201",
+            "url": "http://wenku.baidu.com/view/7984fe25ccbff121dd368326.html",
+            "id": 4829
+        },
+        {
+            "name": "D2092",
+            "url": "http://marron-co.com/marron/PAINT%20STANDARD/ASTM%20%20PAINTS/0602/D2092.pdf",
+            "id": 4827
+        },
+        {
+            "name": "TCI 11000",
+            "url": "http://www.tcipowder.com/core-markets/architectural/11000-series.html",
+            "id": 4826
+        },
+        {
+            "name": "TCI 10000",
+            "url": "http://www.tcipowder.com/core-markets/architectural/10000-series.html",
+            "id": 4825
+        }
+    ]
+}
