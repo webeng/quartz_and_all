@@ -17,6 +17,10 @@ The following methods will generate a couple of plots that show how many health 
 `qA.plotHazardsCounter(target_product_ids,)
 df = qA.plotHazardsHist(target_product_ids)`
 
+![Health & Safety Hazards Before](https://github.com/webeng/quartz_and_all/blob/master/plots/health_and_safety_hazards_before.png "Health & Safety Hazards Before")
+
+![Health & Safety Hazards After](https://github.com/webeng/quartz_and_all/blob/master/plots/health_and_safety_hazards_after.png "Health & Safety Hazards After")
+
 The scatter plot shows you the hazzards. The objective is to keep all the hazards as close to zero as possible.
 
 #### 3 - Identify Top Health Hazards
